@@ -1,0 +1,169 @@
+2024-08-12 19:30:16,795 - DEBUG - Creating LMC with 10 kernel(s)
+2024-08-12 19:30:16,795 - DEBUG - Creating LMC with 10 kernel(s)
+2024-08-12 19:30:16,795 - DEBUG - Creating LMC with 10 kernel(s)
+2024-08-12 19:30:16,795 - DEBUG - Creating LMC with 10 kernel(s)
+2024-08-12 19:30:16,798 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,798 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,798 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,798 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,800 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,800 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,800 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,800 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,802 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,802 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,802 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,802 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,804 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,804 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,804 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,804 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,806 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,806 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,806 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,806 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,808 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,808 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,808 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,808 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,810 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,810 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,810 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,810 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,811 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,811 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,811 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,811 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,813 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,813 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,813 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,813 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,815 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,815 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,815 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,815 - DEBUG - Attaching transferable kernels
+2024-08-12 19:30:16,818 - DEBUG - Completed
+2024-08-12 19:30:16,818 - DEBUG - Completed
+2024-08-12 19:30:16,818 - DEBUG - Completed
+2024-08-12 19:30:16,818 - DEBUG - Completed
+2024-08-12 19:30:19,649 - DEBUG - Iter 50/500 - Loss: -0.644
+2024-08-12 19:30:19,649 - DEBUG - Iter 50/500 - Loss: -0.644
+2024-08-12 19:30:19,649 - DEBUG - Iter 50/500 - Loss: -0.644
+2024-08-12 19:30:19,649 - DEBUG - Iter 50/500 - Loss: -0.644
+2024-08-12 19:30:22,377 - DEBUG - Iter 100/500 - Loss: -1.100
+2024-08-12 19:30:22,377 - DEBUG - Iter 100/500 - Loss: -1.100
+2024-08-12 19:30:22,377 - DEBUG - Iter 100/500 - Loss: -1.100
+2024-08-12 19:30:22,377 - DEBUG - Iter 100/500 - Loss: -1.100
+2024-08-12 19:30:25,297 - DEBUG - Iter 150/500 - Loss: -1.212
+2024-08-12 19:30:25,297 - DEBUG - Iter 150/500 - Loss: -1.212
+2024-08-12 19:30:25,297 - DEBUG - Iter 150/500 - Loss: -1.212
+2024-08-12 19:30:25,297 - DEBUG - Iter 150/500 - Loss: -1.212
+2024-08-12 19:30:28,006 - DEBUG - Iter 200/500 - Loss: -1.245
+2024-08-12 19:30:28,006 - DEBUG - Iter 200/500 - Loss: -1.245
+2024-08-12 19:30:28,006 - DEBUG - Iter 200/500 - Loss: -1.245
+2024-08-12 19:30:28,006 - DEBUG - Iter 200/500 - Loss: -1.245
+2024-08-12 19:30:30,801 - DEBUG - Iter 250/500 - Loss: -1.258
+2024-08-12 19:30:30,801 - DEBUG - Iter 250/500 - Loss: -1.258
+2024-08-12 19:30:30,801 - DEBUG - Iter 250/500 - Loss: -1.258
+2024-08-12 19:30:30,801 - DEBUG - Iter 250/500 - Loss: -1.258
+2024-08-12 19:30:33,574 - DEBUG - Iter 300/500 - Loss: -1.264
+2024-08-12 19:30:33,574 - DEBUG - Iter 300/500 - Loss: -1.264
+2024-08-12 19:30:33,574 - DEBUG - Iter 300/500 - Loss: -1.264
+2024-08-12 19:30:33,574 - DEBUG - Iter 300/500 - Loss: -1.264
+2024-08-12 19:30:36,434 - DEBUG - Iter 350/500 - Loss: -1.267
+2024-08-12 19:30:36,434 - DEBUG - Iter 350/500 - Loss: -1.267
+2024-08-12 19:30:36,434 - DEBUG - Iter 350/500 - Loss: -1.267
+2024-08-12 19:30:36,434 - DEBUG - Iter 350/500 - Loss: -1.267
+2024-08-12 19:30:39,267 - DEBUG - Iter 400/500 - Loss: -1.269
+2024-08-12 19:30:39,267 - DEBUG - Iter 400/500 - Loss: -1.269
+2024-08-12 19:30:39,267 - DEBUG - Iter 400/500 - Loss: -1.269
+2024-08-12 19:30:39,267 - DEBUG - Iter 400/500 - Loss: -1.269
+2024-08-12 19:30:39,325 - INFO - NLL: -1.1844
+2024-08-12 19:30:39,325 - INFO - NLL: -1.1844
+2024-08-12 19:30:39,325 - INFO - NLL: -1.1844
+2024-08-12 19:30:39,325 - INFO - NLL: -1.1844
+2024-08-12 19:30:39,327 - INFO - RMSE: 0.1676
+2024-08-12 19:30:39,327 - INFO - RMSE: 0.1676
+2024-08-12 19:30:39,327 - INFO - RMSE: 0.1676
+2024-08-12 19:30:39,327 - INFO - RMSE: 0.1676
+2024-08-12 19:30:39,328 - INFO - NMSE: 0.8597
+2024-08-12 19:30:39,328 - INFO - NMSE: 0.8597
+2024-08-12 19:30:39,328 - INFO - NMSE: 0.8597
+2024-08-12 19:30:39,328 - INFO - NMSE: 0.8597
+2024-08-12 19:30:51,542 - DEBUG - Creating LMC with 10 kernel(s)
+2024-08-12 19:30:51,542 - DEBUG - Creating LMC with 10 kernel(s)
+2024-08-12 19:30:51,542 - DEBUG - Creating LMC with 10 kernel(s)
+2024-08-12 19:30:51,542 - DEBUG - Creating LMC with 10 kernel(s)
+2024-08-12 19:30:51,542 - DEBUG - Creating LMC with 10 kernel(s)
+2024-08-12 19:30:51,549 - DEBUG - Completed
+2024-08-12 19:30:51,549 - DEBUG - Completed
+2024-08-12 19:30:51,549 - DEBUG - Completed
+2024-08-12 19:30:51,549 - DEBUG - Completed
+2024-08-12 19:30:51,549 - DEBUG - Completed
+2024-08-12 19:30:54,297 - DEBUG - Iter 50/500 - Loss: -0.634
+2024-08-12 19:30:54,297 - DEBUG - Iter 50/500 - Loss: -0.634
+2024-08-12 19:30:54,297 - DEBUG - Iter 50/500 - Loss: -0.634
+2024-08-12 19:30:54,297 - DEBUG - Iter 50/500 - Loss: -0.634
+2024-08-12 19:30:54,297 - DEBUG - Iter 50/500 - Loss: -0.634
+2024-08-12 19:30:56,969 - DEBUG - Iter 100/500 - Loss: -1.096
+2024-08-12 19:30:56,969 - DEBUG - Iter 100/500 - Loss: -1.096
+2024-08-12 19:30:56,969 - DEBUG - Iter 100/500 - Loss: -1.096
+2024-08-12 19:30:56,969 - DEBUG - Iter 100/500 - Loss: -1.096
+2024-08-12 19:30:56,969 - DEBUG - Iter 100/500 - Loss: -1.096
+2024-08-12 19:30:59,786 - DEBUG - Iter 150/500 - Loss: -1.211
+2024-08-12 19:30:59,786 - DEBUG - Iter 150/500 - Loss: -1.211
+2024-08-12 19:30:59,786 - DEBUG - Iter 150/500 - Loss: -1.211
+2024-08-12 19:30:59,786 - DEBUG - Iter 150/500 - Loss: -1.211
+2024-08-12 19:30:59,786 - DEBUG - Iter 150/500 - Loss: -1.211
+2024-08-12 19:31:02,427 - DEBUG - Iter 200/500 - Loss: -1.244
+2024-08-12 19:31:02,427 - DEBUG - Iter 200/500 - Loss: -1.244
+2024-08-12 19:31:02,427 - DEBUG - Iter 200/500 - Loss: -1.244
+2024-08-12 19:31:02,427 - DEBUG - Iter 200/500 - Loss: -1.244
+2024-08-12 19:31:02,427 - DEBUG - Iter 200/500 - Loss: -1.244
+2024-08-12 19:31:05,102 - DEBUG - Iter 250/500 - Loss: -1.257
+2024-08-12 19:31:05,102 - DEBUG - Iter 250/500 - Loss: -1.257
+2024-08-12 19:31:05,102 - DEBUG - Iter 250/500 - Loss: -1.257
+2024-08-12 19:31:05,102 - DEBUG - Iter 250/500 - Loss: -1.257
+2024-08-12 19:31:05,102 - DEBUG - Iter 250/500 - Loss: -1.257
+2024-08-12 19:31:07,949 - DEBUG - Iter 300/500 - Loss: -1.263
+2024-08-12 19:31:07,949 - DEBUG - Iter 300/500 - Loss: -1.263
+2024-08-12 19:31:07,949 - DEBUG - Iter 300/500 - Loss: -1.263
+2024-08-12 19:31:07,949 - DEBUG - Iter 300/500 - Loss: -1.263
+2024-08-12 19:31:07,949 - DEBUG - Iter 300/500 - Loss: -1.263
+2024-08-12 19:31:10,678 - DEBUG - Iter 350/500 - Loss: -1.266
+2024-08-12 19:31:10,678 - DEBUG - Iter 350/500 - Loss: -1.266
+2024-08-12 19:31:10,678 - DEBUG - Iter 350/500 - Loss: -1.266
+2024-08-12 19:31:10,678 - DEBUG - Iter 350/500 - Loss: -1.266
+2024-08-12 19:31:10,678 - DEBUG - Iter 350/500 - Loss: -1.266
+2024-08-12 19:31:13,271 - DEBUG - Iter 400/500 - Loss: -1.268
+2024-08-12 19:31:13,271 - DEBUG - Iter 400/500 - Loss: -1.268
+2024-08-12 19:31:13,271 - DEBUG - Iter 400/500 - Loss: -1.268
+2024-08-12 19:31:13,271 - DEBUG - Iter 400/500 - Loss: -1.268
+2024-08-12 19:31:13,271 - DEBUG - Iter 400/500 - Loss: -1.268
+2024-08-12 19:31:13,329 - INFO - NLL: -1.1838
+2024-08-12 19:31:13,329 - INFO - NLL: -1.1838
+2024-08-12 19:31:13,329 - INFO - NLL: -1.1838
+2024-08-12 19:31:13,329 - INFO - NLL: -1.1838
+2024-08-12 19:31:13,329 - INFO - NLL: -1.1838
+2024-08-12 19:31:13,331 - INFO - RMSE: 0.1676
+2024-08-12 19:31:13,331 - INFO - RMSE: 0.1676
+2024-08-12 19:31:13,331 - INFO - RMSE: 0.1676
+2024-08-12 19:31:13,331 - INFO - RMSE: 0.1676
+2024-08-12 19:31:13,331 - INFO - RMSE: 0.1676
+2024-08-12 19:31:13,333 - INFO - NMSE: 0.8598
+2024-08-12 19:31:13,333 - INFO - NMSE: 0.8598
+2024-08-12 19:31:13,333 - INFO - NMSE: 0.8598
+2024-08-12 19:31:13,333 - INFO - NMSE: 0.8598
+2024-08-12 19:31:13,333 - INFO - NMSE: 0.8598
+2024-08-12 19:35:42,958 - DEBUG - Completed
+2024-08-12 19:35:46,643 - DEBUG - Iter 50/500 - Loss: -0.646
+2024-08-12 19:35:49,329 - DEBUG - Iter 100/500 - Loss: -1.095
+2024-08-12 19:35:51,974 - DEBUG - Iter 150/500 - Loss: -1.210
+2024-08-12 19:35:54,754 - DEBUG - Iter 200/500 - Loss: -1.244
+2024-08-12 19:35:57,527 - DEBUG - Iter 250/500 - Loss: -1.257
+2024-08-12 19:36:00,151 - DEBUG - Iter 300/500 - Loss: -1.263
+2024-08-12 19:36:02,624 - DEBUG - Iter 350/500 - Loss: -1.266
+2024-08-12 19:36:05,305 - DEBUG - Iter 400/500 - Loss: -1.268
+2024-08-12 19:36:05,363 - INFO - NLL: -1.1839
+2024-08-12 19:36:05,363 - INFO - RMSE: 0.1676
+2024-08-12 19:36:05,364 - INFO - NMSE: 0.8594
