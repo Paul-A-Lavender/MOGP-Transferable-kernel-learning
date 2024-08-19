@@ -1241,3 +1241,16 @@
 2024-08-15 14:12:32,549 - INFO - NLL: 3.1221; RMSE: 0.5903; NMSE: 3.0278
 2024-08-15 14:12:32,550 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.20000000298023224
 2024-08-15 14:12:32,555 - DEBUG - Completed
+2024-08-19 17:17:31,883 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.1; step_size:50; gamma:0.5
+2024-08-19 17:18:25,647 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.1; step_size:50; gamma:0.5
+2024-08-19 17:18:25,665 - DEBUG - Completed
+2024-08-19 17:18:31,908 - DEBUG - Iter 50/500 - Loss: -0.506
+2024-08-19 17:18:37,155 - DEBUG - Iter 100/500 - Loss: -1.024
+2024-08-19 17:18:42,078 - DEBUG - Iter 150/500 - Loss: -1.164
+2024-08-19 17:18:47,021 - DEBUG - Iter 200/500 - Loss: -1.209
+2024-08-19 17:18:51,968 - DEBUG - Iter 250/500 - Loss: -1.227
+2024-08-19 17:18:57,111 - DEBUG - Iter 300/500 - Loss: -1.235
+2024-08-19 17:19:02,140 - DEBUG - Iter 350/500 - Loss: -1.239
+2024-08-19 17:19:07,121 - DEBUG - Iter 400/500 - Loss: -1.241
+2024-08-19 17:19:07,122 - INFO - Early cut off at epoch 399 with loss of -1.2414129972457886
+2024-08-19 17:19:07,277 - INFO - NLL: -1.1642; RMSE: 0.1677; NMSE: 0.8604
