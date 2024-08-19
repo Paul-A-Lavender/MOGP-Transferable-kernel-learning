@@ -1232,3 +1232,12 @@
 2024-08-14 15:01:21,721 - DEBUG - Iter 400/500 - Loss: 2.706
 2024-08-14 15:01:26,759 - DEBUG - Iter 500/500 - Loss: 1.870
 2024-08-14 15:01:26,812 - INFO - NLL: 3.7361; RMSE: 2.8016; NMSE: 14.3705
+2024-08-15 14:12:29,495 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.20000000298023224
+2024-08-15 14:12:29,515 - DEBUG - Completed
+2024-08-15 14:12:31,360 - DEBUG - Iter 10/500 - Loss: 3.148
+2024-08-15 14:12:31,900 - DEBUG - Iter 20/500 - Loss: 3.111
+2024-08-15 14:12:32,477 - DEBUG - Iter 30/500 - Loss: 3.104
+2024-08-15 14:12:32,478 - INFO - Early cut off at epoch 29 with loss of 3.104165554046631
+2024-08-15 14:12:32,549 - INFO - NLL: 3.1221; RMSE: 0.5903; NMSE: 3.0278
+2024-08-15 14:12:32,550 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.20000000298023224
+2024-08-15 14:12:32,555 - DEBUG - Completed
