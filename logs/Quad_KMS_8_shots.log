@@ -1,0 +1,2270 @@
+2024-08-19 16:23:19,171 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.20000000298023224
+2024-08-19 16:25:50,366 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.20000000298023224
+2024-08-19 16:25:50,380 - DEBUG - Completed
+2024-08-19 16:25:53,951 - DEBUG - Iter 10/500 - Loss: 2.716
+2024-08-19 16:25:55,665 - DEBUG - Iter 20/500 - Loss: 2.629
+2024-08-19 16:25:57,367 - DEBUG - Iter 30/500 - Loss: 2.611
+2024-08-19 16:25:59,245 - DEBUG - Iter 40/500 - Loss: 2.608
+2024-08-19 16:25:59,247 - INFO - Early cut off at epoch 39 with loss of 2.607861280441284
+2024-08-19 16:25:59,495 - INFO - NLL: 2.6265; RMSE: 0.5885; NMSE: 3.0186
+2024-08-19 16:25:59,501 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.20000000298023224
+2024-08-19 16:25:59,517 - DEBUG - Completed
+2024-08-19 16:26:10,306 - DEBUG - Iter 65/500 - Loss: 1.101
+2024-08-19 16:26:21,137 - DEBUG - Iter 130/500 - Loss: 0.941
+2024-08-19 16:26:31,893 - DEBUG - Iter 195/500 - Loss: 0.918
+2024-08-19 16:26:42,860 - DEBUG - Iter 260/500 - Loss: 0.913
+2024-08-19 16:26:53,580 - DEBUG - Iter 325/500 - Loss: 0.912
+2024-08-19 16:27:04,447 - DEBUG - Iter 390/500 - Loss: 0.912
+2024-08-19 16:27:15,198 - DEBUG - Iter 455/500 - Loss: 0.912
+2024-08-19 16:27:23,195 - INFO - NLL: 0.9028; RMSE: 0.2227; NMSE: 1.1425
+2024-08-19 16:27:23,203 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:55.0; gamma:0.20000000298023224
+2024-08-19 16:27:23,218 - DEBUG - Completed
+2024-08-19 16:27:32,344 - DEBUG - Iter 55/500 - Loss: 1.308
+2024-08-19 16:27:41,423 - DEBUG - Iter 110/500 - Loss: 1.089
+2024-08-19 16:27:50,541 - DEBUG - Iter 165/500 - Loss: 1.057
+2024-08-19 16:27:59,855 - DEBUG - Iter 220/500 - Loss: 1.051
+2024-08-19 16:28:08,955 - DEBUG - Iter 275/500 - Loss: 1.050
+2024-08-19 16:28:08,958 - INFO - Early cut off at epoch 274 with loss of 1.049636721611023
+2024-08-19 16:28:09,170 - INFO - NLL: 1.0460; RMSE: 0.2786; NMSE: 1.4292
+2024-08-19 16:28:09,178 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:77.5; gamma:0.20000000298023224
+2024-08-19 16:28:09,194 - DEBUG - Completed
+2024-08-19 16:28:35,131 - DEBUG - Iter 155/500 - Loss: 0.521
+2024-08-19 16:29:00,750 - DEBUG - Iter 310/500 - Loss: 0.413
+2024-08-19 16:29:26,305 - DEBUG - Iter 465/500 - Loss: 0.393
+2024-08-19 16:29:32,308 - INFO - NLL: 0.3584; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 16:29:32,315 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:100.0; gamma:0.20000000298023224
+2024-08-19 16:29:32,330 - DEBUG - Completed
+2024-08-19 16:29:48,312 - DEBUG - Iter 100/500 - Loss: 0.770
+2024-08-19 16:30:04,498 - DEBUG - Iter 200/500 - Loss: 0.675
+2024-08-19 16:30:20,306 - DEBUG - Iter 300/500 - Loss: 0.659
+2024-08-19 16:30:36,503 - DEBUG - Iter 400/500 - Loss: 0.656
+2024-08-19 16:30:52,927 - DEBUG - Iter 500/500 - Loss: 0.656
+2024-08-19 16:30:52,929 - INFO - Early cut off at epoch 499 with loss of 0.6557513475418091
+2024-08-19 16:30:53,137 - INFO - NLL: 0.6371; RMSE: 0.1698; NMSE: 0.8708
+2024-08-19 16:30:53,143 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.3500000238418579
+2024-08-19 16:30:53,158 - DEBUG - Completed
+2024-08-19 16:30:54,775 - DEBUG - Iter 10/500 - Loss: 2.711
+2024-08-19 16:30:56,353 - DEBUG - Iter 20/500 - Loss: 2.582
+2024-08-19 16:30:57,901 - DEBUG - Iter 30/500 - Loss: 2.536
+2024-08-19 16:30:59,481 - DEBUG - Iter 40/500 - Loss: 2.520
+2024-08-19 16:31:01,162 - DEBUG - Iter 50/500 - Loss: 2.514
+2024-08-19 16:31:01,164 - INFO - Early cut off at epoch 49 with loss of 2.5144412517547607
+2024-08-19 16:31:01,388 - INFO - NLL: 2.5337; RMSE: 0.5741; NMSE: 2.9449
+2024-08-19 16:31:01,395 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.3500000238418579
+2024-08-19 16:31:01,411 - DEBUG - Completed
+2024-08-19 16:31:12,086 - DEBUG - Iter 65/500 - Loss: 1.107
+2024-08-19 16:31:22,645 - DEBUG - Iter 130/500 - Loss: 0.862
+2024-08-19 16:31:33,020 - DEBUG - Iter 195/500 - Loss: 0.812
+2024-08-19 16:31:43,511 - DEBUG - Iter 260/500 - Loss: 0.797
+2024-08-19 16:31:53,979 - DEBUG - Iter 325/500 - Loss: 0.792
+2024-08-19 16:32:04,483 - DEBUG - Iter 390/500 - Loss: 0.790
+2024-08-19 16:32:15,025 - DEBUG - Iter 455/500 - Loss: 0.789
+2024-08-19 16:32:22,450 - INFO - NLL: 0.7749; RMSE: 0.1776; NMSE: 0.9112
+2024-08-19 16:32:22,457 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:55.0; gamma:0.3500000238418579
+2024-08-19 16:32:22,471 - DEBUG - Completed
+2024-08-19 16:32:31,624 - DEBUG - Iter 55/500 - Loss: 1.290
+2024-08-19 16:32:40,462 - DEBUG - Iter 110/500 - Loss: 0.981
+2024-08-19 16:32:49,626 - DEBUG - Iter 165/500 - Loss: 0.919
+2024-08-19 16:32:58,389 - DEBUG - Iter 220/500 - Loss: 0.900
+2024-08-19 16:33:07,251 - DEBUG - Iter 275/500 - Loss: 0.894
+2024-08-19 16:33:16,125 - DEBUG - Iter 330/500 - Loss: 0.891
+2024-08-19 16:33:25,098 - DEBUG - Iter 385/500 - Loss: 0.890
+2024-08-19 16:33:25,100 - INFO - Early cut off at epoch 384 with loss of 0.8904892802238464
+2024-08-19 16:33:25,307 - INFO - NLL: 0.8804; RMSE: 0.2144; NMSE: 1.0996
+2024-08-19 16:33:25,314 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:77.5; gamma:0.3500000238418579
+2024-08-19 16:33:25,329 - DEBUG - Completed
+2024-08-19 16:33:50,345 - DEBUG - Iter 155/500 - Loss: 0.521
+2024-08-19 16:34:15,538 - DEBUG - Iter 310/500 - Loss: 0.338
+2024-08-19 16:34:40,602 - DEBUG - Iter 465/500 - Loss: 0.283
+2024-08-19 16:34:46,503 - INFO - NLL: 0.2342; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 16:34:46,509 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:100.0; gamma:0.3500000238418579
+2024-08-19 16:34:46,523 - DEBUG - Completed
+2024-08-19 16:35:02,772 - DEBUG - Iter 100/500 - Loss: 0.770
+2024-08-19 16:35:19,200 - DEBUG - Iter 200/500 - Loss: 0.612
+2024-08-19 16:35:35,438 - DEBUG - Iter 300/500 - Loss: 0.568
+2024-08-19 16:35:51,258 - DEBUG - Iter 400/500 - Loss: 0.553
+2024-08-19 16:36:07,527 - DEBUG - Iter 500/500 - Loss: 0.548
+2024-08-19 16:36:07,736 - INFO - NLL: 0.5241; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 16:36:07,744 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.5
+2024-08-19 16:36:08,010 - DEBUG - Completed
+2024-08-19 16:36:09,673 - DEBUG - Iter 10/500 - Loss: 2.680
+2024-08-19 16:36:11,287 - DEBUG - Iter 20/500 - Loss: 2.508
+2024-08-19 16:36:12,904 - DEBUG - Iter 30/500 - Loss: 2.420
+2024-08-19 16:36:14,473 - DEBUG - Iter 40/500 - Loss: 2.376
+2024-08-19 16:36:16,087 - DEBUG - Iter 50/500 - Loss: 2.353
+2024-08-19 16:36:17,674 - DEBUG - Iter 60/500 - Loss: 2.342
+2024-08-19 16:36:19,343 - DEBUG - Iter 70/500 - Loss: 2.337
+2024-08-19 16:36:19,346 - INFO - Early cut off at epoch 69 with loss of 2.3367559909820557
+2024-08-19 16:36:19,555 - INFO - NLL: 2.3547; RMSE: 0.5511; NMSE: 2.8266
+2024-08-19 16:36:19,562 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.5
+2024-08-19 16:36:19,576 - DEBUG - Completed
+2024-08-19 16:36:29,998 - DEBUG - Iter 65/500 - Loss: 1.104
+2024-08-19 16:36:40,681 - DEBUG - Iter 130/500 - Loss: 0.796
+2024-08-19 16:36:51,004 - DEBUG - Iter 195/500 - Loss: 0.716
+2024-08-19 16:37:01,548 - DEBUG - Iter 260/500 - Loss: 0.682
+2024-08-19 16:37:12,064 - DEBUG - Iter 325/500 - Loss: 0.667
+2024-08-19 16:37:22,827 - DEBUG - Iter 390/500 - Loss: 0.659
+2024-08-19 16:37:33,248 - DEBUG - Iter 455/500 - Loss: 0.655
+2024-08-19 16:37:40,507 - INFO - NLL: 0.6351; RMSE: 0.1698; NMSE: 0.8711
+2024-08-19 16:37:40,513 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:55.0; gamma:0.5
+2024-08-19 16:37:40,527 - DEBUG - Completed
+2024-08-19 16:37:49,615 - DEBUG - Iter 55/500 - Loss: 1.306
+2024-08-19 16:37:58,649 - DEBUG - Iter 110/500 - Loss: 0.905
+2024-08-19 16:38:07,309 - DEBUG - Iter 165/500 - Loss: 0.810
+2024-08-19 16:38:16,092 - DEBUG - Iter 220/500 - Loss: 0.773
+2024-08-19 16:38:25,095 - DEBUG - Iter 275/500 - Loss: 0.757
+2024-08-19 16:38:34,221 - DEBUG - Iter 330/500 - Loss: 0.749
+2024-08-19 16:38:42,852 - DEBUG - Iter 385/500 - Loss: 0.745
+2024-08-19 16:38:51,915 - DEBUG - Iter 440/500 - Loss: 0.743
+2024-08-19 16:39:00,704 - DEBUG - Iter 495/500 - Loss: 0.742
+2024-08-19 16:39:00,707 - INFO - Early cut off at epoch 494 with loss of 0.7421325445175171
+2024-08-19 16:39:00,911 - INFO - NLL: 0.7265; RMSE: 0.1741; NMSE: 0.8928
+2024-08-19 16:39:00,918 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:77.5; gamma:0.5
+2024-08-19 16:39:00,932 - DEBUG - Completed
+2024-08-19 16:39:26,040 - DEBUG - Iter 155/500 - Loss: 0.523
+2024-08-19 16:39:50,945 - DEBUG - Iter 310/500 - Loss: 0.269
+2024-08-19 16:40:15,838 - DEBUG - Iter 465/500 - Loss: 0.166
+2024-08-19 16:40:21,592 - INFO - NLL: 0.0947; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 16:40:21,601 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:100.0; gamma:0.5
+2024-08-19 16:40:21,615 - DEBUG - Completed
+2024-08-19 16:40:38,075 - DEBUG - Iter 100/500 - Loss: 0.768
+2024-08-19 16:40:54,074 - DEBUG - Iter 200/500 - Loss: 0.550
+2024-08-19 16:41:10,091 - DEBUG - Iter 300/500 - Loss: 0.464
+2024-08-19 16:41:26,295 - DEBUG - Iter 400/500 - Loss: 0.424
+2024-08-19 16:41:42,514 - DEBUG - Iter 500/500 - Loss: 0.405
+2024-08-19 16:41:42,724 - INFO - NLL: 0.3719; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 16:41:42,730 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.6499999761581421
+2024-08-19 16:41:42,745 - DEBUG - Completed
+2024-08-19 16:41:44,332 - DEBUG - Iter 10/500 - Loss: 2.735
+2024-08-19 16:41:45,879 - DEBUG - Iter 20/500 - Loss: 2.521
+2024-08-19 16:41:47,545 - DEBUG - Iter 30/500 - Loss: 2.376
+2024-08-19 16:41:49,229 - DEBUG - Iter 40/500 - Loss: 2.281
+2024-08-19 16:41:50,825 - DEBUG - Iter 50/500 - Loss: 2.218
+2024-08-19 16:41:52,403 - DEBUG - Iter 60/500 - Loss: 2.177
+2024-08-19 16:41:53,999 - DEBUG - Iter 70/500 - Loss: 2.151
+2024-08-19 16:41:55,568 - DEBUG - Iter 80/500 - Loss: 2.133
+2024-08-19 16:41:57,136 - DEBUG - Iter 90/500 - Loss: 2.122
+2024-08-19 16:41:58,849 - DEBUG - Iter 100/500 - Loss: 2.115
+2024-08-19 16:42:00,520 - DEBUG - Iter 110/500 - Loss: 2.110
+2024-08-19 16:42:00,522 - INFO - Early cut off at epoch 109 with loss of 2.1101269721984863
+2024-08-19 16:42:00,750 - INFO - NLL: 2.1359; RMSE: 0.5063; NMSE: 2.5971
+2024-08-19 16:42:00,757 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.6499999761581421
+2024-08-19 16:42:00,771 - DEBUG - Completed
+2024-08-19 16:42:11,132 - DEBUG - Iter 65/500 - Loss: 1.107
+2024-08-19 16:42:21,344 - DEBUG - Iter 130/500 - Loss: 0.740
+2024-08-19 16:42:31,829 - DEBUG - Iter 195/500 - Loss: 0.622
+2024-08-19 16:42:42,555 - DEBUG - Iter 260/500 - Loss: 0.556
+2024-08-19 16:42:53,053 - DEBUG - Iter 325/500 - Loss: 0.517
+2024-08-19 16:43:03,582 - DEBUG - Iter 390/500 - Loss: 0.492
+2024-08-19 16:43:14,235 - DEBUG - Iter 455/500 - Loss: 0.477
+2024-08-19 16:43:21,536 - INFO - NLL: 0.4415; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 16:43:21,542 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:55.0; gamma:0.6499999761581421
+2024-08-19 16:43:21,556 - DEBUG - Completed
+2024-08-19 16:43:30,527 - DEBUG - Iter 55/500 - Loss: 1.342
+2024-08-19 16:43:39,384 - DEBUG - Iter 110/500 - Loss: 0.836
+2024-08-19 16:43:48,285 - DEBUG - Iter 165/500 - Loss: 0.708
+2024-08-19 16:43:57,099 - DEBUG - Iter 220/500 - Loss: 0.644
+2024-08-19 16:44:06,010 - DEBUG - Iter 275/500 - Loss: 0.607
+2024-08-19 16:44:14,759 - DEBUG - Iter 330/500 - Loss: 0.584
+2024-08-19 16:44:23,817 - DEBUG - Iter 385/500 - Loss: 0.570
+2024-08-19 16:44:32,757 - DEBUG - Iter 440/500 - Loss: 0.561
+2024-08-19 16:44:41,762 - DEBUG - Iter 495/500 - Loss: 0.555
+2024-08-19 16:44:42,748 - INFO - NLL: 0.5309; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 16:44:42,757 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:77.5; gamma:0.6499999761581421
+2024-08-19 16:44:42,771 - DEBUG - Completed
+2024-08-19 16:45:08,044 - DEBUG - Iter 155/500 - Loss: 0.525
+2024-08-19 16:45:33,093 - DEBUG - Iter 310/500 - Loss: 0.203
+2024-08-19 16:45:57,866 - DEBUG - Iter 465/500 - Loss: 0.049
+2024-08-19 16:46:04,001 - INFO - NLL: -0.0530; RMSE: 0.1698; NMSE: 0.8708
+2024-08-19 16:46:04,010 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:100.0; gamma:0.6499999761581421
+2024-08-19 16:46:04,025 - DEBUG - Completed
+2024-08-19 16:46:20,066 - DEBUG - Iter 100/500 - Loss: 0.771
+2024-08-19 16:46:36,286 - DEBUG - Iter 200/500 - Loss: 0.495
+2024-08-19 16:46:52,108 - DEBUG - Iter 300/500 - Loss: 0.356
+2024-08-19 16:47:08,358 - DEBUG - Iter 400/500 - Loss: 0.276
+2024-08-19 16:47:24,218 - DEBUG - Iter 500/500 - Loss: 0.228
+2024-08-19 16:47:24,422 - INFO - NLL: 0.1774; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 16:47:24,427 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.800000011920929
+2024-08-19 16:47:24,443 - DEBUG - Completed
+2024-08-19 16:47:26,013 - DEBUG - Iter 10/500 - Loss: 2.689
+2024-08-19 16:47:27,631 - DEBUG - Iter 20/500 - Loss: 2.430
+2024-08-19 16:47:29,309 - DEBUG - Iter 30/500 - Loss: 2.216
+2024-08-19 16:47:30,939 - DEBUG - Iter 40/500 - Loss: 2.042
+2024-08-19 16:47:32,510 - DEBUG - Iter 50/500 - Loss: 1.903
+2024-08-19 16:47:34,093 - DEBUG - Iter 60/500 - Loss: 1.794
+2024-08-19 16:47:35,651 - DEBUG - Iter 70/500 - Loss: 1.709
+2024-08-19 16:47:37,216 - DEBUG - Iter 80/500 - Loss: 1.643
+2024-08-19 16:47:38,796 - DEBUG - Iter 90/500 - Loss: 1.593
+2024-08-19 16:47:40,651 - DEBUG - Iter 100/500 - Loss: 1.553
+2024-08-19 16:47:42,338 - DEBUG - Iter 110/500 - Loss: 1.522
+2024-08-19 16:47:43,922 - DEBUG - Iter 120/500 - Loss: 1.498
+2024-08-19 16:47:45,536 - DEBUG - Iter 130/500 - Loss: 1.479
+2024-08-19 16:47:47,102 - DEBUG - Iter 140/500 - Loss: 1.464
+2024-08-19 16:47:48,694 - DEBUG - Iter 150/500 - Loss: 1.453
+2024-08-19 16:47:50,277 - DEBUG - Iter 160/500 - Loss: 1.443
+2024-08-19 16:47:51,907 - DEBUG - Iter 170/500 - Loss: 1.436
+2024-08-19 16:47:53,530 - DEBUG - Iter 180/500 - Loss: 1.430
+2024-08-19 16:47:55,178 - DEBUG - Iter 190/500 - Loss: 1.425
+2024-08-19 16:47:56,783 - DEBUG - Iter 200/500 - Loss: 1.422
+2024-08-19 16:47:58,392 - DEBUG - Iter 210/500 - Loss: 1.419
+2024-08-19 16:47:58,394 - INFO - Early cut off at epoch 209 with loss of 1.4185408353805542
+2024-08-19 16:47:58,597 - INFO - NLL: 1.4342; RMSE: 0.3754; NMSE: 1.9257
+2024-08-19 16:47:58,603 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.800000011920929
+2024-08-19 16:47:58,619 - DEBUG - Completed
+2024-08-19 16:48:09,359 - DEBUG - Iter 65/500 - Loss: 1.101
+2024-08-19 16:48:19,782 - DEBUG - Iter 130/500 - Loss: 0.691
+2024-08-19 16:48:30,107 - DEBUG - Iter 195/500 - Loss: 0.524
+2024-08-19 16:48:40,499 - DEBUG - Iter 260/500 - Loss: 0.411
+2024-08-19 16:48:51,402 - DEBUG - Iter 325/500 - Loss: 0.329
+2024-08-19 16:49:01,808 - DEBUG - Iter 390/500 - Loss: 0.268
+2024-08-19 16:49:12,238 - DEBUG - Iter 455/500 - Loss: 0.222
+2024-08-19 16:49:20,034 - INFO - NLL: 0.1433; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 16:49:20,040 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:55.0; gamma:0.800000011920929
+2024-08-19 16:49:20,056 - DEBUG - Completed
+2024-08-19 16:49:28,861 - DEBUG - Iter 55/500 - Loss: 1.308
+2024-08-19 16:49:37,696 - DEBUG - Iter 110/500 - Loss: 0.781
+2024-08-19 16:49:46,546 - DEBUG - Iter 165/500 - Loss: 0.617
+2024-08-19 16:49:55,565 - DEBUG - Iter 220/500 - Loss: 0.511
+2024-08-19 16:50:04,558 - DEBUG - Iter 275/500 - Loss: 0.434
+2024-08-19 16:50:13,711 - DEBUG - Iter 330/500 - Loss: 0.378
+2024-08-19 16:50:22,693 - DEBUG - Iter 385/500 - Loss: 0.334
+2024-08-19 16:50:31,771 - DEBUG - Iter 440/500 - Loss: 0.301
+2024-08-19 16:50:40,494 - DEBUG - Iter 495/500 - Loss: 0.276
+2024-08-19 16:50:41,498 - INFO - NLL: 0.2284; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 16:50:41,505 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:77.5; gamma:0.800000011920929
+2024-08-19 16:50:41,520 - DEBUG - Completed
+2024-08-19 16:51:06,708 - DEBUG - Iter 155/500 - Loss: 0.525
+2024-08-19 16:51:31,430 - DEBUG - Iter 310/500 - Loss: 0.139
+2024-08-19 16:51:56,231 - DEBUG - Iter 465/500 - Loss: -0.067
+2024-08-19 16:52:02,021 - INFO - NLL: -0.2028; RMSE: 0.1695; NMSE: 0.8696
+2024-08-19 16:52:02,027 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:100.0; gamma:0.800000011920929
+2024-08-19 16:52:02,042 - DEBUG - Completed
+2024-08-19 16:52:18,103 - DEBUG - Iter 100/500 - Loss: 0.769
+2024-08-19 16:52:34,226 - DEBUG - Iter 200/500 - Loss: 0.436
+2024-08-19 16:52:50,403 - DEBUG - Iter 300/500 - Loss: 0.238
+2024-08-19 16:53:06,438 - DEBUG - Iter 400/500 - Loss: 0.109
+2024-08-19 16:53:22,742 - DEBUG - Iter 500/500 - Loss: 0.021
+2024-08-19 16:53:22,955 - INFO - NLL: -0.0627; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 16:53:22,964 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:10.0; gamma:0.20000000298023224
+2024-08-19 16:53:22,979 - DEBUG - Completed
+2024-08-19 16:53:24,611 - DEBUG - Iter 10/500 - Loss: 0.570
+2024-08-19 16:53:26,281 - DEBUG - Iter 20/500 - Loss: 0.356
+2024-08-19 16:53:27,907 - DEBUG - Iter 30/500 - Loss: 0.317
+2024-08-19 16:53:29,519 - DEBUG - Iter 40/500 - Loss: 0.309
+2024-08-19 16:53:31,070 - DEBUG - Iter 50/500 - Loss: 0.307
+2024-08-19 16:53:32,678 - DEBUG - Iter 60/500 - Loss: 0.307
+2024-08-19 16:53:32,681 - INFO - Early cut off at epoch 59 with loss of 0.30670255422592163
+2024-08-19 16:53:32,899 - INFO - NLL: 0.2652; RMSE: 0.1724; NMSE: 0.8844
+2024-08-19 16:53:32,906 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:32.5; gamma:0.20000000298023224
+2024-08-19 16:53:32,921 - DEBUG - Completed
+2024-08-19 16:53:43,474 - DEBUG - Iter 65/500 - Loss: -1.050
+2024-08-19 16:53:53,789 - DEBUG - Iter 130/500 - Loss: -1.304
+2024-08-19 16:54:04,183 - DEBUG - Iter 195/500 - Loss: -1.311
+2024-08-19 16:54:14,881 - DEBUG - Iter 260/500 - Loss: -1.312
+2024-08-19 16:54:25,336 - DEBUG - Iter 325/500 - Loss: -1.313
+2024-08-19 16:54:35,725 - DEBUG - Iter 390/500 - Loss: -1.313
+2024-08-19 16:54:46,027 - DEBUG - Iter 455/500 - Loss: -1.313
+2024-08-19 16:54:53,685 - INFO - NLL: -1.2185; RMSE: 0.1678; NMSE: 0.8609
+2024-08-19 16:54:53,693 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:55.0; gamma:0.20000000298023224
+2024-08-19 16:54:53,707 - DEBUG - Completed
+2024-08-19 16:55:02,674 - DEBUG - Iter 55/500 - Loss: -0.956
+2024-08-19 16:55:11,464 - DEBUG - Iter 110/500 - Loss: -1.283
+2024-08-19 16:55:20,234 - DEBUG - Iter 165/500 - Loss: -1.293
+2024-08-19 16:55:29,466 - DEBUG - Iter 220/500 - Loss: -1.295
+2024-08-19 16:55:29,469 - INFO - Early cut off at epoch 219 with loss of -1.294891119003296
+2024-08-19 16:55:29,675 - INFO - NLL: -1.2040; RMSE: 0.1679; NMSE: 0.8610
+2024-08-19 16:55:29,684 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:77.5; gamma:0.20000000298023224
+2024-08-19 16:55:29,700 - DEBUG - Completed
+2024-08-19 16:55:54,590 - DEBUG - Iter 155/500 - Loss: -1.218
+2024-08-19 16:56:19,715 - DEBUG - Iter 310/500 - Loss: -1.275
+2024-08-19 16:56:44,885 - DEBUG - Iter 465/500 - Loss: -1.337
+2024-08-19 16:56:50,824 - INFO - NLL: -1.2424; RMSE: 0.1669; NMSE: 0.8561
+2024-08-19 16:56:50,829 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:100.0; gamma:0.20000000298023224
+2024-08-19 16:56:50,845 - DEBUG - Completed
+2024-08-19 16:57:07,350 - DEBUG - Iter 100/500 - Loss: -1.278
+2024-08-19 16:57:23,066 - DEBUG - Iter 200/500 - Loss: -1.335
+2024-08-19 16:57:39,341 - DEBUG - Iter 300/500 - Loss: -1.337
+2024-08-19 16:57:39,344 - INFO - Early cut off at epoch 299 with loss of -1.337267518043518
+2024-08-19 16:57:39,552 - INFO - NLL: -1.2343; RMSE: 0.1679; NMSE: 0.8610
+2024-08-19 16:57:39,560 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:10.0; gamma:0.3500000238418579
+2024-08-19 16:57:39,574 - DEBUG - Completed
+2024-08-19 16:57:41,167 - DEBUG - Iter 10/500 - Loss: 0.572
+2024-08-19 16:57:42,758 - DEBUG - Iter 20/500 - Loss: 0.282
+2024-08-19 16:57:44,316 - DEBUG - Iter 30/500 - Loss: 0.176
+2024-08-19 16:57:45,864 - DEBUG - Iter 40/500 - Loss: 0.140
+2024-08-19 16:57:47,444 - DEBUG - Iter 50/500 - Loss: 0.129
+2024-08-19 16:57:49,121 - DEBUG - Iter 60/500 - Loss: 0.125
+2024-08-19 16:57:50,852 - DEBUG - Iter 70/500 - Loss: 0.124
+2024-08-19 16:57:52,502 - DEBUG - Iter 80/500 - Loss: 0.123
+2024-08-19 16:57:54,145 - DEBUG - Iter 90/500 - Loss: 0.123
+2024-08-19 16:57:54,148 - INFO - Early cut off at epoch 89 with loss of 0.12290660291910172
+2024-08-19 16:57:54,355 - INFO - NLL: 0.0567; RMSE: 0.1700; NMSE: 0.8719
+2024-08-19 16:57:54,360 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:32.5; gamma:0.3500000238418579
+2024-08-19 16:57:54,375 - DEBUG - Completed
+2024-08-19 16:58:04,893 - DEBUG - Iter 65/500 - Loss: -1.031
+2024-08-19 16:58:15,437 - DEBUG - Iter 130/500 - Loss: -1.320
+2024-08-19 16:58:25,689 - DEBUG - Iter 195/500 - Loss: -1.328
+2024-08-19 16:58:35,976 - DEBUG - Iter 260/500 - Loss: -1.331
+2024-08-19 16:58:46,476 - DEBUG - Iter 325/500 - Loss: -1.332
+2024-08-19 16:58:56,957 - DEBUG - Iter 390/500 - Loss: -1.332
+2024-08-19 16:59:07,372 - DEBUG - Iter 455/500 - Loss: -1.332
+2024-08-19 16:59:15,050 - INFO - NLL: -1.2308; RMSE: 0.1677; NMSE: 0.8600
+2024-08-19 16:59:15,059 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:55.0; gamma:0.3500000238418579
+2024-08-19 16:59:15,074 - DEBUG - Completed
+2024-08-19 16:59:23,967 - DEBUG - Iter 55/500 - Loss: -1.020
+2024-08-19 16:59:32,859 - DEBUG - Iter 110/500 - Loss: -1.306
+2024-08-19 16:59:41,579 - DEBUG - Iter 165/500 - Loss: -1.319
+2024-08-19 16:59:50,403 - DEBUG - Iter 220/500 - Loss: -1.322
+2024-08-19 16:59:59,174 - DEBUG - Iter 275/500 - Loss: -1.324
+2024-08-19 16:59:59,176 - INFO - Early cut off at epoch 274 with loss of -1.323628306388855
+2024-08-19 16:59:59,413 - INFO - NLL: -1.2247; RMSE: 0.1677; NMSE: 0.8600
+2024-08-19 16:59:59,418 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:77.5; gamma:0.3500000238418579
+2024-08-19 16:59:59,434 - DEBUG - Completed
+2024-08-19 17:00:24,817 - DEBUG - Iter 155/500 - Loss: -1.314
+2024-08-19 17:00:49,810 - DEBUG - Iter 310/500 - Loss: -1.347
+2024-08-19 17:01:14,775 - DEBUG - Iter 465/500 - Loss: -1.348
+2024-08-19 17:01:20,613 - INFO - NLL: -1.2411; RMSE: 0.1675; NMSE: 0.8592
+2024-08-19 17:01:20,622 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:100.0; gamma:0.3500000238418579
+2024-08-19 17:01:20,639 - DEBUG - Completed
+2024-08-19 17:01:36,703 - DEBUG - Iter 100/500 - Loss: -1.288
+2024-08-19 17:01:52,497 - DEBUG - Iter 200/500 - Loss: -1.340
+2024-08-19 17:02:08,842 - DEBUG - Iter 300/500 - Loss: -1.343
+2024-08-19 17:02:24,732 - DEBUG - Iter 400/500 - Loss: -1.344
+2024-08-19 17:02:24,734 - INFO - Early cut off at epoch 399 with loss of -1.343684434890747
+2024-08-19 17:02:24,938 - INFO - NLL: -1.2382; RMSE: 0.1676; NMSE: 0.8596
+2024-08-19 17:02:24,944 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:10.0; gamma:0.5
+2024-08-19 17:02:24,958 - DEBUG - Completed
+2024-08-19 17:02:26,500 - DEBUG - Iter 10/500 - Loss: 0.574
+2024-08-19 17:02:28,286 - DEBUG - Iter 20/500 - Loss: 0.213
+2024-08-19 17:02:29,974 - DEBUG - Iter 30/500 - Loss: 0.020
+2024-08-19 17:02:31,613 - DEBUG - Iter 40/500 - Loss: -0.064
+2024-08-19 17:02:33,243 - DEBUG - Iter 50/500 - Loss: -0.120
+2024-08-19 17:02:34,829 - DEBUG - Iter 60/500 - Loss: -0.143
+2024-08-19 17:02:36,463 - DEBUG - Iter 70/500 - Loss: -0.155
+2024-08-19 17:02:38,024 - DEBUG - Iter 80/500 - Loss: -0.161
+2024-08-19 17:02:39,608 - DEBUG - Iter 90/500 - Loss: -0.164
+2024-08-19 17:02:41,191 - DEBUG - Iter 100/500 - Loss: -0.165
+2024-08-19 17:02:42,816 - DEBUG - Iter 110/500 - Loss: -0.166
+2024-08-19 17:02:44,518 - DEBUG - Iter 120/500 - Loss: -0.166
+2024-08-19 17:02:44,521 - INFO - Early cut off at epoch 119 with loss of -0.16626209020614624
+2024-08-19 17:02:44,766 - INFO - NLL: -0.2021; RMSE: 0.1686; NMSE: 0.8648
+2024-08-19 17:02:44,772 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:32.5; gamma:0.5
+2024-08-19 17:02:44,789 - DEBUG - Completed
+2024-08-19 17:02:55,396 - DEBUG - Iter 65/500 - Loss: -0.939
+2024-08-19 17:03:05,854 - DEBUG - Iter 130/500 - Loss: -1.316
+2024-08-19 17:03:16,227 - DEBUG - Iter 195/500 - Loss: -1.336
+2024-08-19 17:03:26,667 - DEBUG - Iter 260/500 - Loss: -1.339
+2024-08-19 17:03:37,307 - DEBUG - Iter 325/500 - Loss: -1.340
+2024-08-19 17:03:48,017 - DEBUG - Iter 390/500 - Loss: -1.341
+2024-08-19 17:03:58,500 - DEBUG - Iter 455/500 - Loss: -1.341
+2024-08-19 17:04:06,008 - INFO - NLL: -1.2368; RMSE: 0.1676; NMSE: 0.8597
+2024-08-19 17:04:06,016 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:55.0; gamma:0.5
+2024-08-19 17:04:06,030 - DEBUG - Completed
+2024-08-19 17:04:14,798 - DEBUG - Iter 55/500 - Loss: -1.051
+2024-08-19 17:04:23,652 - DEBUG - Iter 110/500 - Loss: -1.314
+2024-08-19 17:04:32,446 - DEBUG - Iter 165/500 - Loss: -1.332
+2024-08-19 17:04:41,396 - DEBUG - Iter 220/500 - Loss: -1.336
+2024-08-19 17:04:50,156 - DEBUG - Iter 275/500 - Loss: -1.337
+2024-08-19 17:04:50,159 - INFO - Early cut off at epoch 274 with loss of -1.3373684883117676
+2024-08-19 17:04:50,362 - INFO - NLL: -1.2343; RMSE: 0.1676; NMSE: 0.8597
+2024-08-19 17:04:50,368 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:77.5; gamma:0.5
+2024-08-19 17:04:50,384 - DEBUG - Completed
+2024-08-19 17:05:15,161 - DEBUG - Iter 155/500 - Loss: -1.328
+2024-08-19 17:05:39,903 - DEBUG - Iter 310/500 - Loss: -1.348
+2024-08-19 17:06:04,544 - DEBUG - Iter 465/500 - Loss: -1.350
+2024-08-19 17:06:10,262 - INFO - NLL: -1.2427; RMSE: 0.1674; NMSE: 0.8589
+2024-08-19 17:06:10,270 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:100.0; gamma:0.5
+2024-08-19 17:06:10,285 - DEBUG - Completed
+2024-08-19 17:06:26,401 - DEBUG - Iter 100/500 - Loss: -1.277
+2024-08-19 17:06:42,117 - DEBUG - Iter 200/500 - Loss: -1.342
+2024-08-19 17:06:58,228 - DEBUG - Iter 300/500 - Loss: -1.346
+2024-08-19 17:07:14,406 - DEBUG - Iter 400/500 - Loss: -1.347
+2024-08-19 17:07:14,408 - INFO - Early cut off at epoch 399 with loss of -1.3470228910446167
+2024-08-19 17:07:14,627 - INFO - NLL: -1.2406; RMSE: 0.1675; NMSE: 0.8591
+2024-08-19 17:07:14,634 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:10.0; gamma:0.6499999761581421
+2024-08-19 17:07:14,648 - DEBUG - Completed
+2024-08-19 17:07:16,412 - DEBUG - Iter 10/500 - Loss: 0.571
+2024-08-19 17:07:17,972 - DEBUG - Iter 20/500 - Loss: 0.124
+2024-08-19 17:07:19,553 - DEBUG - Iter 30/500 - Loss: -0.174
+2024-08-19 17:07:21,098 - DEBUG - Iter 40/500 - Loss: -0.335
+2024-08-19 17:07:22,747 - DEBUG - Iter 50/500 - Loss: -0.430
+2024-08-19 17:07:24,432 - DEBUG - Iter 60/500 - Loss: -0.486
+2024-08-19 17:07:25,996 - DEBUG - Iter 70/500 - Loss: -0.522
+2024-08-19 17:07:27,609 - DEBUG - Iter 80/500 - Loss: -0.549
+2024-08-19 17:07:29,158 - DEBUG - Iter 90/500 - Loss: -0.566
+2024-08-19 17:07:30,711 - DEBUG - Iter 100/500 - Loss: -0.577
+2024-08-19 17:07:32,271 - DEBUG - Iter 110/500 - Loss: -0.584
+2024-08-19 17:07:33,881 - DEBUG - Iter 120/500 - Loss: -0.588
+2024-08-19 17:07:35,593 - DEBUG - Iter 130/500 - Loss: -0.591
+2024-08-19 17:07:37,297 - DEBUG - Iter 140/500 - Loss: -0.593
+2024-08-19 17:07:38,869 - DEBUG - Iter 150/500 - Loss: -0.594
+2024-08-19 17:07:38,871 - INFO - Early cut off at epoch 149 with loss of -0.5941773653030396
+2024-08-19 17:07:39,087 - INFO - NLL: -0.5845; RMSE: 0.1691; NMSE: 0.8671
+2024-08-19 17:07:39,095 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:32.5; gamma:0.6499999761581421
+2024-08-19 17:07:39,109 - DEBUG - Completed
+2024-08-19 17:07:49,681 - DEBUG - Iter 65/500 - Loss: -0.907
+2024-08-19 17:07:59,877 - DEBUG - Iter 130/500 - Loss: -1.274
+2024-08-19 17:08:10,221 - DEBUG - Iter 195/500 - Loss: -1.341
+2024-08-19 17:08:20,802 - DEBUG - Iter 260/500 - Loss: -1.344
+2024-08-19 17:08:31,283 - DEBUG - Iter 325/500 - Loss: -1.346
+2024-08-19 17:08:41,488 - DEBUG - Iter 390/500 - Loss: -1.346
+2024-08-19 17:08:52,085 - DEBUG - Iter 455/500 - Loss: -1.347
+2024-08-19 17:08:59,200 - INFO - NLL: -1.2408; RMSE: 0.1675; NMSE: 0.8591
+2024-08-19 17:08:59,207 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:55.0; gamma:0.6499999761581421
+2024-08-19 17:08:59,222 - DEBUG - Completed
+2024-08-19 17:09:08,003 - DEBUG - Iter 55/500 - Loss: -1.022
+2024-08-19 17:09:16,737 - DEBUG - Iter 110/500 - Loss: -1.301
+2024-08-19 17:09:25,611 - DEBUG - Iter 165/500 - Loss: -1.337
+2024-08-19 17:09:34,466 - DEBUG - Iter 220/500 - Loss: -1.341
+2024-08-19 17:09:43,253 - DEBUG - Iter 275/500 - Loss: -1.343
+2024-08-19 17:09:43,255 - INFO - Early cut off at epoch 274 with loss of -1.3432824611663818
+2024-08-19 17:09:43,492 - INFO - NLL: -1.2382; RMSE: 0.1676; NMSE: 0.8595
+2024-08-19 17:09:43,498 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:77.5; gamma:0.6499999761581421
+2024-08-19 17:09:43,514 - DEBUG - Completed
+2024-08-19 17:10:08,248 - DEBUG - Iter 155/500 - Loss: -1.322
+2024-08-19 17:10:33,280 - DEBUG - Iter 310/500 - Loss: -1.349
+2024-08-19 17:10:57,955 - DEBUG - Iter 465/500 - Loss: -1.351
+2024-08-19 17:11:04,021 - INFO - NLL: -1.2433; RMSE: 0.1674; NMSE: 0.8588
+2024-08-19 17:11:04,027 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:100.0; gamma:0.6499999761581421
+2024-08-19 17:11:04,044 - DEBUG - Completed
+2024-08-19 17:11:19,904 - DEBUG - Iter 100/500 - Loss: -1.181
+2024-08-19 17:11:36,138 - DEBUG - Iter 200/500 - Loss: -1.266
+2024-08-19 17:11:52,170 - DEBUG - Iter 300/500 - Loss: -1.269
+2024-08-19 17:11:52,172 - INFO - Early cut off at epoch 299 with loss of -1.269230842590332
+2024-08-19 17:11:52,391 - INFO - NLL: -1.2139; RMSE: 0.1678; NMSE: 0.8608
+2024-08-19 17:11:52,398 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:10.0; gamma:0.800000011920929
+2024-08-19 17:11:52,413 - DEBUG - Completed
+2024-08-19 17:11:54,025 - DEBUG - Iter 10/500 - Loss: 0.570
+2024-08-19 17:11:55,573 - DEBUG - Iter 20/500 - Loss: 0.035
+2024-08-19 17:11:57,204 - DEBUG - Iter 30/500 - Loss: -0.354
+2024-08-19 17:11:58,748 - DEBUG - Iter 40/500 - Loss: -0.597
+2024-08-19 17:12:00,390 - DEBUG - Iter 50/500 - Loss: -0.761
+2024-08-19 17:12:01,979 - DEBUG - Iter 60/500 - Loss: -0.876
+2024-08-19 17:12:03,639 - DEBUG - Iter 70/500 - Loss: -0.956
+2024-08-19 17:12:05,529 - DEBUG - Iter 80/500 - Loss: -1.013
+2024-08-19 17:12:07,156 - DEBUG - Iter 90/500 - Loss: -1.055
+2024-08-19 17:12:08,739 - DEBUG - Iter 100/500 - Loss: -1.085
+2024-08-19 17:12:10,285 - DEBUG - Iter 110/500 - Loss: -1.108
+2024-08-19 17:12:11,880 - DEBUG - Iter 120/500 - Loss: -1.124
+2024-08-19 17:12:13,442 - DEBUG - Iter 130/500 - Loss: -1.137
+2024-08-19 17:12:15,085 - DEBUG - Iter 140/500 - Loss: -1.146
+2024-08-19 17:12:16,759 - DEBUG - Iter 150/500 - Loss: -1.153
+2024-08-19 17:12:18,350 - DEBUG - Iter 160/500 - Loss: -1.159
+2024-08-19 17:12:19,942 - DEBUG - Iter 170/500 - Loss: -1.164
+2024-08-19 17:12:21,493 - DEBUG - Iter 180/500 - Loss: -1.167
+2024-08-19 17:12:23,083 - DEBUG - Iter 190/500 - Loss: -1.170
+2024-08-19 17:12:24,647 - DEBUG - Iter 200/500 - Loss: -1.172
+2024-08-19 17:12:24,650 - INFO - Early cut off at epoch 199 with loss of -1.1720364093780518
+2024-08-19 17:12:24,852 - INFO - NLL: -1.1117; RMSE: 0.1673; NMSE: 0.8582
+2024-08-19 17:12:24,858 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:32.5; gamma:0.800000011920929
+2024-08-19 17:12:24,874 - DEBUG - Completed
+2024-08-19 17:12:35,565 - DEBUG - Iter 65/500 - Loss: -0.970
+2024-08-19 17:12:45,894 - DEBUG - Iter 130/500 - Loss: -1.326
+2024-08-19 17:12:56,215 - DEBUG - Iter 195/500 - Loss: -1.337
+2024-08-19 17:13:06,686 - DEBUG - Iter 260/500 - Loss: -1.347
+2024-08-19 17:13:16,910 - DEBUG - Iter 325/500 - Loss: -1.348
+2024-08-19 17:13:27,069 - DEBUG - Iter 390/500 - Loss: -1.349
+2024-08-19 17:13:37,285 - DEBUG - Iter 455/500 - Loss: -1.350
+2024-08-19 17:13:44,953 - INFO - NLL: -1.2428; RMSE: 0.1674; NMSE: 0.8589
+2024-08-19 17:13:44,960 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:55.0; gamma:0.800000011920929
+2024-08-19 17:13:44,975 - DEBUG - Completed
+2024-08-19 17:13:53,936 - DEBUG - Iter 55/500 - Loss: -1.069
+2024-08-19 17:14:02,631 - DEBUG - Iter 110/500 - Loss: -1.320
+2024-08-19 17:14:11,677 - DEBUG - Iter 165/500 - Loss: -1.325
+2024-08-19 17:14:20,395 - DEBUG - Iter 220/500 - Loss: -1.345
+2024-08-19 17:14:29,081 - DEBUG - Iter 275/500 - Loss: -1.347
+2024-08-19 17:14:29,083 - INFO - Early cut off at epoch 274 with loss of -1.347157597541809
+2024-08-19 17:14:29,289 - INFO - NLL: -1.2409; RMSE: 0.1675; NMSE: 0.8591
+2024-08-19 17:14:29,295 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:77.5; gamma:0.800000011920929
+2024-08-19 17:14:29,310 - DEBUG - Completed
+2024-08-19 17:14:54,280 - DEBUG - Iter 155/500 - Loss: -1.321
+2024-08-19 17:15:19,090 - DEBUG - Iter 310/500 - Loss: -1.300
+2024-08-19 17:15:43,482 - DEBUG - Iter 465/500 - Loss: -1.347
+2024-08-19 17:15:49,599 - INFO - NLL: -1.2433; RMSE: 0.1675; NMSE: 0.8590
+2024-08-19 17:15:49,607 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:100.0; gamma:0.800000011920929
+2024-08-19 17:15:49,621 - DEBUG - Completed
+2024-08-19 17:16:05,411 - DEBUG - Iter 100/500 - Loss: -1.302
+2024-08-19 17:16:21,512 - DEBUG - Iter 200/500 - Loss: -1.343
+2024-08-19 17:16:37,305 - DEBUG - Iter 300/500 - Loss: -1.344
+2024-08-19 17:16:37,308 - INFO - Early cut off at epoch 299 with loss of -1.3439671993255615
+2024-08-19 17:16:37,513 - INFO - NLL: -1.2405; RMSE: 0.1674; NMSE: 0.8587
+2024-08-19 17:16:37,522 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.20000000298023224
+2024-08-19 17:16:37,536 - DEBUG - Completed
+2024-08-19 17:16:39,134 - DEBUG - Iter 10/500 - Loss: 0.095
+2024-08-19 17:16:40,711 - DEBUG - Iter 20/500 - Loss: -0.171
+2024-08-19 17:16:42,295 - DEBUG - Iter 30/500 - Loss: -0.275
+2024-08-19 17:16:43,996 - DEBUG - Iter 40/500 - Loss: -0.300
+2024-08-19 17:16:45,627 - DEBUG - Iter 50/500 - Loss: -0.305
+2024-08-19 17:16:47,414 - DEBUG - Iter 60/500 - Loss: -0.306
+2024-08-19 17:16:47,416 - INFO - Early cut off at epoch 59 with loss of -0.30565595626831055
+2024-08-19 17:16:47,621 - INFO - NLL: -0.3734; RMSE: 0.1702; NMSE: 0.8730
+2024-08-19 17:16:47,628 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.20000000298023224
+2024-08-19 17:16:47,643 - DEBUG - Completed
+2024-08-19 17:16:57,983 - DEBUG - Iter 65/500 - Loss: -0.305
+2024-08-19 17:17:08,256 - DEBUG - Iter 130/500 - Loss: -0.824
+2024-08-19 17:17:18,881 - DEBUG - Iter 195/500 - Loss: -0.843
+2024-08-19 17:17:29,234 - DEBUG - Iter 260/500 - Loss: -0.847
+2024-08-19 17:17:39,546 - DEBUG - Iter 325/500 - Loss: -0.848
+2024-08-19 17:17:50,012 - DEBUG - Iter 390/500 - Loss: -0.848
+2024-08-19 17:18:00,325 - DEBUG - Iter 455/500 - Loss: -0.849
+2024-08-19 17:18:07,550 - INFO - NLL: -0.2117; RMSE: 0.2657; NMSE: 1.3628
+2024-08-19 17:18:07,557 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.20000000298023224
+2024-08-19 17:18:07,573 - DEBUG - Completed
+2024-08-19 17:18:16,387 - DEBUG - Iter 55/500 - Loss: -0.682
+2024-08-19 17:18:25,337 - DEBUG - Iter 110/500 - Loss: -0.972
+2024-08-19 17:18:34,269 - DEBUG - Iter 165/500 - Loss: -0.992
+2024-08-19 17:18:42,865 - DEBUG - Iter 220/500 - Loss: -0.996
+2024-08-19 17:18:51,912 - DEBUG - Iter 275/500 - Loss: -0.997
+2024-08-19 17:18:51,915 - INFO - Early cut off at epoch 274 with loss of -0.99662184715271
+2024-08-19 17:18:52,121 - INFO - NLL: -0.7251; RMSE: 0.1685; NMSE: 0.8643
+2024-08-19 17:18:52,129 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.20000000298023224
+2024-08-19 17:18:52,143 - DEBUG - Completed
+2024-08-19 17:19:16,909 - DEBUG - Iter 155/500 - Loss: 1.165
+2024-08-19 17:19:41,754 - DEBUG - Iter 310/500 - Loss: -1.065
+2024-08-19 17:20:06,715 - DEBUG - Iter 465/500 - Loss: -1.067
+2024-08-19 17:20:12,524 - INFO - NLL: -1.1979; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 17:20:12,530 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.20000000298023224
+2024-08-19 17:20:12,546 - DEBUG - Completed
+2024-08-19 17:20:28,653 - DEBUG - Iter 100/500 - Loss: -0.562
+2024-08-19 17:20:44,657 - DEBUG - Iter 200/500 - Loss: -1.049
+2024-08-19 17:21:00,889 - DEBUG - Iter 300/500 - Loss: -1.090
+2024-08-19 17:21:16,998 - DEBUG - Iter 400/500 - Loss: -1.100
+2024-08-19 17:21:33,059 - DEBUG - Iter 500/500 - Loss: -1.102
+2024-08-19 17:21:33,061 - INFO - Early cut off at epoch 499 with loss of -1.101739764213562
+2024-08-19 17:21:33,267 - INFO - NLL: -0.9532; RMSE: 0.1680; NMSE: 0.8619
+2024-08-19 17:21:33,274 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.3500000238418579
+2024-08-19 17:21:33,289 - DEBUG - Completed
+2024-08-19 17:21:34,899 - DEBUG - Iter 10/500 - Loss: 0.086
+2024-08-19 17:21:36,548 - DEBUG - Iter 20/500 - Loss: -0.254
+2024-08-19 17:21:38,170 - DEBUG - Iter 30/500 - Loss: -0.366
+2024-08-19 17:21:39,746 - DEBUG - Iter 40/500 - Loss: -0.403
+2024-08-19 17:21:41,290 - DEBUG - Iter 50/500 - Loss: -0.416
+2024-08-19 17:21:42,836 - DEBUG - Iter 60/500 - Loss: -0.420
+2024-08-19 17:21:44,435 - DEBUG - Iter 70/500 - Loss: -0.422
+2024-08-19 17:21:46,023 - DEBUG - Iter 80/500 - Loss: -0.423
+2024-08-19 17:21:46,025 - INFO - Early cut off at epoch 79 with loss of -0.4225142002105713
+2024-08-19 17:21:46,226 - INFO - NLL: -0.6166; RMSE: 0.1703; NMSE: 0.8737
+2024-08-19 17:21:46,231 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.3500000238418579
+2024-08-19 17:21:46,246 - DEBUG - Completed
+2024-08-19 17:21:56,614 - DEBUG - Iter 65/500 - Loss: -0.102
+2024-08-19 17:22:07,088 - DEBUG - Iter 130/500 - Loss: -1.096
+2024-08-19 17:22:17,519 - DEBUG - Iter 195/500 - Loss: -1.169
+2024-08-19 17:22:27,855 - DEBUG - Iter 260/500 - Loss: -1.195
+2024-08-19 17:22:38,382 - DEBUG - Iter 325/500 - Loss: -1.206
+2024-08-19 17:22:48,558 - DEBUG - Iter 390/500 - Loss: -1.210
+2024-08-19 17:22:58,756 - DEBUG - Iter 455/500 - Loss: -1.212
+2024-08-19 17:23:06,162 - INFO - NLL: -1.1764; RMSE: 0.1683; NMSE: 0.8635
+2024-08-19 17:23:06,169 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.3500000238418579
+2024-08-19 17:23:06,184 - DEBUG - Completed
+2024-08-19 17:23:15,262 - DEBUG - Iter 55/500 - Loss: -0.445
+2024-08-19 17:23:23,775 - DEBUG - Iter 110/500 - Loss: -1.145
+2024-08-19 17:23:32,565 - DEBUG - Iter 165/500 - Loss: -1.253
+2024-08-19 17:23:41,348 - DEBUG - Iter 220/500 - Loss: -1.257
+2024-08-19 17:23:50,178 - DEBUG - Iter 275/500 - Loss: -1.258
+2024-08-19 17:23:50,181 - INFO - Early cut off at epoch 274 with loss of -1.2584930658340454
+2024-08-19 17:23:50,388 - INFO - NLL: -1.1987; RMSE: 0.1682; NMSE: 0.8628
+2024-08-19 17:23:50,397 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.3500000238418579
+2024-08-19 17:23:50,413 - DEBUG - Completed
+2024-08-19 17:24:15,272 - DEBUG - Iter 155/500 - Loss: -0.646
+2024-08-19 17:24:39,960 - DEBUG - Iter 310/500 - Loss: -1.029
+2024-08-19 17:25:04,816 - DEBUG - Iter 465/500 - Loss: -1.068
+2024-08-19 17:25:10,510 - INFO - NLL: -1.1972; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 17:25:10,516 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.3500000238418579
+2024-08-19 17:25:10,531 - DEBUG - Completed
+2024-08-19 17:25:26,778 - DEBUG - Iter 100/500 - Loss: -0.675
+2024-08-19 17:25:42,752 - DEBUG - Iter 200/500 - Loss: -1.061
+2024-08-19 17:25:58,672 - DEBUG - Iter 300/500 - Loss: -1.068
+2024-08-19 17:25:58,674 - INFO - Early cut off at epoch 299 with loss of -1.067519187927246
+2024-08-19 17:25:58,878 - INFO - NLL: -1.1964; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 17:25:58,883 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.5
+2024-08-19 17:25:58,898 - DEBUG - Completed
+2024-08-19 17:26:00,434 - DEBUG - Iter 10/500 - Loss: 0.096
+2024-08-19 17:26:01,989 - DEBUG - Iter 20/500 - Loss: -0.326
+2024-08-19 17:26:03,593 - DEBUG - Iter 30/500 - Loss: -0.500
+2024-08-19 17:26:05,248 - DEBUG - Iter 40/500 - Loss: -0.599
+2024-08-19 17:26:06,832 - DEBUG - Iter 50/500 - Loss: -0.647
+2024-08-19 17:26:08,403 - DEBUG - Iter 60/500 - Loss: -0.670
+2024-08-19 17:26:09,942 - DEBUG - Iter 70/500 - Loss: -0.681
+2024-08-19 17:26:11,510 - DEBUG - Iter 80/500 - Loss: -0.687
+2024-08-19 17:26:13,067 - DEBUG - Iter 90/500 - Loss: -0.689
+2024-08-19 17:26:14,632 - DEBUG - Iter 100/500 - Loss: -0.691
+2024-08-19 17:26:14,635 - INFO - Early cut off at epoch 99 with loss of -0.6906716227531433
+2024-08-19 17:26:14,842 - INFO - NLL: -0.8467; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 17:26:14,847 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.5
+2024-08-19 17:26:14,862 - DEBUG - Completed
+2024-08-19 17:26:25,498 - DEBUG - Iter 65/500 - Loss: 0.183
+2024-08-19 17:26:35,814 - DEBUG - Iter 130/500 - Loss: -0.942
+2024-08-19 17:26:46,336 - DEBUG - Iter 195/500 - Loss: -1.067
+2024-08-19 17:26:57,090 - DEBUG - Iter 260/500 - Loss: -1.070
+2024-08-19 17:27:07,384 - DEBUG - Iter 325/500 - Loss: -1.071
+2024-08-19 17:27:17,735 - DEBUG - Iter 390/500 - Loss: -1.072
+2024-08-19 17:27:28,300 - DEBUG - Iter 455/500 - Loss: -1.073
+2024-08-19 17:27:35,612 - INFO - NLL: -1.1957; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 17:27:35,620 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.5
+2024-08-19 17:27:35,634 - DEBUG - Completed
+2024-08-19 17:27:44,468 - DEBUG - Iter 55/500 - Loss: 0.325
+2024-08-19 17:27:53,301 - DEBUG - Iter 110/500 - Loss: -1.126
+2024-08-19 17:28:02,275 - DEBUG - Iter 165/500 - Loss: -1.331
+2024-08-19 17:28:10,918 - DEBUG - Iter 220/500 - Loss: -1.338
+2024-08-19 17:28:19,664 - DEBUG - Iter 275/500 - Loss: -1.340
+2024-08-19 17:28:19,666 - INFO - Early cut off at epoch 274 with loss of -1.3395925760269165
+2024-08-19 17:28:19,886 - INFO - NLL: -1.2389; RMSE: 0.1682; NMSE: 0.8625
+2024-08-19 17:28:19,891 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.5
+2024-08-19 17:28:19,905 - DEBUG - Completed
+2024-08-19 17:28:44,865 - DEBUG - Iter 155/500 - Loss: 0.266
+2024-08-19 17:29:09,621 - DEBUG - Iter 310/500 - Loss: -1.267
+2024-08-19 17:29:34,668 - DEBUG - Iter 465/500 - Loss: -1.271
+2024-08-19 17:29:40,383 - INFO - NLL: -1.2145; RMSE: 0.1677; NMSE: 0.8603
+2024-08-19 17:29:40,389 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.5
+2024-08-19 17:29:40,406 - DEBUG - Completed
+2024-08-19 17:29:56,464 - DEBUG - Iter 100/500 - Loss: 0.366
+2024-08-19 17:30:12,561 - DEBUG - Iter 200/500 - Loss: -0.957
+2024-08-19 17:30:28,548 - DEBUG - Iter 300/500 - Loss: -1.064
+2024-08-19 17:30:44,826 - DEBUG - Iter 400/500 - Loss: -1.066
+2024-08-19 17:30:44,829 - INFO - Early cut off at epoch 399 with loss of -1.0663979053497314
+2024-08-19 17:30:45,035 - INFO - NLL: -1.1951; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 17:30:45,042 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.6499999761581421
+2024-08-19 17:30:45,056 - DEBUG - Completed
+2024-08-19 17:30:46,680 - DEBUG - Iter 10/500 - Loss: 0.091
+2024-08-19 17:30:48,251 - DEBUG - Iter 20/500 - Loss: -0.434
+2024-08-19 17:30:49,780 - DEBUG - Iter 30/500 - Loss: -0.782
+2024-08-19 17:30:51,339 - DEBUG - Iter 40/500 - Loss: -0.969
+2024-08-19 17:30:52,888 - DEBUG - Iter 50/500 - Loss: -1.061
+2024-08-19 17:30:54,476 - DEBUG - Iter 60/500 - Loss: -1.108
+2024-08-19 17:30:56,147 - DEBUG - Iter 70/500 - Loss: -1.133
+2024-08-19 17:30:57,809 - DEBUG - Iter 80/500 - Loss: -1.146
+2024-08-19 17:30:59,455 - DEBUG - Iter 90/500 - Loss: -1.154
+2024-08-19 17:31:01,003 - DEBUG - Iter 100/500 - Loss: -1.158
+2024-08-19 17:31:02,579 - DEBUG - Iter 110/500 - Loss: -1.161
+2024-08-19 17:31:04,151 - DEBUG - Iter 120/500 - Loss: -1.163
+2024-08-19 17:31:04,153 - INFO - Early cut off at epoch 119 with loss of -1.1631332635879517
+2024-08-19 17:31:04,391 - INFO - NLL: -1.1303; RMSE: 0.1684; NMSE: 0.8637
+2024-08-19 17:31:04,402 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.6499999761581421
+2024-08-19 17:31:04,416 - DEBUG - Completed
+2024-08-19 17:31:14,973 - DEBUG - Iter 65/500 - Loss: -0.277
+2024-08-19 17:31:25,595 - DEBUG - Iter 130/500 - Loss: -0.977
+2024-08-19 17:31:36,138 - DEBUG - Iter 195/500 - Loss: -1.261
+2024-08-19 17:31:46,601 - DEBUG - Iter 260/500 - Loss: -1.267
+2024-08-19 17:31:57,093 - DEBUG - Iter 325/500 - Loss: -1.269
+2024-08-19 17:32:07,410 - DEBUG - Iter 390/500 - Loss: -1.270
+2024-08-19 17:32:17,535 - DEBUG - Iter 455/500 - Loss: -1.270
+2024-08-19 17:32:25,140 - INFO - NLL: -1.2137; RMSE: 0.1678; NMSE: 0.8609
+2024-08-19 17:32:25,146 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.6499999761581421
+2024-08-19 17:32:25,163 - DEBUG - Completed
+2024-08-19 17:32:33,978 - DEBUG - Iter 55/500 - Loss: -0.754
+2024-08-19 17:32:42,660 - DEBUG - Iter 110/500 - Loss: -1.160
+2024-08-19 17:32:51,412 - DEBUG - Iter 165/500 - Loss: -1.261
+2024-08-19 17:33:00,315 - DEBUG - Iter 220/500 - Loss: -1.267
+2024-08-19 17:33:08,809 - DEBUG - Iter 275/500 - Loss: -1.269
+2024-08-19 17:33:08,812 - INFO - Early cut off at epoch 274 with loss of -1.268855094909668
+2024-08-19 17:33:09,050 - INFO - NLL: -1.2121; RMSE: 0.1678; NMSE: 0.8607
+2024-08-19 17:33:09,058 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.6499999761581421
+2024-08-19 17:33:09,073 - DEBUG - Completed
+2024-08-19 17:33:34,043 - DEBUG - Iter 155/500 - Loss: 0.490
+2024-08-19 17:33:58,885 - DEBUG - Iter 310/500 - Loss: -1.061
+2024-08-19 17:34:23,400 - DEBUG - Iter 465/500 - Loss: -1.069
+2024-08-19 17:34:29,066 - INFO - NLL: -1.1976; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 17:34:29,072 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.6499999761581421
+2024-08-19 17:34:29,088 - DEBUG - Completed
+2024-08-19 17:34:45,003 - DEBUG - Iter 100/500 - Loss: 1.990
+2024-08-19 17:35:01,221 - DEBUG - Iter 200/500 - Loss: -0.853
+2024-08-19 17:35:17,016 - DEBUG - Iter 300/500 - Loss: -1.066
+2024-08-19 17:35:33,079 - DEBUG - Iter 400/500 - Loss: -1.068
+2024-08-19 17:35:33,081 - INFO - Early cut off at epoch 399 with loss of -1.0679171085357666
+2024-08-19 17:35:33,290 - INFO - NLL: -1.1967; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 17:35:33,297 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.800000011920929
+2024-08-19 17:35:33,312 - DEBUG - Completed
+2024-08-19 17:35:34,918 - DEBUG - Iter 10/500 - Loss: 0.081
+2024-08-19 17:35:36,642 - DEBUG - Iter 20/500 - Loss: -0.461
+2024-08-19 17:35:38,295 - DEBUG - Iter 30/500 - Loss: -0.766
+2024-08-19 17:35:39,836 - DEBUG - Iter 40/500 - Loss: -0.846
+2024-08-19 17:35:41,410 - DEBUG - Iter 50/500 - Loss: -1.001
+2024-08-19 17:35:42,933 - DEBUG - Iter 60/500 - Loss: -1.023
+2024-08-19 17:35:44,512 - DEBUG - Iter 70/500 - Loss: -1.041
+2024-08-19 17:35:46,087 - DEBUG - Iter 80/500 - Loss: -1.049
+2024-08-19 17:35:47,675 - DEBUG - Iter 90/500 - Loss: -1.052
+2024-08-19 17:35:49,330 - DEBUG - Iter 100/500 - Loss: -1.055
+2024-08-19 17:35:49,333 - INFO - Early cut off at epoch 99 with loss of -1.054603934288025
+2024-08-19 17:35:49,539 - INFO - NLL: -1.1843; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 17:35:49,544 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.800000011920929
+2024-08-19 17:35:49,561 - DEBUG - Completed
+2024-08-19 17:35:59,810 - DEBUG - Iter 65/500 - Loss: -0.653
+2024-08-19 17:36:10,378 - DEBUG - Iter 130/500 - Loss: -0.917
+2024-08-19 17:36:20,641 - DEBUG - Iter 195/500 - Loss: -1.149
+2024-08-19 17:36:30,951 - DEBUG - Iter 260/500 - Loss: -1.270
+2024-08-19 17:36:41,456 - DEBUG - Iter 325/500 - Loss: -1.271
+2024-08-19 17:36:51,752 - DEBUG - Iter 390/500 - Loss: -1.272
+2024-08-19 17:37:02,090 - DEBUG - Iter 455/500 - Loss: -1.272
+2024-08-19 17:37:09,533 - INFO - NLL: -1.2153; RMSE: 0.1678; NMSE: 0.8608
+2024-08-19 17:37:09,541 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.800000011920929
+2024-08-19 17:37:09,557 - DEBUG - Completed
+2024-08-19 17:37:18,660 - DEBUG - Iter 55/500 - Loss: -0.096
+2024-08-19 17:37:27,292 - DEBUG - Iter 110/500 - Loss: -0.976
+2024-08-19 17:37:35,872 - DEBUG - Iter 165/500 - Loss: -1.229
+2024-08-19 17:37:44,581 - DEBUG - Iter 220/500 - Loss: -1.268
+2024-08-19 17:37:53,533 - DEBUG - Iter 275/500 - Loss: -1.270
+2024-08-19 17:37:53,535 - INFO - Early cut off at epoch 274 with loss of -1.2704458236694336
+2024-08-19 17:37:53,738 - INFO - NLL: -1.2139; RMSE: 0.1677; NMSE: 0.8604
+2024-08-19 17:37:53,744 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.800000011920929
+2024-08-19 17:37:53,760 - DEBUG - Completed
+2024-08-19 17:38:18,271 - DEBUG - Iter 155/500 - Loss: -0.323
+2024-08-19 17:38:42,890 - DEBUG - Iter 310/500 - Loss: -0.651
+2024-08-19 17:39:07,398 - DEBUG - Iter 465/500 - Loss: -0.483
+2024-08-19 17:39:13,017 - INFO - NLL: -1.2299; RMSE: 0.1722; NMSE: 0.8830
+2024-08-19 17:39:13,026 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.800000011920929
+2024-08-19 17:39:13,041 - DEBUG - Completed
+2024-08-19 17:39:29,277 - DEBUG - Iter 100/500 - Loss: 1.151
+2024-08-19 17:39:45,073 - DEBUG - Iter 200/500 - Loss: -0.618
+2024-08-19 17:40:01,071 - DEBUG - Iter 300/500 - Loss: -0.983
+2024-08-19 17:40:17,010 - DEBUG - Iter 400/500 - Loss: -1.067
+2024-08-19 17:40:33,076 - DEBUG - Iter 500/500 - Loss: -1.069
+2024-08-19 17:40:33,079 - INFO - Early cut off at epoch 499 with loss of -1.0688395500183105
+2024-08-19 17:40:33,317 - INFO - NLL: -1.1975; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 17:40:33,323 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.20000000298023224
+2024-08-19 17:40:33,339 - DEBUG - Completed
+2024-08-19 17:40:34,907 - DEBUG - Iter 10/500 - Loss: -0.079
+2024-08-19 17:40:36,474 - DEBUG - Iter 20/500 - Loss: -0.458
+2024-08-19 17:40:38,032 - DEBUG - Iter 30/500 - Loss: -0.535
+2024-08-19 17:40:39,637 - DEBUG - Iter 40/500 - Loss: -0.552
+2024-08-19 17:40:41,289 - DEBUG - Iter 50/500 - Loss: -0.555
+2024-08-19 17:40:42,842 - DEBUG - Iter 60/500 - Loss: -0.555
+2024-08-19 17:40:42,845 - INFO - Early cut off at epoch 59 with loss of -0.5554934144020081
+2024-08-19 17:40:43,052 - INFO - NLL: -0.7540; RMSE: 0.1691; NMSE: 0.8675
+2024-08-19 17:40:43,057 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.20000000298023224
+2024-08-19 17:40:43,072 - DEBUG - Completed
+2024-08-19 17:40:53,261 - DEBUG - Iter 65/500 - Loss: 1.077
+2024-08-19 17:41:03,662 - DEBUG - Iter 130/500 - Loss: -1.024
+2024-08-19 17:41:13,950 - DEBUG - Iter 195/500 - Loss: -1.054
+2024-08-19 17:41:24,199 - DEBUG - Iter 260/500 - Loss: -1.055
+2024-08-19 17:41:34,384 - DEBUG - Iter 325/500 - Loss: -1.056
+2024-08-19 17:41:44,897 - DEBUG - Iter 390/500 - Loss: -1.056
+2024-08-19 17:41:55,198 - DEBUG - Iter 455/500 - Loss: -1.056
+2024-08-19 17:42:02,400 - INFO - NLL: -1.1862; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 17:42:02,406 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.20000000298023224
+2024-08-19 17:42:02,423 - DEBUG - Completed
+2024-08-19 17:42:11,406 - DEBUG - Iter 55/500 - Loss: -0.284
+2024-08-19 17:42:20,138 - DEBUG - Iter 110/500 - Loss: -1.223
+2024-08-19 17:42:28,775 - DEBUG - Iter 165/500 - Loss: -1.252
+2024-08-19 17:42:37,551 - DEBUG - Iter 220/500 - Loss: -1.253
+2024-08-19 17:42:37,553 - INFO - Early cut off at epoch 219 with loss of -1.2533336877822876
+2024-08-19 17:42:37,770 - INFO - NLL: -1.1950; RMSE: 0.1686; NMSE: 0.8650
+2024-08-19 17:42:37,775 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.20000000298023224
+2024-08-19 17:42:37,789 - DEBUG - Completed
+2024-08-19 17:43:02,582 - DEBUG - Iter 155/500 - Loss: 3.625
+2024-08-19 17:43:27,074 - DEBUG - Iter 310/500 - Loss: -0.593
+2024-08-19 17:43:51,958 - DEBUG - Iter 465/500 - Loss: -0.697
+2024-08-19 17:43:57,858 - INFO - NLL: 0.2787; RMSE: 0.8889; NMSE: 4.5595
+2024-08-19 17:43:57,865 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.20000000298023224
+2024-08-19 17:43:57,879 - DEBUG - Completed
+2024-08-19 17:44:13,903 - DEBUG - Iter 100/500 - Loss: 5.581
+2024-08-19 17:44:30,085 - DEBUG - Iter 200/500 - Loss: 3.603
+2024-08-19 17:44:46,131 - DEBUG - Iter 300/500 - Loss: 1.885
+2024-08-19 17:45:02,246 - DEBUG - Iter 400/500 - Loss: 1.802
+2024-08-19 17:45:17,963 - DEBUG - Iter 500/500 - Loss: 1.608
+2024-08-19 17:45:18,170 - INFO - NLL: 5.1645; RMSE: 1.8976; NMSE: 9.7336
+2024-08-19 17:45:18,176 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.3500000238418579
+2024-08-19 17:45:18,191 - DEBUG - Completed
+2024-08-19 17:45:19,810 - DEBUG - Iter 10/500 - Loss: -0.128
+2024-08-19 17:45:21,476 - DEBUG - Iter 20/500 - Loss: -0.550
+2024-08-19 17:45:23,063 - DEBUG - Iter 30/500 - Loss: -0.691
+2024-08-19 17:45:24,673 - DEBUG - Iter 40/500 - Loss: -0.749
+2024-08-19 17:45:26,229 - DEBUG - Iter 50/500 - Loss: -0.766
+2024-08-19 17:45:27,809 - DEBUG - Iter 60/500 - Loss: -0.772
+2024-08-19 17:45:29,398 - DEBUG - Iter 70/500 - Loss: -0.774
+2024-08-19 17:45:31,138 - DEBUG - Iter 80/500 - Loss: -0.775
+2024-08-19 17:45:31,140 - INFO - Early cut off at epoch 79 with loss of -0.7751918435096741
+2024-08-19 17:45:31,344 - INFO - NLL: -0.9126; RMSE: 0.1699; NMSE: 0.8717
+2024-08-19 17:45:31,350 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.3500000238418579
+2024-08-19 17:45:31,365 - DEBUG - Completed
+2024-08-19 17:45:42,026 - DEBUG - Iter 65/500 - Loss: -0.001
+2024-08-19 17:45:52,430 - DEBUG - Iter 130/500 - Loss: -1.017
+2024-08-19 17:46:03,019 - DEBUG - Iter 195/500 - Loss: -1.062
+2024-08-19 17:46:13,235 - DEBUG - Iter 260/500 - Loss: -1.064
+2024-08-19 17:46:23,453 - DEBUG - Iter 325/500 - Loss: -1.064
+2024-08-19 17:46:33,778 - DEBUG - Iter 390/500 - Loss: -1.064
+2024-08-19 17:46:43,941 - DEBUG - Iter 455/500 - Loss: -1.065
+2024-08-19 17:46:51,316 - INFO - NLL: -1.1936; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 17:46:51,325 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.3500000238418579
+2024-08-19 17:46:51,340 - DEBUG - Completed
+2024-08-19 17:47:00,406 - DEBUG - Iter 55/500 - Loss: 0.304
+2024-08-19 17:47:09,274 - DEBUG - Iter 110/500 - Loss: -0.781
+2024-08-19 17:47:18,155 - DEBUG - Iter 165/500 - Loss: -0.999
+2024-08-19 17:47:26,857 - DEBUG - Iter 220/500 - Loss: -1.022
+2024-08-19 17:47:35,583 - DEBUG - Iter 275/500 - Loss: -1.030
+2024-08-19 17:47:44,349 - DEBUG - Iter 330/500 - Loss: -1.033
+2024-08-19 17:47:53,092 - DEBUG - Iter 385/500 - Loss: -1.034
+2024-08-19 17:47:53,094 - INFO - Early cut off at epoch 384 with loss of -1.0344682931900024
+2024-08-19 17:47:53,297 - INFO - NLL: -0.8063; RMSE: 0.1699; NMSE: 0.8717
+2024-08-19 17:47:53,303 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.3500000238418579
+2024-08-19 17:47:53,319 - DEBUG - Completed
+2024-08-19 17:48:18,165 - DEBUG - Iter 155/500 - Loss: 1.374
+2024-08-19 17:48:43,225 - DEBUG - Iter 310/500 - Loss: -0.481
+2024-08-19 17:49:07,794 - DEBUG - Iter 465/500 - Loss: -1.057
+2024-08-19 17:49:13,576 - INFO - NLL: -1.1885; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 17:49:13,584 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.3500000238418579
+2024-08-19 17:49:13,599 - DEBUG - Completed
+2024-08-19 17:49:29,627 - DEBUG - Iter 100/500 - Loss: 0.551
+2024-08-19 17:49:45,480 - DEBUG - Iter 200/500 - Loss: -0.946
+2024-08-19 17:50:01,459 - DEBUG - Iter 300/500 - Loss: -1.063
+2024-08-19 17:50:17,405 - DEBUG - Iter 400/500 - Loss: -1.070
+2024-08-19 17:50:33,428 - DEBUG - Iter 500/500 - Loss: -1.072
+2024-08-19 17:50:33,430 - INFO - Early cut off at epoch 499 with loss of -1.0720672607421875
+2024-08-19 17:50:33,638 - INFO - NLL: -1.1930; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 17:50:33,644 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.5
+2024-08-19 17:50:33,661 - DEBUG - Completed
+2024-08-19 17:50:35,256 - DEBUG - Iter 10/500 - Loss: -0.133
+2024-08-19 17:50:36,872 - DEBUG - Iter 20/500 - Loss: -0.625
+2024-08-19 17:50:38,537 - DEBUG - Iter 30/500 - Loss: -0.879
+2024-08-19 17:50:40,129 - DEBUG - Iter 40/500 - Loss: -1.041
+2024-08-19 17:50:41,712 - DEBUG - Iter 50/500 - Loss: -1.103
+2024-08-19 17:50:43,303 - DEBUG - Iter 60/500 - Loss: -1.130
+2024-08-19 17:50:44,876 - DEBUG - Iter 70/500 - Loss: -1.142
+2024-08-19 17:50:46,436 - DEBUG - Iter 80/500 - Loss: -1.148
+2024-08-19 17:50:47,985 - DEBUG - Iter 90/500 - Loss: -1.150
+2024-08-19 17:50:47,987 - INFO - Early cut off at epoch 89 with loss of -1.150211215019226
+2024-08-19 17:50:48,221 - INFO - NLL: -1.1152; RMSE: 0.1681; NMSE: 0.8622
+2024-08-19 17:50:48,227 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.5
+2024-08-19 17:50:48,242 - DEBUG - Completed
+2024-08-19 17:50:58,811 - DEBUG - Iter 65/500 - Loss: 0.571
+2024-08-19 17:51:09,478 - DEBUG - Iter 130/500 - Loss: -0.190
+2024-08-19 17:51:19,795 - DEBUG - Iter 195/500 - Loss: -0.833
+2024-08-19 17:51:30,413 - DEBUG - Iter 260/500 - Loss: -1.255
+2024-08-19 17:51:40,802 - DEBUG - Iter 325/500 - Loss: -1.259
+2024-08-19 17:51:51,054 - DEBUG - Iter 390/500 - Loss: -1.261
+2024-08-19 17:52:01,407 - DEBUG - Iter 455/500 - Loss: -1.262
+2024-08-19 17:52:08,870 - INFO - NLL: -1.2036; RMSE: 0.1683; NMSE: 0.8633
+2024-08-19 17:52:08,878 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.5
+2024-08-19 17:52:08,893 - DEBUG - Completed
+2024-08-19 17:52:17,766 - DEBUG - Iter 55/500 - Loss: 0.069
+2024-08-19 17:52:26,536 - DEBUG - Iter 110/500 - Loss: 0.756
+2024-08-19 17:52:35,593 - DEBUG - Iter 165/500 - Loss: -0.743
+2024-08-19 17:52:44,285 - DEBUG - Iter 220/500 - Loss: -0.967
+2024-08-19 17:52:53,102 - DEBUG - Iter 275/500 - Loss: -1.051
+2024-08-19 17:53:01,682 - DEBUG - Iter 330/500 - Loss: -1.055
+2024-08-19 17:53:10,481 - DEBUG - Iter 385/500 - Loss: -1.056
+2024-08-19 17:53:10,483 - INFO - Early cut off at epoch 384 with loss of -1.0560234785079956
+2024-08-19 17:53:10,705 - INFO - NLL: -1.1863; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 17:53:10,713 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.5
+2024-08-19 17:53:10,731 - DEBUG - Completed
+2024-08-19 17:53:35,934 - DEBUG - Iter 155/500 - Loss: 2.812
+2024-08-19 17:54:01,319 - DEBUG - Iter 310/500 - Loss: -0.746
+2024-08-19 17:54:26,202 - DEBUG - Iter 465/500 - Loss: -1.228
+2024-08-19 17:54:32,143 - INFO - NLL: -1.1816; RMSE: 0.1686; NMSE: 0.8650
+2024-08-19 17:54:32,150 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.5
+2024-08-19 17:54:32,165 - DEBUG - Completed
+2024-08-19 17:54:48,395 - DEBUG - Iter 100/500 - Loss: 0.788
+2024-08-19 17:55:04,501 - DEBUG - Iter 200/500 - Loss: -0.352
+2024-08-19 17:55:20,549 - DEBUG - Iter 300/500 - Loss: -1.109
+2024-08-19 17:55:36,555 - DEBUG - Iter 400/500 - Loss: -1.256
+2024-08-19 17:55:52,373 - DEBUG - Iter 500/500 - Loss: -1.259
+2024-08-19 17:55:52,588 - INFO - NLL: -1.1920; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 17:55:52,596 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.6499999761581421
+2024-08-19 17:55:52,611 - DEBUG - Completed
+2024-08-19 17:55:54,568 - DEBUG - Iter 10/500 - Loss: -0.050
+2024-08-19 17:55:56,130 - DEBUG - Iter 20/500 - Loss: -0.569
+2024-08-19 17:55:57,691 - DEBUG - Iter 30/500 - Loss: -0.960
+2024-08-19 17:55:59,263 - DEBUG - Iter 40/500 - Loss: -1.110
+2024-08-19 17:56:00,832 - DEBUG - Iter 50/500 - Loss: -1.232
+2024-08-19 17:56:02,415 - DEBUG - Iter 60/500 - Loss: -1.274
+2024-08-19 17:56:04,019 - DEBUG - Iter 70/500 - Loss: -1.294
+2024-08-19 17:56:05,644 - DEBUG - Iter 80/500 - Loss: -1.302
+2024-08-19 17:56:07,263 - DEBUG - Iter 90/500 - Loss: -1.307
+2024-08-19 17:56:08,859 - DEBUG - Iter 100/500 - Loss: -1.309
+2024-08-19 17:56:08,861 - INFO - Early cut off at epoch 99 with loss of -1.3092199563980103
+2024-08-19 17:56:09,066 - INFO - NLL: -1.2131; RMSE: 0.1677; NMSE: 0.8602
+2024-08-19 17:56:09,073 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.6499999761581421
+2024-08-19 17:56:09,088 - DEBUG - Completed
+2024-08-19 17:56:19,466 - DEBUG - Iter 65/500 - Loss: 0.220
+2024-08-19 17:56:30,096 - DEBUG - Iter 130/500 - Loss: -0.190
+2024-08-19 17:56:40,271 - DEBUG - Iter 195/500 - Loss: -0.804
+2024-08-19 17:56:50,719 - DEBUG - Iter 260/500 - Loss: -1.020
+2024-08-19 17:57:01,227 - DEBUG - Iter 325/500 - Loss: -1.066
+2024-08-19 17:57:11,445 - DEBUG - Iter 390/500 - Loss: -1.067
+2024-08-19 17:57:21,832 - DEBUG - Iter 455/500 - Loss: -1.067
+2024-08-19 17:57:29,180 - INFO - NLL: -1.1964; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 17:57:29,186 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.6499999761581421
+2024-08-19 17:57:29,200 - DEBUG - Completed
+2024-08-19 17:57:38,186 - DEBUG - Iter 55/500 - Loss: -0.324
+2024-08-19 17:57:47,200 - DEBUG - Iter 110/500 - Loss: -0.343
+2024-08-19 17:57:56,055 - DEBUG - Iter 165/500 - Loss: -0.508
+2024-08-19 17:58:04,613 - DEBUG - Iter 220/500 - Loss: -1.232
+2024-08-19 17:58:13,489 - DEBUG - Iter 275/500 - Loss: -1.263
+2024-08-19 17:58:22,243 - DEBUG - Iter 330/500 - Loss: -1.267
+2024-08-19 17:58:30,999 - DEBUG - Iter 385/500 - Loss: -1.268
+2024-08-19 17:58:31,001 - INFO - Early cut off at epoch 384 with loss of -1.2678900957107544
+2024-08-19 17:58:31,214 - INFO - NLL: -1.2114; RMSE: 0.1677; NMSE: 0.8602
+2024-08-19 17:58:31,221 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.6499999761581421
+2024-08-19 17:58:31,238 - DEBUG - Completed
+2024-08-19 17:58:56,371 - DEBUG - Iter 155/500 - Loss: 0.952
+2024-08-19 17:59:21,647 - DEBUG - Iter 310/500 - Loss: 6.543
+2024-08-19 17:59:46,788 - DEBUG - Iter 465/500 - Loss: 3.856
+2024-08-19 17:59:52,902 - INFO - NLL: 5.4134; RMSE: 0.6731; NMSE: 3.4526
+2024-08-19 17:59:52,908 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.6499999761581421
+2024-08-19 17:59:52,924 - DEBUG - Completed
+2024-08-19 18:00:08,896 - DEBUG - Iter 100/500 - Loss: 2.243
+2024-08-19 18:00:24,515 - DEBUG - Iter 200/500 - Loss: -0.712
+2024-08-19 18:00:40,433 - DEBUG - Iter 300/500 - Loss: -1.024
+2024-08-19 18:00:56,245 - DEBUG - Iter 400/500 - Loss: -0.961
+2024-08-19 18:01:12,510 - DEBUG - Iter 500/500 - Loss: -1.261
+2024-08-19 18:01:12,715 - INFO - NLL: -1.1922; RMSE: 0.1699; NMSE: 0.8712
+2024-08-19 18:01:12,722 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.800000011920929
+2024-08-19 18:01:12,739 - DEBUG - Completed
+2024-08-19 18:01:14,336 - DEBUG - Iter 10/500 - Loss: -0.137
+2024-08-19 18:01:15,880 - DEBUG - Iter 20/500 - Loss: -0.599
+2024-08-19 18:01:17,438 - DEBUG - Iter 30/500 - Loss: -0.780
+2024-08-19 18:01:18,976 - DEBUG - Iter 40/500 - Loss: -0.838
+2024-08-19 18:01:20,643 - DEBUG - Iter 50/500 - Loss: -1.044
+2024-08-19 18:01:22,383 - DEBUG - Iter 60/500 - Loss: -1.169
+2024-08-19 18:01:24,238 - DEBUG - Iter 70/500 - Loss: -1.226
+2024-08-19 18:01:25,832 - DEBUG - Iter 80/500 - Loss: -1.245
+2024-08-19 18:01:27,484 - DEBUG - Iter 90/500 - Loss: -1.252
+2024-08-19 18:01:29,073 - DEBUG - Iter 100/500 - Loss: -1.255
+2024-08-19 18:01:30,627 - DEBUG - Iter 110/500 - Loss: -1.257
+2024-08-19 18:01:30,630 - INFO - Early cut off at epoch 109 with loss of -1.2572007179260254
+2024-08-19 18:01:30,834 - INFO - NLL: -1.1998; RMSE: 0.1689; NMSE: 0.8663
+2024-08-19 18:01:30,840 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.800000011920929
+2024-08-19 18:01:30,855 - DEBUG - Completed
+2024-08-19 18:01:41,399 - DEBUG - Iter 65/500 - Loss: 0.423
+2024-08-19 18:01:51,774 - DEBUG - Iter 130/500 - Loss: -0.655
+2024-08-19 18:02:02,397 - DEBUG - Iter 195/500 - Loss: 1.634
+2024-08-19 18:02:12,668 - DEBUG - Iter 260/500 - Loss: -0.028
+2024-08-19 18:02:22,766 - DEBUG - Iter 325/500 - Loss: -0.785
+2024-08-19 18:02:32,946 - DEBUG - Iter 390/500 - Loss: -1.050
+2024-08-19 18:02:43,441 - DEBUG - Iter 455/500 - Loss: -1.064
+2024-08-19 18:02:50,823 - INFO - NLL: -1.1955; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:02:50,830 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.800000011920929
+2024-08-19 18:02:50,846 - DEBUG - Completed
+2024-08-19 18:02:59,719 - DEBUG - Iter 55/500 - Loss: 1.867
+2024-08-19 18:03:08,638 - DEBUG - Iter 110/500 - Loss: 0.416
+2024-08-19 18:03:17,648 - DEBUG - Iter 165/500 - Loss: 1.343
+2024-08-19 18:03:26,505 - DEBUG - Iter 220/500 - Loss: -0.489
+2024-08-19 18:03:35,201 - DEBUG - Iter 275/500 - Loss: -0.895
+2024-08-19 18:03:44,006 - DEBUG - Iter 330/500 - Loss: -1.038
+2024-08-19 18:03:52,749 - DEBUG - Iter 385/500 - Loss: -1.067
+2024-08-19 18:04:01,399 - DEBUG - Iter 440/500 - Loss: -1.068
+2024-08-19 18:04:01,402 - INFO - Early cut off at epoch 439 with loss of -1.0682036876678467
+2024-08-19 18:04:01,617 - INFO - NLL: -1.1970; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:04:01,624 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.800000011920929
+2024-08-19 18:04:01,638 - DEBUG - Completed
+2024-08-19 18:04:26,262 - DEBUG - Iter 155/500 - Loss: 0.611
+2024-08-19 18:04:51,314 - DEBUG - Iter 310/500 - Loss: 2.425
+2024-08-19 18:05:16,412 - DEBUG - Iter 465/500 - Loss: 5.269
+2024-08-19 18:05:22,138 - INFO - NLL: 6.5938; RMSE: 0.6996; NMSE: 3.5886
+2024-08-19 18:05:22,146 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.800000011920929
+2024-08-19 18:05:22,160 - DEBUG - Completed
+2024-08-19 18:05:38,378 - DEBUG - Iter 100/500 - Loss: -0.045
+2024-08-19 18:05:54,729 - DEBUG - Iter 200/500 - Loss: 5.436
+2024-08-19 18:06:10,705 - DEBUG - Iter 300/500 - Loss: 2.522
+2024-08-19 18:06:26,952 - DEBUG - Iter 400/500 - Loss: -0.323
+2024-08-19 18:06:42,964 - DEBUG - Iter 500/500 - Loss: -0.622
+2024-08-19 18:06:43,168 - INFO - NLL: -0.7841; RMSE: 0.2244; NMSE: 1.1513
+2024-08-19 18:06:43,173 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.20000000298023224
+2024-08-19 18:06:43,188 - DEBUG - Completed
+2024-08-19 18:06:44,744 - DEBUG - Iter 10/500 - Loss: 0.213
+2024-08-19 18:06:46,557 - DEBUG - Iter 20/500 - Loss: -0.559
+2024-08-19 18:06:48,164 - DEBUG - Iter 30/500 - Loss: -0.669
+2024-08-19 18:06:49,840 - DEBUG - Iter 40/500 - Loss: -0.702
+2024-08-19 18:06:51,540 - DEBUG - Iter 50/500 - Loss: -0.708
+2024-08-19 18:06:53,125 - DEBUG - Iter 60/500 - Loss: -0.710
+2024-08-19 18:06:53,129 - INFO - Early cut off at epoch 59 with loss of -0.7096906900405884
+2024-08-19 18:06:53,336 - INFO - NLL: -0.5757; RMSE: 0.1875; NMSE: 0.9615
+2024-08-19 18:06:53,341 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.20000000298023224
+2024-08-19 18:06:53,358 - DEBUG - Completed
+2024-08-19 18:07:03,794 - DEBUG - Iter 65/500 - Loss: 3.341
+2024-08-19 18:07:14,228 - DEBUG - Iter 130/500 - Loss: -0.205
+2024-08-19 18:07:24,619 - DEBUG - Iter 195/500 - Loss: -1.012
+2024-08-19 18:07:34,874 - DEBUG - Iter 260/500 - Loss: -1.037
+2024-08-19 18:07:45,349 - DEBUG - Iter 325/500 - Loss: -1.039
+2024-08-19 18:07:55,948 - DEBUG - Iter 390/500 - Loss: -1.040
+2024-08-19 18:08:06,181 - DEBUG - Iter 455/500 - Loss: -1.040
+2024-08-19 18:08:13,332 - INFO - NLL: -1.1708; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 18:08:13,339 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.20000000298023224
+2024-08-19 18:08:13,354 - DEBUG - Completed
+2024-08-19 18:08:22,296 - DEBUG - Iter 55/500 - Loss: 1.926
+2024-08-19 18:08:31,170 - DEBUG - Iter 110/500 - Loss: -0.963
+2024-08-19 18:08:40,116 - DEBUG - Iter 165/500 - Loss: -1.203
+2024-08-19 18:08:48,814 - DEBUG - Iter 220/500 - Loss: -1.213
+2024-08-19 18:08:57,795 - DEBUG - Iter 275/500 - Loss: -1.215
+2024-08-19 18:08:57,797 - INFO - Early cut off at epoch 274 with loss of -1.2145717144012451
+2024-08-19 18:08:58,004 - INFO - NLL: -1.1684; RMSE: 0.1696; NMSE: 0.8699
+2024-08-19 18:08:58,009 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.20000000298023224
+2024-08-19 18:08:58,023 - DEBUG - Completed
+2024-08-19 18:09:22,587 - DEBUG - Iter 155/500 - Loss: 1.937
+2024-08-19 18:09:47,502 - DEBUG - Iter 310/500 - Loss: -0.532
+2024-08-19 18:10:12,448 - DEBUG - Iter 465/500 - Loss: -0.838
+2024-08-19 18:10:18,215 - INFO - NLL: 0.7121; RMSE: 0.8481; NMSE: 4.3502
+2024-08-19 18:10:18,221 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.20000000298023224
+2024-08-19 18:10:18,237 - DEBUG - Completed
+2024-08-19 18:10:34,530 - DEBUG - Iter 100/500 - Loss: 0.705
+2024-08-19 18:10:50,197 - DEBUG - Iter 200/500 - Loss: -1.025
+2024-08-19 18:11:06,392 - DEBUG - Iter 300/500 - Loss: -1.172
+2024-08-19 18:11:22,260 - DEBUG - Iter 400/500 - Loss: -1.189
+2024-08-19 18:11:38,245 - DEBUG - Iter 500/500 - Loss: -1.193
+2024-08-19 18:11:38,456 - INFO - NLL: -1.2109; RMSE: 0.1672; NMSE: 0.8577
+2024-08-19 18:11:38,462 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.3500000238418579
+2024-08-19 18:11:38,477 - DEBUG - Completed
+2024-08-19 18:11:40,049 - DEBUG - Iter 10/500 - Loss: 0.702
+2024-08-19 18:11:41,682 - DEBUG - Iter 20/500 - Loss: -0.303
+2024-08-19 18:11:43,342 - DEBUG - Iter 30/500 - Loss: -0.545
+2024-08-19 18:11:44,912 - DEBUG - Iter 40/500 - Loss: -0.661
+2024-08-19 18:11:46,515 - DEBUG - Iter 50/500 - Loss: -0.694
+2024-08-19 18:11:48,076 - DEBUG - Iter 60/500 - Loss: -0.704
+2024-08-19 18:11:49,619 - DEBUG - Iter 70/500 - Loss: -0.708
+2024-08-19 18:11:51,167 - DEBUG - Iter 80/500 - Loss: -0.709
+2024-08-19 18:11:51,169 - INFO - Early cut off at epoch 79 with loss of -0.7092157602310181
+2024-08-19 18:11:51,372 - INFO - NLL: -0.7958; RMSE: 0.1726; NMSE: 0.8855
+2024-08-19 18:11:51,380 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.3500000238418579
+2024-08-19 18:11:51,394 - DEBUG - Completed
+2024-08-19 18:12:01,806 - DEBUG - Iter 65/500 - Loss: 4.287
+2024-08-19 18:12:12,406 - DEBUG - Iter 130/500 - Loss: 0.150
+2024-08-19 18:12:22,767 - DEBUG - Iter 195/500 - Loss: -0.725
+2024-08-19 18:12:33,227 - DEBUG - Iter 260/500 - Loss: -0.871
+2024-08-19 18:12:43,848 - DEBUG - Iter 325/500 - Loss: -0.897
+2024-08-19 18:12:54,159 - DEBUG - Iter 390/500 - Loss: -0.904
+2024-08-19 18:13:04,438 - DEBUG - Iter 455/500 - Loss: -0.906
+2024-08-19 18:13:11,996 - INFO - NLL: -0.3648; RMSE: 0.1707; NMSE: 0.8753
+2024-08-19 18:13:12,003 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.3500000238418579
+2024-08-19 18:13:12,018 - DEBUG - Completed
+2024-08-19 18:13:20,959 - DEBUG - Iter 55/500 - Loss: 2.446
+2024-08-19 18:13:29,627 - DEBUG - Iter 110/500 - Loss: -0.853
+2024-08-19 18:13:38,518 - DEBUG - Iter 165/500 - Loss: -1.073
+2024-08-19 18:13:47,567 - DEBUG - Iter 220/500 - Loss: -1.081
+2024-08-19 18:13:56,251 - DEBUG - Iter 275/500 - Loss: -1.083
+2024-08-19 18:14:04,963 - DEBUG - Iter 330/500 - Loss: -1.084
+2024-08-19 18:14:04,965 - INFO - Early cut off at epoch 329 with loss of -1.0843007564544678
+2024-08-19 18:14:05,172 - INFO - NLL: -1.2024; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:14:05,178 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.3500000238418579
+2024-08-19 18:14:05,195 - DEBUG - Completed
+2024-08-19 18:14:30,251 - DEBUG - Iter 155/500 - Loss: 3.664
+2024-08-19 18:14:55,263 - DEBUG - Iter 310/500 - Loss: 2.089
+2024-08-19 18:15:20,029 - DEBUG - Iter 465/500 - Loss: 1.775
+2024-08-19 18:15:26,202 - INFO - NLL: 2.7563; RMSE: 0.2810; NMSE: 1.4414
+2024-08-19 18:15:26,212 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.3500000238418579
+2024-08-19 18:15:26,228 - DEBUG - Completed
+2024-08-19 18:15:42,062 - DEBUG - Iter 100/500 - Loss: 3.662
+2024-08-19 18:15:58,232 - DEBUG - Iter 200/500 - Loss: 0.006
+2024-08-19 18:16:14,190 - DEBUG - Iter 300/500 - Loss: -0.473
+2024-08-19 18:16:30,172 - DEBUG - Iter 400/500 - Loss: -0.550
+2024-08-19 18:16:46,367 - DEBUG - Iter 500/500 - Loss: -0.589
+2024-08-19 18:16:46,603 - INFO - NLL: 0.2229; RMSE: 0.3700; NMSE: 1.8979
+2024-08-19 18:16:46,609 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.5
+2024-08-19 18:16:46,624 - DEBUG - Completed
+2024-08-19 18:16:48,300 - DEBUG - Iter 10/500 - Loss: 0.564
+2024-08-19 18:16:49,908 - DEBUG - Iter 20/500 - Loss: -0.122
+2024-08-19 18:16:51,491 - DEBUG - Iter 30/500 - Loss: -0.505
+2024-08-19 18:16:53,062 - DEBUG - Iter 40/500 - Loss: -0.748
+2024-08-19 18:16:54,868 - DEBUG - Iter 50/500 - Loss: -0.821
+2024-08-19 18:16:56,487 - DEBUG - Iter 60/500 - Loss: -0.862
+2024-08-19 18:16:58,116 - DEBUG - Iter 70/500 - Loss: -0.882
+2024-08-19 18:16:59,773 - DEBUG - Iter 80/500 - Loss: -0.891
+2024-08-19 18:17:01,359 - DEBUG - Iter 90/500 - Loss: -0.896
+2024-08-19 18:17:02,971 - DEBUG - Iter 100/500 - Loss: -0.899
+2024-08-19 18:17:04,498 - DEBUG - Iter 110/500 - Loss: -0.900
+2024-08-19 18:17:04,500 - INFO - Early cut off at epoch 109 with loss of -0.89982008934021
+2024-08-19 18:17:04,704 - INFO - NLL: -0.7896; RMSE: 0.1715; NMSE: 0.8795
+2024-08-19 18:17:04,710 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.5
+2024-08-19 18:17:04,725 - DEBUG - Completed
+2024-08-19 18:17:15,216 - DEBUG - Iter 65/500 - Loss: 1.170
+2024-08-19 18:17:25,371 - DEBUG - Iter 130/500 - Loss: -0.731
+2024-08-19 18:17:35,873 - DEBUG - Iter 195/500 - Loss: -0.831
+2024-08-19 18:17:46,021 - DEBUG - Iter 260/500 - Loss: -1.059
+2024-08-19 18:17:56,387 - DEBUG - Iter 325/500 - Loss: -1.063
+2024-08-19 18:18:06,863 - DEBUG - Iter 390/500 - Loss: -1.065
+2024-08-19 18:18:17,182 - DEBUG - Iter 455/500 - Loss: -1.066
+2024-08-19 18:18:24,520 - INFO - NLL: -1.1887; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:18:24,529 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.5
+2024-08-19 18:18:24,544 - DEBUG - Completed
+2024-08-19 18:18:33,644 - DEBUG - Iter 55/500 - Loss: 0.294
+2024-08-19 18:18:42,429 - DEBUG - Iter 110/500 - Loss: 0.405
+2024-08-19 18:18:51,155 - DEBUG - Iter 165/500 - Loss: -0.307
+2024-08-19 18:18:59,752 - DEBUG - Iter 220/500 - Loss: -1.086
+2024-08-19 18:19:08,607 - DEBUG - Iter 275/500 - Loss: -1.192
+2024-08-19 18:19:17,343 - DEBUG - Iter 330/500 - Loss: -1.227
+2024-08-19 18:19:26,247 - DEBUG - Iter 385/500 - Loss: -1.236
+2024-08-19 18:19:34,895 - DEBUG - Iter 440/500 - Loss: -1.240
+2024-08-19 18:19:43,848 - DEBUG - Iter 495/500 - Loss: -1.242
+2024-08-19 18:19:43,851 - INFO - Early cut off at epoch 494 with loss of -1.2421578168869019
+2024-08-19 18:19:44,054 - INFO - NLL: -1.1845; RMSE: 0.1689; NMSE: 0.8665
+2024-08-19 18:19:44,062 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.5
+2024-08-19 18:19:44,076 - DEBUG - Completed
+2024-08-19 18:20:08,905 - DEBUG - Iter 155/500 - Loss: 8.013
+2024-08-19 18:20:33,825 - DEBUG - Iter 310/500 - Loss: 6.488
+2024-08-19 18:20:58,812 - DEBUG - Iter 465/500 - Loss: 6.772
+2024-08-19 18:21:04,695 - INFO - NLL: 7.8740; RMSE: 1.4442; NMSE: 7.4076
+2024-08-19 18:21:04,703 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.5
+2024-08-19 18:21:04,718 - DEBUG - Completed
+2024-08-19 18:21:20,920 - DEBUG - Iter 100/500 - Loss: 7.525
+2024-08-19 18:21:37,088 - DEBUG - Iter 200/500 - Loss: 4.848
+2024-08-19 18:21:53,530 - DEBUG - Iter 300/500 - Loss: 2.237
+2024-08-19 18:22:09,645 - DEBUG - Iter 400/500 - Loss: 0.194
+2024-08-19 18:22:25,601 - DEBUG - Iter 500/500 - Loss: -0.130
+2024-08-19 18:22:25,805 - INFO - NLL: 1.9804; RMSE: 2.1982; NMSE: 11.2751
+2024-08-19 18:22:25,813 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.6499999761581421
+2024-08-19 18:22:25,827 - DEBUG - Completed
+2024-08-19 18:22:27,494 - DEBUG - Iter 10/500 - Loss: 0.258
+2024-08-19 18:22:29,135 - DEBUG - Iter 20/500 - Loss: -0.189
+2024-08-19 18:22:30,716 - DEBUG - Iter 30/500 - Loss: -0.610
+2024-08-19 18:22:32,287 - DEBUG - Iter 40/500 - Loss: -0.901
+2024-08-19 18:22:33,886 - DEBUG - Iter 50/500 - Loss: -1.048
+2024-08-19 18:22:35,419 - DEBUG - Iter 60/500 - Loss: -1.122
+2024-08-19 18:22:36,951 - DEBUG - Iter 70/500 - Loss: -1.166
+2024-08-19 18:22:38,515 - DEBUG - Iter 80/500 - Loss: -1.184
+2024-08-19 18:22:40,174 - DEBUG - Iter 90/500 - Loss: -1.192
+2024-08-19 18:22:41,745 - DEBUG - Iter 100/500 - Loss: -1.197
+2024-08-19 18:22:43,309 - DEBUG - Iter 110/500 - Loss: -1.201
+2024-08-19 18:22:44,883 - DEBUG - Iter 120/500 - Loss: -1.202
+2024-08-19 18:22:44,885 - INFO - Early cut off at epoch 119 with loss of -1.2024204730987549
+2024-08-19 18:22:45,090 - INFO - NLL: -1.1570; RMSE: 0.1695; NMSE: 0.8692
+2024-08-19 18:22:45,096 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.6499999761581421
+2024-08-19 18:22:45,111 - DEBUG - Completed
+2024-08-19 18:22:55,636 - DEBUG - Iter 65/500 - Loss: 1.343
+2024-08-19 18:23:05,848 - DEBUG - Iter 130/500 - Loss: 1.652
+2024-08-19 18:23:15,978 - DEBUG - Iter 195/500 - Loss: 1.893
+2024-08-19 18:23:26,462 - DEBUG - Iter 260/500 - Loss: 0.083
+2024-08-19 18:23:36,998 - DEBUG - Iter 325/500 - Loss: -0.996
+2024-08-19 18:23:47,245 - DEBUG - Iter 390/500 - Loss: -1.057
+2024-08-19 18:23:57,561 - DEBUG - Iter 455/500 - Loss: -1.061
+2024-08-19 18:24:04,991 - INFO - NLL: -1.1919; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:24:04,999 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.6499999761581421
+2024-08-19 18:24:05,014 - DEBUG - Completed
+2024-08-19 18:24:13,669 - DEBUG - Iter 55/500 - Loss: 0.680
+2024-08-19 18:24:22,379 - DEBUG - Iter 110/500 - Loss: 0.282
+2024-08-19 18:24:31,125 - DEBUG - Iter 165/500 - Loss: -0.882
+2024-08-19 18:24:39,830 - DEBUG - Iter 220/500 - Loss: -1.039
+2024-08-19 18:24:48,584 - DEBUG - Iter 275/500 - Loss: -1.070
+2024-08-19 18:24:57,484 - DEBUG - Iter 330/500 - Loss: -1.074
+2024-08-19 18:25:06,121 - DEBUG - Iter 385/500 - Loss: -1.076
+2024-08-19 18:25:06,123 - INFO - Early cut off at epoch 384 with loss of -1.0760931968688965
+2024-08-19 18:25:06,342 - INFO - NLL: -1.1968; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:25:06,349 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.6499999761581421
+2024-08-19 18:25:06,363 - DEBUG - Completed
+2024-08-19 18:25:31,090 - DEBUG - Iter 155/500 - Loss: 2.704
+2024-08-19 18:25:55,919 - DEBUG - Iter 310/500 - Loss: 0.833
+2024-08-19 18:26:20,934 - DEBUG - Iter 465/500 - Loss: -0.138
+2024-08-19 18:26:26,588 - INFO - NLL: -0.5382; RMSE: 0.1822; NMSE: 0.9344
+2024-08-19 18:26:26,594 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.6499999761581421
+2024-08-19 18:26:26,610 - DEBUG - Completed
+2024-08-19 18:26:42,317 - DEBUG - Iter 100/500 - Loss: 6.819
+2024-08-19 18:26:58,678 - DEBUG - Iter 200/500 - Loss: 0.656
+2024-08-19 18:27:14,507 - DEBUG - Iter 300/500 - Loss: -0.794
+2024-08-19 18:27:30,397 - DEBUG - Iter 400/500 - Loss: 0.193
+2024-08-19 18:27:46,197 - DEBUG - Iter 500/500 - Loss: -1.061
+2024-08-19 18:27:46,403 - INFO - NLL: -1.1927; RMSE: 0.1697; NMSE: 0.8704
+2024-08-19 18:27:46,409 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.800000011920929
+2024-08-19 18:27:46,424 - DEBUG - Completed
+2024-08-19 18:27:47,970 - DEBUG - Iter 10/500 - Loss: 0.322
+2024-08-19 18:27:49,522 - DEBUG - Iter 20/500 - Loss: 0.314
+2024-08-19 18:27:51,296 - DEBUG - Iter 30/500 - Loss: -0.427
+2024-08-19 18:27:52,840 - DEBUG - Iter 40/500 - Loss: -0.740
+2024-08-19 18:27:54,380 - DEBUG - Iter 50/500 - Loss: -0.737
+2024-08-19 18:27:55,958 - DEBUG - Iter 60/500 - Loss: -1.009
+2024-08-19 18:27:57,612 - DEBUG - Iter 70/500 - Loss: -1.143
+2024-08-19 18:27:59,197 - DEBUG - Iter 80/500 - Loss: -1.198
+2024-08-19 18:28:00,742 - DEBUG - Iter 90/500 - Loss: -1.234
+2024-08-19 18:28:02,321 - DEBUG - Iter 100/500 - Loss: -1.247
+2024-08-19 18:28:03,866 - DEBUG - Iter 110/500 - Loss: -1.253
+2024-08-19 18:28:05,397 - DEBUG - Iter 120/500 - Loss: -1.256
+2024-08-19 18:28:05,399 - INFO - Early cut off at epoch 119 with loss of -1.2562086582183838
+2024-08-19 18:28:05,600 - INFO - NLL: -1.1985; RMSE: 0.1677; NMSE: 0.8603
+2024-08-19 18:28:05,607 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.800000011920929
+2024-08-19 18:28:05,627 - DEBUG - Completed
+2024-08-19 18:28:15,957 - DEBUG - Iter 65/500 - Loss: 1.179
+2024-08-19 18:28:26,547 - DEBUG - Iter 130/500 - Loss: 5.139
+2024-08-19 18:28:36,938 - DEBUG - Iter 195/500 - Loss: 5.945
+2024-08-19 18:28:47,338 - DEBUG - Iter 260/500 - Loss: 1.800
+2024-08-19 18:28:57,900 - DEBUG - Iter 325/500 - Loss: 6.748
+2024-08-19 18:29:08,210 - DEBUG - Iter 390/500 - Loss: 5.273
+2024-08-19 18:29:18,596 - DEBUG - Iter 455/500 - Loss: 4.992
+2024-08-19 18:29:26,425 - INFO - NLL: 5.7253; RMSE: 0.7930; NMSE: 4.0675
+2024-08-19 18:29:26,433 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.800000011920929
+2024-08-19 18:29:26,448 - DEBUG - Completed
+2024-08-19 18:29:35,240 - DEBUG - Iter 55/500 - Loss: 1.118
+2024-08-19 18:29:43,843 - DEBUG - Iter 110/500 - Loss: -0.493
+2024-08-19 18:29:52,739 - DEBUG - Iter 165/500 - Loss: 2.379
+2024-08-19 18:30:01,494 - DEBUG - Iter 220/500 - Loss: 4.900
+2024-08-19 18:30:10,138 - DEBUG - Iter 275/500 - Loss: 0.237
+2024-08-19 18:30:18,814 - DEBUG - Iter 330/500 - Loss: 3.333
+2024-08-19 18:30:27,993 - DEBUG - Iter 385/500 - Loss: -0.357
+2024-08-19 18:30:36,677 - DEBUG - Iter 440/500 - Loss: 0.014
+2024-08-19 18:30:45,161 - DEBUG - Iter 495/500 - Loss: -0.270
+2024-08-19 18:30:46,161 - INFO - NLL: -0.0156; RMSE: 0.2848; NMSE: 1.4607
+2024-08-19 18:30:46,168 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.800000011920929
+2024-08-19 18:30:46,184 - DEBUG - Completed
+2024-08-19 18:31:11,234 - DEBUG - Iter 155/500 - Loss: 0.539
+2024-08-19 18:31:36,577 - DEBUG - Iter 310/500 - Loss: 7.548
+2024-08-19 18:32:01,557 - DEBUG - Iter 465/500 - Loss: 8.237
+2024-08-19 18:32:07,529 - INFO - NLL: 9.4222; RMSE: 1.8824; NMSE: 9.6554
+2024-08-19 18:32:07,538 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.800000011920929
+2024-08-19 18:32:07,552 - DEBUG - Completed
+2024-08-19 18:32:23,525 - DEBUG - Iter 100/500 - Loss: 2.845
+2024-08-19 18:32:39,927 - DEBUG - Iter 200/500 - Loss: 3.025
+2024-08-19 18:32:55,854 - DEBUG - Iter 300/500 - Loss: 1.159
+2024-08-19 18:33:12,069 - DEBUG - Iter 400/500 - Loss: 5.925
+2024-08-19 18:33:28,232 - DEBUG - Iter 500/500 - Loss: -0.397
+2024-08-19 18:33:28,449 - INFO - NLL: -0.5565; RMSE: 0.1727; NMSE: 0.8857
+2024-08-19 18:33:28,458 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.20000000298023224
+2024-08-19 18:33:28,771 - DEBUG - Iter 10/500 - Loss: 1.644
+2024-08-19 18:33:29,092 - DEBUG - Iter 20/500 - Loss: 1.593
+2024-08-19 18:33:29,397 - DEBUG - Iter 30/500 - Loss: 1.584
+2024-08-19 18:33:29,715 - DEBUG - Iter 40/500 - Loss: 1.582
+2024-08-19 18:33:29,718 - INFO - Early cut off at epoch 39 with loss of 1.581579327583313
+2024-08-19 18:33:29,756 - INFO - NLL: 1.6915; RMSE: 0.5906; NMSE: 3.0292
+2024-08-19 18:33:29,761 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.20000000298023224
+2024-08-19 18:33:31,751 - DEBUG - Iter 65/500 - Loss: 1.015
+2024-08-19 18:33:33,749 - DEBUG - Iter 130/500 - Loss: 0.936
+2024-08-19 18:33:35,925 - DEBUG - Iter 195/500 - Loss: 0.921
+2024-08-19 18:33:38,146 - DEBUG - Iter 260/500 - Loss: 0.919
+2024-08-19 18:33:40,280 - DEBUG - Iter 325/500 - Loss: 0.918
+2024-08-19 18:33:42,264 - DEBUG - Iter 390/500 - Loss: 0.918
+2024-08-19 18:33:44,248 - DEBUG - Iter 455/500 - Loss: 0.918
+2024-08-19 18:33:45,664 - INFO - NLL: 0.9078; RMSE: 0.2581; NMSE: 1.3239
+2024-08-19 18:33:45,668 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:55.0; gamma:0.20000000298023224
+2024-08-19 18:33:47,356 - DEBUG - Iter 55/500 - Loss: 1.090
+2024-08-19 18:33:49,080 - DEBUG - Iter 110/500 - Loss: 1.008
+2024-08-19 18:33:50,888 - DEBUG - Iter 165/500 - Loss: 0.994
+2024-08-19 18:33:52,593 - DEBUG - Iter 220/500 - Loss: 0.991
+2024-08-19 18:33:54,288 - DEBUG - Iter 275/500 - Loss: 0.990
+2024-08-19 18:33:54,290 - INFO - Early cut off at epoch 274 with loss of 0.9901024103164673
+2024-08-19 18:33:54,332 - INFO - NLL: 0.9824; RMSE: 0.3227; NMSE: 1.6552
+2024-08-19 18:33:54,335 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:77.5; gamma:0.20000000298023224
+2024-08-19 18:33:59,069 - DEBUG - Iter 155/500 - Loss: 0.619
+2024-08-19 18:34:03,975 - DEBUG - Iter 310/500 - Loss: 0.517
+2024-08-19 18:34:08,700 - DEBUG - Iter 465/500 - Loss: 0.498
+2024-08-19 18:34:09,793 - INFO - NLL: 0.4702; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 18:34:09,797 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:100.0; gamma:0.20000000298023224
+2024-08-19 18:34:12,859 - DEBUG - Iter 100/500 - Loss: 0.828
+2024-08-19 18:34:16,059 - DEBUG - Iter 200/500 - Loss: 0.744
+2024-08-19 18:34:19,123 - DEBUG - Iter 300/500 - Loss: 0.729
+2024-08-19 18:34:22,180 - DEBUG - Iter 400/500 - Loss: 0.726
+2024-08-19 18:34:25,230 - DEBUG - Iter 500/500 - Loss: 0.726
+2024-08-19 18:34:25,233 - INFO - Early cut off at epoch 499 with loss of 0.7258567214012146
+2024-08-19 18:34:25,272 - INFO - NLL: 0.7097; RMSE: 0.1823; NMSE: 0.9350
+2024-08-19 18:34:25,276 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.3500000238418579
+2024-08-19 18:34:25,619 - DEBUG - Iter 10/500 - Loss: 1.723
+2024-08-19 18:34:25,955 - DEBUG - Iter 20/500 - Loss: 1.641
+2024-08-19 18:34:26,294 - DEBUG - Iter 30/500 - Loss: 1.613
+2024-08-19 18:34:26,629 - DEBUG - Iter 40/500 - Loss: 1.604
+2024-08-19 18:34:26,970 - DEBUG - Iter 50/500 - Loss: 1.600
+2024-08-19 18:34:26,972 - INFO - Early cut off at epoch 49 with loss of 1.6004036664962769
+2024-08-19 18:34:27,014 - INFO - NLL: 1.6318; RMSE: 0.5769; NMSE: 2.9589
+2024-08-19 18:34:27,018 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.3500000238418579
+2024-08-19 18:34:29,100 - DEBUG - Iter 65/500 - Loss: 1.015
+2024-08-19 18:34:31,082 - DEBUG - Iter 130/500 - Loss: 0.885
+2024-08-19 18:34:33,154 - DEBUG - Iter 195/500 - Loss: 0.847
+2024-08-19 18:34:35,221 - DEBUG - Iter 260/500 - Loss: 0.835
+2024-08-19 18:34:37,186 - DEBUG - Iter 325/500 - Loss: 0.831
+2024-08-19 18:34:39,305 - DEBUG - Iter 390/500 - Loss: 0.829
+2024-08-19 18:34:41,388 - DEBUG - Iter 455/500 - Loss: 0.829
+2024-08-19 18:34:42,801 - INFO - NLL: 0.8151; RMSE: 0.2208; NMSE: 1.1328
+2024-08-19 18:34:42,805 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:55.0; gamma:0.3500000238418579
+2024-08-19 18:34:44,622 - DEBUG - Iter 55/500 - Loss: 1.082
+2024-08-19 18:34:46,315 - DEBUG - Iter 110/500 - Loss: 0.957
+2024-08-19 18:34:48,000 - DEBUG - Iter 165/500 - Loss: 0.921
+2024-08-19 18:34:49,700 - DEBUG - Iter 220/500 - Loss: 0.909
+2024-08-19 18:34:51,542 - DEBUG - Iter 275/500 - Loss: 0.904
+2024-08-19 18:34:53,268 - DEBUG - Iter 330/500 - Loss: 0.903
+2024-08-19 18:34:53,271 - INFO - Early cut off at epoch 329 with loss of 0.9029739499092102
+2024-08-19 18:34:53,308 - INFO - NLL: 0.8923; RMSE: 0.2426; NMSE: 1.2443
+2024-08-19 18:34:53,312 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:77.5; gamma:0.3500000238418579
+2024-08-19 18:34:58,013 - DEBUG - Iter 155/500 - Loss: 0.621
+2024-08-19 18:35:02,668 - DEBUG - Iter 310/500 - Loss: 0.447
+2024-08-19 18:35:07,437 - DEBUG - Iter 465/500 - Loss: 0.392
+2024-08-19 18:35:08,509 - INFO - NLL: 0.3530; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 18:35:08,513 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:100.0; gamma:0.3500000238418579
+2024-08-19 18:35:11,525 - DEBUG - Iter 100/500 - Loss: 0.823
+2024-08-19 18:35:14,575 - DEBUG - Iter 200/500 - Loss: 0.680
+2024-08-19 18:35:17,770 - DEBUG - Iter 300/500 - Loss: 0.638
+2024-08-19 18:35:20,835 - DEBUG - Iter 400/500 - Loss: 0.624
+2024-08-19 18:35:23,863 - DEBUG - Iter 500/500 - Loss: 0.619
+2024-08-19 18:35:23,903 - INFO - NLL: 0.5983; RMSE: 0.1720; NMSE: 0.8821
+2024-08-19 18:35:23,906 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.5
+2024-08-19 18:35:24,219 - DEBUG - Iter 10/500 - Loss: 1.632
+2024-08-19 18:35:24,529 - DEBUG - Iter 20/500 - Loss: 1.533
+2024-08-19 18:35:24,838 - DEBUG - Iter 30/500 - Loss: 1.488
+2024-08-19 18:35:25,152 - DEBUG - Iter 40/500 - Loss: 1.466
+2024-08-19 18:35:25,469 - DEBUG - Iter 50/500 - Loss: 1.455
+2024-08-19 18:35:25,774 - DEBUG - Iter 60/500 - Loss: 1.450
+2024-08-19 18:35:26,085 - DEBUG - Iter 70/500 - Loss: 1.447
+2024-08-19 18:35:26,088 - INFO - Early cut off at epoch 69 with loss of 1.4474910497665405
+2024-08-19 18:35:26,130 - INFO - NLL: 1.5129; RMSE: 0.5532; NMSE: 2.8373
+2024-08-19 18:35:26,134 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.5
+2024-08-19 18:35:28,280 - DEBUG - Iter 65/500 - Loss: 1.020
+2024-08-19 18:35:30,289 - DEBUG - Iter 130/500 - Loss: 0.843
+2024-08-19 18:35:32,278 - DEBUG - Iter 195/500 - Loss: 0.775
+2024-08-19 18:35:34,248 - DEBUG - Iter 260/500 - Loss: 0.744
+2024-08-19 18:35:36,242 - DEBUG - Iter 325/500 - Loss: 0.729
+2024-08-19 18:35:38,210 - DEBUG - Iter 390/500 - Loss: 0.722
+2024-08-19 18:35:40,330 - DEBUG - Iter 455/500 - Loss: 0.718
+2024-08-19 18:35:41,777 - INFO - NLL: 0.7006; RMSE: 0.1794; NMSE: 0.9200
+2024-08-19 18:35:41,781 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:55.0; gamma:0.5
+2024-08-19 18:35:43,464 - DEBUG - Iter 55/500 - Loss: 1.084
+2024-08-19 18:35:45,121 - DEBUG - Iter 110/500 - Loss: 0.915
+2024-08-19 18:35:46,758 - DEBUG - Iter 165/500 - Loss: 0.848
+2024-08-19 18:35:48,552 - DEBUG - Iter 220/500 - Loss: 0.818
+2024-08-19 18:35:50,213 - DEBUG - Iter 275/500 - Loss: 0.803
+2024-08-19 18:35:51,956 - DEBUG - Iter 330/500 - Loss: 0.796
+2024-08-19 18:35:53,760 - DEBUG - Iter 385/500 - Loss: 0.793
+2024-08-19 18:35:55,448 - DEBUG - Iter 440/500 - Loss: 0.791
+2024-08-19 18:35:57,082 - DEBUG - Iter 495/500 - Loss: 0.790
+2024-08-19 18:35:57,084 - INFO - Early cut off at epoch 494 with loss of 0.7901627421379089
+2024-08-19 18:35:57,120 - INFO - NLL: 0.7771; RMSE: 0.2119; NMSE: 1.0869
+2024-08-19 18:35:57,124 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:77.5; gamma:0.5
+2024-08-19 18:36:01,770 - DEBUG - Iter 155/500 - Loss: 0.607
+2024-08-19 18:36:06,568 - DEBUG - Iter 310/500 - Loss: 0.359
+2024-08-19 18:36:11,249 - DEBUG - Iter 465/500 - Loss: 0.252
+2024-08-19 18:36:12,338 - INFO - NLL: 0.1915; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 18:36:12,341 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:100.0; gamma:0.5
+2024-08-19 18:36:15,460 - DEBUG - Iter 100/500 - Loss: 0.828
+2024-08-19 18:36:18,636 - DEBUG - Iter 200/500 - Loss: 0.635
+2024-08-19 18:36:21,657 - DEBUG - Iter 300/500 - Loss: 0.553
+2024-08-19 18:36:24,691 - DEBUG - Iter 400/500 - Loss: 0.514
+2024-08-19 18:36:27,755 - DEBUG - Iter 500/500 - Loss: 0.496
+2024-08-19 18:36:27,796 - INFO - NLL: 0.4687; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:36:27,800 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.6499999761581421
+2024-08-19 18:36:28,133 - DEBUG - Iter 10/500 - Loss: 1.702
+2024-08-19 18:36:28,467 - DEBUG - Iter 20/500 - Loss: 1.568
+2024-08-19 18:36:28,794 - DEBUG - Iter 30/500 - Loss: 1.489
+2024-08-19 18:36:29,128 - DEBUG - Iter 40/500 - Loss: 1.441
+2024-08-19 18:36:29,463 - DEBUG - Iter 50/500 - Loss: 1.412
+2024-08-19 18:36:29,798 - DEBUG - Iter 60/500 - Loss: 1.394
+2024-08-19 18:36:30,108 - DEBUG - Iter 70/500 - Loss: 1.382
+2024-08-19 18:36:30,429 - DEBUG - Iter 80/500 - Loss: 1.375
+2024-08-19 18:36:30,748 - DEBUG - Iter 90/500 - Loss: 1.370
+2024-08-19 18:36:31,054 - DEBUG - Iter 100/500 - Loss: 1.367
+2024-08-19 18:36:31,056 - INFO - Early cut off at epoch 99 with loss of 1.3666099309921265
+2024-08-19 18:36:31,096 - INFO - NLL: 1.3829; RMSE: 0.5199; NMSE: 2.6669
+2024-08-19 18:36:31,100 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.6499999761581421
+2024-08-19 18:36:33,074 - DEBUG - Iter 65/500 - Loss: 1.006
+2024-08-19 18:36:35,033 - DEBUG - Iter 130/500 - Loss: 0.800
+2024-08-19 18:36:36,969 - DEBUG - Iter 195/500 - Loss: 0.699
+2024-08-19 18:36:38,908 - DEBUG - Iter 260/500 - Loss: 0.640
+2024-08-19 18:36:40,946 - DEBUG - Iter 325/500 - Loss: 0.603
+2024-08-19 18:36:42,997 - DEBUG - Iter 390/500 - Loss: 0.579
+2024-08-19 18:36:44,973 - DEBUG - Iter 455/500 - Loss: 0.564
+2024-08-19 18:36:46,374 - INFO - NLL: 0.5343; RMSE: 0.1698; NMSE: 0.8707
+2024-08-19 18:36:46,377 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:55.0; gamma:0.6499999761581421
+2024-08-19 18:36:48,076 - DEBUG - Iter 55/500 - Loss: 1.081
+2024-08-19 18:36:49,742 - DEBUG - Iter 110/500 - Loss: 0.873
+2024-08-19 18:36:51,416 - DEBUG - Iter 165/500 - Loss: 0.774
+2024-08-19 18:36:53,165 - DEBUG - Iter 220/500 - Loss: 0.718
+2024-08-19 18:36:54,925 - DEBUG - Iter 275/500 - Loss: 0.684
+2024-08-19 18:36:56,568 - DEBUG - Iter 330/500 - Loss: 0.663
+2024-08-19 18:36:58,225 - DEBUG - Iter 385/500 - Loss: 0.650
+2024-08-19 18:36:59,866 - DEBUG - Iter 440/500 - Loss: 0.641
+2024-08-19 18:37:01,577 - DEBUG - Iter 495/500 - Loss: 0.636
+2024-08-19 18:37:01,760 - INFO - NLL: 0.6154; RMSE: 0.1702; NMSE: 0.8731
+2024-08-19 18:37:01,764 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:77.5; gamma:0.6499999761581421
+2024-08-19 18:37:06,620 - DEBUG - Iter 155/500 - Loss: 0.620
+2024-08-19 18:37:11,352 - DEBUG - Iter 310/500 - Loss: 0.307
+2024-08-19 18:37:16,111 - DEBUG - Iter 465/500 - Loss: 0.141
+2024-08-19 18:37:17,278 - INFO - NLL: 0.0526; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 18:37:17,283 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:100.0; gamma:0.6499999761581421
+2024-08-19 18:37:20,569 - DEBUG - Iter 100/500 - Loss: 0.826
+2024-08-19 18:37:23,908 - DEBUG - Iter 200/500 - Loss: 0.582
+2024-08-19 18:37:27,039 - DEBUG - Iter 300/500 - Loss: 0.448
+2024-08-19 18:37:30,279 - DEBUG - Iter 400/500 - Loss: 0.367
+2024-08-19 18:37:33,367 - DEBUG - Iter 500/500 - Loss: 0.318
+2024-08-19 18:37:33,403 - INFO - NLL: 0.2770; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 18:37:33,407 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.800000011920929
+2024-08-19 18:37:33,721 - DEBUG - Iter 10/500 - Loss: 1.637
+2024-08-19 18:37:34,043 - DEBUG - Iter 20/500 - Loss: 1.495
+2024-08-19 18:37:34,362 - DEBUG - Iter 30/500 - Loss: 1.396
+2024-08-19 18:37:34,671 - DEBUG - Iter 40/500 - Loss: 1.327
+2024-08-19 18:37:34,976 - DEBUG - Iter 50/500 - Loss: 1.277
+2024-08-19 18:37:35,291 - DEBUG - Iter 60/500 - Loss: 1.240
+2024-08-19 18:37:35,594 - DEBUG - Iter 70/500 - Loss: 1.213
+2024-08-19 18:37:35,907 - DEBUG - Iter 80/500 - Loss: 1.192
+2024-08-19 18:37:36,215 - DEBUG - Iter 90/500 - Loss: 1.176
+2024-08-19 18:37:36,527 - DEBUG - Iter 100/500 - Loss: 1.164
+2024-08-19 18:37:36,833 - DEBUG - Iter 110/500 - Loss: 1.155
+2024-08-19 18:37:37,150 - DEBUG - Iter 120/500 - Loss: 1.147
+2024-08-19 18:37:37,462 - DEBUG - Iter 130/500 - Loss: 1.141
+2024-08-19 18:37:37,776 - DEBUG - Iter 140/500 - Loss: 1.136
+2024-08-19 18:37:38,084 - DEBUG - Iter 150/500 - Loss: 1.133
+2024-08-19 18:37:38,401 - DEBUG - Iter 160/500 - Loss: 1.130
+2024-08-19 18:37:38,719 - DEBUG - Iter 170/500 - Loss: 1.127
+2024-08-19 18:37:38,721 - INFO - Early cut off at epoch 169 with loss of 1.1274100542068481
+2024-08-19 18:37:38,758 - INFO - NLL: 1.1355; RMSE: 0.4103; NMSE: 2.1048
+2024-08-19 18:37:38,761 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.800000011920929
+2024-08-19 18:37:40,746 - DEBUG - Iter 65/500 - Loss: 1.006
+2024-08-19 18:37:42,855 - DEBUG - Iter 130/500 - Loss: 0.761
+2024-08-19 18:37:44,956 - DEBUG - Iter 195/500 - Loss: 0.614
+2024-08-19 18:37:47,009 - DEBUG - Iter 260/500 - Loss: 0.507
+2024-08-19 18:37:48,995 - DEBUG - Iter 325/500 - Loss: 0.426
+2024-08-19 18:37:50,972 - DEBUG - Iter 390/500 - Loss: 0.365
+2024-08-19 18:37:52,970 - DEBUG - Iter 455/500 - Loss: 0.317
+2024-08-19 18:37:54,541 - INFO - NLL: 0.2483; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 18:37:54,545 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:55.0; gamma:0.800000011920929
+2024-08-19 18:37:56,321 - DEBUG - Iter 55/500 - Loss: 1.079
+2024-08-19 18:37:58,103 - DEBUG - Iter 110/500 - Loss: 0.836
+2024-08-19 18:37:59,949 - DEBUG - Iter 165/500 - Loss: 0.692
+2024-08-19 18:38:01,795 - DEBUG - Iter 220/500 - Loss: 0.593
+2024-08-19 18:38:03,525 - DEBUG - Iter 275/500 - Loss: 0.520
+2024-08-19 18:38:05,194 - DEBUG - Iter 330/500 - Loss: 0.464
+2024-08-19 18:38:07,016 - DEBUG - Iter 385/500 - Loss: 0.421
+2024-08-19 18:38:08,774 - DEBUG - Iter 440/500 - Loss: 0.387
+2024-08-19 18:38:10,445 - DEBUG - Iter 495/500 - Loss: 0.361
+2024-08-19 18:38:10,635 - INFO - NLL: 0.3224; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 18:38:10,638 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:77.5; gamma:0.800000011920929
+2024-08-19 18:38:15,371 - DEBUG - Iter 155/500 - Loss: 0.607
+2024-08-19 18:38:20,254 - DEBUG - Iter 310/500 - Loss: 0.228
+2024-08-19 18:38:25,051 - DEBUG - Iter 465/500 - Loss: 0.007
+2024-08-19 18:38:26,263 - INFO - NLL: -0.1206; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 18:38:26,267 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.006907748989760876; step_size:100.0; gamma:0.800000011920929
+2024-08-19 18:38:29,386 - DEBUG - Iter 100/500 - Loss: 0.830
+2024-08-19 18:38:32,627 - DEBUG - Iter 200/500 - Loss: 0.533
+2024-08-19 18:38:35,690 - DEBUG - Iter 300/500 - Loss: 0.336
+2024-08-19 18:38:38,728 - DEBUG - Iter 400/500 - Loss: 0.199
+2024-08-19 18:38:41,706 - DEBUG - Iter 500/500 - Loss: 0.103
+2024-08-19 18:38:41,744 - INFO - NLL: 0.0341; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 18:38:41,748 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:10.0; gamma:0.20000000298023224
+2024-08-19 18:38:42,081 - DEBUG - Iter 10/500 - Loss: 0.532
+2024-08-19 18:38:42,402 - DEBUG - Iter 20/500 - Loss: 0.295
+2024-08-19 18:38:42,728 - DEBUG - Iter 30/500 - Loss: 0.257
+2024-08-19 18:38:43,059 - DEBUG - Iter 40/500 - Loss: 0.249
+2024-08-19 18:38:43,384 - DEBUG - Iter 50/500 - Loss: 0.248
+2024-08-19 18:38:43,715 - DEBUG - Iter 60/500 - Loss: 0.248
+2024-08-19 18:38:43,718 - INFO - Early cut off at epoch 59 with loss of 0.24754305183887482
+2024-08-19 18:38:43,757 - INFO - NLL: 0.1992; RMSE: 0.1728; NMSE: 0.8861
+2024-08-19 18:38:43,761 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:32.5; gamma:0.20000000298023224
+2024-08-19 18:38:45,767 - DEBUG - Iter 65/500 - Loss: -1.121
+2024-08-19 18:38:47,732 - DEBUG - Iter 130/500 - Loss: -1.234
+2024-08-19 18:38:49,680 - DEBUG - Iter 195/500 - Loss: -1.238
+2024-08-19 18:38:51,618 - DEBUG - Iter 260/500 - Loss: -1.239
+2024-08-19 18:38:53,562 - DEBUG - Iter 325/500 - Loss: -1.240
+2024-08-19 18:38:55,584 - DEBUG - Iter 390/500 - Loss: -1.240
+2024-08-19 18:38:57,603 - DEBUG - Iter 455/500 - Loss: -1.240
+2024-08-19 18:38:58,989 - INFO - NLL: -1.1900; RMSE: 0.1683; NMSE: 0.8633
+2024-08-19 18:38:58,993 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:55.0; gamma:0.20000000298023224
+2024-08-19 18:39:00,619 - DEBUG - Iter 55/500 - Loss: -1.036
+2024-08-19 18:39:02,248 - DEBUG - Iter 110/500 - Loss: -1.210
+2024-08-19 18:39:03,879 - DEBUG - Iter 165/500 - Loss: -1.219
+2024-08-19 18:39:05,533 - DEBUG - Iter 220/500 - Loss: -1.221
+2024-08-19 18:39:05,536 - INFO - Early cut off at epoch 219 with loss of -1.2208421230316162
+2024-08-19 18:39:05,576 - INFO - NLL: -1.1765; RMSE: 0.1687; NMSE: 0.8654
+2024-08-19 18:39:05,580 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:77.5; gamma:0.20000000298023224
+2024-08-19 18:39:10,353 - DEBUG - Iter 155/500 - Loss: -1.157
+2024-08-19 18:39:14,952 - DEBUG - Iter 310/500 - Loss: -1.267
+2024-08-19 18:39:19,623 - DEBUG - Iter 465/500 - Loss: -1.268
+2024-08-19 18:39:20,780 - INFO - NLL: -1.2131; RMSE: 0.1678; NMSE: 0.8606
+2024-08-19 18:39:20,786 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:100.0; gamma:0.20000000298023224
+2024-08-19 18:39:24,142 - DEBUG - Iter 100/500 - Loss: -1.226
+2024-08-19 18:39:27,477 - DEBUG - Iter 200/500 - Loss: -1.258
+2024-08-19 18:39:30,758 - DEBUG - Iter 300/500 - Loss: -1.260
+2024-08-19 18:39:30,760 - INFO - Early cut off at epoch 299 with loss of -1.2599024772644043
+2024-08-19 18:39:30,801 - INFO - NLL: -1.2068; RMSE: 0.1676; NMSE: 0.8597
+2024-08-19 18:39:30,805 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:10.0; gamma:0.3500000238418579
+2024-08-19 18:39:31,143 - DEBUG - Iter 10/500 - Loss: 0.528
+2024-08-19 18:39:31,479 - DEBUG - Iter 20/500 - Loss: 0.214
+2024-08-19 18:39:31,812 - DEBUG - Iter 30/500 - Loss: 0.118
+2024-08-19 18:39:32,154 - DEBUG - Iter 40/500 - Loss: 0.089
+2024-08-19 18:39:32,507 - DEBUG - Iter 50/500 - Loss: 0.079
+2024-08-19 18:39:32,844 - DEBUG - Iter 60/500 - Loss: 0.076
+2024-08-19 18:39:33,162 - DEBUG - Iter 70/500 - Loss: 0.074
+2024-08-19 18:39:33,465 - DEBUG - Iter 80/500 - Loss: 0.074
+2024-08-19 18:39:33,774 - DEBUG - Iter 90/500 - Loss: 0.074
+2024-08-19 18:39:33,776 - INFO - Early cut off at epoch 89 with loss of 0.07379277795553207
+2024-08-19 18:39:33,813 - INFO - NLL: -0.0046; RMSE: 0.1701; NMSE: 0.8726
+2024-08-19 18:39:33,817 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:32.5; gamma:0.3500000238418579
+2024-08-19 18:39:35,788 - DEBUG - Iter 65/500 - Loss: -1.080
+2024-08-19 18:39:37,738 - DEBUG - Iter 130/500 - Loss: -1.243
+2024-08-19 18:39:39,682 - DEBUG - Iter 195/500 - Loss: -1.251
+2024-08-19 18:39:41,613 - DEBUG - Iter 260/500 - Loss: -1.253
+2024-08-19 18:39:43,776 - DEBUG - Iter 325/500 - Loss: -1.254
+2024-08-19 18:39:45,915 - DEBUG - Iter 390/500 - Loss: -1.254
+2024-08-19 18:39:47,893 - DEBUG - Iter 455/500 - Loss: -1.254
+2024-08-19 18:39:49,306 - INFO - NLL: -1.2011; RMSE: 0.1682; NMSE: 0.8629
+2024-08-19 18:39:49,310 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:55.0; gamma:0.3500000238418579
+2024-08-19 18:39:50,979 - DEBUG - Iter 55/500 - Loss: -1.004
+2024-08-19 18:39:52,638 - DEBUG - Iter 110/500 - Loss: -1.231
+2024-08-19 18:39:54,308 - DEBUG - Iter 165/500 - Loss: -1.243
+2024-08-19 18:39:56,002 - DEBUG - Iter 220/500 - Loss: -1.246
+2024-08-19 18:39:57,747 - DEBUG - Iter 275/500 - Loss: -1.247
+2024-08-19 18:39:57,750 - INFO - Early cut off at epoch 274 with loss of -1.2467714548110962
+2024-08-19 18:39:57,792 - INFO - NLL: -1.1959; RMSE: 0.1681; NMSE: 0.8622
+2024-08-19 18:39:57,796 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:77.5; gamma:0.3500000238418579
+2024-08-19 18:40:02,517 - DEBUG - Iter 155/500 - Loss: -1.259
+2024-08-19 18:40:07,187 - DEBUG - Iter 310/500 - Loss: -1.269
+2024-08-19 18:40:12,075 - DEBUG - Iter 465/500 - Loss: -1.270
+2024-08-19 18:40:13,171 - INFO - NLL: -1.2143; RMSE: 0.1678; NMSE: 0.8608
+2024-08-19 18:40:13,175 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:100.0; gamma:0.3500000238418579
+2024-08-19 18:40:16,215 - DEBUG - Iter 100/500 - Loss: -1.158
+2024-08-19 18:40:19,297 - DEBUG - Iter 200/500 - Loss: -1.262
+2024-08-19 18:40:22,574 - DEBUG - Iter 300/500 - Loss: -1.265
+2024-08-19 18:40:22,577 - INFO - Early cut off at epoch 299 with loss of -1.2649199962615967
+2024-08-19 18:40:22,618 - INFO - NLL: -1.2113; RMSE: 0.1676; NMSE: 0.8599
+2024-08-19 18:40:22,621 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:10.0; gamma:0.5
+2024-08-19 18:40:22,946 - DEBUG - Iter 10/500 - Loss: 0.537
+2024-08-19 18:40:23,275 - DEBUG - Iter 20/500 - Loss: 0.139
+2024-08-19 18:40:23,612 - DEBUG - Iter 30/500 - Loss: -0.014
+2024-08-19 18:40:23,940 - DEBUG - Iter 40/500 - Loss: -0.078
+2024-08-19 18:40:24,298 - DEBUG - Iter 50/500 - Loss: -0.108
+2024-08-19 18:40:24,636 - DEBUG - Iter 60/500 - Loss: -0.122
+2024-08-19 18:40:24,977 - DEBUG - Iter 70/500 - Loss: -0.130
+2024-08-19 18:40:25,316 - DEBUG - Iter 80/500 - Loss: -0.133
+2024-08-19 18:40:25,646 - DEBUG - Iter 90/500 - Loss: -0.135
+2024-08-19 18:40:25,958 - DEBUG - Iter 100/500 - Loss: -0.136
+2024-08-19 18:40:26,260 - DEBUG - Iter 110/500 - Loss: -0.136
+2024-08-19 18:40:26,596 - DEBUG - Iter 120/500 - Loss: -0.137
+2024-08-19 18:40:26,598 - INFO - Early cut off at epoch 119 with loss of -0.13672474026679993
+2024-08-19 18:40:26,639 - INFO - NLL: -0.2665; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:40:26,642 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:32.5; gamma:0.5
+2024-08-19 18:40:28,728 - DEBUG - Iter 65/500 - Loss: -0.946
+2024-08-19 18:40:30,911 - DEBUG - Iter 130/500 - Loss: -1.248
+2024-08-19 18:40:33,098 - DEBUG - Iter 195/500 - Loss: -1.258
+2024-08-19 18:40:35,298 - DEBUG - Iter 260/500 - Loss: -1.261
+2024-08-19 18:40:37,274 - DEBUG - Iter 325/500 - Loss: -1.263
+2024-08-19 18:40:39,268 - DEBUG - Iter 390/500 - Loss: -1.263
+2024-08-19 18:40:41,241 - DEBUG - Iter 455/500 - Loss: -1.263
+2024-08-19 18:40:42,634 - INFO - NLL: -1.2102; RMSE: 0.1677; NMSE: 0.8602
+2024-08-19 18:40:42,638 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:55.0; gamma:0.5
+2024-08-19 18:40:44,323 - DEBUG - Iter 55/500 - Loss: -0.986
+2024-08-19 18:40:46,142 - DEBUG - Iter 110/500 - Loss: -1.210
+2024-08-19 18:40:47,840 - DEBUG - Iter 165/500 - Loss: -1.253
+2024-08-19 18:40:49,699 - DEBUG - Iter 220/500 - Loss: -1.257
+2024-08-19 18:40:51,542 - DEBUG - Iter 275/500 - Loss: -1.259
+2024-08-19 18:40:51,545 - INFO - Early cut off at epoch 274 with loss of -1.258758544921875
+2024-08-19 18:40:51,585 - INFO - NLL: -1.2066; RMSE: 0.1676; NMSE: 0.8597
+2024-08-19 18:40:51,589 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:77.5; gamma:0.5
+2024-08-19 18:40:56,472 - DEBUG - Iter 155/500 - Loss: -1.244
+2024-08-19 18:41:01,358 - DEBUG - Iter 310/500 - Loss: -1.270
+2024-08-19 18:41:06,187 - DEBUG - Iter 465/500 - Loss: -1.271
+2024-08-19 18:41:07,250 - INFO - NLL: -1.2149; RMSE: 0.1678; NMSE: 0.8608
+2024-08-19 18:41:07,254 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:100.0; gamma:0.5
+2024-08-19 18:41:10,318 - DEBUG - Iter 100/500 - Loss: -1.226
+2024-08-19 18:41:13,314 - DEBUG - Iter 200/500 - Loss: -1.265
+2024-08-19 18:41:16,288 - DEBUG - Iter 300/500 - Loss: -1.268
+2024-08-19 18:41:19,228 - DEBUG - Iter 400/500 - Loss: -1.268
+2024-08-19 18:41:19,231 - INFO - Early cut off at epoch 399 with loss of -1.268491268157959
+2024-08-19 18:41:19,267 - INFO - NLL: -1.2134; RMSE: 0.1678; NMSE: 0.8605
+2024-08-19 18:41:19,271 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:10.0; gamma:0.6499999761581421
+2024-08-19 18:41:19,574 - DEBUG - Iter 10/500 - Loss: 0.523
+2024-08-19 18:41:19,871 - DEBUG - Iter 20/500 - Loss: 0.058
+2024-08-19 18:41:20,183 - DEBUG - Iter 30/500 - Loss: -0.138
+2024-08-19 18:41:20,488 - DEBUG - Iter 40/500 - Loss: -0.252
+2024-08-19 18:41:20,798 - DEBUG - Iter 50/500 - Loss: -0.319
+2024-08-19 18:41:21,131 - DEBUG - Iter 60/500 - Loss: -0.361
+2024-08-19 18:41:21,468 - DEBUG - Iter 70/500 - Loss: -0.389
+2024-08-19 18:41:21,801 - DEBUG - Iter 80/500 - Loss: -0.412
+2024-08-19 18:41:22,152 - DEBUG - Iter 90/500 - Loss: -0.430
+2024-08-19 18:41:22,479 - DEBUG - Iter 100/500 - Loss: -0.443
+2024-08-19 18:41:22,811 - DEBUG - Iter 110/500 - Loss: -0.451
+2024-08-19 18:41:23,118 - DEBUG - Iter 120/500 - Loss: -0.457
+2024-08-19 18:41:23,427 - DEBUG - Iter 130/500 - Loss: -0.461
+2024-08-19 18:41:23,739 - DEBUG - Iter 140/500 - Loss: -0.464
+2024-08-19 18:41:24,046 - DEBUG - Iter 150/500 - Loss: -0.465
+2024-08-19 18:41:24,362 - DEBUG - Iter 160/500 - Loss: -0.466
+2024-08-19 18:41:24,365 - INFO - Early cut off at epoch 159 with loss of -0.4661869704723358
+2024-08-19 18:41:24,404 - INFO - NLL: -0.5717; RMSE: 0.1690; NMSE: 0.8671
+2024-08-19 18:41:24,408 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:32.5; gamma:0.6499999761581421
+2024-08-19 18:41:26,361 - DEBUG - Iter 65/500 - Loss: -1.072
+2024-08-19 18:41:28,357 - DEBUG - Iter 130/500 - Loss: -1.239
+2024-08-19 18:41:30,312 - DEBUG - Iter 195/500 - Loss: -1.264
+2024-08-19 18:41:32,283 - DEBUG - Iter 260/500 - Loss: -1.266
+2024-08-19 18:41:34,355 - DEBUG - Iter 325/500 - Loss: -1.268
+2024-08-19 18:41:36,429 - DEBUG - Iter 390/500 - Loss: -1.268
+2024-08-19 18:41:38,399 - DEBUG - Iter 455/500 - Loss: -1.269
+2024-08-19 18:41:39,784 - INFO - NLL: -1.2135; RMSE: 0.1678; NMSE: 0.8606
+2024-08-19 18:41:39,788 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:55.0; gamma:0.6499999761581421
+2024-08-19 18:41:41,435 - DEBUG - Iter 55/500 - Loss: -0.922
+2024-08-19 18:41:43,164 - DEBUG - Iter 110/500 - Loss: -1.226
+2024-08-19 18:41:44,830 - DEBUG - Iter 165/500 - Loss: -1.259
+2024-08-19 18:41:46,556 - DEBUG - Iter 220/500 - Loss: -1.263
+2024-08-19 18:41:48,294 - DEBUG - Iter 275/500 - Loss: -1.265
+2024-08-19 18:41:48,296 - INFO - Early cut off at epoch 274 with loss of -1.265305519104004
+2024-08-19 18:41:48,333 - INFO - NLL: -1.2114; RMSE: 0.1677; NMSE: 0.8600
+2024-08-19 18:41:48,336 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:77.5; gamma:0.6499999761581421
+2024-08-19 18:41:52,930 - DEBUG - Iter 155/500 - Loss: -1.242
+2024-08-19 18:41:57,529 - DEBUG - Iter 310/500 - Loss: -1.270
+2024-08-19 18:42:02,486 - DEBUG - Iter 465/500 - Loss: -1.272
+2024-08-19 18:42:03,579 - INFO - NLL: -1.2153; RMSE: 0.1679; NMSE: 0.8610
+2024-08-19 18:42:03,582 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:100.0; gamma:0.6499999761581421
+2024-08-19 18:42:06,580 - DEBUG - Iter 100/500 - Loss: -1.207
+2024-08-19 18:42:09,706 - DEBUG - Iter 200/500 - Loss: -1.248
+2024-08-19 18:42:12,941 - DEBUG - Iter 300/500 - Loss: -1.269
+2024-08-19 18:42:15,968 - DEBUG - Iter 400/500 - Loss: -1.270
+2024-08-19 18:42:15,971 - INFO - Early cut off at epoch 399 with loss of -1.2702537775039673
+2024-08-19 18:42:16,008 - INFO - NLL: -1.2145; RMSE: 0.1678; NMSE: 0.8608
+2024-08-19 18:42:16,012 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:10.0; gamma:0.800000011920929
+2024-08-19 18:42:16,317 - DEBUG - Iter 10/500 - Loss: 0.526
+2024-08-19 18:42:16,628 - DEBUG - Iter 20/500 - Loss: -0.012
+2024-08-19 18:42:16,944 - DEBUG - Iter 30/500 - Loss: -0.296
+2024-08-19 18:42:17,261 - DEBUG - Iter 40/500 - Loss: -0.548
+2024-08-19 18:42:17,584 - DEBUG - Iter 50/500 - Loss: -0.710
+2024-08-19 18:42:17,882 - DEBUG - Iter 60/500 - Loss: -0.822
+2024-08-19 18:42:18,178 - DEBUG - Iter 70/500 - Loss: -0.901
+2024-08-19 18:42:18,485 - DEBUG - Iter 80/500 - Loss: -0.957
+2024-08-19 18:42:18,789 - DEBUG - Iter 90/500 - Loss: -0.997
+2024-08-19 18:42:19,094 - DEBUG - Iter 100/500 - Loss: -1.025
+2024-08-19 18:42:19,398 - DEBUG - Iter 110/500 - Loss: -1.047
+2024-08-19 18:42:19,698 - DEBUG - Iter 120/500 - Loss: -1.062
+2024-08-19 18:42:20,009 - DEBUG - Iter 130/500 - Loss: -1.074
+2024-08-19 18:42:20,314 - DEBUG - Iter 140/500 - Loss: -1.083
+2024-08-19 18:42:20,627 - DEBUG - Iter 150/500 - Loss: -1.090
+2024-08-19 18:42:20,927 - DEBUG - Iter 160/500 - Loss: -1.096
+2024-08-19 18:42:21,230 - DEBUG - Iter 170/500 - Loss: -1.100
+2024-08-19 18:42:21,528 - DEBUG - Iter 180/500 - Loss: -1.103
+2024-08-19 18:42:21,821 - DEBUG - Iter 190/500 - Loss: -1.106
+2024-08-19 18:42:22,140 - DEBUG - Iter 200/500 - Loss: -1.108
+2024-08-19 18:42:22,142 - INFO - Early cut off at epoch 199 with loss of -1.1081022024154663
+2024-08-19 18:42:22,182 - INFO - NLL: -1.0879; RMSE: 0.1682; NMSE: 0.8626
+2024-08-19 18:42:22,186 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:32.5; gamma:0.800000011920929
+2024-08-19 18:42:24,299 - DEBUG - Iter 65/500 - Loss: -1.018
+2024-08-19 18:42:26,306 - DEBUG - Iter 130/500 - Loss: -1.253
+2024-08-19 18:42:28,254 - DEBUG - Iter 195/500 - Loss: -1.259
+2024-08-19 18:42:30,186 - DEBUG - Iter 260/500 - Loss: -1.269
+2024-08-19 18:42:32,147 - DEBUG - Iter 325/500 - Loss: -1.270
+2024-08-19 18:42:34,088 - DEBUG - Iter 390/500 - Loss: -1.270
+2024-08-19 18:42:36,181 - DEBUG - Iter 455/500 - Loss: -1.271
+2024-08-19 18:42:37,614 - INFO - NLL: -1.2150; RMSE: 0.1679; NMSE: 0.8610
+2024-08-19 18:42:37,618 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:55.0; gamma:0.800000011920929
+2024-08-19 18:42:39,296 - DEBUG - Iter 55/500 - Loss: -0.952
+2024-08-19 18:42:40,952 - DEBUG - Iter 110/500 - Loss: -1.222
+2024-08-19 18:42:42,639 - DEBUG - Iter 165/500 - Loss: -1.263
+2024-08-19 18:42:44,306 - DEBUG - Iter 220/500 - Loss: -1.267
+2024-08-19 18:42:45,984 - DEBUG - Iter 275/500 - Loss: -1.269
+2024-08-19 18:42:45,986 - INFO - Early cut off at epoch 274 with loss of -1.2686500549316406
+2024-08-19 18:42:46,027 - INFO - NLL: -1.2136; RMSE: 0.1678; NMSE: 0.8607
+2024-08-19 18:42:46,031 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:77.5; gamma:0.800000011920929
+2024-08-19 18:42:50,945 - DEBUG - Iter 155/500 - Loss: -1.198
+2024-08-19 18:42:55,619 - DEBUG - Iter 310/500 - Loss: -1.269
+2024-08-19 18:43:00,696 - DEBUG - Iter 465/500 - Loss: -1.179
+2024-08-19 18:43:01,886 - INFO - NLL: -1.2135; RMSE: 0.1679; NMSE: 0.8611
+2024-08-19 18:43:01,890 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.17787475883960724; step_size:100.0; gamma:0.800000011920929
+2024-08-19 18:43:05,084 - DEBUG - Iter 100/500 - Loss: -1.207
+2024-08-19 18:43:08,028 - DEBUG - Iter 200/500 - Loss: -1.266
+2024-08-19 18:43:11,007 - DEBUG - Iter 300/500 - Loss: -1.270
+2024-08-19 18:43:14,176 - DEBUG - Iter 400/500 - Loss: -1.271
+2024-08-19 18:43:14,179 - INFO - Early cut off at epoch 399 with loss of -1.27127206325531
+2024-08-19 18:43:14,217 - INFO - NLL: -1.2151; RMSE: 0.1678; NMSE: 0.8609
+2024-08-19 18:43:14,221 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.20000000298023224
+2024-08-19 18:43:14,532 - DEBUG - Iter 10/500 - Loss: 0.120
+2024-08-19 18:43:14,833 - DEBUG - Iter 20/500 - Loss: -0.256
+2024-08-19 18:43:15,130 - DEBUG - Iter 30/500 - Loss: -0.342
+2024-08-19 18:43:15,429 - DEBUG - Iter 40/500 - Loss: -0.357
+2024-08-19 18:43:15,735 - DEBUG - Iter 50/500 - Loss: -0.360
+2024-08-19 18:43:16,038 - DEBUG - Iter 60/500 - Loss: -0.361
+2024-08-19 18:43:16,041 - INFO - Early cut off at epoch 59 with loss of -0.36074939370155334
+2024-08-19 18:43:16,080 - INFO - NLL: -0.4182; RMSE: 0.1700; NMSE: 0.8722
+2024-08-19 18:43:16,084 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.20000000298023224
+2024-08-19 18:43:18,013 - DEBUG - Iter 65/500 - Loss: -0.730
+2024-08-19 18:43:19,937 - DEBUG - Iter 130/500 - Loss: -1.230
+2024-08-19 18:43:21,923 - DEBUG - Iter 195/500 - Loss: -1.243
+2024-08-19 18:43:23,947 - DEBUG - Iter 260/500 - Loss: -1.244
+2024-08-19 18:43:26,078 - DEBUG - Iter 325/500 - Loss: -1.245
+2024-08-19 18:43:28,051 - DEBUG - Iter 390/500 - Loss: -1.245
+2024-08-19 18:43:30,037 - DEBUG - Iter 455/500 - Loss: -1.245
+2024-08-19 18:43:31,439 - INFO - NLL: -1.1924; RMSE: 0.1691; NMSE: 0.8671
+2024-08-19 18:43:31,443 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.20000000298023224
+2024-08-19 18:43:33,103 - DEBUG - Iter 55/500 - Loss: -0.791
+2024-08-19 18:43:34,765 - DEBUG - Iter 110/500 - Loss: -1.148
+2024-08-19 18:43:36,542 - DEBUG - Iter 165/500 - Loss: -1.196
+2024-08-19 18:43:38,276 - DEBUG - Iter 220/500 - Loss: -1.205
+2024-08-19 18:43:39,905 - DEBUG - Iter 275/500 - Loss: -1.206
+2024-08-19 18:43:39,908 - INFO - Early cut off at epoch 274 with loss of -1.2063344717025757
+2024-08-19 18:43:39,944 - INFO - NLL: -1.1950; RMSE: 0.1690; NMSE: 0.8669
+2024-08-19 18:43:39,948 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.20000000298023224
+2024-08-19 18:43:44,569 - DEBUG - Iter 155/500 - Loss: 4.537
+2024-08-19 18:43:49,610 - DEBUG - Iter 310/500 - Loss: -0.191
+2024-08-19 18:43:54,304 - DEBUG - Iter 465/500 - Loss: -0.442
+2024-08-19 18:43:55,420 - INFO - NLL: 0.5329; RMSE: 0.4198; NMSE: 2.1533
+2024-08-19 18:43:55,423 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.20000000298023224
+2024-08-19 18:43:58,471 - DEBUG - Iter 100/500 - Loss: -0.907
+2024-08-19 18:44:01,576 - DEBUG - Iter 200/500 - Loss: -1.120
+2024-08-19 18:44:04,762 - DEBUG - Iter 300/500 - Loss: -1.155
+2024-08-19 18:44:07,703 - DEBUG - Iter 400/500 - Loss: -1.163
+2024-08-19 18:44:10,662 - DEBUG - Iter 500/500 - Loss: -1.165
+2024-08-19 18:44:10,664 - INFO - Early cut off at epoch 499 with loss of -1.1646662950515747
+2024-08-19 18:44:10,699 - INFO - NLL: -1.1679; RMSE: 0.1679; NMSE: 0.8613
+2024-08-19 18:44:10,703 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.3500000238418579
+2024-08-19 18:44:11,012 - DEBUG - Iter 10/500 - Loss: 0.093
+2024-08-19 18:44:11,318 - DEBUG - Iter 20/500 - Loss: -0.396
+2024-08-19 18:44:11,627 - DEBUG - Iter 30/500 - Loss: -0.555
+2024-08-19 18:44:11,940 - DEBUG - Iter 40/500 - Loss: -0.603
+2024-08-19 18:44:12,276 - DEBUG - Iter 50/500 - Loss: -0.619
+2024-08-19 18:44:12,599 - DEBUG - Iter 60/500 - Loss: -0.624
+2024-08-19 18:44:12,937 - DEBUG - Iter 70/500 - Loss: -0.626
+2024-08-19 18:44:13,290 - DEBUG - Iter 80/500 - Loss: -0.627
+2024-08-19 18:44:13,292 - INFO - Early cut off at epoch 79 with loss of -0.6265144348144531
+2024-08-19 18:44:13,334 - INFO - NLL: -0.6447; RMSE: 0.1681; NMSE: 0.8623
+2024-08-19 18:44:13,338 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.3500000238418579
+2024-08-19 18:44:15,363 - DEBUG - Iter 65/500 - Loss: -0.370
+2024-08-19 18:44:17,329 - DEBUG - Iter 130/500 - Loss: -1.067
+2024-08-19 18:44:19,258 - DEBUG - Iter 195/500 - Loss: -1.142
+2024-08-19 18:44:21,175 - DEBUG - Iter 260/500 - Loss: -1.184
+2024-08-19 18:44:23,088 - DEBUG - Iter 325/500 - Loss: -1.204
+2024-08-19 18:44:25,081 - DEBUG - Iter 390/500 - Loss: -1.212
+2024-08-19 18:44:27,091 - DEBUG - Iter 455/500 - Loss: -1.214
+2024-08-19 18:44:28,459 - INFO - NLL: -1.1923; RMSE: 0.1683; NMSE: 0.8632
+2024-08-19 18:44:28,463 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.3500000238418579
+2024-08-19 18:44:30,104 - DEBUG - Iter 55/500 - Loss: -0.266
+2024-08-19 18:44:31,735 - DEBUG - Iter 110/500 - Loss: -1.121
+2024-08-19 18:44:33,359 - DEBUG - Iter 165/500 - Loss: -1.225
+2024-08-19 18:44:34,982 - DEBUG - Iter 220/500 - Loss: -1.237
+2024-08-19 18:44:36,638 - DEBUG - Iter 275/500 - Loss: -1.240
+2024-08-19 18:44:38,346 - DEBUG - Iter 330/500 - Loss: -1.241
+2024-08-19 18:44:38,348 - INFO - Early cut off at epoch 329 with loss of -1.2410330772399902
+2024-08-19 18:44:38,388 - INFO - NLL: -1.2037; RMSE: 0.1683; NMSE: 0.8634
+2024-08-19 18:44:38,392 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.3500000238418579
+2024-08-19 18:44:42,929 - DEBUG - Iter 155/500 - Loss: -0.931
+2024-08-19 18:44:47,407 - DEBUG - Iter 310/500 - Loss: -1.067
+2024-08-19 18:44:52,209 - DEBUG - Iter 465/500 - Loss: -1.068
+2024-08-19 18:44:53,304 - INFO - NLL: -1.1967; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:44:53,308 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.3500000238418579
+2024-08-19 18:44:56,356 - DEBUG - Iter 100/500 - Loss: -0.859
+2024-08-19 18:44:59,375 - DEBUG - Iter 200/500 - Loss: -1.025
+2024-08-19 18:45:02,526 - DEBUG - Iter 300/500 - Loss: -1.052
+2024-08-19 18:45:05,542 - DEBUG - Iter 400/500 - Loss: -1.064
+2024-08-19 18:45:08,534 - DEBUG - Iter 500/500 - Loss: -1.069
+2024-08-19 18:45:08,570 - INFO - NLL: -0.9592; RMSE: 0.1677; NMSE: 0.8600
+2024-08-19 18:45:08,573 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.5
+2024-08-19 18:45:08,883 - DEBUG - Iter 10/500 - Loss: 0.103
+2024-08-19 18:45:09,187 - DEBUG - Iter 20/500 - Loss: -0.517
+2024-08-19 18:45:09,480 - DEBUG - Iter 30/500 - Loss: -0.725
+2024-08-19 18:45:09,777 - DEBUG - Iter 40/500 - Loss: -0.821
+2024-08-19 18:45:10,078 - DEBUG - Iter 50/500 - Loss: -0.864
+2024-08-19 18:45:10,382 - DEBUG - Iter 60/500 - Loss: -0.884
+2024-08-19 18:45:10,688 - DEBUG - Iter 70/500 - Loss: -0.894
+2024-08-19 18:45:10,989 - DEBUG - Iter 80/500 - Loss: -0.899
+2024-08-19 18:45:11,287 - DEBUG - Iter 90/500 - Loss: -0.902
+2024-08-19 18:45:11,585 - DEBUG - Iter 100/500 - Loss: -0.903
+2024-08-19 18:45:11,588 - INFO - Early cut off at epoch 99 with loss of -0.9029521942138672
+2024-08-19 18:45:11,623 - INFO - NLL: -0.9054; RMSE: 0.1681; NMSE: 0.8624
+2024-08-19 18:45:11,626 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.5
+2024-08-19 18:45:13,597 - DEBUG - Iter 65/500 - Loss: -0.687
+2024-08-19 18:45:15,614 - DEBUG - Iter 130/500 - Loss: -1.246
+2024-08-19 18:45:17,536 - DEBUG - Iter 195/500 - Loss: -1.264
+2024-08-19 18:45:19,456 - DEBUG - Iter 260/500 - Loss: -1.266
+2024-08-19 18:45:21,383 - DEBUG - Iter 325/500 - Loss: -1.267
+2024-08-19 18:45:23,326 - DEBUG - Iter 390/500 - Loss: -1.268
+2024-08-19 18:45:25,249 - DEBUG - Iter 455/500 - Loss: -1.268
+2024-08-19 18:45:26,745 - INFO - NLL: -1.2128; RMSE: 0.1678; NMSE: 0.8607
+2024-08-19 18:45:26,749 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.5
+2024-08-19 18:45:28,488 - DEBUG - Iter 55/500 - Loss: -0.763
+2024-08-19 18:45:30,157 - DEBUG - Iter 110/500 - Loss: -1.171
+2024-08-19 18:45:31,827 - DEBUG - Iter 165/500 - Loss: -1.255
+2024-08-19 18:45:33,457 - DEBUG - Iter 220/500 - Loss: -1.260
+2024-08-19 18:45:35,102 - DEBUG - Iter 275/500 - Loss: -1.261
+2024-08-19 18:45:35,105 - INFO - Early cut off at epoch 274 with loss of -1.2611087560653687
+2024-08-19 18:45:35,142 - INFO - NLL: -1.2037; RMSE: 0.1685; NMSE: 0.8644
+2024-08-19 18:45:35,146 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.5
+2024-08-19 18:45:40,007 - DEBUG - Iter 155/500 - Loss: -0.903
+2024-08-19 18:45:44,528 - DEBUG - Iter 310/500 - Loss: -1.064
+2024-08-19 18:45:49,059 - DEBUG - Iter 465/500 - Loss: -1.068
+2024-08-19 18:45:50,156 - INFO - NLL: -1.1972; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:45:50,160 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.5
+2024-08-19 18:45:53,316 - DEBUG - Iter 100/500 - Loss: -0.918
+2024-08-19 18:45:56,278 - DEBUG - Iter 200/500 - Loss: -1.228
+2024-08-19 18:45:59,244 - DEBUG - Iter 300/500 - Loss: -1.267
+2024-08-19 18:46:02,221 - DEBUG - Iter 400/500 - Loss: -1.270
+2024-08-19 18:46:02,224 - INFO - Early cut off at epoch 399 with loss of -1.2696024179458618
+2024-08-19 18:46:02,263 - INFO - NLL: -1.2126; RMSE: 0.1679; NMSE: 0.8610
+2024-08-19 18:46:02,267 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.6499999761581421
+2024-08-19 18:46:02,600 - DEBUG - Iter 10/500 - Loss: 0.098
+2024-08-19 18:46:02,915 - DEBUG - Iter 20/500 - Loss: -0.602
+2024-08-19 18:46:03,239 - DEBUG - Iter 30/500 - Loss: -0.893
+2024-08-19 18:46:03,549 - DEBUG - Iter 40/500 - Loss: -1.037
+2024-08-19 18:46:03,875 - DEBUG - Iter 50/500 - Loss: -1.111
+2024-08-19 18:46:04,193 - DEBUG - Iter 60/500 - Loss: -1.143
+2024-08-19 18:46:04,496 - DEBUG - Iter 70/500 - Loss: -1.159
+2024-08-19 18:46:04,813 - DEBUG - Iter 80/500 - Loss: -1.168
+2024-08-19 18:46:05,121 - DEBUG - Iter 90/500 - Loss: -1.174
+2024-08-19 18:46:05,426 - DEBUG - Iter 100/500 - Loss: -1.177
+2024-08-19 18:46:05,724 - DEBUG - Iter 110/500 - Loss: -1.179
+2024-08-19 18:46:05,727 - INFO - Early cut off at epoch 109 with loss of -1.1788980960845947
+2024-08-19 18:46:05,770 - INFO - NLL: -1.1409; RMSE: 0.1690; NMSE: 0.8667
+2024-08-19 18:46:05,774 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.6499999761581421
+2024-08-19 18:46:07,687 - DEBUG - Iter 65/500 - Loss: -0.836
+2024-08-19 18:46:09,606 - DEBUG - Iter 130/500 - Loss: -1.072
+2024-08-19 18:46:11,537 - DEBUG - Iter 195/500 - Loss: -1.265
+2024-08-19 18:46:13,442 - DEBUG - Iter 260/500 - Loss: -1.269
+2024-08-19 18:46:15,461 - DEBUG - Iter 325/500 - Loss: -1.270
+2024-08-19 18:46:17,617 - DEBUG - Iter 390/500 - Loss: -1.271
+2024-08-19 18:46:19,588 - DEBUG - Iter 455/500 - Loss: -1.271
+2024-08-19 18:46:21,001 - INFO - NLL: -1.2149; RMSE: 0.1678; NMSE: 0.8608
+2024-08-19 18:46:21,005 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.6499999761581421
+2024-08-19 18:46:22,673 - DEBUG - Iter 55/500 - Loss: -0.291
+2024-08-19 18:46:24,328 - DEBUG - Iter 110/500 - Loss: -0.937
+2024-08-19 18:46:25,968 - DEBUG - Iter 165/500 - Loss: -1.063
+2024-08-19 18:46:27,676 - DEBUG - Iter 220/500 - Loss: -1.066
+2024-08-19 18:46:29,504 - DEBUG - Iter 275/500 - Loss: -1.067
+2024-08-19 18:46:29,507 - INFO - Early cut off at epoch 274 with loss of -1.0671809911727905
+2024-08-19 18:46:29,543 - INFO - NLL: -1.1961; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:46:29,547 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.6499999761581421
+2024-08-19 18:46:34,134 - DEBUG - Iter 155/500 - Loss: -0.667
+2024-08-19 18:46:38,635 - DEBUG - Iter 310/500 - Loss: -1.056
+2024-08-19 18:46:43,427 - DEBUG - Iter 465/500 - Loss: -1.069
+2024-08-19 18:46:44,509 - INFO - NLL: -1.1979; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:46:44,513 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.6499999761581421
+2024-08-19 18:46:47,554 - DEBUG - Iter 100/500 - Loss: -0.986
+2024-08-19 18:46:50,577 - DEBUG - Iter 200/500 - Loss: -1.220
+2024-08-19 18:46:53,769 - DEBUG - Iter 300/500 - Loss: -1.271
+2024-08-19 18:46:56,809 - DEBUG - Iter 400/500 - Loss: -1.272
+2024-08-19 18:46:56,812 - INFO - Early cut off at epoch 399 with loss of -1.2718092203140259
+2024-08-19 18:46:56,848 - INFO - NLL: -1.2153; RMSE: 0.1678; NMSE: 0.8608
+2024-08-19 18:46:56,851 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.800000011920929
+2024-08-19 18:46:57,182 - DEBUG - Iter 10/500 - Loss: 0.117
+2024-08-19 18:46:57,489 - DEBUG - Iter 20/500 - Loss: -0.633
+2024-08-19 18:46:57,796 - DEBUG - Iter 30/500 - Loss: -0.873
+2024-08-19 18:46:58,136 - DEBUG - Iter 40/500 - Loss: -1.073
+2024-08-19 18:46:58,473 - DEBUG - Iter 50/500 - Loss: -1.158
+2024-08-19 18:46:58,768 - DEBUG - Iter 60/500 - Loss: -1.211
+2024-08-19 18:46:59,102 - DEBUG - Iter 70/500 - Loss: -1.231
+2024-08-19 18:46:59,442 - DEBUG - Iter 80/500 - Loss: -1.242
+2024-08-19 18:46:59,777 - DEBUG - Iter 90/500 - Loss: -1.247
+2024-08-19 18:47:00,113 - DEBUG - Iter 100/500 - Loss: -1.250
+2024-08-19 18:47:00,116 - INFO - Early cut off at epoch 99 with loss of -1.2497806549072266
+2024-08-19 18:47:00,157 - INFO - NLL: -1.1964; RMSE: 0.1687; NMSE: 0.8651
+2024-08-19 18:47:00,161 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.800000011920929
+2024-08-19 18:47:02,109 - DEBUG - Iter 65/500 - Loss: -0.980
+2024-08-19 18:47:04,125 - DEBUG - Iter 130/500 - Loss: -1.004
+2024-08-19 18:47:06,114 - DEBUG - Iter 195/500 - Loss: -1.037
+2024-08-19 18:47:08,027 - DEBUG - Iter 260/500 - Loss: -1.069
+2024-08-19 18:47:09,959 - DEBUG - Iter 325/500 - Loss: -1.069
+2024-08-19 18:47:11,882 - DEBUG - Iter 390/500 - Loss: -1.070
+2024-08-19 18:47:13,927 - DEBUG - Iter 455/500 - Loss: -1.070
+2024-08-19 18:47:15,328 - INFO - NLL: -1.1984; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:47:15,332 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.800000011920929
+2024-08-19 18:47:17,079 - DEBUG - Iter 55/500 - Loss: -0.878
+2024-08-19 18:47:18,776 - DEBUG - Iter 110/500 - Loss: -0.949
+2024-08-19 18:47:20,418 - DEBUG - Iter 165/500 - Loss: -1.221
+2024-08-19 18:47:22,045 - DEBUG - Iter 220/500 - Loss: -1.268
+2024-08-19 18:47:23,655 - DEBUG - Iter 275/500 - Loss: -1.270
+2024-08-19 18:47:23,657 - INFO - Early cut off at epoch 274 with loss of -1.2703863382339478
+2024-08-19 18:47:23,694 - INFO - NLL: -1.2147; RMSE: 0.1677; NMSE: 0.8604
+2024-08-19 18:47:23,698 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.800000011920929
+2024-08-19 18:47:28,445 - DEBUG - Iter 155/500 - Loss: -0.687
+2024-08-19 18:47:33,092 - DEBUG - Iter 310/500 - Loss: -1.065
+2024-08-19 18:47:37,588 - DEBUG - Iter 465/500 - Loss: -1.058
+2024-08-19 18:47:38,645 - INFO - NLL: -1.1921; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:47:38,649 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.800000011920929
+2024-08-19 18:47:41,780 - DEBUG - Iter 100/500 - Loss: -0.692
+2024-08-19 18:47:44,712 - DEBUG - Iter 200/500 - Loss: -1.135
+2024-08-19 18:47:47,657 - DEBUG - Iter 300/500 - Loss: -1.192
+2024-08-19 18:47:50,650 - DEBUG - Iter 400/500 - Loss: -1.272
+2024-08-19 18:47:53,790 - DEBUG - Iter 500/500 - Loss: -1.272
+2024-08-19 18:47:53,792 - INFO - Early cut off at epoch 499 with loss of -1.2723993062973022
+2024-08-19 18:47:53,836 - INFO - NLL: -1.2156; RMSE: 0.1678; NMSE: 0.8609
+2024-08-19 18:47:53,839 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.20000000298023224
+2024-08-19 18:47:54,163 - DEBUG - Iter 10/500 - Loss: -0.018
+2024-08-19 18:47:54,475 - DEBUG - Iter 20/500 - Loss: -0.447
+2024-08-19 18:47:54,790 - DEBUG - Iter 30/500 - Loss: -0.528
+2024-08-19 18:47:55,104 - DEBUG - Iter 40/500 - Loss: -0.546
+2024-08-19 18:47:55,407 - DEBUG - Iter 50/500 - Loss: -0.549
+2024-08-19 18:47:55,701 - DEBUG - Iter 60/500 - Loss: -0.550
+2024-08-19 18:47:55,705 - INFO - Early cut off at epoch 59 with loss of -0.5497669577598572
+2024-08-19 18:47:55,744 - INFO - NLL: -0.7362; RMSE: 0.1690; NMSE: 0.8666
+2024-08-19 18:47:55,747 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.20000000298023224
+2024-08-19 18:47:57,707 - DEBUG - Iter 65/500 - Loss: -0.592
+2024-08-19 18:47:59,619 - DEBUG - Iter 130/500 - Loss: -1.046
+2024-08-19 18:48:01,507 - DEBUG - Iter 195/500 - Loss: -1.053
+2024-08-19 18:48:03,405 - DEBUG - Iter 260/500 - Loss: -1.054
+2024-08-19 18:48:05,405 - DEBUG - Iter 325/500 - Loss: -1.054
+2024-08-19 18:48:07,396 - DEBUG - Iter 390/500 - Loss: -1.054
+2024-08-19 18:48:09,302 - DEBUG - Iter 455/500 - Loss: -1.054
+2024-08-19 18:48:10,653 - INFO - NLL: -1.1846; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:48:10,657 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.20000000298023224
+2024-08-19 18:48:12,322 - DEBUG - Iter 55/500 - Loss: -0.211
+2024-08-19 18:48:13,981 - DEBUG - Iter 110/500 - Loss: -1.016
+2024-08-19 18:48:15,643 - DEBUG - Iter 165/500 - Loss: -1.070
+2024-08-19 18:48:17,384 - DEBUG - Iter 220/500 - Loss: -1.079
+2024-08-19 18:48:19,128 - DEBUG - Iter 275/500 - Loss: -1.082
+2024-08-19 18:48:19,131 - INFO - Early cut off at epoch 274 with loss of -1.0815324783325195
+2024-08-19 18:48:19,168 - INFO - NLL: -1.0841; RMSE: 0.1693; NMSE: 0.8682
+2024-08-19 18:48:19,171 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.20000000298023224
+2024-08-19 18:48:23,831 - DEBUG - Iter 155/500 - Loss: -0.177
+2024-08-19 18:48:28,496 - DEBUG - Iter 310/500 - Loss: -1.033
+2024-08-19 18:48:33,250 - DEBUG - Iter 465/500 - Loss: -1.046
+2024-08-19 18:48:34,302 - INFO - NLL: -1.1785; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:48:34,306 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.20000000298023224
+2024-08-19 18:48:37,256 - DEBUG - Iter 100/500 - Loss: -0.131
+2024-08-19 18:48:40,232 - DEBUG - Iter 200/500 - Loss: -0.779
+2024-08-19 18:48:43,401 - DEBUG - Iter 300/500 - Loss: -0.796
+2024-08-19 18:48:46,545 - DEBUG - Iter 400/500 - Loss: -0.799
+2024-08-19 18:48:49,527 - DEBUG - Iter 500/500 - Loss: -0.800
+2024-08-19 18:48:49,529 - INFO - Early cut off at epoch 499 with loss of -0.8001567125320435
+2024-08-19 18:48:49,570 - INFO - NLL: 0.0421; RMSE: 0.5201; NMSE: 2.6679
+2024-08-19 18:48:49,574 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.3500000238418579
+2024-08-19 18:48:49,881 - DEBUG - Iter 10/500 - Loss: -0.107
+2024-08-19 18:48:50,184 - DEBUG - Iter 20/500 - Loss: -0.596
+2024-08-19 18:48:50,484 - DEBUG - Iter 30/500 - Loss: -0.812
+2024-08-19 18:48:50,826 - DEBUG - Iter 40/500 - Loss: -0.878
+2024-08-19 18:48:51,165 - DEBUG - Iter 50/500 - Loss: -0.905
+2024-08-19 18:48:51,502 - DEBUG - Iter 60/500 - Loss: -0.914
+2024-08-19 18:48:51,838 - DEBUG - Iter 70/500 - Loss: -0.917
+2024-08-19 18:48:52,162 - DEBUG - Iter 80/500 - Loss: -0.918
+2024-08-19 18:48:52,165 - INFO - Early cut off at epoch 79 with loss of -0.9176672101020813
+2024-08-19 18:48:52,201 - INFO - NLL: -0.9367; RMSE: 0.1717; NMSE: 0.8806
+2024-08-19 18:48:52,205 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.3500000238418579
+2024-08-19 18:48:54,282 - DEBUG - Iter 65/500 - Loss: -0.782
+2024-08-19 18:48:56,247 - DEBUG - Iter 130/500 - Loss: -0.976
+2024-08-19 18:48:58,125 - DEBUG - Iter 195/500 - Loss: -1.055
+2024-08-19 18:49:00,029 - DEBUG - Iter 260/500 - Loss: -1.058
+2024-08-19 18:49:01,952 - DEBUG - Iter 325/500 - Loss: -1.059
+2024-08-19 18:49:03,877 - DEBUG - Iter 390/500 - Loss: -1.059
+2024-08-19 18:49:05,869 - DEBUG - Iter 455/500 - Loss: -1.059
+2024-08-19 18:49:07,399 - INFO - NLL: -1.1891; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:49:07,403 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.3500000238418579
+2024-08-19 18:49:09,260 - DEBUG - Iter 55/500 - Loss: 0.727
+2024-08-19 18:49:10,921 - DEBUG - Iter 110/500 - Loss: -0.870
+2024-08-19 18:49:12,653 - DEBUG - Iter 165/500 - Loss: -1.057
+2024-08-19 18:49:14,303 - DEBUG - Iter 220/500 - Loss: -1.059
+2024-08-19 18:49:14,305 - INFO - Early cut off at epoch 219 with loss of -1.0594756603240967
+2024-08-19 18:49:14,344 - INFO - NLL: -1.1894; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:49:14,348 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.3500000238418579
+2024-08-19 18:49:19,249 - DEBUG - Iter 155/500 - Loss: 6.856
+2024-08-19 18:49:24,002 - DEBUG - Iter 310/500 - Loss: -0.947
+2024-08-19 18:49:28,627 - DEBUG - Iter 465/500 - Loss: -1.063
+2024-08-19 18:49:29,714 - INFO - NLL: -1.1926; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:49:29,719 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.3500000238418579
+2024-08-19 18:49:32,810 - DEBUG - Iter 100/500 - Loss: 0.100
+2024-08-19 18:49:35,682 - DEBUG - Iter 200/500 - Loss: -1.007
+2024-08-19 18:49:38,563 - DEBUG - Iter 300/500 - Loss: -1.043
+2024-08-19 18:49:41,454 - DEBUG - Iter 400/500 - Loss: -1.048
+2024-08-19 18:49:44,668 - DEBUG - Iter 500/500 - Loss: -1.050
+2024-08-19 18:49:44,670 - INFO - Early cut off at epoch 499 with loss of -1.0495617389678955
+2024-08-19 18:49:44,707 - INFO - NLL: -1.1807; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:49:44,710 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.5
+2024-08-19 18:49:45,027 - DEBUG - Iter 10/500 - Loss: -0.087
+2024-08-19 18:49:45,340 - DEBUG - Iter 20/500 - Loss: -0.604
+2024-08-19 18:49:45,631 - DEBUG - Iter 30/500 - Loss: -0.809
+2024-08-19 18:49:45,955 - DEBUG - Iter 40/500 - Loss: -0.910
+2024-08-19 18:49:46,279 - DEBUG - Iter 50/500 - Loss: -0.948
+2024-08-19 18:49:46,572 - DEBUG - Iter 60/500 - Loss: -0.960
+2024-08-19 18:49:46,864 - DEBUG - Iter 70/500 - Loss: -0.966
+2024-08-19 18:49:47,194 - DEBUG - Iter 80/500 - Loss: -0.968
+2024-08-19 18:49:47,525 - DEBUG - Iter 90/500 - Loss: -0.970
+2024-08-19 18:49:47,528 - INFO - Early cut off at epoch 89 with loss of -0.969613254070282
+2024-08-19 18:49:47,567 - INFO - NLL: -1.1049; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 18:49:47,570 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.5
+2024-08-19 18:49:49,595 - DEBUG - Iter 65/500 - Loss: -0.117
+2024-08-19 18:49:51,557 - DEBUG - Iter 130/500 - Loss: -0.700
+2024-08-19 18:49:53,638 - DEBUG - Iter 195/500 - Loss: -1.046
+2024-08-19 18:49:55,713 - DEBUG - Iter 260/500 - Loss: -1.056
+2024-08-19 18:49:57,674 - DEBUG - Iter 325/500 - Loss: -1.059
+2024-08-19 18:49:59,611 - DEBUG - Iter 390/500 - Loss: -1.060
+2024-08-19 18:50:01,553 - DEBUG - Iter 455/500 - Loss: -1.060
+2024-08-19 18:50:02,926 - INFO - NLL: -1.1902; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:50:02,930 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.5
+2024-08-19 18:50:04,604 - DEBUG - Iter 55/500 - Loss: -0.761
+2024-08-19 18:50:06,280 - DEBUG - Iter 110/500 - Loss: -1.191
+2024-08-19 18:50:08,088 - DEBUG - Iter 165/500 - Loss: -1.261
+2024-08-19 18:50:09,778 - DEBUG - Iter 220/500 - Loss: -1.265
+2024-08-19 18:50:11,436 - DEBUG - Iter 275/500 - Loss: -1.266
+2024-08-19 18:50:11,439 - INFO - Early cut off at epoch 274 with loss of -1.2661291360855103
+2024-08-19 18:50:11,476 - INFO - NLL: -1.2057; RMSE: 0.1683; NMSE: 0.8634
+2024-08-19 18:50:11,479 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.5
+2024-08-19 18:50:16,157 - DEBUG - Iter 155/500 - Loss: 0.301
+2024-08-19 18:50:20,982 - DEBUG - Iter 310/500 - Loss: -0.856
+2024-08-19 18:50:25,670 - DEBUG - Iter 465/500 - Loss: -1.064
+2024-08-19 18:50:26,823 - INFO - NLL: -1.1938; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:50:26,827 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.5
+2024-08-19 18:50:30,108 - DEBUG - Iter 100/500 - Loss: -0.305
+2024-08-19 18:50:33,330 - DEBUG - Iter 200/500 - Loss: -0.808
+2024-08-19 18:50:36,282 - DEBUG - Iter 300/500 - Loss: -1.059
+2024-08-19 18:50:39,215 - DEBUG - Iter 400/500 - Loss: -1.063
+2024-08-19 18:50:42,152 - DEBUG - Iter 500/500 - Loss: -1.064
+2024-08-19 18:50:42,154 - INFO - Early cut off at epoch 499 with loss of -1.0641862154006958
+2024-08-19 18:50:42,190 - INFO - NLL: -1.1934; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:50:42,193 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.6499999761581421
+2024-08-19 18:50:42,498 - DEBUG - Iter 10/500 - Loss: -0.169
+2024-08-19 18:50:42,828 - DEBUG - Iter 20/500 - Loss: -0.662
+2024-08-19 18:50:43,156 - DEBUG - Iter 30/500 - Loss: -0.972
+2024-08-19 18:50:43,477 - DEBUG - Iter 40/500 - Loss: -1.115
+2024-08-19 18:50:43,798 - DEBUG - Iter 50/500 - Loss: -1.188
+2024-08-19 18:50:44,120 - DEBUG - Iter 60/500 - Loss: -1.220
+2024-08-19 18:50:44,444 - DEBUG - Iter 70/500 - Loss: -1.230
+2024-08-19 18:50:44,750 - DEBUG - Iter 80/500 - Loss: -1.235
+2024-08-19 18:50:45,059 - DEBUG - Iter 90/500 - Loss: -1.237
+2024-08-19 18:50:45,062 - INFO - Early cut off at epoch 89 with loss of -1.2374390363693237
+2024-08-19 18:50:45,102 - INFO - NLL: -1.1840; RMSE: 0.1689; NMSE: 0.8661
+2024-08-19 18:50:45,106 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.6499999761581421
+2024-08-19 18:50:47,057 - DEBUG - Iter 65/500 - Loss: -0.310
+2024-08-19 18:50:48,989 - DEBUG - Iter 130/500 - Loss: 1.694
+2024-08-19 18:50:51,016 - DEBUG - Iter 195/500 - Loss: -0.645
+2024-08-19 18:50:53,001 - DEBUG - Iter 260/500 - Loss: -0.919
+2024-08-19 18:50:54,994 - DEBUG - Iter 325/500 - Loss: -0.998
+2024-08-19 18:50:57,060 - DEBUG - Iter 390/500 - Loss: -1.020
+2024-08-19 18:50:59,112 - DEBUG - Iter 455/500 - Loss: -1.033
+2024-08-19 18:51:00,462 - INFO - NLL: -0.8659; RMSE: 0.1698; NMSE: 0.8712
+2024-08-19 18:51:00,466 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.6499999761581421
+2024-08-19 18:51:02,109 - DEBUG - Iter 55/500 - Loss: -0.147
+2024-08-19 18:51:03,749 - DEBUG - Iter 110/500 - Loss: -0.521
+2024-08-19 18:51:05,383 - DEBUG - Iter 165/500 - Loss: -0.954
+2024-08-19 18:51:07,004 - DEBUG - Iter 220/500 - Loss: -1.062
+2024-08-19 18:51:08,740 - DEBUG - Iter 275/500 - Loss: -1.066
+2024-08-19 18:51:10,387 - DEBUG - Iter 330/500 - Loss: -1.067
+2024-08-19 18:51:10,390 - INFO - Early cut off at epoch 329 with loss of -1.0665745735168457
+2024-08-19 18:51:10,426 - INFO - NLL: -1.1955; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:51:10,430 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.6499999761581421
+2024-08-19 18:51:15,103 - DEBUG - Iter 155/500 - Loss: -0.222
+2024-08-19 18:51:19,718 - DEBUG - Iter 310/500 - Loss: -0.785
+2024-08-19 18:51:24,349 - DEBUG - Iter 465/500 - Loss: -1.065
+2024-08-19 18:51:25,404 - INFO - NLL: -1.1943; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:51:25,407 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.6499999761581421
+2024-08-19 18:51:28,372 - DEBUG - Iter 100/500 - Loss: 0.772
+2024-08-19 18:51:31,333 - DEBUG - Iter 200/500 - Loss: 0.838
+2024-08-19 18:51:34,447 - DEBUG - Iter 300/500 - Loss: -0.612
+2024-08-19 18:51:37,359 - DEBUG - Iter 400/500 - Loss: -1.050
+2024-08-19 18:51:40,285 - DEBUG - Iter 500/500 - Loss: -1.060
+2024-08-19 18:51:40,321 - INFO - NLL: -1.1904; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:51:40,325 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.800000011920929
+2024-08-19 18:51:40,634 - DEBUG - Iter 10/500 - Loss: 0.089
+2024-08-19 18:51:40,933 - DEBUG - Iter 20/500 - Loss: -0.500
+2024-08-19 18:51:41,221 - DEBUG - Iter 30/500 - Loss: -0.648
+2024-08-19 18:51:41,532 - DEBUG - Iter 40/500 - Loss: -0.923
+2024-08-19 18:51:41,822 - DEBUG - Iter 50/500 - Loss: -0.972
+2024-08-19 18:51:42,124 - DEBUG - Iter 60/500 - Loss: -1.028
+2024-08-19 18:51:42,453 - DEBUG - Iter 70/500 - Loss: -1.049
+2024-08-19 18:51:42,782 - DEBUG - Iter 80/500 - Loss: -1.056
+2024-08-19 18:51:43,099 - DEBUG - Iter 90/500 - Loss: -1.060
+2024-08-19 18:51:43,425 - DEBUG - Iter 100/500 - Loss: -1.061
+2024-08-19 18:51:43,429 - INFO - Early cut off at epoch 99 with loss of -1.061439037322998
+2024-08-19 18:51:43,470 - INFO - NLL: -1.1905; RMSE: 0.1698; NMSE: 0.8708
+2024-08-19 18:51:43,474 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.800000011920929
+2024-08-19 18:51:45,543 - DEBUG - Iter 65/500 - Loss: 1.883
+2024-08-19 18:51:47,519 - DEBUG - Iter 130/500 - Loss: 0.039
+2024-08-19 18:51:49,525 - DEBUG - Iter 195/500 - Loss: -0.633
+2024-08-19 18:51:51,442 - DEBUG - Iter 260/500 - Loss: -0.991
+2024-08-19 18:51:53,306 - DEBUG - Iter 325/500 - Loss: -0.942
+2024-08-19 18:51:55,252 - DEBUG - Iter 390/500 - Loss: -1.064
+2024-08-19 18:51:57,249 - DEBUG - Iter 455/500 - Loss: -1.066
+2024-08-19 18:51:58,692 - INFO - NLL: -1.1959; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:51:58,696 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.800000011920929
+2024-08-19 18:52:00,327 - DEBUG - Iter 55/500 - Loss: 2.524
+2024-08-19 18:52:01,936 - DEBUG - Iter 110/500 - Loss: -0.696
+2024-08-19 18:52:03,534 - DEBUG - Iter 165/500 - Loss: -0.993
+2024-08-19 18:52:05,195 - DEBUG - Iter 220/500 - Loss: -1.023
+2024-08-19 18:52:06,796 - DEBUG - Iter 275/500 - Loss: -1.042
+2024-08-19 18:52:08,415 - DEBUG - Iter 330/500 - Loss: -1.061
+2024-08-19 18:52:10,119 - DEBUG - Iter 385/500 - Loss: -1.063
+2024-08-19 18:52:10,122 - INFO - Early cut off at epoch 384 with loss of -1.0631344318389893
+2024-08-19 18:52:10,162 - INFO - NLL: -1.1924; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:52:10,166 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.800000011920929
+2024-08-19 18:52:14,880 - DEBUG - Iter 155/500 - Loss: 1.295
+2024-08-19 18:52:19,583 - DEBUG - Iter 310/500 - Loss: -0.396
+2024-08-19 18:52:24,512 - DEBUG - Iter 465/500 - Loss: -0.666
+2024-08-19 18:52:25,636 - INFO - NLL: -1.1351; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:52:25,639 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.800000011920929
+2024-08-19 18:52:28,634 - DEBUG - Iter 100/500 - Loss: -0.714
+2024-08-19 18:52:31,511 - DEBUG - Iter 200/500 - Loss: -0.203
+2024-08-19 18:52:34,588 - DEBUG - Iter 300/500 - Loss: -0.953
+2024-08-19 18:52:37,489 - DEBUG - Iter 400/500 - Loss: -1.052
+2024-08-19 18:52:40,623 - DEBUG - Iter 500/500 - Loss: -1.064
+2024-08-19 18:52:40,662 - INFO - NLL: -1.1930; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:52:40,666 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.20000000298023224
+2024-08-19 18:52:41,004 - DEBUG - Iter 10/500 - Loss: -0.043
+2024-08-19 18:52:41,305 - DEBUG - Iter 20/500 - Loss: -0.423
+2024-08-19 18:52:41,607 - DEBUG - Iter 30/500 - Loss: -0.531
+2024-08-19 18:52:41,916 - DEBUG - Iter 40/500 - Loss: -0.550
+2024-08-19 18:52:42,216 - DEBUG - Iter 50/500 - Loss: -0.555
+2024-08-19 18:52:42,509 - DEBUG - Iter 60/500 - Loss: -0.557
+2024-08-19 18:52:42,512 - INFO - Early cut off at epoch 59 with loss of -0.5565428733825684
+2024-08-19 18:52:42,552 - INFO - NLL: -0.6931; RMSE: 0.1713; NMSE: 0.8788
+2024-08-19 18:52:42,555 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.20000000298023224
+2024-08-19 18:52:44,486 - DEBUG - Iter 65/500 - Loss: -0.084
+2024-08-19 18:52:46,564 - DEBUG - Iter 130/500 - Loss: -0.881
+2024-08-19 18:52:48,529 - DEBUG - Iter 195/500 - Loss: -0.994
+2024-08-19 18:52:50,442 - DEBUG - Iter 260/500 - Loss: -1.006
+2024-08-19 18:52:52,351 - DEBUG - Iter 325/500 - Loss: -1.008
+2024-08-19 18:52:54,261 - DEBUG - Iter 390/500 - Loss: -1.008
+2024-08-19 18:52:56,197 - DEBUG - Iter 455/500 - Loss: -1.009
+2024-08-19 18:52:57,611 - INFO - NLL: -1.1380; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 18:52:57,616 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.20000000298023224
+2024-08-19 18:52:59,369 - DEBUG - Iter 55/500 - Loss: -0.678
+2024-08-19 18:53:01,030 - DEBUG - Iter 110/500 - Loss: -1.039
+2024-08-19 18:53:02,698 - DEBUG - Iter 165/500 - Loss: -1.058
+2024-08-19 18:53:04,322 - DEBUG - Iter 220/500 - Loss: -1.059
+2024-08-19 18:53:04,325 - INFO - Early cut off at epoch 219 with loss of -1.0590788125991821
+2024-08-19 18:53:04,365 - INFO - NLL: -1.1886; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:53:04,369 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.20000000298023224
+2024-08-19 18:53:08,998 - DEBUG - Iter 155/500 - Loss: 0.364
+2024-08-19 18:53:13,728 - DEBUG - Iter 310/500 - Loss: -0.417
+2024-08-19 18:53:18,384 - DEBUG - Iter 465/500 - Loss: -0.646
+2024-08-19 18:53:19,488 - INFO - NLL: 0.7505; RMSE: 1.1735; NMSE: 6.0193
+2024-08-19 18:53:19,491 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.20000000298023224
+2024-08-19 18:53:22,526 - DEBUG - Iter 100/500 - Loss: 0.451
+2024-08-19 18:53:25,806 - DEBUG - Iter 200/500 - Loss: -0.387
+2024-08-19 18:53:28,986 - DEBUG - Iter 300/500 - Loss: -0.509
+2024-08-19 18:53:31,905 - DEBUG - Iter 400/500 - Loss: -0.548
+2024-08-19 18:53:34,951 - DEBUG - Iter 500/500 - Loss: -0.560
+2024-08-19 18:53:34,992 - INFO - NLL: -0.7741; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:53:34,996 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.3500000238418579
+2024-08-19 18:53:35,336 - DEBUG - Iter 10/500 - Loss: -0.153
+2024-08-19 18:53:35,675 - DEBUG - Iter 20/500 - Loss: -0.508
+2024-08-19 18:53:36,009 - DEBUG - Iter 30/500 - Loss: -0.717
+2024-08-19 18:53:36,366 - DEBUG - Iter 40/500 - Loss: -0.802
+2024-08-19 18:53:36,695 - DEBUG - Iter 50/500 - Loss: -0.826
+2024-08-19 18:53:36,998 - DEBUG - Iter 60/500 - Loss: -0.835
+2024-08-19 18:53:37,297 - DEBUG - Iter 70/500 - Loss: -0.837
+2024-08-19 18:53:37,601 - DEBUG - Iter 80/500 - Loss: -0.838
+2024-08-19 18:53:37,603 - INFO - Early cut off at epoch 79 with loss of -0.8381437659263611
+2024-08-19 18:53:37,639 - INFO - NLL: -0.9844; RMSE: 0.1692; NMSE: 0.8680
+2024-08-19 18:53:37,645 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.3500000238418579
+2024-08-19 18:53:39,598 - DEBUG - Iter 65/500 - Loss: -0.554
+2024-08-19 18:53:41,557 - DEBUG - Iter 130/500 - Loss: -1.117
+2024-08-19 18:53:43,504 - DEBUG - Iter 195/500 - Loss: -1.244
+2024-08-19 18:53:45,467 - DEBUG - Iter 260/500 - Loss: -1.250
+2024-08-19 18:53:47,537 - DEBUG - Iter 325/500 - Loss: -1.252
+2024-08-19 18:53:49,542 - DEBUG - Iter 390/500 - Loss: -1.252
+2024-08-19 18:53:51,515 - DEBUG - Iter 455/500 - Loss: -1.253
+2024-08-19 18:53:52,938 - INFO - NLL: -1.1978; RMSE: 0.1686; NMSE: 0.8646
+2024-08-19 18:53:52,943 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.3500000238418579
+2024-08-19 18:53:54,599 - DEBUG - Iter 55/500 - Loss: -0.458
+2024-08-19 18:53:56,197 - DEBUG - Iter 110/500 - Loss: -0.958
+2024-08-19 18:53:57,800 - DEBUG - Iter 165/500 - Loss: -1.054
+2024-08-19 18:53:59,536 - DEBUG - Iter 220/500 - Loss: -1.058
+2024-08-19 18:54:01,228 - DEBUG - Iter 275/500 - Loss: -1.059
+2024-08-19 18:54:01,230 - INFO - Early cut off at epoch 274 with loss of -1.0594297647476196
+2024-08-19 18:54:01,267 - INFO - NLL: -1.1895; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:54:01,270 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.3500000238418579
+2024-08-19 18:54:06,008 - DEBUG - Iter 155/500 - Loss: 7.412
+2024-08-19 18:54:10,871 - DEBUG - Iter 310/500 - Loss: 5.624
+2024-08-19 18:54:15,919 - DEBUG - Iter 465/500 - Loss: 2.861
+2024-08-19 18:54:17,083 - INFO - NLL: 5.4319; RMSE: 1.8365; NMSE: 9.4200
+2024-08-19 18:54:17,088 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.3500000238418579
+2024-08-19 18:54:20,098 - DEBUG - Iter 100/500 - Loss: 0.092
+2024-08-19 18:54:23,069 - DEBUG - Iter 200/500 - Loss: -0.898
+2024-08-19 18:54:26,070 - DEBUG - Iter 300/500 - Loss: -1.054
+2024-08-19 18:54:28,987 - DEBUG - Iter 400/500 - Loss: -1.059
+2024-08-19 18:54:31,891 - DEBUG - Iter 500/500 - Loss: -1.060
+2024-08-19 18:54:31,894 - INFO - Early cut off at epoch 499 with loss of -1.0601081848144531
+2024-08-19 18:54:31,935 - INFO - NLL: -1.1902; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:54:31,939 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.5
+2024-08-19 18:54:32,283 - DEBUG - Iter 10/500 - Loss: -0.122
+2024-08-19 18:54:32,620 - DEBUG - Iter 20/500 - Loss: -0.525
+2024-08-19 18:54:32,932 - DEBUG - Iter 30/500 - Loss: -0.758
+2024-08-19 18:54:33,229 - DEBUG - Iter 40/500 - Loss: -0.898
+2024-08-19 18:54:33,528 - DEBUG - Iter 50/500 - Loss: -0.941
+2024-08-19 18:54:33,820 - DEBUG - Iter 60/500 - Loss: -0.960
+2024-08-19 18:54:34,117 - DEBUG - Iter 70/500 - Loss: -0.967
+2024-08-19 18:54:34,411 - DEBUG - Iter 80/500 - Loss: -0.970
+2024-08-19 18:54:34,715 - DEBUG - Iter 90/500 - Loss: -0.972
+2024-08-19 18:54:34,717 - INFO - Early cut off at epoch 89 with loss of -0.972062885761261
+2024-08-19 18:54:34,757 - INFO - NLL: -1.0952; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:54:34,761 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.5
+2024-08-19 18:54:36,822 - DEBUG - Iter 65/500 - Loss: -0.465
+2024-08-19 18:54:38,769 - DEBUG - Iter 130/500 - Loss: -0.408
+2024-08-19 18:54:40,663 - DEBUG - Iter 195/500 - Loss: -1.048
+2024-08-19 18:54:42,563 - DEBUG - Iter 260/500 - Loss: -1.059
+2024-08-19 18:54:44,470 - DEBUG - Iter 325/500 - Loss: -1.061
+2024-08-19 18:54:46,356 - DEBUG - Iter 390/500 - Loss: -1.062
+2024-08-19 18:54:48,429 - DEBUG - Iter 455/500 - Loss: -1.062
+2024-08-19 18:54:49,859 - INFO - NLL: -1.1917; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:54:49,863 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.5
+2024-08-19 18:54:51,504 - DEBUG - Iter 55/500 - Loss: -0.408
+2024-08-19 18:54:53,161 - DEBUG - Iter 110/500 - Loss: -0.568
+2024-08-19 18:54:54,811 - DEBUG - Iter 165/500 - Loss: -0.991
+2024-08-19 18:54:56,453 - DEBUG - Iter 220/500 - Loss: -1.047
+2024-08-19 18:54:58,122 - DEBUG - Iter 275/500 - Loss: -1.075
+2024-08-19 18:54:59,851 - DEBUG - Iter 330/500 - Loss: -1.093
+2024-08-19 18:55:01,600 - DEBUG - Iter 385/500 - Loss: -1.106
+2024-08-19 18:55:03,262 - DEBUG - Iter 440/500 - Loss: -1.113
+2024-08-19 18:55:04,887 - DEBUG - Iter 495/500 - Loss: -1.117
+2024-08-19 18:55:05,074 - INFO - NLL: -1.0819; RMSE: 0.1699; NMSE: 0.8713
+2024-08-19 18:55:05,078 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.5
+2024-08-19 18:55:09,707 - DEBUG - Iter 155/500 - Loss: 0.366
+2024-08-19 18:55:14,535 - DEBUG - Iter 310/500 - Loss: 2.287
+2024-08-19 18:55:19,082 - DEBUG - Iter 465/500 - Loss: -0.893
+2024-08-19 18:55:20,145 - INFO - NLL: -1.1259; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 18:55:20,149 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.5
+2024-08-19 18:55:23,078 - DEBUG - Iter 100/500 - Loss: -0.689
+2024-08-19 18:55:26,256 - DEBUG - Iter 200/500 - Loss: 0.864
+2024-08-19 18:55:29,247 - DEBUG - Iter 300/500 - Loss: -1.039
+2024-08-19 18:55:32,145 - DEBUG - Iter 400/500 - Loss: -1.059
+2024-08-19 18:55:35,053 - DEBUG - Iter 500/500 - Loss: -1.061
+2024-08-19 18:55:35,093 - INFO - NLL: -1.1908; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:55:35,097 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.6499999761581421
+2024-08-19 18:55:35,412 - DEBUG - Iter 10/500 - Loss: 0.051
+2024-08-19 18:55:35,730 - DEBUG - Iter 20/500 - Loss: -0.649
+2024-08-19 18:55:36,041 - DEBUG - Iter 30/500 - Loss: -0.686
+2024-08-19 18:55:36,361 - DEBUG - Iter 40/500 - Loss: -0.807
+2024-08-19 18:55:36,678 - DEBUG - Iter 50/500 - Loss: -0.917
+2024-08-19 18:55:37,021 - DEBUG - Iter 60/500 - Loss: -0.974
+2024-08-19 18:55:37,361 - DEBUG - Iter 70/500 - Loss: -1.004
+2024-08-19 18:55:37,684 - DEBUG - Iter 80/500 - Loss: -1.018
+2024-08-19 18:55:38,010 - DEBUG - Iter 90/500 - Loss: -1.025
+2024-08-19 18:55:38,335 - DEBUG - Iter 100/500 - Loss: -1.028
+2024-08-19 18:55:38,640 - DEBUG - Iter 110/500 - Loss: -1.030
+2024-08-19 18:55:38,642 - INFO - Early cut off at epoch 109 with loss of -1.030102014541626
+2024-08-19 18:55:38,683 - INFO - NLL: -1.1633; RMSE: 0.1699; NMSE: 0.8712
+2024-08-19 18:55:38,687 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.6499999761581421
+2024-08-19 18:55:40,577 - DEBUG - Iter 65/500 - Loss: 6.470
+2024-08-19 18:55:42,496 - DEBUG - Iter 130/500 - Loss: 0.984
+2024-08-19 18:55:44,418 - DEBUG - Iter 195/500 - Loss: -0.863
+2024-08-19 18:55:46,414 - DEBUG - Iter 260/500 - Loss: -1.192
+2024-08-19 18:55:48,386 - DEBUG - Iter 325/500 - Loss: -1.229
+2024-08-19 18:55:50,439 - DEBUG - Iter 390/500 - Loss: -1.245
+2024-08-19 18:55:52,599 - DEBUG - Iter 455/500 - Loss: -1.251
+2024-08-19 18:55:54,125 - INFO - NLL: -1.1924; RMSE: 0.1697; NMSE: 0.8704
+2024-08-19 18:55:54,130 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.6499999761581421
+2024-08-19 18:55:55,825 - DEBUG - Iter 55/500 - Loss: -0.175
+2024-08-19 18:55:57,616 - DEBUG - Iter 110/500 - Loss: -0.295
+2024-08-19 18:55:59,192 - DEBUG - Iter 165/500 - Loss: -0.591
+2024-08-19 18:56:00,833 - DEBUG - Iter 220/500 - Loss: -1.044
+2024-08-19 18:56:02,580 - DEBUG - Iter 275/500 - Loss: -1.059
+2024-08-19 18:56:04,178 - DEBUG - Iter 330/500 - Loss: -1.062
+2024-08-19 18:56:05,749 - DEBUG - Iter 385/500 - Loss: -1.063
+2024-08-19 18:56:05,751 - INFO - Early cut off at epoch 384 with loss of -1.0629688501358032
+2024-08-19 18:56:05,791 - INFO - NLL: -1.1924; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:56:05,795 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.6499999761581421
+2024-08-19 18:56:10,344 - DEBUG - Iter 155/500 - Loss: 0.146
+2024-08-19 18:56:15,065 - DEBUG - Iter 310/500 - Loss: 0.019
+2024-08-19 18:56:19,532 - DEBUG - Iter 465/500 - Loss: -0.815
+2024-08-19 18:56:20,579 - INFO - NLL: -1.1732; RMSE: 0.1698; NMSE: 0.8709
+2024-08-19 18:56:20,582 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.6499999761581421
+2024-08-19 18:56:23,572 - DEBUG - Iter 100/500 - Loss: 1.930
+2024-08-19 18:56:26,718 - DEBUG - Iter 200/500 - Loss: 0.194
+2024-08-19 18:56:29,697 - DEBUG - Iter 300/500 - Loss: -0.388
+2024-08-19 18:56:32,604 - DEBUG - Iter 400/500 - Loss: -1.060
+2024-08-19 18:56:35,657 - DEBUG - Iter 500/500 - Loss: -1.066
+2024-08-19 18:56:35,697 - INFO - NLL: -1.1952; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:56:35,701 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.800000011920929
+2024-08-19 18:56:36,036 - DEBUG - Iter 10/500 - Loss: -0.037
+2024-08-19 18:56:36,360 - DEBUG - Iter 20/500 - Loss: 0.126
+2024-08-19 18:56:36,671 - DEBUG - Iter 30/500 - Loss: -0.464
+2024-08-19 18:56:36,989 - DEBUG - Iter 40/500 - Loss: -0.459
+2024-08-19 18:56:37,308 - DEBUG - Iter 50/500 - Loss: -0.849
+2024-08-19 18:56:37,639 - DEBUG - Iter 60/500 - Loss: -0.950
+2024-08-19 18:56:37,951 - DEBUG - Iter 70/500 - Loss: -1.095
+2024-08-19 18:56:38,274 - DEBUG - Iter 80/500 - Loss: -1.185
+2024-08-19 18:56:38,601 - DEBUG - Iter 90/500 - Loss: -1.219
+2024-08-19 18:56:38,930 - DEBUG - Iter 100/500 - Loss: -1.227
+2024-08-19 18:56:39,263 - DEBUG - Iter 110/500 - Loss: -1.241
+2024-08-19 18:56:39,586 - DEBUG - Iter 120/500 - Loss: -1.246
+2024-08-19 18:56:39,895 - DEBUG - Iter 130/500 - Loss: -1.249
+2024-08-19 18:56:39,897 - INFO - Early cut off at epoch 129 with loss of -1.2487696409225464
+2024-08-19 18:56:39,937 - INFO - NLL: -1.2050; RMSE: 0.1685; NMSE: 0.8642
+2024-08-19 18:56:39,941 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.800000011920929
+2024-08-19 18:56:41,896 - DEBUG - Iter 65/500 - Loss: -0.414
+2024-08-19 18:56:43,804 - DEBUG - Iter 130/500 - Loss: -0.844
+2024-08-19 18:56:45,707 - DEBUG - Iter 195/500 - Loss: -0.724
+2024-08-19 18:56:47,609 - DEBUG - Iter 260/500 - Loss: -0.700
+2024-08-19 18:56:49,562 - DEBUG - Iter 325/500 - Loss: -0.891
+2024-08-19 18:56:51,611 - DEBUG - Iter 390/500 - Loss: -1.049
+2024-08-19 18:56:53,537 - DEBUG - Iter 455/500 - Loss: -1.062
+2024-08-19 18:56:54,871 - INFO - NLL: -1.1924; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:56:54,875 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.800000011920929
+2024-08-19 18:56:56,511 - DEBUG - Iter 55/500 - Loss: -0.050
+2024-08-19 18:56:58,321 - DEBUG - Iter 110/500 - Loss: 0.993
+2024-08-19 18:57:00,056 - DEBUG - Iter 165/500 - Loss: -0.862
+2024-08-19 18:57:01,708 - DEBUG - Iter 220/500 - Loss: -0.265
+2024-08-19 18:57:03,483 - DEBUG - Iter 275/500 - Loss: -0.938
+2024-08-19 18:57:05,132 - DEBUG - Iter 330/500 - Loss: -0.983
+2024-08-19 18:57:06,765 - DEBUG - Iter 385/500 - Loss: -1.054
+2024-08-19 18:57:08,374 - DEBUG - Iter 440/500 - Loss: -1.060
+2024-08-19 18:57:10,005 - DEBUG - Iter 495/500 - Loss: -1.063
+2024-08-19 18:57:10,008 - INFO - Early cut off at epoch 494 with loss of -1.0625567436218262
+2024-08-19 18:57:10,043 - INFO - NLL: -1.1919; RMSE: 0.1698; NMSE: 0.8710
+2024-08-19 18:57:10,046 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.800000011920929
+2024-08-19 18:57:14,837 - DEBUG - Iter 155/500 - Loss: 7.249
+2024-08-19 18:57:19,628 - DEBUG - Iter 310/500 - Loss: -0.196
+2024-08-19 18:57:24,223 - DEBUG - Iter 465/500 - Loss: -0.326
+2024-08-19 18:57:25,276 - INFO - NLL: -1.0491; RMSE: 0.1699; NMSE: 0.8714
+2024-08-19 18:57:25,279 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_Quadriple'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.800000011920929
+2024-08-19 18:57:28,389 - DEBUG - Iter 100/500 - Loss: 0.084
+2024-08-19 18:57:31,344 - DEBUG - Iter 200/500 - Loss: 0.038
+2024-08-19 18:57:34,328 - DEBUG - Iter 300/500 - Loss: -0.072
+2024-08-19 18:57:37,268 - DEBUG - Iter 400/500 - Loss: -0.387
+2024-08-19 18:57:40,343 - DEBUG - Iter 500/500 - Loss: -1.047
+2024-08-19 18:57:40,383 - INFO - NLL: -1.1804; RMSE: 0.1698; NMSE: 0.8709
