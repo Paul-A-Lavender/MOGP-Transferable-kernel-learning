@@ -1,0 +1,2070 @@
+2024-08-25 15:34:44,574 - INFO - Progress:0/200
+2024-08-25 15:34:44,578 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.20000000298023224
+2024-08-25 15:34:50,092 - DEBUG - Iter 10/500 - Loss: 0.966
+2024-08-25 15:34:50,705 - DEBUG - Iter 20/500 - Loss: 0.372
+2024-08-25 15:34:51,314 - DEBUG - Iter 30/500 - Loss: 0.093
+2024-08-25 15:34:51,922 - DEBUG - Iter 40/500 - Loss: 0.044
+2024-08-25 15:34:52,528 - DEBUG - Iter 50/500 - Loss: 0.031
+2024-08-25 15:34:53,129 - DEBUG - Iter 60/500 - Loss: 0.028
+2024-08-25 15:34:53,740 - DEBUG - Iter 70/500 - Loss: 0.028
+2024-08-25 15:34:54,350 - DEBUG - Iter 80/500 - Loss: 0.028
+2024-08-25 15:34:54,951 - DEBUG - Iter 90/500 - Loss: 0.028
+2024-08-25 15:34:54,952 - INFO - Early cut off at epoch 89 with loss of 0.02757951430976391
+2024-08-25 15:34:55,237 - INFO - NLL: 0.3400; RMSE: 0.2420; NMSE: 1.1490
+2024-08-25 15:34:55,237 - INFO - Progress:1/200
+2024-08-25 15:34:55,237 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.20000000298023224
+2024-08-25 15:34:59,194 - DEBUG - Iter 65/500 - Loss: 2.318
+2024-08-25 15:35:03,126 - DEBUG - Iter 130/500 - Loss: 1.695
+2024-08-25 15:35:07,079 - DEBUG - Iter 195/500 - Loss: 1.383
+2024-08-25 15:35:11,026 - DEBUG - Iter 260/500 - Loss: 1.303
+2024-08-25 15:35:14,955 - DEBUG - Iter 325/500 - Loss: 1.298
+2024-08-25 15:35:18,885 - DEBUG - Iter 390/500 - Loss: 1.297
+2024-08-25 15:35:22,829 - DEBUG - Iter 455/500 - Loss: 1.297
+2024-08-25 15:35:25,805 - INFO - NLL: 3.3159; RMSE: 0.8901; NMSE: 4.2263
+2024-08-25 15:35:25,805 - INFO - Progress:2/200
+2024-08-25 15:35:25,805 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.20000000298023224
+2024-08-25 15:35:29,151 - DEBUG - Iter 55/500 - Loss: 2.721
+2024-08-25 15:35:32,464 - DEBUG - Iter 110/500 - Loss: 1.632
+2024-08-25 15:35:35,788 - DEBUG - Iter 165/500 - Loss: 1.201
+2024-08-25 15:35:39,112 - DEBUG - Iter 220/500 - Loss: 1.045
+2024-08-25 15:35:42,440 - DEBUG - Iter 275/500 - Loss: 0.987
+2024-08-25 15:35:45,777 - DEBUG - Iter 330/500 - Loss: 0.973
+2024-08-25 15:35:49,089 - DEBUG - Iter 385/500 - Loss: 0.970
+2024-08-25 15:35:52,409 - DEBUG - Iter 440/500 - Loss: 0.969
+2024-08-25 15:35:52,409 - INFO - Early cut off at epoch 439 with loss of 0.9694345593452454
+2024-08-25 15:35:52,677 - INFO - NLL: 2.4408; RMSE: 0.6535; NMSE: 3.1030
+2024-08-25 15:35:52,678 - INFO - Progress:3/200
+2024-08-25 15:35:52,678 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.20000000298023224
+2024-08-25 15:36:02,079 - DEBUG - Iter 155/500 - Loss: 3.174
+2024-08-25 15:36:11,515 - DEBUG - Iter 310/500 - Loss: 2.288
+2024-08-25 15:36:20,988 - DEBUG - Iter 465/500 - Loss: 1.865
+2024-08-25 15:36:23,418 - INFO - NLL: 4.1376; RMSE: 1.9224; NMSE: 9.1278
+2024-08-25 15:36:23,419 - INFO - Progress:4/200
+2024-08-25 15:36:23,419 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.20000000298023224
+2024-08-25 15:36:29,614 - DEBUG - Iter 100/500 - Loss: 3.187
+2024-08-25 15:36:35,964 - DEBUG - Iter 200/500 - Loss: 2.833
+2024-08-25 15:36:42,660 - DEBUG - Iter 300/500 - Loss: 2.544
+2024-08-25 15:36:49,341 - DEBUG - Iter 400/500 - Loss: 2.429
+2024-08-25 15:36:56,071 - DEBUG - Iter 500/500 - Loss: 2.405
+2024-08-25 15:36:56,355 - INFO - NLL: 4.3188; RMSE: 1.4585; NMSE: 6.9252
+2024-08-25 15:36:56,356 - INFO - Progress:5/200
+2024-08-25 15:36:56,356 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.3500000238418579
+2024-08-25 15:36:57,039 - DEBUG - Iter 10/500 - Loss: 0.378
+2024-08-25 15:36:57,705 - DEBUG - Iter 20/500 - Loss: -0.426
+2024-08-25 15:36:58,371 - DEBUG - Iter 30/500 - Loss: -0.542
+2024-08-25 15:36:59,047 - DEBUG - Iter 40/500 - Loss: -0.656
+2024-08-25 15:36:59,719 - DEBUG - Iter 50/500 - Loss: -0.672
+2024-08-25 15:37:00,384 - DEBUG - Iter 60/500 - Loss: -0.678
+2024-08-25 15:37:01,053 - DEBUG - Iter 70/500 - Loss: -0.680
+2024-08-25 15:37:01,729 - DEBUG - Iter 80/500 - Loss: -0.681
+2024-08-25 15:37:01,729 - INFO - Early cut off at epoch 79 with loss of -0.6807767152786255
+2024-08-25 15:37:02,010 - INFO - NLL: -0.5681; RMSE: 0.2097; NMSE: 0.9956
+2024-08-25 15:37:02,010 - INFO - Progress:6/200
+2024-08-25 15:37:02,010 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.3500000238418579
+2024-08-25 15:37:06,416 - DEBUG - Iter 65/500 - Loss: 3.014
+2024-08-25 15:37:10,794 - DEBUG - Iter 130/500 - Loss: 1.731
+2024-08-25 15:37:15,181 - DEBUG - Iter 195/500 - Loss: 0.819
+2024-08-25 15:37:19,552 - DEBUG - Iter 260/500 - Loss: 0.448
+2024-08-25 15:37:23,561 - DEBUG - Iter 325/500 - Loss: 0.287
+2024-08-25 15:37:27,530 - DEBUG - Iter 390/500 - Loss: 0.267
+2024-08-25 15:37:31,487 - DEBUG - Iter 455/500 - Loss: 0.259
+2024-08-25 15:37:34,508 - INFO - NLL: 2.5634; RMSE: 1.0753; NMSE: 5.1057
+2024-08-25 15:37:34,508 - INFO - Progress:7/200
+2024-08-25 15:37:34,508 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.3500000238418579
+2024-08-25 15:37:37,862 - DEBUG - Iter 55/500 - Loss: 2.963
+2024-08-25 15:37:41,201 - DEBUG - Iter 110/500 - Loss: 2.131
+2024-08-25 15:37:44,554 - DEBUG - Iter 165/500 - Loss: 1.262
+2024-08-25 15:37:47,887 - DEBUG - Iter 220/500 - Loss: 1.124
+2024-08-25 15:37:51,215 - DEBUG - Iter 275/500 - Loss: 1.060
+2024-08-25 15:37:54,543 - DEBUG - Iter 330/500 - Loss: 1.030
+2024-08-25 15:37:57,868 - DEBUG - Iter 385/500 - Loss: 1.018
+2024-08-25 15:38:01,199 - DEBUG - Iter 440/500 - Loss: 1.013
+2024-08-25 15:38:04,510 - DEBUG - Iter 495/500 - Loss: 1.011
+2024-08-25 15:38:05,070 - INFO - NLL: 3.0706; RMSE: 0.7396; NMSE: 3.5115
+2024-08-25 15:38:05,070 - INFO - Progress:8/200
+2024-08-25 15:38:05,070 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.3500000238418579
+2024-08-25 15:38:14,423 - DEBUG - Iter 155/500 - Loss: 3.242
+2024-08-25 15:38:23,744 - DEBUG - Iter 310/500 - Loss: 3.348
+2024-08-25 15:38:33,094 - DEBUG - Iter 465/500 - Loss: 2.805
+2024-08-25 15:38:35,480 - INFO - NLL: 4.4593; RMSE: 0.7692; NMSE: 3.6521
+2024-08-25 15:38:35,480 - INFO - Progress:9/200
+2024-08-25 15:38:35,480 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.3500000238418579
+2024-08-25 15:38:41,506 - DEBUG - Iter 100/500 - Loss: 2.506
+2024-08-25 15:38:47,506 - DEBUG - Iter 200/500 - Loss: 1.520
+2024-08-25 15:38:53,533 - DEBUG - Iter 300/500 - Loss: 0.239
+2024-08-25 15:38:59,561 - DEBUG - Iter 400/500 - Loss: 0.418
+2024-08-25 15:39:05,738 - DEBUG - Iter 500/500 - Loss: 0.298
+2024-08-25 15:39:06,006 - INFO - NLL: 2.3194; RMSE: 0.6269; NMSE: 2.9766
+2024-08-25 15:39:06,007 - INFO - Progress:10/200
+2024-08-25 15:39:06,007 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.5
+2024-08-25 15:39:06,630 - DEBUG - Iter 10/500 - Loss: 0.784
+2024-08-25 15:39:07,234 - DEBUG - Iter 20/500 - Loss: -0.158
+2024-08-25 15:39:07,839 - DEBUG - Iter 30/500 - Loss: -0.632
+2024-08-25 15:39:08,445 - DEBUG - Iter 40/500 - Loss: -0.801
+2024-08-25 15:39:09,050 - DEBUG - Iter 50/500 - Loss: -0.870
+2024-08-25 15:39:09,657 - DEBUG - Iter 60/500 - Loss: -0.901
+2024-08-25 15:39:10,251 - DEBUG - Iter 70/500 - Loss: -0.914
+2024-08-25 15:39:10,854 - DEBUG - Iter 80/500 - Loss: -0.920
+2024-08-25 15:39:11,455 - DEBUG - Iter 90/500 - Loss: -0.923
+2024-08-25 15:39:12,057 - DEBUG - Iter 100/500 - Loss: -0.924
+2024-08-25 15:39:12,057 - INFO - Early cut off at epoch 99 with loss of -0.9240245223045349
+2024-08-25 15:39:12,320 - INFO - NLL: -0.8148; RMSE: 0.2079; NMSE: 0.9872
+2024-08-25 15:39:12,321 - INFO - Progress:11/200
+2024-08-25 15:39:12,321 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.5
+2024-08-25 15:39:16,242 - DEBUG - Iter 65/500 - Loss: 2.265
+2024-08-25 15:39:20,179 - DEBUG - Iter 130/500 - Loss: 2.054
+2024-08-25 15:39:24,092 - DEBUG - Iter 195/500 - Loss: 1.099
+2024-08-25 15:39:28,008 - DEBUG - Iter 260/500 - Loss: 1.069
+2024-08-25 15:39:31,937 - DEBUG - Iter 325/500 - Loss: 0.703
+2024-08-25 15:39:35,867 - DEBUG - Iter 390/500 - Loss: 0.622
+2024-08-25 15:39:39,786 - DEBUG - Iter 455/500 - Loss: 0.571
+2024-08-25 15:39:42,778 - INFO - NLL: 2.8166; RMSE: 0.8718; NMSE: 4.1391
+2024-08-25 15:39:42,779 - INFO - Progress:12/200
+2024-08-25 15:39:42,779 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.5
+2024-08-25 15:39:46,100 - DEBUG - Iter 55/500 - Loss: 2.308
+2024-08-25 15:39:49,428 - DEBUG - Iter 110/500 - Loss: 1.866
+2024-08-25 15:39:52,739 - DEBUG - Iter 165/500 - Loss: 0.559
+2024-08-25 15:39:56,076 - DEBUG - Iter 220/500 - Loss: 0.893
+2024-08-25 15:39:59,394 - DEBUG - Iter 275/500 - Loss: 0.671
+2024-08-25 15:40:02,721 - DEBUG - Iter 330/500 - Loss: 0.585
+2024-08-25 15:40:06,028 - DEBUG - Iter 385/500 - Loss: 0.537
+2024-08-25 15:40:09,356 - DEBUG - Iter 440/500 - Loss: 0.509
+2024-08-25 15:40:12,776 - DEBUG - Iter 495/500 - Loss: 0.493
+2024-08-25 15:40:13,328 - INFO - NLL: 2.7408; RMSE: 0.7482; NMSE: 3.5523
+2024-08-25 15:40:13,329 - INFO - Progress:13/200
+2024-08-25 15:40:13,329 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.5
+2024-08-25 15:40:22,626 - DEBUG - Iter 155/500 - Loss: 2.827
+2024-08-25 15:40:31,902 - DEBUG - Iter 310/500 - Loss: 3.024
+2024-08-25 15:40:41,163 - DEBUG - Iter 465/500 - Loss: 2.400
+2024-08-25 15:40:43,518 - INFO - NLL: 4.0624; RMSE: 0.9361; NMSE: 4.4449
+2024-08-25 15:40:43,519 - INFO - Progress:14/200
+2024-08-25 15:40:43,519 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.5
+2024-08-25 15:40:49,537 - DEBUG - Iter 100/500 - Loss: 1.496
+2024-08-25 15:40:55,575 - DEBUG - Iter 200/500 - Loss: 1.071
+2024-08-25 15:41:01,642 - DEBUG - Iter 300/500 - Loss: 1.032
+2024-08-25 15:41:07,695 - DEBUG - Iter 400/500 - Loss: -0.029
+2024-08-25 15:41:13,772 - DEBUG - Iter 500/500 - Loss: -0.807
+2024-08-25 15:41:14,023 - INFO - NLL: -0.0403; RMSE: 0.2080; NMSE: 0.9874
+2024-08-25 15:41:14,024 - INFO - Progress:15/200
+2024-08-25 15:41:14,024 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.6499999761581421
+2024-08-25 15:41:14,628 - DEBUG - Iter 10/500 - Loss: 0.590
+2024-08-25 15:41:15,241 - DEBUG - Iter 20/500 - Loss: 0.106
+2024-08-25 15:41:15,849 - DEBUG - Iter 30/500 - Loss: -0.581
+2024-08-25 15:41:16,447 - DEBUG - Iter 40/500 - Loss: -0.859
+2024-08-25 15:41:17,054 - DEBUG - Iter 50/500 - Loss: -0.878
+2024-08-25 15:41:17,662 - DEBUG - Iter 60/500 - Loss: -0.833
+2024-08-25 15:41:18,261 - DEBUG - Iter 70/500 - Loss: -0.913
+2024-08-25 15:41:18,870 - DEBUG - Iter 80/500 - Loss: -1.004
+2024-08-25 15:41:19,483 - DEBUG - Iter 90/500 - Loss: -1.037
+2024-08-25 15:41:20,089 - DEBUG - Iter 100/500 - Loss: -1.053
+2024-08-25 15:41:20,697 - DEBUG - Iter 110/500 - Loss: -1.064
+2024-08-25 15:41:21,300 - DEBUG - Iter 120/500 - Loss: -1.071
+2024-08-25 15:41:21,903 - DEBUG - Iter 130/500 - Loss: -1.075
+2024-08-25 15:41:22,513 - DEBUG - Iter 140/500 - Loss: -1.078
+2024-08-25 15:41:23,124 - DEBUG - Iter 150/500 - Loss: -1.080
+2024-08-25 15:41:23,125 - INFO - Early cut off at epoch 149 with loss of -1.0801429748535156
+2024-08-25 15:41:23,387 - INFO - NLL: -0.7474; RMSE: 0.2030; NMSE: 0.9636
+2024-08-25 15:41:23,388 - INFO - Progress:16/200
+2024-08-25 15:41:23,388 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.6499999761581421
+2024-08-25 15:41:27,334 - DEBUG - Iter 65/500 - Loss: 2.068
+2024-08-25 15:41:31,258 - DEBUG - Iter 130/500 - Loss: 1.657
+2024-08-25 15:41:35,181 - DEBUG - Iter 195/500 - Loss: 1.376
+2024-08-25 15:41:39,101 - DEBUG - Iter 260/500 - Loss: 1.039
+2024-08-25 15:41:43,033 - DEBUG - Iter 325/500 - Loss: 1.089
+2024-08-25 15:41:46,976 - DEBUG - Iter 390/500 - Loss: -0.127
+2024-08-25 15:41:50,919 - DEBUG - Iter 455/500 - Loss: -0.515
+2024-08-25 15:41:53,905 - INFO - NLL: 0.4059; RMSE: 0.2130; NMSE: 1.0114
+2024-08-25 15:41:53,906 - INFO - Progress:17/200
+2024-08-25 15:41:53,906 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.6499999761581421
+2024-08-25 15:41:57,229 - DEBUG - Iter 55/500 - Loss: 2.579
+2024-08-25 15:42:00,543 - DEBUG - Iter 110/500 - Loss: 0.855
+2024-08-25 15:42:03,847 - DEBUG - Iter 165/500 - Loss: 1.936
+2024-08-25 15:42:07,127 - DEBUG - Iter 220/500 - Loss: 2.154
+2024-08-25 15:42:10,437 - DEBUG - Iter 275/500 - Loss: 0.845
+2024-08-25 15:42:13,756 - DEBUG - Iter 330/500 - Loss: 0.612
+2024-08-25 15:42:17,077 - DEBUG - Iter 385/500 - Loss: 0.333
+2024-08-25 15:42:20,403 - DEBUG - Iter 440/500 - Loss: 0.190
+2024-08-25 15:42:23,736 - DEBUG - Iter 495/500 - Loss: 0.087
+2024-08-25 15:42:24,299 - INFO - NLL: 3.3986; RMSE: 0.7437; NMSE: 3.5311
+2024-08-25 15:42:24,300 - INFO - Progress:18/200
+2024-08-25 15:42:24,300 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.6499999761581421
+2024-08-25 15:42:33,667 - DEBUG - Iter 155/500 - Loss: 3.841
+2024-08-25 15:42:43,071 - DEBUG - Iter 310/500 - Loss: 3.894
+2024-08-25 15:42:52,467 - DEBUG - Iter 465/500 - Loss: 3.303
+2024-08-25 15:42:54,845 - INFO - NLL: 4.1712; RMSE: 0.5239; NMSE: 2.4877
+2024-08-25 15:42:54,845 - INFO - Progress:19/200
+2024-08-25 15:42:54,846 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.6499999761581421
+2024-08-25 15:43:00,908 - DEBUG - Iter 100/500 - Loss: 0.641
+2024-08-25 15:43:06,963 - DEBUG - Iter 200/500 - Loss: 0.593
+2024-08-25 15:43:13,013 - DEBUG - Iter 300/500 - Loss: -0.084
+2024-08-25 15:43:19,069 - DEBUG - Iter 400/500 - Loss: 1.256
+2024-08-25 15:43:25,100 - DEBUG - Iter 500/500 - Loss: 1.271
+2024-08-25 15:43:25,362 - INFO - NLL: 2.0125; RMSE: 0.6439; NMSE: 3.0571
+2024-08-25 15:43:25,363 - INFO - Progress:20/200
+2024-08-25 15:43:25,363 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.800000011920929
+2024-08-25 15:43:25,971 - DEBUG - Iter 10/500 - Loss: 0.092
+2024-08-25 15:43:26,578 - DEBUG - Iter 20/500 - Loss: -0.301
+2024-08-25 15:43:27,182 - DEBUG - Iter 30/500 - Loss: -0.326
+2024-08-25 15:43:27,789 - DEBUG - Iter 40/500 - Loss: 0.319
+2024-08-25 15:43:28,393 - DEBUG - Iter 50/500 - Loss: -0.360
+2024-08-25 15:43:29,000 - DEBUG - Iter 60/500 - Loss: 0.395
+2024-08-25 15:43:29,608 - DEBUG - Iter 70/500 - Loss: 0.069
+2024-08-25 15:43:30,213 - DEBUG - Iter 80/500 - Loss: 0.067
+2024-08-25 15:43:30,816 - DEBUG - Iter 90/500 - Loss: -0.430
+2024-08-25 15:43:31,422 - DEBUG - Iter 100/500 - Loss: -0.643
+2024-08-25 15:43:32,031 - DEBUG - Iter 110/500 - Loss: -0.758
+2024-08-25 15:43:32,636 - DEBUG - Iter 120/500 - Loss: -0.684
+2024-08-25 15:43:33,238 - DEBUG - Iter 130/500 - Loss: -0.968
+2024-08-25 15:43:33,845 - DEBUG - Iter 140/500 - Loss: -1.088
+2024-08-25 15:43:34,455 - DEBUG - Iter 150/500 - Loss: -1.162
+2024-08-25 15:43:35,069 - DEBUG - Iter 160/500 - Loss: -1.189
+2024-08-25 15:43:35,673 - DEBUG - Iter 170/500 - Loss: -1.201
+2024-08-25 15:43:36,282 - DEBUG - Iter 180/500 - Loss: -1.207
+2024-08-25 15:43:36,887 - DEBUG - Iter 190/500 - Loss: -1.211
+2024-08-25 15:43:37,487 - DEBUG - Iter 200/500 - Loss: -1.214
+2024-08-25 15:43:37,488 - INFO - Early cut off at epoch 199 with loss of -1.213997483253479
+2024-08-25 15:43:37,751 - INFO - NLL: -1.1208; RMSE: 0.2069; NMSE: 0.9826
+2024-08-25 15:43:37,751 - INFO - Progress:21/200
+2024-08-25 15:43:37,751 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.800000011920929
+2024-08-25 15:43:41,697 - DEBUG - Iter 65/500 - Loss: 1.673
+2024-08-25 15:43:45,631 - DEBUG - Iter 130/500 - Loss: 2.873
+2024-08-25 15:43:49,562 - DEBUG - Iter 195/500 - Loss: 1.732
+2024-08-25 15:43:53,501 - DEBUG - Iter 260/500 - Loss: 2.673
+2024-08-25 15:43:57,435 - DEBUG - Iter 325/500 - Loss: 2.592
+2024-08-25 15:44:01,357 - DEBUG - Iter 390/500 - Loss: 2.309
+2024-08-25 15:44:05,305 - DEBUG - Iter 455/500 - Loss: 2.233
+2024-08-25 15:44:08,300 - INFO - NLL: 2.7596; RMSE: 0.3490; NMSE: 1.6570
+2024-08-25 15:44:08,300 - INFO - Progress:22/200
+2024-08-25 15:44:08,300 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.800000011920929
+2024-08-25 15:44:11,628 - DEBUG - Iter 55/500 - Loss: 3.265
+2024-08-25 15:44:14,961 - DEBUG - Iter 110/500 - Loss: 2.303
+2024-08-25 15:44:18,298 - DEBUG - Iter 165/500 - Loss: 1.037
+2024-08-25 15:44:21,607 - DEBUG - Iter 220/500 - Loss: 0.627
+2024-08-25 15:44:24,929 - DEBUG - Iter 275/500 - Loss: 2.244
+2024-08-25 15:44:28,252 - DEBUG - Iter 330/500 - Loss: 2.205
+2024-08-25 15:44:31,572 - DEBUG - Iter 385/500 - Loss: 2.088
+2024-08-25 15:44:34,893 - DEBUG - Iter 440/500 - Loss: 2.166
+2024-08-25 15:44:38,214 - DEBUG - Iter 495/500 - Loss: 2.477
+2024-08-25 15:44:38,781 - INFO - NLL: 3.3719; RMSE: 0.6646; NMSE: 3.1554
+2024-08-25 15:44:38,781 - INFO - Progress:23/200
+2024-08-25 15:44:38,781 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.800000011920929
+2024-08-25 15:44:48,105 - DEBUG - Iter 155/500 - Loss: 2.934
+2024-08-25 15:44:57,453 - DEBUG - Iter 310/500 - Loss: 2.272
+2024-08-25 15:45:06,784 - DEBUG - Iter 465/500 - Loss: 3.810
+2024-08-25 15:45:09,148 - INFO - NLL: 4.2408; RMSE: 1.2338; NMSE: 5.8580
+2024-08-25 15:45:09,149 - INFO - Progress:24/200
+2024-08-25 15:45:09,149 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.800000011920929
+2024-08-25 15:45:15,189 - DEBUG - Iter 100/500 - Loss: 3.190
+2024-08-25 15:45:21,183 - DEBUG - Iter 200/500 - Loss: 3.495
+2024-08-25 15:45:27,214 - DEBUG - Iter 300/500 - Loss: 2.791
+2024-08-25 15:45:33,260 - DEBUG - Iter 400/500 - Loss: 3.174
+2024-08-25 15:45:39,332 - DEBUG - Iter 500/500 - Loss: 2.947
+2024-08-25 15:45:39,593 - INFO - NLL: 3.9366; RMSE: 1.0842; NMSE: 5.1481
+2024-08-25 15:45:39,593 - INFO - Progress:25/200
+2024-08-25 15:45:39,594 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.20000000298023224
+2024-08-25 15:45:40,209 - DEBUG - Iter 10/500 - Loss: 1.206
+2024-08-25 15:45:40,817 - DEBUG - Iter 20/500 - Loss: -0.138
+2024-08-25 15:45:41,418 - DEBUG - Iter 30/500 - Loss: -0.489
+2024-08-25 15:45:42,027 - DEBUG - Iter 40/500 - Loss: -0.550
+2024-08-25 15:45:42,636 - DEBUG - Iter 50/500 - Loss: -0.562
+2024-08-25 15:45:43,244 - DEBUG - Iter 60/500 - Loss: -0.565
+2024-08-25 15:45:43,846 - DEBUG - Iter 70/500 - Loss: -0.565
+2024-08-25 15:45:43,846 - INFO - Early cut off at epoch 69 with loss of -0.56516432762146
+2024-08-25 15:45:44,109 - INFO - NLL: -0.4143; RMSE: 0.2236; NMSE: 1.0618
+2024-08-25 15:45:44,109 - INFO - Progress:26/200
+2024-08-25 15:45:44,110 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.20000000298023224
+2024-08-25 15:45:48,056 - DEBUG - Iter 65/500 - Loss: 1.636
+2024-08-25 15:45:51,986 - DEBUG - Iter 130/500 - Loss: 2.149
+2024-08-25 15:45:55,907 - DEBUG - Iter 195/500 - Loss: 1.709
+2024-08-25 15:45:59,840 - DEBUG - Iter 260/500 - Loss: 1.656
+2024-08-25 15:46:03,769 - DEBUG - Iter 325/500 - Loss: 1.647
+2024-08-25 15:46:07,695 - DEBUG - Iter 390/500 - Loss: 1.646
+2024-08-25 15:46:11,623 - DEBUG - Iter 455/500 - Loss: 1.645
+2024-08-25 15:46:14,612 - INFO - NLL: 3.9660; RMSE: 1.3351; NMSE: 6.3389
+2024-08-25 15:46:14,613 - INFO - Progress:27/200
+2024-08-25 15:46:14,613 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.20000000298023224
+2024-08-25 15:46:17,928 - DEBUG - Iter 55/500 - Loss: 2.694
+2024-08-25 15:46:21,263 - DEBUG - Iter 110/500 - Loss: 0.348
+2024-08-25 15:46:24,583 - DEBUG - Iter 165/500 - Loss: 0.618
+2024-08-25 15:46:27,920 - DEBUG - Iter 220/500 - Loss: 0.436
+2024-08-25 15:46:31,299 - DEBUG - Iter 275/500 - Loss: 0.406
+2024-08-25 15:46:34,678 - DEBUG - Iter 330/500 - Loss: 0.398
+2024-08-25 15:46:38,028 - DEBUG - Iter 385/500 - Loss: 0.397
+2024-08-25 15:46:41,671 - DEBUG - Iter 440/500 - Loss: 0.396
+2024-08-25 15:46:41,671 - INFO - Early cut off at epoch 439 with loss of 0.396462619304657
+2024-08-25 15:46:41,945 - INFO - NLL: 2.3619; RMSE: 1.3661; NMSE: 6.4862
+2024-08-25 15:46:41,946 - INFO - Progress:28/200
+2024-08-25 15:46:41,946 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.20000000298023224
+2024-08-25 15:46:52,206 - DEBUG - Iter 155/500 - Loss: 3.387
+2024-08-25 15:47:02,470 - DEBUG - Iter 310/500 - Loss: 3.424
+2024-08-25 15:47:12,737 - DEBUG - Iter 465/500 - Loss: 2.725
+2024-08-25 15:47:15,326 - INFO - NLL: 4.3865; RMSE: 0.8508; NMSE: 4.0398
+2024-08-25 15:47:15,327 - INFO - Progress:29/200
+2024-08-25 15:47:15,327 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.20000000298023224
+2024-08-25 15:47:21,953 - DEBUG - Iter 100/500 - Loss: 1.850
+2024-08-25 15:47:28,223 - DEBUG - Iter 200/500 - Loss: 1.207
+2024-08-25 15:47:34,304 - DEBUG - Iter 300/500 - Loss: 0.773
+2024-08-25 15:47:40,254 - DEBUG - Iter 400/500 - Loss: 0.698
+2024-08-25 15:47:46,209 - DEBUG - Iter 500/500 - Loss: 0.687
+2024-08-25 15:47:46,472 - INFO - NLL: 2.8877; RMSE: 0.3503; NMSE: 1.6632
+2024-08-25 15:47:46,472 - INFO - Progress:30/200
+2024-08-25 15:47:46,473 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.3500000238418579
+2024-08-25 15:47:47,082 - DEBUG - Iter 10/500 - Loss: 1.136
+2024-08-25 15:47:47,675 - DEBUG - Iter 20/500 - Loss: -0.150
+2024-08-25 15:47:48,272 - DEBUG - Iter 30/500 - Loss: -0.695
+2024-08-25 15:47:48,860 - DEBUG - Iter 40/500 - Loss: -0.863
+2024-08-25 15:47:49,450 - DEBUG - Iter 50/500 - Loss: -0.905
+2024-08-25 15:47:50,044 - DEBUG - Iter 60/500 - Loss: -0.916
+2024-08-25 15:47:50,630 - DEBUG - Iter 70/500 - Loss: -0.920
+2024-08-25 15:47:51,225 - DEBUG - Iter 80/500 - Loss: -0.921
+2024-08-25 15:47:51,226 - INFO - Early cut off at epoch 79 with loss of -0.9208394289016724
+2024-08-25 15:47:51,488 - INFO - NLL: -0.8076; RMSE: 0.2082; NMSE: 0.9886
+2024-08-25 15:47:51,488 - INFO - Progress:31/200
+2024-08-25 15:47:51,488 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.3500000238418579
+2024-08-25 15:47:55,328 - DEBUG - Iter 65/500 - Loss: 3.129
+2024-08-25 15:47:55,328 - INFO - Early cut off at epoch 64 with loss of 3.128711700439453
+2024-08-25 15:47:55,583 - INFO - NLL: 3.6693; RMSE: 0.9407; NMSE: 4.4667
+2024-08-25 15:47:55,584 - INFO - Progress:32/200
+2024-08-25 15:47:55,584 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.3500000238418579
+2024-08-25 15:47:58,821 - DEBUG - Iter 55/500 - Loss: 1.565
+2024-08-25 15:48:02,067 - DEBUG - Iter 110/500 - Loss: 1.592
+2024-08-25 15:48:05,306 - DEBUG - Iter 165/500 - Loss: 0.721
+2024-08-25 15:48:08,613 - DEBUG - Iter 220/500 - Loss: 0.349
+2024-08-25 15:48:11,880 - DEBUG - Iter 275/500 - Loss: 0.300
+2024-08-25 15:48:15,144 - DEBUG - Iter 330/500 - Loss: 0.282
+2024-08-25 15:48:18,419 - DEBUG - Iter 385/500 - Loss: 0.275
+2024-08-25 15:48:21,692 - DEBUG - Iter 440/500 - Loss: 0.273
+2024-08-25 15:48:24,971 - DEBUG - Iter 495/500 - Loss: 0.272
+2024-08-25 15:48:25,530 - INFO - NLL: 2.5305; RMSE: 0.8068; NMSE: 3.8306
+2024-08-25 15:48:25,531 - INFO - Progress:33/200
+2024-08-25 15:48:25,531 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.3500000238418579
+2024-08-25 15:48:34,743 - DEBUG - Iter 155/500 - Loss: 4.000
+2024-08-25 15:48:43,952 - DEBUG - Iter 310/500 - Loss: 3.533
+2024-08-25 15:48:53,157 - DEBUG - Iter 465/500 - Loss: 3.287
+2024-08-25 15:48:55,497 - INFO - NLL: 4.4637; RMSE: 0.8691; NMSE: 4.1265
+2024-08-25 15:48:55,497 - INFO - Progress:34/200
+2024-08-25 15:48:55,498 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.3500000238418579
+2024-08-25 15:49:01,509 - DEBUG - Iter 100/500 - Loss: 3.699
+2024-08-25 15:49:07,496 - DEBUG - Iter 200/500 - Loss: 2.835
+2024-08-25 15:49:13,500 - DEBUG - Iter 300/500 - Loss: 2.952
+2024-08-25 15:49:19,485 - DEBUG - Iter 400/500 - Loss: 2.281
+2024-08-25 15:49:25,475 - DEBUG - Iter 500/500 - Loss: 2.211
+2024-08-25 15:49:25,737 - INFO - NLL: 4.1326; RMSE: 1.2224; NMSE: 5.8040
+2024-08-25 15:49:25,737 - INFO - Progress:35/200
+2024-08-25 15:49:25,738 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.5
+2024-08-25 15:49:26,334 - DEBUG - Iter 10/500 - Loss: 1.278
+2024-08-25 15:49:26,938 - DEBUG - Iter 20/500 - Loss: 1.015
+2024-08-25 15:49:27,534 - DEBUG - Iter 30/500 - Loss: 0.290
+2024-08-25 15:49:28,134 - DEBUG - Iter 40/500 - Loss: 0.355
+2024-08-25 15:49:28,738 - DEBUG - Iter 50/500 - Loss: 0.144
+2024-08-25 15:49:29,340 - DEBUG - Iter 60/500 - Loss: 0.032
+2024-08-25 15:49:29,934 - DEBUG - Iter 70/500 - Loss: -0.025
+2024-08-25 15:49:30,537 - DEBUG - Iter 80/500 - Loss: -0.054
+2024-08-25 15:49:31,145 - DEBUG - Iter 90/500 - Loss: -0.070
+2024-08-25 15:49:31,752 - DEBUG - Iter 100/500 - Loss: -0.079
+2024-08-25 15:49:32,355 - DEBUG - Iter 110/500 - Loss: -0.083
+2024-08-25 15:49:32,955 - DEBUG - Iter 120/500 - Loss: -0.085
+2024-08-25 15:49:33,554 - DEBUG - Iter 130/500 - Loss: -0.086
+2024-08-25 15:49:34,160 - DEBUG - Iter 140/500 - Loss: -0.087
+2024-08-25 15:49:34,756 - DEBUG - Iter 150/500 - Loss: -0.087
+2024-08-25 15:49:35,352 - DEBUG - Iter 160/500 - Loss: -0.087
+2024-08-25 15:49:35,352 - INFO - Early cut off at epoch 159 with loss of -0.087382473051548
+2024-08-25 15:49:35,612 - INFO - NLL: 1.1932; RMSE: 0.2514; NMSE: 1.1937
+2024-08-25 15:49:35,612 - INFO - Progress:36/200
+2024-08-25 15:49:35,613 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.5
+2024-08-25 15:49:39,515 - DEBUG - Iter 65/500 - Loss: 3.355
+2024-08-25 15:49:43,400 - DEBUG - Iter 130/500 - Loss: 2.328
+2024-08-25 15:49:47,286 - DEBUG - Iter 195/500 - Loss: 3.229
+2024-08-25 15:49:51,178 - DEBUG - Iter 260/500 - Loss: 2.608
+2024-08-25 15:49:55,072 - DEBUG - Iter 325/500 - Loss: 2.173
+2024-08-25 15:49:58,980 - DEBUG - Iter 390/500 - Loss: 2.029
+2024-08-25 15:50:02,877 - DEBUG - Iter 455/500 - Loss: 1.997
+2024-08-25 15:50:05,834 - INFO - NLL: 3.7648; RMSE: 1.3649; NMSE: 6.4807
+2024-08-25 15:50:05,835 - INFO - Progress:37/200
+2024-08-25 15:50:05,835 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.5
+2024-08-25 15:50:09,131 - DEBUG - Iter 55/500 - Loss: 3.204
+2024-08-25 15:50:12,412 - DEBUG - Iter 110/500 - Loss: 3.616
+2024-08-25 15:50:15,701 - DEBUG - Iter 165/500 - Loss: 3.144
+2024-08-25 15:50:18,978 - DEBUG - Iter 220/500 - Loss: 2.595
+2024-08-25 15:50:22,271 - DEBUG - Iter 275/500 - Loss: 2.225
+2024-08-25 15:50:25,555 - DEBUG - Iter 330/500 - Loss: 2.078
+2024-08-25 15:50:28,852 - DEBUG - Iter 385/500 - Loss: 2.007
+2024-08-25 15:50:32,128 - DEBUG - Iter 440/500 - Loss: 1.930
+2024-08-25 15:50:35,401 - DEBUG - Iter 495/500 - Loss: 1.887
+2024-08-25 15:50:35,968 - INFO - NLL: 4.3252; RMSE: 1.3428; NMSE: 6.3756
+2024-08-25 15:50:35,969 - INFO - Progress:38/200
+2024-08-25 15:50:35,969 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.5
+2024-08-25 15:50:45,278 - DEBUG - Iter 155/500 - Loss: 3.621
+2024-08-25 15:50:54,587 - DEBUG - Iter 310/500 - Loss: 3.893
+2024-08-25 15:51:03,909 - DEBUG - Iter 465/500 - Loss: 3.682
+2024-08-25 15:51:06,285 - INFO - NLL: 4.9244; RMSE: 1.0394; NMSE: 4.9350
+2024-08-25 15:51:06,285 - INFO - Progress:39/200
+2024-08-25 15:51:06,285 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.5
+2024-08-25 15:51:12,321 - DEBUG - Iter 100/500 - Loss: 3.714
+2024-08-25 15:51:18,346 - DEBUG - Iter 200/500 - Loss: 3.952
+2024-08-25 15:51:24,386 - DEBUG - Iter 300/500 - Loss: 3.152
+2024-08-25 15:51:32,476 - DEBUG - Iter 400/500 - Loss: 3.180
+2024-08-25 15:51:39,711 - DEBUG - Iter 500/500 - Loss: 2.276
+2024-08-25 15:51:39,978 - INFO - NLL: 4.7010; RMSE: 1.1515; NMSE: 5.4676
+2024-08-25 15:51:39,979 - INFO - Progress:40/200
+2024-08-25 15:51:39,979 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.6499999761581421
+2024-08-25 15:51:40,723 - DEBUG - Iter 10/500 - Loss: 1.439
+2024-08-25 15:51:41,444 - DEBUG - Iter 20/500 - Loss: 0.668
+2024-08-25 15:51:42,169 - DEBUG - Iter 30/500 - Loss: 0.753
+2024-08-25 15:51:42,901 - DEBUG - Iter 40/500 - Loss: 0.953
+2024-08-25 15:51:43,617 - DEBUG - Iter 50/500 - Loss: 0.573
+2024-08-25 15:51:44,354 - DEBUG - Iter 60/500 - Loss: 0.569
+2024-08-25 15:51:45,069 - DEBUG - Iter 70/500 - Loss: 0.380
+2024-08-25 15:51:45,954 - DEBUG - Iter 80/500 - Loss: 0.100
+2024-08-25 15:51:46,680 - DEBUG - Iter 90/500 - Loss: 0.158
+2024-08-25 15:51:47,391 - DEBUG - Iter 100/500 - Loss: 0.230
+2024-08-25 15:51:48,121 - DEBUG - Iter 110/500 - Loss: 0.213
+2024-08-25 15:51:48,842 - DEBUG - Iter 120/500 - Loss: 0.188
+2024-08-25 15:51:49,571 - DEBUG - Iter 130/500 - Loss: 0.169
+2024-08-25 15:51:50,298 - DEBUG - Iter 140/500 - Loss: 0.155
+2024-08-25 15:51:51,391 - DEBUG - Iter 150/500 - Loss: 0.146
+2024-08-25 15:51:52,113 - DEBUG - Iter 160/500 - Loss: 0.140
+2024-08-25 15:51:52,847 - DEBUG - Iter 170/500 - Loss: 0.137
+2024-08-25 15:51:53,553 - DEBUG - Iter 180/500 - Loss: 0.134
+2024-08-25 15:51:54,290 - DEBUG - Iter 190/500 - Loss: 0.133
+2024-08-25 15:51:54,992 - DEBUG - Iter 200/500 - Loss: 0.132
+2024-08-25 15:51:55,718 - DEBUG - Iter 210/500 - Loss: 0.131
+2024-08-25 15:51:56,434 - DEBUG - Iter 220/500 - Loss: 0.130
+2024-08-25 15:51:57,155 - DEBUG - Iter 230/500 - Loss: 0.130
+2024-08-25 15:51:57,155 - INFO - Early cut off at epoch 229 with loss of 0.13015136122703552
+2024-08-25 15:51:57,423 - INFO - NLL: 1.3452; RMSE: 0.2135; NMSE: 1.0139
+2024-08-25 15:51:57,424 - INFO - Progress:41/200
+2024-08-25 15:51:57,424 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.6499999761581421
+2024-08-25 15:52:02,103 - DEBUG - Iter 65/500 - Loss: 3.149
+2024-08-25 15:52:06,793 - DEBUG - Iter 130/500 - Loss: 2.460
+2024-08-25 15:52:11,487 - DEBUG - Iter 195/500 - Loss: 3.307
+2024-08-25 15:52:16,178 - DEBUG - Iter 260/500 - Loss: 2.997
+2024-08-25 15:52:20,921 - DEBUG - Iter 325/500 - Loss: 3.063
+2024-08-25 15:52:25,596 - DEBUG - Iter 390/500 - Loss: 2.896
+2024-08-25 15:52:30,267 - DEBUG - Iter 455/500 - Loss: 2.777
+2024-08-25 15:52:33,735 - INFO - NLL: 4.1037; RMSE: 1.3461; NMSE: 6.3916
+2024-08-25 15:52:33,736 - INFO - Progress:42/200
+2024-08-25 15:52:33,736 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.6499999761581421
+2024-08-25 15:52:37,566 - DEBUG - Iter 55/500 - Loss: 2.051
+2024-08-25 15:52:40,944 - DEBUG - Iter 110/500 - Loss: 2.254
+2024-08-25 15:52:44,309 - DEBUG - Iter 165/500 - Loss: 1.659
+2024-08-25 15:52:47,672 - DEBUG - Iter 220/500 - Loss: 1.953
+2024-08-25 15:52:51,046 - DEBUG - Iter 275/500 - Loss: 1.799
+2024-08-25 15:52:54,407 - DEBUG - Iter 330/500 - Loss: 1.828
+2024-08-25 15:52:57,769 - DEBUG - Iter 385/500 - Loss: 1.088
+2024-08-25 15:53:01,133 - DEBUG - Iter 440/500 - Loss: 0.823
+2024-08-25 15:53:04,502 - DEBUG - Iter 495/500 - Loss: 0.777
+2024-08-25 15:53:05,079 - INFO - NLL: 3.9167; RMSE: 1.1690; NMSE: 5.5506
+2024-08-25 15:53:05,079 - INFO - Progress:43/200
+2024-08-25 15:53:05,079 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.6499999761581421
+2024-08-25 15:53:14,561 - DEBUG - Iter 155/500 - Loss: 3.594
+2024-08-25 15:53:24,030 - DEBUG - Iter 310/500 - Loss: 3.208
+2024-08-25 15:53:33,514 - DEBUG - Iter 465/500 - Loss: 3.188
+2024-08-25 15:53:35,906 - INFO - NLL: 2.9484; RMSE: 1.8965; NMSE: 9.0048
+2024-08-25 15:53:35,907 - INFO - Progress:44/200
+2024-08-25 15:53:35,907 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.6499999761581421
+2024-08-25 15:53:42,055 - DEBUG - Iter 100/500 - Loss: 2.776
+2024-08-25 15:53:48,185 - DEBUG - Iter 200/500 - Loss: 1.600
+2024-08-25 15:53:54,333 - DEBUG - Iter 300/500 - Loss: 2.802
+2024-08-25 15:54:00,472 - DEBUG - Iter 400/500 - Loss: 2.023
+2024-08-25 15:54:06,627 - DEBUG - Iter 500/500 - Loss: 1.751
+2024-08-25 15:54:06,890 - INFO - NLL: 3.9485; RMSE: 1.9541; NMSE: 9.2780
+2024-08-25 15:54:06,890 - INFO - Progress:45/200
+2024-08-25 15:54:06,890 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.800000011920929
+2024-08-25 15:54:07,511 - DEBUG - Iter 10/500 - Loss: 1.294
+2024-08-25 15:54:08,118 - DEBUG - Iter 20/500 - Loss: 0.296
+2024-08-25 15:54:08,732 - DEBUG - Iter 30/500 - Loss: 2.370
+2024-08-25 15:54:09,333 - DEBUG - Iter 40/500 - Loss: 2.545
+2024-08-25 15:54:09,951 - DEBUG - Iter 50/500 - Loss: 2.302
+2024-08-25 15:54:10,562 - DEBUG - Iter 60/500 - Loss: 1.904
+2024-08-25 15:54:11,168 - DEBUG - Iter 70/500 - Loss: 1.616
+2024-08-25 15:54:11,783 - DEBUG - Iter 80/500 - Loss: 1.483
+2024-08-25 15:54:12,386 - DEBUG - Iter 90/500 - Loss: 1.337
+2024-08-25 15:54:12,998 - DEBUG - Iter 100/500 - Loss: 1.077
+2024-08-25 15:54:13,613 - DEBUG - Iter 110/500 - Loss: 0.856
+2024-08-25 15:54:14,220 - DEBUG - Iter 120/500 - Loss: 0.837
+2024-08-25 15:54:14,831 - DEBUG - Iter 130/500 - Loss: 0.673
+2024-08-25 15:54:15,439 - DEBUG - Iter 140/500 - Loss: 0.532
+2024-08-25 15:54:16,045 - DEBUG - Iter 150/500 - Loss: 0.363
+2024-08-25 15:54:16,659 - DEBUG - Iter 160/500 - Loss: 0.266
+2024-08-25 15:54:17,263 - DEBUG - Iter 170/500 - Loss: 0.204
+2024-08-25 15:54:17,884 - DEBUG - Iter 180/500 - Loss: 0.183
+2024-08-25 15:54:18,504 - DEBUG - Iter 190/500 - Loss: 0.157
+2024-08-25 15:54:19,104 - DEBUG - Iter 200/500 - Loss: 0.140
+2024-08-25 15:54:19,721 - DEBUG - Iter 210/500 - Loss: 0.126
+2024-08-25 15:54:20,328 - DEBUG - Iter 220/500 - Loss: 0.115
+2024-08-25 15:54:20,939 - DEBUG - Iter 230/500 - Loss: 0.106
+2024-08-25 15:54:21,553 - DEBUG - Iter 240/500 - Loss: 0.099
+2024-08-25 15:54:22,156 - DEBUG - Iter 250/500 - Loss: 0.092
+2024-08-25 15:54:22,774 - DEBUG - Iter 260/500 - Loss: 0.087
+2024-08-25 15:54:23,379 - DEBUG - Iter 270/500 - Loss: 0.083
+2024-08-25 15:54:23,993 - DEBUG - Iter 280/500 - Loss: 0.079
+2024-08-25 15:54:24,610 - DEBUG - Iter 290/500 - Loss: 0.076
+2024-08-25 15:54:25,215 - DEBUG - Iter 300/500 - Loss: 0.074
+2024-08-25 15:54:25,827 - DEBUG - Iter 310/500 - Loss: 0.071
+2024-08-25 15:54:26,428 - DEBUG - Iter 320/500 - Loss: 0.070
+2024-08-25 15:54:27,041 - DEBUG - Iter 330/500 - Loss: 0.068
+2024-08-25 15:54:27,658 - DEBUG - Iter 340/500 - Loss: 0.067
+2024-08-25 15:54:28,260 - DEBUG - Iter 350/500 - Loss: 0.066
+2024-08-25 15:54:28,871 - DEBUG - Iter 360/500 - Loss: 0.065
+2024-08-25 15:54:29,476 - DEBUG - Iter 370/500 - Loss: 0.065
+2024-08-25 15:54:29,476 - INFO - Early cut off at epoch 369 with loss of 0.06486869603395462
+2024-08-25 15:54:29,760 - INFO - NLL: 2.9516; RMSE: 0.6289; NMSE: 2.9859
+2024-08-25 15:54:29,760 - INFO - Progress:46/200
+2024-08-25 15:54:29,761 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.800000011920929
+2024-08-25 15:54:33,745 - DEBUG - Iter 65/500 - Loss: 3.419
+2024-08-25 15:54:37,709 - DEBUG - Iter 130/500 - Loss: 3.935
+2024-08-25 15:54:41,683 - DEBUG - Iter 195/500 - Loss: 3.642
+2024-08-25 15:54:45,665 - DEBUG - Iter 260/500 - Loss: 3.376
+2024-08-25 15:54:49,644 - DEBUG - Iter 325/500 - Loss: 3.812
+2024-08-25 15:54:53,613 - DEBUG - Iter 390/500 - Loss: 3.336
+2024-08-25 15:54:57,561 - DEBUG - Iter 455/500 - Loss: 3.052
+2024-08-25 15:55:00,569 - INFO - NLL: 4.6415; RMSE: 1.2418; NMSE: 5.8961
+2024-08-25 15:55:00,569 - INFO - Progress:47/200
+2024-08-25 15:55:00,569 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.800000011920929
+2024-08-25 15:55:04,219 - DEBUG - Iter 55/500 - Loss: 3.568
+2024-08-25 15:55:07,572 - DEBUG - Iter 110/500 - Loss: 3.247
+2024-08-25 15:55:10,897 - DEBUG - Iter 165/500 - Loss: 2.894
+2024-08-25 15:55:14,238 - DEBUG - Iter 220/500 - Loss: 2.977
+2024-08-25 15:55:17,581 - DEBUG - Iter 275/500 - Loss: 3.096
+2024-08-25 15:55:20,918 - DEBUG - Iter 330/500 - Loss: 2.148
+2024-08-25 15:55:24,231 - DEBUG - Iter 385/500 - Loss: 1.652
+2024-08-25 15:55:27,565 - DEBUG - Iter 440/500 - Loss: 2.258
+2024-08-25 15:55:30,897 - DEBUG - Iter 495/500 - Loss: 2.037
+2024-08-25 15:55:31,462 - INFO - NLL: 3.9016; RMSE: 1.3330; NMSE: 6.3292
+2024-08-25 15:55:31,463 - INFO - Progress:48/200
+2024-08-25 15:55:31,463 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.800000011920929
+2024-08-25 15:55:40,869 - DEBUG - Iter 155/500 - Loss: 3.491
+2024-08-25 15:55:50,403 - DEBUG - Iter 310/500 - Loss: 3.475
+2024-08-25 15:56:00,507 - DEBUG - Iter 465/500 - Loss: 2.452
+2024-08-25 15:56:03,047 - INFO - NLL: 3.6945; RMSE: 1.5776; NMSE: 7.4904
+2024-08-25 15:56:03,047 - INFO - Progress:49/200
+2024-08-25 15:56:03,048 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.800000011920929
+2024-08-25 15:56:09,518 - DEBUG - Iter 100/500 - Loss: 3.930
+2024-08-25 15:56:15,977 - DEBUG - Iter 200/500 - Loss: 4.244
+2024-08-25 15:56:22,365 - DEBUG - Iter 300/500 - Loss: 4.593
+2024-08-25 15:56:28,590 - DEBUG - Iter 400/500 - Loss: 3.995
+2024-08-25 15:56:35,102 - DEBUG - Iter 500/500 - Loss: 4.188
+2024-08-25 15:56:35,381 - INFO - NLL: 5.2219; RMSE: 2.9641; NMSE: 14.0736
+2024-08-25 15:56:35,381 - INFO - Progress:50/200
+2024-08-25 15:56:35,381 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.20000000298023224
+2024-08-25 15:56:36,074 - DEBUG - Iter 10/500 - Loss: 1.515
+2024-08-25 15:56:36,740 - DEBUG - Iter 20/500 - Loss: 0.347
+2024-08-25 15:56:37,408 - DEBUG - Iter 30/500 - Loss: 0.456
+2024-08-25 15:56:38,079 - DEBUG - Iter 40/500 - Loss: 0.359
+2024-08-25 15:56:38,749 - DEBUG - Iter 50/500 - Loss: 0.313
+2024-08-25 15:56:39,420 - DEBUG - Iter 60/500 - Loss: 0.301
+2024-08-25 15:56:40,088 - DEBUG - Iter 70/500 - Loss: 0.299
+2024-08-25 15:56:40,748 - DEBUG - Iter 80/500 - Loss: 0.298
+2024-08-25 15:56:40,748 - INFO - Early cut off at epoch 79 with loss of 0.2980721890926361
+2024-08-25 15:56:41,024 - INFO - NLL: 1.6334; RMSE: 0.9003; NMSE: 4.2747
+2024-08-25 15:56:41,025 - INFO - Progress:51/200
+2024-08-25 15:56:41,025 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.20000000298023224
+2024-08-25 15:56:45,362 - DEBUG - Iter 65/500 - Loss: 4.350
+2024-08-25 15:56:49,708 - DEBUG - Iter 130/500 - Loss: 3.853
+2024-08-25 15:56:54,042 - DEBUG - Iter 195/500 - Loss: 3.559
+2024-08-25 15:56:58,364 - DEBUG - Iter 260/500 - Loss: 3.532
+2024-08-25 15:57:02,705 - DEBUG - Iter 325/500 - Loss: 3.525
+2024-08-25 15:57:07,040 - DEBUG - Iter 390/500 - Loss: 3.525
+2024-08-25 15:57:11,364 - DEBUG - Iter 455/500 - Loss: 3.526
+2024-08-25 15:57:14,613 - INFO - NLL: 5.2842; RMSE: 2.8778; NMSE: 13.6640
+2024-08-25 15:57:14,613 - INFO - Progress:52/200
+2024-08-25 15:57:14,613 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.20000000298023224
+2024-08-25 15:57:18,041 - DEBUG - Iter 55/500 - Loss: 3.996
+2024-08-25 15:57:21,343 - DEBUG - Iter 110/500 - Loss: 3.469
+2024-08-25 15:57:24,640 - DEBUG - Iter 165/500 - Loss: 3.214
+2024-08-25 15:57:27,973 - DEBUG - Iter 220/500 - Loss: 3.099
+2024-08-25 15:57:31,308 - DEBUG - Iter 275/500 - Loss: 3.068
+2024-08-25 15:57:34,650 - DEBUG - Iter 330/500 - Loss: 3.060
+2024-08-25 15:57:37,978 - DEBUG - Iter 385/500 - Loss: 3.059
+2024-08-25 15:57:37,978 - INFO - Early cut off at epoch 384 with loss of 3.058802366256714
+2024-08-25 15:57:38,239 - INFO - NLL: 4.0183; RMSE: 1.2388; NMSE: 5.8819
+2024-08-25 15:57:38,240 - INFO - Progress:53/200
+2024-08-25 15:57:38,240 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.20000000298023224
+2024-08-25 15:57:47,576 - DEBUG - Iter 155/500 - Loss: 4.037
+2024-08-25 15:57:56,964 - DEBUG - Iter 310/500 - Loss: 4.219
+2024-08-25 15:58:06,321 - DEBUG - Iter 465/500 - Loss: 3.765
+2024-08-25 15:58:08,706 - INFO - NLL: 5.6280; RMSE: 4.3662; NMSE: 20.7310
+2024-08-25 15:58:08,707 - INFO - Progress:54/200
+2024-08-25 15:58:08,707 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.20000000298023224
+2024-08-25 15:58:14,787 - DEBUG - Iter 100/500 - Loss: 4.012
+2024-08-25 15:58:20,858 - DEBUG - Iter 200/500 - Loss: 3.696
+2024-08-25 15:58:20,859 - INFO - Early cut off at epoch 199 with loss of 3.695770502090454
+2024-08-25 15:58:21,122 - INFO - NLL: 5.0631; RMSE: 1.5439; NMSE: 7.3308
+2024-08-25 15:58:21,122 - INFO - Progress:55/200
+2024-08-25 15:58:21,123 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.3500000238418579
+2024-08-25 15:58:21,731 - DEBUG - Iter 10/500 - Loss: 2.036
+2024-08-25 15:58:22,337 - DEBUG - Iter 20/500 - Loss: 1.948
+2024-08-25 15:58:22,939 - DEBUG - Iter 30/500 - Loss: 1.181
+2024-08-25 15:58:23,544 - DEBUG - Iter 40/500 - Loss: 0.696
+2024-08-25 15:58:24,143 - DEBUG - Iter 50/500 - Loss: 0.418
+2024-08-25 15:58:24,748 - DEBUG - Iter 60/500 - Loss: 0.342
+2024-08-25 15:58:25,363 - DEBUG - Iter 70/500 - Loss: 0.321
+2024-08-25 15:58:25,958 - DEBUG - Iter 80/500 - Loss: 0.315
+2024-08-25 15:58:26,566 - DEBUG - Iter 90/500 - Loss: 0.314
+2024-08-25 15:58:27,171 - DEBUG - Iter 100/500 - Loss: 0.313
+2024-08-25 15:58:27,172 - INFO - Early cut off at epoch 99 with loss of 0.31309452652931213
+2024-08-25 15:58:27,435 - INFO - NLL: 2.4662; RMSE: 1.1191; NMSE: 5.3137
+2024-08-25 15:58:27,435 - INFO - Progress:56/200
+2024-08-25 15:58:27,436 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.3500000238418579
+2024-08-25 15:58:31,362 - DEBUG - Iter 65/500 - Loss: 3.569
+2024-08-25 15:58:35,285 - DEBUG - Iter 130/500 - Loss: 3.272
+2024-08-25 15:58:39,212 - DEBUG - Iter 195/500 - Loss: 2.564
+2024-08-25 15:58:43,112 - DEBUG - Iter 260/500 - Loss: 2.071
+2024-08-25 15:58:47,009 - DEBUG - Iter 325/500 - Loss: 1.935
+2024-08-25 15:58:50,896 - DEBUG - Iter 390/500 - Loss: 1.913
+2024-08-25 15:58:54,802 - DEBUG - Iter 455/500 - Loss: 1.904
+2024-08-25 15:58:57,758 - INFO - NLL: 4.6146; RMSE: 2.8790; NMSE: 13.6698
+2024-08-25 15:58:57,759 - INFO - Progress:57/200
+2024-08-25 15:58:57,759 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.3500000238418579
+2024-08-25 15:59:01,094 - DEBUG - Iter 55/500 - Loss: 2.657
+2024-08-25 15:59:04,416 - DEBUG - Iter 110/500 - Loss: 2.490
+2024-08-25 15:59:07,741 - DEBUG - Iter 165/500 - Loss: 2.414
+2024-08-25 15:59:11,045 - DEBUG - Iter 220/500 - Loss: 1.828
+2024-08-25 15:59:14,339 - DEBUG - Iter 275/500 - Loss: 1.609
+2024-08-25 15:59:17,640 - DEBUG - Iter 330/500 - Loss: 1.571
+2024-08-25 15:59:20,933 - DEBUG - Iter 385/500 - Loss: 1.555
+2024-08-25 15:59:24,221 - DEBUG - Iter 440/500 - Loss: 1.540
+2024-08-25 15:59:27,524 - DEBUG - Iter 495/500 - Loss: 1.542
+2024-08-25 15:59:27,524 - INFO - Early cut off at epoch 494 with loss of 1.5417476892471313
+2024-08-25 15:59:27,785 - INFO - NLL: 4.6286; RMSE: 2.8948; NMSE: 13.7446
+2024-08-25 15:59:27,785 - INFO - Progress:58/200
+2024-08-25 15:59:27,785 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.3500000238418579
+2024-08-25 15:59:37,045 - DEBUG - Iter 155/500 - Loss: 4.743
+2024-08-25 15:59:46,296 - DEBUG - Iter 310/500 - Loss: 5.016
+2024-08-25 15:59:55,536 - DEBUG - Iter 465/500 - Loss: 5.044
+2024-08-25 15:59:58,017 - INFO - NLL: 5.6590; RMSE: 3.0044; NMSE: 14.2652
+2024-08-25 15:59:58,018 - INFO - Progress:59/200
+2024-08-25 15:59:58,018 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.3500000238418579
+2024-08-25 16:00:04,028 - DEBUG - Iter 100/500 - Loss: 4.002
+2024-08-25 16:00:10,024 - DEBUG - Iter 200/500 - Loss: 3.895
+2024-08-25 16:00:15,992 - DEBUG - Iter 300/500 - Loss: 3.456
+2024-08-25 16:00:21,960 - DEBUG - Iter 400/500 - Loss: 2.877
+2024-08-25 16:00:27,923 - DEBUG - Iter 500/500 - Loss: 2.713
+2024-08-25 16:00:28,186 - INFO - NLL: 5.2410; RMSE: 3.6691; NMSE: 17.4214
+2024-08-25 16:00:28,187 - INFO - Progress:60/200
+2024-08-25 16:00:28,187 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.5
+2024-08-25 16:00:28,796 - DEBUG - Iter 10/500 - Loss: 2.050
+2024-08-25 16:00:29,406 - DEBUG - Iter 20/500 - Loss: 2.101
+2024-08-25 16:00:30,006 - DEBUG - Iter 30/500 - Loss: 1.909
+2024-08-25 16:00:30,604 - DEBUG - Iter 40/500 - Loss: 1.534
+2024-08-25 16:00:31,202 - DEBUG - Iter 50/500 - Loss: 1.219
+2024-08-25 16:00:31,798 - DEBUG - Iter 60/500 - Loss: 0.924
+2024-08-25 16:00:32,394 - DEBUG - Iter 70/500 - Loss: 0.765
+2024-08-25 16:00:32,993 - DEBUG - Iter 80/500 - Loss: 0.674
+2024-08-25 16:00:33,588 - DEBUG - Iter 90/500 - Loss: 0.615
+2024-08-25 16:00:34,191 - DEBUG - Iter 100/500 - Loss: 0.580
+2024-08-25 16:00:34,786 - DEBUG - Iter 110/500 - Loss: 0.561
+2024-08-25 16:00:35,382 - DEBUG - Iter 120/500 - Loss: 0.552
+2024-08-25 16:00:35,982 - DEBUG - Iter 130/500 - Loss: 0.547
+2024-08-25 16:00:36,583 - DEBUG - Iter 140/500 - Loss: 0.545
+2024-08-25 16:00:37,173 - DEBUG - Iter 150/500 - Loss: 0.544
+2024-08-25 16:00:37,173 - INFO - Early cut off at epoch 149 with loss of 0.5440725684165955
+2024-08-25 16:00:37,434 - INFO - NLL: 2.6282; RMSE: 0.7504; NMSE: 3.5630
+2024-08-25 16:00:37,434 - INFO - Progress:61/200
+2024-08-25 16:00:37,434 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.5
+2024-08-25 16:00:41,320 - DEBUG - Iter 65/500 - Loss: 2.954
+2024-08-25 16:00:45,188 - DEBUG - Iter 130/500 - Loss: 2.841
+2024-08-25 16:00:49,044 - DEBUG - Iter 195/500 - Loss: 3.465
+2024-08-25 16:00:52,938 - DEBUG - Iter 260/500 - Loss: 3.686
+2024-08-25 16:00:56,819 - DEBUG - Iter 325/500 - Loss: 3.261
+2024-08-25 16:01:00,675 - DEBUG - Iter 390/500 - Loss: 2.904
+2024-08-25 16:01:04,543 - DEBUG - Iter 455/500 - Loss: 2.824
+2024-08-25 16:01:07,485 - INFO - NLL: 3.9791; RMSE: 2.2270; NMSE: 10.5741
+2024-08-25 16:01:07,486 - INFO - Progress:62/200
+2024-08-25 16:01:07,486 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.5
+2024-08-25 16:01:10,786 - DEBUG - Iter 55/500 - Loss: 3.575
+2024-08-25 16:01:14,044 - DEBUG - Iter 110/500 - Loss: 3.452
+2024-08-25 16:01:17,312 - DEBUG - Iter 165/500 - Loss: 3.427
+2024-08-25 16:01:20,561 - DEBUG - Iter 220/500 - Loss: 2.398
+2024-08-25 16:01:23,827 - DEBUG - Iter 275/500 - Loss: 0.740
+2024-08-25 16:01:27,091 - DEBUG - Iter 330/500 - Loss: 0.861
+2024-08-25 16:01:30,355 - DEBUG - Iter 385/500 - Loss: 0.603
+2024-08-25 16:01:33,605 - DEBUG - Iter 440/500 - Loss: 0.562
+2024-08-25 16:01:36,887 - DEBUG - Iter 495/500 - Loss: 0.548
+2024-08-25 16:01:37,451 - INFO - NLL: 3.4533; RMSE: 1.5198; NMSE: 7.2160
+2024-08-25 16:01:37,452 - INFO - Progress:63/200
+2024-08-25 16:01:37,452 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.5
+2024-08-25 16:01:46,686 - DEBUG - Iter 155/500 - Loss: 4.674
+2024-08-25 16:01:55,924 - DEBUG - Iter 310/500 - Loss: 4.896
+2024-08-25 16:02:05,133 - DEBUG - Iter 465/500 - Loss: 4.787
+2024-08-25 16:02:07,469 - INFO - NLL: 5.4561; RMSE: 2.2935; NMSE: 10.8897
+2024-08-25 16:02:07,469 - INFO - Progress:64/200
+2024-08-25 16:02:07,469 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.5
+2024-08-25 16:02:13,429 - DEBUG - Iter 100/500 - Loss: 3.987
+2024-08-25 16:02:19,384 - DEBUG - Iter 200/500 - Loss: 4.319
+2024-08-25 16:02:25,346 - DEBUG - Iter 300/500 - Loss: 3.846
+2024-08-25 16:02:31,299 - DEBUG - Iter 400/500 - Loss: 3.573
+2024-08-25 16:02:37,232 - DEBUG - Iter 500/500 - Loss: 3.437
+2024-08-25 16:02:37,491 - INFO - NLL: 5.0340; RMSE: 2.7569; NMSE: 13.0902
+2024-08-25 16:02:37,492 - INFO - Progress:65/200
+2024-08-25 16:02:37,492 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.6499999761581421
+2024-08-25 16:02:38,095 - DEBUG - Iter 10/500 - Loss: 2.039
+2024-08-25 16:02:38,692 - DEBUG - Iter 20/500 - Loss: 2.729
+2024-08-25 16:02:39,295 - DEBUG - Iter 30/500 - Loss: 2.303
+2024-08-25 16:02:39,886 - DEBUG - Iter 40/500 - Loss: 1.366
+2024-08-25 16:02:40,487 - DEBUG - Iter 50/500 - Loss: 1.062
+2024-08-25 16:02:41,079 - DEBUG - Iter 60/500 - Loss: 1.675
+2024-08-25 16:02:41,680 - DEBUG - Iter 70/500 - Loss: 1.658
+2024-08-25 16:02:42,283 - DEBUG - Iter 80/500 - Loss: 1.572
+2024-08-25 16:02:42,878 - DEBUG - Iter 90/500 - Loss: 1.524
+2024-08-25 16:02:43,478 - DEBUG - Iter 100/500 - Loss: 1.491
+2024-08-25 16:02:44,132 - DEBUG - Iter 110/500 - Loss: 1.466
+2024-08-25 16:02:44,725 - DEBUG - Iter 120/500 - Loss: 1.446
+2024-08-25 16:02:45,319 - DEBUG - Iter 130/500 - Loss: 1.432
+2024-08-25 16:02:45,915 - DEBUG - Iter 140/500 - Loss: 1.422
+2024-08-25 16:02:46,514 - DEBUG - Iter 150/500 - Loss: 1.416
+2024-08-25 16:02:47,106 - DEBUG - Iter 160/500 - Loss: 1.412
+2024-08-25 16:02:47,705 - DEBUG - Iter 170/500 - Loss: 1.409
+2024-08-25 16:02:47,705 - INFO - Early cut off at epoch 169 with loss of 1.4090592861175537
+2024-08-25 16:02:47,966 - INFO - NLL: 3.1546; RMSE: 0.9791; NMSE: 4.6489
+2024-08-25 16:02:47,967 - INFO - Progress:66/200
+2024-08-25 16:02:47,967 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.6499999761581421
+2024-08-25 16:02:51,863 - DEBUG - Iter 65/500 - Loss: 3.532
+2024-08-25 16:02:55,731 - DEBUG - Iter 130/500 - Loss: 2.643
+2024-08-25 16:02:59,602 - DEBUG - Iter 195/500 - Loss: 4.225
+2024-08-25 16:03:03,471 - DEBUG - Iter 260/500 - Loss: 3.634
+2024-08-25 16:03:07,348 - DEBUG - Iter 325/500 - Loss: 3.683
+2024-08-25 16:03:11,221 - DEBUG - Iter 390/500 - Loss: 2.982
+2024-08-25 16:03:15,076 - DEBUG - Iter 455/500 - Loss: 2.950
+2024-08-25 16:03:18,028 - INFO - NLL: 4.5412; RMSE: 3.8363; NMSE: 18.2151
+2024-08-25 16:03:18,029 - INFO - Progress:67/200
+2024-08-25 16:03:18,029 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.6499999761581421
+2024-08-25 16:03:21,302 - DEBUG - Iter 55/500 - Loss: 3.943
+2024-08-25 16:03:24,576 - DEBUG - Iter 110/500 - Loss: 3.403
+2024-08-25 16:03:27,864 - DEBUG - Iter 165/500 - Loss: 4.456
+2024-08-25 16:03:31,133 - DEBUG - Iter 220/500 - Loss: 3.915
+2024-08-25 16:03:34,409 - DEBUG - Iter 275/500 - Loss: 4.420
+2024-08-25 16:03:37,704 - DEBUG - Iter 330/500 - Loss: 4.311
+2024-08-25 16:03:40,972 - DEBUG - Iter 385/500 - Loss: 3.815
+2024-08-25 16:03:44,249 - DEBUG - Iter 440/500 - Loss: 3.550
+2024-08-25 16:03:47,515 - DEBUG - Iter 495/500 - Loss: 3.475
+2024-08-25 16:03:48,071 - INFO - NLL: 4.7565; RMSE: 1.6677; NMSE: 7.9183
+2024-08-25 16:03:48,072 - INFO - Progress:68/200
+2024-08-25 16:03:48,072 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.6499999761581421
+2024-08-25 16:03:57,315 - DEBUG - Iter 155/500 - Loss: 2.846
+2024-08-25 16:04:06,547 - DEBUG - Iter 310/500 - Loss: 5.080
+2024-08-25 16:04:15,782 - DEBUG - Iter 465/500 - Loss: 4.790
+2024-08-25 16:04:18,120 - INFO - NLL: 5.4262; RMSE: 3.0332; NMSE: 14.4019
+2024-08-25 16:04:18,121 - INFO - Progress:69/200
+2024-08-25 16:04:18,121 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.6499999761581421
+2024-08-25 16:04:24,079 - DEBUG - Iter 100/500 - Loss: 3.512
+2024-08-25 16:04:30,050 - DEBUG - Iter 200/500 - Loss: 3.305
+2024-08-25 16:04:36,123 - DEBUG - Iter 300/500 - Loss: 3.389
+2024-08-25 16:04:42,244 - DEBUG - Iter 400/500 - Loss: 0.550
+2024-08-25 16:04:48,313 - DEBUG - Iter 500/500 - Loss: 3.183
+2024-08-25 16:04:48,576 - INFO - NLL: 4.4458; RMSE: 1.1211; NMSE: 5.3230
+2024-08-25 16:04:48,577 - INFO - Progress:70/200
+2024-08-25 16:04:48,577 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.800000011920929
+2024-08-25 16:04:49,207 - DEBUG - Iter 10/500 - Loss: 1.523
+2024-08-25 16:04:49,823 - DEBUG - Iter 20/500 - Loss: 1.621
+2024-08-25 16:04:50,432 - DEBUG - Iter 30/500 - Loss: 2.551
+2024-08-25 16:04:51,041 - DEBUG - Iter 40/500 - Loss: 2.627
+2024-08-25 16:04:51,658 - DEBUG - Iter 50/500 - Loss: 2.317
+2024-08-25 16:04:52,264 - DEBUG - Iter 60/500 - Loss: 2.955
+2024-08-25 16:04:52,875 - DEBUG - Iter 70/500 - Loss: 2.675
+2024-08-25 16:04:53,483 - DEBUG - Iter 80/500 - Loss: 2.464
+2024-08-25 16:04:54,093 - DEBUG - Iter 90/500 - Loss: 2.309
+2024-08-25 16:04:54,698 - DEBUG - Iter 100/500 - Loss: 2.138
+2024-08-25 16:04:55,303 - DEBUG - Iter 110/500 - Loss: 1.928
+2024-08-25 16:04:55,915 - DEBUG - Iter 120/500 - Loss: 1.949
+2024-08-25 16:04:56,521 - DEBUG - Iter 130/500 - Loss: 2.060
+2024-08-25 16:04:57,129 - DEBUG - Iter 140/500 - Loss: 1.886
+2024-08-25 16:04:57,733 - DEBUG - Iter 150/500 - Loss: 1.741
+2024-08-25 16:04:58,335 - DEBUG - Iter 160/500 - Loss: 1.712
+2024-08-25 16:04:58,951 - DEBUG - Iter 170/500 - Loss: 1.678
+2024-08-25 16:04:59,552 - DEBUG - Iter 180/500 - Loss: 1.656
+2024-08-25 16:05:00,158 - DEBUG - Iter 190/500 - Loss: 1.648
+2024-08-25 16:05:00,762 - DEBUG - Iter 200/500 - Loss: 1.641
+2024-08-25 16:05:01,371 - DEBUG - Iter 210/500 - Loss: 1.635
+2024-08-25 16:05:01,978 - DEBUG - Iter 220/500 - Loss: 1.631
+2024-08-25 16:05:02,593 - DEBUG - Iter 230/500 - Loss: 1.628
+2024-08-25 16:05:02,594 - INFO - Early cut off at epoch 229 with loss of 1.6282663345336914
+2024-08-25 16:05:02,860 - INFO - NLL: 3.9624; RMSE: 1.3844; NMSE: 6.5735
+2024-08-25 16:05:02,860 - INFO - Progress:71/200
+2024-08-25 16:05:02,861 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.800000011920929
+2024-08-25 16:05:06,796 - DEBUG - Iter 65/500 - Loss: 4.186
+2024-08-25 16:05:10,730 - DEBUG - Iter 130/500 - Loss: 4.209
+2024-08-25 16:05:14,686 - DEBUG - Iter 195/500 - Loss: 3.435
+2024-08-25 16:05:18,630 - DEBUG - Iter 260/500 - Loss: 3.348
+2024-08-25 16:05:22,591 - DEBUG - Iter 325/500 - Loss: 2.029
+2024-08-25 16:05:26,511 - DEBUG - Iter 390/500 - Loss: 2.927
+2024-08-25 16:05:30,435 - DEBUG - Iter 455/500 - Loss: 1.678
+2024-08-25 16:05:33,460 - INFO - NLL: 3.6174; RMSE: 0.9702; NMSE: 4.6066
+2024-08-25 16:05:33,461 - INFO - Progress:72/200
+2024-08-25 16:05:33,461 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.800000011920929
+2024-08-25 16:05:36,794 - DEBUG - Iter 55/500 - Loss: 2.363
+2024-08-25 16:05:40,130 - DEBUG - Iter 110/500 - Loss: 3.003
+2024-08-25 16:05:43,462 - DEBUG - Iter 165/500 - Loss: 3.780
+2024-08-25 16:05:46,809 - DEBUG - Iter 220/500 - Loss: 3.226
+2024-08-25 16:05:50,143 - DEBUG - Iter 275/500 - Loss: 3.840
+2024-08-25 16:05:53,467 - DEBUG - Iter 330/500 - Loss: 2.178
+2024-08-25 16:05:56,799 - DEBUG - Iter 385/500 - Loss: 1.913
+2024-08-25 16:06:00,142 - DEBUG - Iter 440/500 - Loss: 2.303
+2024-08-25 16:06:03,483 - DEBUG - Iter 495/500 - Loss: 2.586
+2024-08-25 16:06:04,049 - INFO - NLL: 4.4147; RMSE: 1.5950; NMSE: 7.5732
+2024-08-25 16:06:04,050 - INFO - Progress:73/200
+2024-08-25 16:06:04,050 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.800000011920929
+2024-08-25 16:06:13,482 - DEBUG - Iter 155/500 - Loss: 4.284
+2024-08-25 16:06:23,096 - DEBUG - Iter 310/500 - Loss: 3.798
+2024-08-25 16:06:33,301 - DEBUG - Iter 465/500 - Loss: 4.027
+2024-08-25 16:06:35,915 - INFO - NLL: 5.3640; RMSE: 2.8028; NMSE: 13.3081
+2024-08-25 16:06:35,916 - INFO - Progress:74/200
+2024-08-25 16:06:35,916 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.800000011920929
+2024-08-25 16:06:42,633 - DEBUG - Iter 100/500 - Loss: 4.116
+2024-08-25 16:06:49,333 - DEBUG - Iter 200/500 - Loss: 3.837
+2024-08-25 16:06:56,031 - DEBUG - Iter 300/500 - Loss: 3.714
+2024-08-25 16:07:02,732 - DEBUG - Iter 400/500 - Loss: 4.802
+2024-08-25 16:07:09,421 - DEBUG - Iter 500/500 - Loss: 4.622
+2024-08-25 16:07:09,698 - INFO - NLL: 5.7961; RMSE: 4.6248; NMSE: 21.9591
+2024-08-25 16:07:09,698 - INFO - Progress:75/200
+2024-08-25 16:07:09,698 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.20000000298023224
+2024-08-25 16:07:09,893 - DEBUG - Iter 10/500 - Loss: 2.036
+2024-08-25 16:07:10,077 - DEBUG - Iter 20/500 - Loss: 2.022
+2024-08-25 16:07:10,251 - DEBUG - Iter 30/500 - Loss: 2.019
+2024-08-25 16:07:10,251 - INFO - Early cut off at epoch 29 with loss of 2.0189433097839355
+2024-08-25 16:07:10,449 - INFO - NLL: 2.2159; RMSE: 0.6522; NMSE: 3.0967
+2024-08-25 16:07:10,449 - INFO - Progress:76/200
+2024-08-25 16:07:10,449 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.20000000298023224
+2024-08-25 16:07:11,589 - DEBUG - Iter 65/500 - Loss: 1.588
+2024-08-25 16:07:12,739 - DEBUG - Iter 130/500 - Loss: 1.505
+2024-08-25 16:07:13,899 - DEBUG - Iter 195/500 - Loss: 1.489
+2024-08-25 16:07:15,064 - DEBUG - Iter 260/500 - Loss: 1.486
+2024-08-25 16:07:16,226 - DEBUG - Iter 325/500 - Loss: 1.485
+2024-08-25 16:07:17,390 - DEBUG - Iter 390/500 - Loss: 1.485
+2024-08-25 16:07:18,560 - DEBUG - Iter 455/500 - Loss: 1.485
+2024-08-25 16:07:19,551 - INFO - NLL: 1.6935; RMSE: 0.3857; NMSE: 1.8314
+2024-08-25 16:07:19,552 - INFO - Progress:77/200
+2024-08-25 16:07:19,552 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:55.0; gamma:0.20000000298023224
+2024-08-25 16:07:20,514 - DEBUG - Iter 55/500 - Loss: 1.715
+2024-08-25 16:07:21,475 - DEBUG - Iter 110/500 - Loss: 1.654
+2024-08-25 16:07:22,440 - DEBUG - Iter 165/500 - Loss: 1.642
+2024-08-25 16:07:23,408 - DEBUG - Iter 220/500 - Loss: 1.639
+2024-08-25 16:07:23,408 - INFO - Early cut off at epoch 219 with loss of 1.6393593549728394
+2024-08-25 16:07:23,593 - INFO - NLL: 1.8772; RMSE: 0.4306; NMSE: 2.0445
+2024-08-25 16:07:23,593 - INFO - Progress:78/200
+2024-08-25 16:07:23,594 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:77.5; gamma:0.20000000298023224
+2024-08-25 16:07:26,369 - DEBUG - Iter 155/500 - Loss: 1.047
+2024-08-25 16:07:29,288 - DEBUG - Iter 310/500 - Loss: 0.875
+2024-08-25 16:07:32,208 - DEBUG - Iter 465/500 - Loss: 0.846
+2024-08-25 16:07:33,055 - INFO - NLL: 1.2354; RMSE: 0.1986; NMSE: 0.9431
+2024-08-25 16:07:33,056 - INFO - Progress:79/200
+2024-08-25 16:07:33,056 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:100.0; gamma:0.20000000298023224
+2024-08-25 16:07:34,805 - DEBUG - Iter 100/500 - Loss: 1.368
+2024-08-25 16:07:36,632 - DEBUG - Iter 200/500 - Loss: 1.248
+2024-08-25 16:07:38,471 - DEBUG - Iter 300/500 - Loss: 1.225
+2024-08-25 16:07:40,308 - DEBUG - Iter 400/500 - Loss: 1.221
+2024-08-25 16:07:42,144 - DEBUG - Iter 500/500 - Loss: 1.220
+2024-08-25 16:07:42,144 - INFO - Early cut off at epoch 499 with loss of 1.2195998430252075
+2024-08-25 16:07:42,329 - INFO - NLL: 1.3984; RMSE: 0.3026; NMSE: 1.4366
+2024-08-25 16:07:42,330 - INFO - Progress:80/200
+2024-08-25 16:07:42,330 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.3500000238418579
+2024-08-25 16:07:42,506 - DEBUG - Iter 10/500 - Loss: 1.970
+2024-08-25 16:07:42,680 - DEBUG - Iter 20/500 - Loss: 1.945
+2024-08-25 16:07:42,854 - DEBUG - Iter 30/500 - Loss: 1.936
+2024-08-25 16:07:43,027 - DEBUG - Iter 40/500 - Loss: 1.933
+2024-08-25 16:07:43,028 - INFO - Early cut off at epoch 39 with loss of 1.9333078861236572
+2024-08-25 16:07:43,224 - INFO - NLL: 2.0834; RMSE: 0.6409; NMSE: 3.0431
+2024-08-25 16:07:43,224 - INFO - Progress:81/200
+2024-08-25 16:07:43,224 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.3500000238418579
+2024-08-25 16:07:44,351 - DEBUG - Iter 65/500 - Loss: 1.574
+2024-08-25 16:07:45,494 - DEBUG - Iter 130/500 - Loss: 1.433
+2024-08-25 16:07:46,660 - DEBUG - Iter 195/500 - Loss: 1.384
+2024-08-25 16:07:47,834 - DEBUG - Iter 260/500 - Loss: 1.367
+2024-08-25 16:07:49,007 - DEBUG - Iter 325/500 - Loss: 1.361
+2024-08-25 16:07:50,184 - DEBUG - Iter 390/500 - Loss: 1.359
+2024-08-25 16:07:51,364 - DEBUG - Iter 455/500 - Loss: 1.359
+2024-08-25 16:07:52,368 - INFO - NLL: 1.6927; RMSE: 0.3548; NMSE: 1.6848
+2024-08-25 16:07:52,368 - INFO - Progress:82/200
+2024-08-25 16:07:52,368 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:55.0; gamma:0.3500000238418579
+2024-08-25 16:07:53,321 - DEBUG - Iter 55/500 - Loss: 1.699
+2024-08-25 16:07:54,278 - DEBUG - Iter 110/500 - Loss: 1.597
+2024-08-25 16:07:55,256 - DEBUG - Iter 165/500 - Loss: 1.561
+2024-08-25 16:07:56,234 - DEBUG - Iter 220/500 - Loss: 1.548
+2024-08-25 16:07:57,208 - DEBUG - Iter 275/500 - Loss: 1.544
+2024-08-25 16:07:58,187 - DEBUG - Iter 330/500 - Loss: 1.542
+2024-08-25 16:07:58,187 - INFO - Early cut off at epoch 329 with loss of 1.542325735092163
+2024-08-25 16:07:58,372 - INFO - NLL: 1.7937; RMSE: 0.4735; NMSE: 2.2481
+2024-08-25 16:07:58,373 - INFO - Progress:83/200
+2024-08-25 16:07:58,373 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:77.5; gamma:0.3500000238418579
+2024-08-25 16:08:01,135 - DEBUG - Iter 155/500 - Loss: 1.054
+2024-08-25 16:08:04,040 - DEBUG - Iter 310/500 - Loss: 0.693
+2024-08-25 16:08:06,968 - DEBUG - Iter 465/500 - Loss: 0.591
+2024-08-25 16:08:07,820 - INFO - NLL: 0.5892; RMSE: 0.1952; NMSE: 0.9268
+2024-08-25 16:08:07,821 - INFO - Progress:84/200
+2024-08-25 16:08:07,821 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:100.0; gamma:0.3500000238418579
+2024-08-25 16:08:09,606 - DEBUG - Iter 100/500 - Loss: 1.472
+2024-08-25 16:08:11,446 - DEBUG - Iter 200/500 - Loss: 1.250
+2024-08-25 16:08:13,315 - DEBUG - Iter 300/500 - Loss: 1.187
+2024-08-25 16:08:15,186 - DEBUG - Iter 400/500 - Loss: 1.167
+2024-08-25 16:08:17,055 - DEBUG - Iter 500/500 - Loss: 1.159
+2024-08-25 16:08:17,240 - INFO - NLL: 1.3971; RMSE: 0.2348; NMSE: 1.1150
+2024-08-25 16:08:17,241 - INFO - Progress:85/200
+2024-08-25 16:08:17,241 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.5
+2024-08-25 16:08:17,418 - DEBUG - Iter 10/500 - Loss: 1.969
+2024-08-25 16:08:17,595 - DEBUG - Iter 20/500 - Loss: 1.936
+2024-08-25 16:08:17,770 - DEBUG - Iter 30/500 - Loss: 1.919
+2024-08-25 16:08:17,945 - DEBUG - Iter 40/500 - Loss: 1.911
+2024-08-25 16:08:18,118 - DEBUG - Iter 50/500 - Loss: 1.907
+2024-08-25 16:08:18,118 - INFO - Early cut off at epoch 49 with loss of 1.9072433710098267
+2024-08-25 16:08:18,312 - INFO - NLL: 2.0544; RMSE: 0.6235; NMSE: 2.9605
+2024-08-25 16:08:18,312 - INFO - Progress:86/200
+2024-08-25 16:08:18,312 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.5
+2024-08-25 16:08:19,448 - DEBUG - Iter 65/500 - Loss: 1.696
+2024-08-25 16:08:20,604 - DEBUG - Iter 130/500 - Loss: 1.461
+2024-08-25 16:08:21,797 - DEBUG - Iter 195/500 - Loss: 1.346
+2024-08-25 16:08:22,997 - DEBUG - Iter 260/500 - Loss: 1.293
+2024-08-25 16:08:24,199 - DEBUG - Iter 325/500 - Loss: 1.268
+2024-08-25 16:08:25,406 - DEBUG - Iter 390/500 - Loss: 1.255
+2024-08-25 16:08:26,607 - DEBUG - Iter 455/500 - Loss: 1.249
+2024-08-25 16:08:27,627 - INFO - NLL: 1.6164; RMSE: 0.3166; NMSE: 1.5033
+2024-08-25 16:08:27,627 - INFO - Progress:87/200
+2024-08-25 16:08:27,627 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:55.0; gamma:0.5
+2024-08-25 16:08:28,584 - DEBUG - Iter 55/500 - Loss: 1.652
+2024-08-25 16:08:29,550 - DEBUG - Iter 110/500 - Loss: 1.495
+2024-08-25 16:08:30,540 - DEBUG - Iter 165/500 - Loss: 1.416
+2024-08-25 16:08:31,537 - DEBUG - Iter 220/500 - Loss: 1.375
+2024-08-25 16:08:32,538 - DEBUG - Iter 275/500 - Loss: 1.354
+2024-08-25 16:08:33,544 - DEBUG - Iter 330/500 - Loss: 1.344
+2024-08-25 16:08:34,545 - DEBUG - Iter 385/500 - Loss: 1.339
+2024-08-25 16:08:35,555 - DEBUG - Iter 440/500 - Loss: 1.337
+2024-08-25 16:08:35,555 - INFO - Early cut off at epoch 439 with loss of 1.3367815017700195
+2024-08-25 16:08:35,743 - INFO - NLL: 1.5038; RMSE: 0.2530; NMSE: 1.2013
+2024-08-25 16:08:35,743 - INFO - Progress:88/200
+2024-08-25 16:08:35,743 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:77.5; gamma:0.5
+2024-08-25 16:08:38,508 - DEBUG - Iter 155/500 - Loss: 1.035
+2024-08-25 16:08:41,438 - DEBUG - Iter 310/500 - Loss: 0.597
+2024-08-25 16:08:44,385 - DEBUG - Iter 465/500 - Loss: 0.414
+2024-08-25 16:08:45,241 - INFO - NLL: 0.5374; RMSE: 0.1951; NMSE: 0.9265
+2024-08-25 16:08:45,241 - INFO - Progress:89/200
+2024-08-25 16:08:45,242 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:100.0; gamma:0.5
+2024-08-25 16:08:46,996 - DEBUG - Iter 100/500 - Loss: 1.328
+2024-08-25 16:08:48,840 - DEBUG - Iter 200/500 - Loss: 1.017
+2024-08-25 16:08:50,711 - DEBUG - Iter 300/500 - Loss: 0.863
+2024-08-25 16:08:52,593 - DEBUG - Iter 400/500 - Loss: 0.785
+2024-08-25 16:08:54,482 - DEBUG - Iter 500/500 - Loss: 0.750
+2024-08-25 16:08:54,668 - INFO - NLL: 0.8331; RMSE: 0.2080; NMSE: 0.9875
+2024-08-25 16:08:54,669 - INFO - Progress:90/200
+2024-08-25 16:08:54,669 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.6499999761581421
+2024-08-25 16:08:54,846 - DEBUG - Iter 10/500 - Loss: 1.940
+2024-08-25 16:08:55,020 - DEBUG - Iter 20/500 - Loss: 1.902
+2024-08-25 16:08:55,194 - DEBUG - Iter 30/500 - Loss: 1.877
+2024-08-25 16:08:55,367 - DEBUG - Iter 40/500 - Loss: 1.861
+2024-08-25 16:08:55,540 - DEBUG - Iter 50/500 - Loss: 1.850
+2024-08-25 16:08:55,714 - DEBUG - Iter 60/500 - Loss: 1.843
+2024-08-25 16:08:55,886 - DEBUG - Iter 70/500 - Loss: 1.838
+2024-08-25 16:08:56,059 - DEBUG - Iter 80/500 - Loss: 1.835
+2024-08-25 16:08:56,059 - INFO - Early cut off at epoch 79 with loss of 1.8353465795516968
+2024-08-25 16:08:56,250 - INFO - NLL: 1.9618; RMSE: 0.5866; NMSE: 2.7852
+2024-08-25 16:08:56,250 - INFO - Progress:91/200
+2024-08-25 16:08:56,250 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.6499999761581421
+2024-08-25 16:08:57,377 - DEBUG - Iter 65/500 - Loss: 1.639
+2024-08-25 16:08:58,544 - DEBUG - Iter 130/500 - Loss: 1.375
+2024-08-25 16:08:59,744 - DEBUG - Iter 195/500 - Loss: 1.211
+2024-08-25 16:09:00,954 - DEBUG - Iter 260/500 - Loss: 1.118
+2024-08-25 16:09:02,168 - DEBUG - Iter 325/500 - Loss: 1.061
+2024-08-25 16:09:03,389 - DEBUG - Iter 390/500 - Loss: 1.024
+2024-08-25 16:09:04,611 - DEBUG - Iter 455/500 - Loss: 1.000
+2024-08-25 16:09:05,640 - INFO - NLL: 1.3632; RMSE: 0.2365; NMSE: 1.1228
+2024-08-25 16:09:05,641 - INFO - Progress:92/200
+2024-08-25 16:09:05,641 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:55.0; gamma:0.6499999761581421
+2024-08-25 16:09:06,595 - DEBUG - Iter 55/500 - Loss: 1.696
+2024-08-25 16:09:07,561 - DEBUG - Iter 110/500 - Loss: 1.503
+2024-08-25 16:09:08,557 - DEBUG - Iter 165/500 - Loss: 1.377
+2024-08-25 16:09:09,565 - DEBUG - Iter 220/500 - Loss: 1.294
+2024-08-25 16:09:10,586 - DEBUG - Iter 275/500 - Loss: 1.236
+2024-08-25 16:09:11,606 - DEBUG - Iter 330/500 - Loss: 1.195
+2024-08-25 16:09:12,627 - DEBUG - Iter 385/500 - Loss: 1.167
+2024-08-25 16:09:13,651 - DEBUG - Iter 440/500 - Loss: 1.149
+2024-08-25 16:09:14,678 - DEBUG - Iter 495/500 - Loss: 1.137
+2024-08-25 16:09:14,956 - INFO - NLL: 1.3510; RMSE: 0.2288; NMSE: 1.0864
+2024-08-25 16:09:14,956 - INFO - Progress:93/200
+2024-08-25 16:09:14,956 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:77.5; gamma:0.6499999761581421
+2024-08-25 16:09:17,724 - DEBUG - Iter 155/500 - Loss: 1.192
+2024-08-25 16:09:20,650 - DEBUG - Iter 310/500 - Loss: 0.661
+2024-08-25 16:09:23,597 - DEBUG - Iter 465/500 - Loss: 0.391
+2024-08-25 16:09:24,451 - INFO - NLL: 0.5903; RMSE: 0.1979; NMSE: 0.9395
+2024-08-25 16:09:24,451 - INFO - Progress:94/200
+2024-08-25 16:09:24,451 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:100.0; gamma:0.6499999761581421
+2024-08-25 16:09:26,197 - DEBUG - Iter 100/500 - Loss: 1.305
+2024-08-25 16:09:28,047 - DEBUG - Iter 200/500 - Loss: 0.909
+2024-08-25 16:09:29,935 - DEBUG - Iter 300/500 - Loss: 0.664
+2024-08-25 16:09:31,830 - DEBUG - Iter 400/500 - Loss: 0.528
+2024-08-25 16:09:33,730 - DEBUG - Iter 500/500 - Loss: 0.453
+2024-08-25 16:09:33,916 - INFO - NLL: 0.4780; RMSE: 0.1963; NMSE: 0.9323
+2024-08-25 16:09:33,916 - INFO - Progress:95/200
+2024-08-25 16:09:33,916 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:10.0; gamma:0.800000011920929
+2024-08-25 16:09:34,094 - DEBUG - Iter 10/500 - Loss: 1.922
+2024-08-25 16:09:34,268 - DEBUG - Iter 20/500 - Loss: 1.875
+2024-08-25 16:09:34,441 - DEBUG - Iter 30/500 - Loss: 1.837
+2024-08-25 16:09:34,613 - DEBUG - Iter 40/500 - Loss: 1.806
+2024-08-25 16:09:34,787 - DEBUG - Iter 50/500 - Loss: 1.781
+2024-08-25 16:09:34,961 - DEBUG - Iter 60/500 - Loss: 1.761
+2024-08-25 16:09:35,135 - DEBUG - Iter 70/500 - Loss: 1.745
+2024-08-25 16:09:35,308 - DEBUG - Iter 80/500 - Loss: 1.732
+2024-08-25 16:09:35,480 - DEBUG - Iter 90/500 - Loss: 1.722
+2024-08-25 16:09:35,651 - DEBUG - Iter 100/500 - Loss: 1.714
+2024-08-25 16:09:35,823 - DEBUG - Iter 110/500 - Loss: 1.707
+2024-08-25 16:09:35,996 - DEBUG - Iter 120/500 - Loss: 1.702
+2024-08-25 16:09:36,169 - DEBUG - Iter 130/500 - Loss: 1.698
+2024-08-25 16:09:36,342 - DEBUG - Iter 140/500 - Loss: 1.695
+2024-08-25 16:09:36,342 - INFO - Early cut off at epoch 139 with loss of 1.6945699453353882
+2024-08-25 16:09:36,529 - INFO - NLL: 1.9363; RMSE: 0.4953; NMSE: 2.3516
+2024-08-25 16:09:36,529 - INFO - Progress:96/200
+2024-08-25 16:09:36,529 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:32.5; gamma:0.800000011920929
+2024-08-25 16:09:37,707 - DEBUG - Iter 65/500 - Loss: 1.615
+2024-08-25 16:09:38,886 - DEBUG - Iter 130/500 - Loss: 1.270
+2024-08-25 16:09:40,098 - DEBUG - Iter 195/500 - Loss: 1.029
+2024-08-25 16:09:41,325 - DEBUG - Iter 260/500 - Loss: 0.780
+2024-08-25 16:09:42,561 - DEBUG - Iter 325/500 - Loss: 0.619
+2024-08-25 16:09:43,799 - DEBUG - Iter 390/500 - Loss: 0.495
+2024-08-25 16:09:45,042 - DEBUG - Iter 455/500 - Loss: 0.385
+2024-08-25 16:09:46,089 - INFO - NLL: 0.3369; RMSE: 0.1963; NMSE: 0.9319
+2024-08-25 16:09:46,090 - INFO - Progress:97/200
+2024-08-25 16:09:46,090 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:55.0; gamma:0.800000011920929
+2024-08-25 16:09:47,049 - DEBUG - Iter 55/500 - Loss: 1.687
+2024-08-25 16:09:48,026 - DEBUG - Iter 110/500 - Loss: 1.410
+2024-08-25 16:09:49,044 - DEBUG - Iter 165/500 - Loss: 1.196
+2024-08-25 16:09:50,071 - DEBUG - Iter 220/500 - Loss: 1.009
+2024-08-25 16:09:51,111 - DEBUG - Iter 275/500 - Loss: 0.858
+2024-08-25 16:09:52,158 - DEBUG - Iter 330/500 - Loss: 0.742
+2024-08-25 16:09:53,205 - DEBUG - Iter 385/500 - Loss: 0.670
+2024-08-25 16:09:54,245 - DEBUG - Iter 440/500 - Loss: 0.619
+2024-08-25 16:09:55,295 - DEBUG - Iter 495/500 - Loss: 0.581
+2024-08-25 16:09:55,575 - INFO - NLL: 0.5928; RMSE: 0.1957; NMSE: 0.9294
+2024-08-25 16:09:55,576 - INFO - Progress:98/200
+2024-08-25 16:09:55,576 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:77.5; gamma:0.800000011920929
+2024-08-25 16:09:58,352 - DEBUG - Iter 155/500 - Loss: 1.110
+2024-08-25 16:10:01,305 - DEBUG - Iter 310/500 - Loss: 0.383
+2024-08-25 16:10:04,268 - DEBUG - Iter 465/500 - Loss: 0.033
+2024-08-25 16:10:05,124 - INFO - NLL: 0.0549; RMSE: 0.2001; NMSE: 0.9500
+2024-08-25 16:10:05,125 - INFO - Progress:99/200
+2024-08-25 16:10:05,125 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.006907748989760876; step_size:100.0; gamma:0.800000011920929
+2024-08-25 16:10:06,875 - DEBUG - Iter 100/500 - Loss: 1.379
+2024-08-25 16:10:08,736 - DEBUG - Iter 200/500 - Loss: 0.911
+2024-08-25 16:10:10,631 - DEBUG - Iter 300/500 - Loss: 0.544
+2024-08-25 16:10:12,536 - DEBUG - Iter 400/500 - Loss: 0.299
+2024-08-25 16:10:14,442 - DEBUG - Iter 500/500 - Loss: 0.116
+2024-08-25 16:10:14,629 - INFO - NLL: 0.1671; RMSE: 0.1974; NMSE: 0.9371
+2024-08-25 16:10:14,630 - INFO - Progress:100/200
+2024-08-25 16:10:14,630 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:10.0; gamma:0.20000000298023224
+2024-08-25 16:10:14,812 - DEBUG - Iter 10/500 - Loss: 0.955
+2024-08-25 16:10:14,998 - DEBUG - Iter 20/500 - Loss: 0.599
+2024-08-25 16:10:15,187 - DEBUG - Iter 30/500 - Loss: 0.533
+2024-08-25 16:10:15,375 - DEBUG - Iter 40/500 - Loss: 0.518
+2024-08-25 16:10:15,561 - DEBUG - Iter 50/500 - Loss: 0.515
+2024-08-25 16:10:15,747 - DEBUG - Iter 60/500 - Loss: 0.514
+2024-08-25 16:10:15,747 - INFO - Early cut off at epoch 59 with loss of 0.5142840147018433
+2024-08-25 16:10:15,932 - INFO - NLL: 0.6371; RMSE: 0.2035; NMSE: 0.9664
+2024-08-25 16:10:15,933 - INFO - Progress:101/200
+2024-08-25 16:10:15,933 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:32.5; gamma:0.20000000298023224
+2024-08-25 16:10:17,148 - DEBUG - Iter 65/500 - Loss: -0.523
+2024-08-25 16:10:18,368 - DEBUG - Iter 130/500 - Loss: -0.835
+2024-08-25 16:10:19,587 - DEBUG - Iter 195/500 - Loss: -0.850
+2024-08-25 16:10:20,808 - DEBUG - Iter 260/500 - Loss: -0.854
+2024-08-25 16:10:22,031 - DEBUG - Iter 325/500 - Loss: -0.855
+2024-08-25 16:10:23,264 - DEBUG - Iter 390/500 - Loss: -0.855
+2024-08-25 16:10:24,505 - DEBUG - Iter 455/500 - Loss: -0.856
+2024-08-25 16:10:25,540 - INFO - NLL: 1424.6439; RMSE: 0.2711; NMSE: 1.2872
+2024-08-25 16:10:25,541 - INFO - Progress:102/200
+2024-08-25 16:10:25,541 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:55.0; gamma:0.20000000298023224
+2024-08-25 16:10:26,576 - DEBUG - Iter 55/500 - Loss: -0.619
+2024-08-25 16:10:27,616 - DEBUG - Iter 110/500 - Loss: -1.167
+2024-08-25 16:10:28,654 - DEBUG - Iter 165/500 - Loss: -1.180
+2024-08-25 16:10:29,701 - DEBUG - Iter 220/500 - Loss: -1.183
+2024-08-25 16:10:29,701 - INFO - Early cut off at epoch 219 with loss of -1.1825264692306519
+2024-08-25 16:10:29,887 - INFO - NLL: -0.6182; RMSE: 0.2605; NMSE: 1.2371
+2024-08-25 16:10:29,887 - INFO - Progress:103/200
+2024-08-25 16:10:29,887 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:77.5; gamma:0.20000000298023224
+2024-08-25 16:10:32,804 - DEBUG - Iter 155/500 - Loss: -0.415
+2024-08-25 16:10:35,723 - DEBUG - Iter 310/500 - Loss: -0.811
+2024-08-25 16:10:38,636 - DEBUG - Iter 465/500 - Loss: -0.913
+2024-08-25 16:10:39,476 - INFO - NLL: 1.4327; RMSE: 0.2937; NMSE: 1.3944
+2024-08-25 16:10:39,477 - INFO - Progress:104/200
+2024-08-25 16:10:39,477 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:100.0; gamma:0.20000000298023224
+2024-08-25 16:10:41,354 - DEBUG - Iter 100/500 - Loss: -0.649
+2024-08-25 16:10:43,245 - DEBUG - Iter 200/500 - Loss: -1.081
+2024-08-25 16:10:45,129 - DEBUG - Iter 300/500 - Loss: -1.139
+2024-08-25 16:10:47,012 - DEBUG - Iter 400/500 - Loss: -1.153
+2024-08-25 16:10:48,899 - DEBUG - Iter 500/500 - Loss: -1.156
+2024-08-25 16:10:49,084 - INFO - NLL: -0.0833; RMSE: 0.2918; NMSE: 1.3857
+2024-08-25 16:10:49,084 - INFO - Progress:105/200
+2024-08-25 16:10:49,084 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:10.0; gamma:0.3500000238418579
+2024-08-25 16:10:49,265 - DEBUG - Iter 10/500 - Loss: 1.032
+2024-08-25 16:10:49,451 - DEBUG - Iter 20/500 - Loss: 0.556
+2024-08-25 16:10:49,641 - DEBUG - Iter 30/500 - Loss: 0.360
+2024-08-25 16:10:49,830 - DEBUG - Iter 40/500 - Loss: 0.275
+2024-08-25 16:10:50,020 - DEBUG - Iter 50/500 - Loss: 0.249
+2024-08-25 16:10:50,210 - DEBUG - Iter 60/500 - Loss: 0.241
+2024-08-25 16:10:50,400 - DEBUG - Iter 70/500 - Loss: 0.238
+2024-08-25 16:10:50,590 - DEBUG - Iter 80/500 - Loss: 0.238
+2024-08-25 16:10:50,779 - DEBUG - Iter 90/500 - Loss: 0.237
+2024-08-25 16:10:50,779 - INFO - Early cut off at epoch 89 with loss of 0.2372237890958786
+2024-08-25 16:10:50,963 - INFO - NLL: 0.2422; RMSE: 0.1958; NMSE: 0.9299
+2024-08-25 16:10:50,963 - INFO - Progress:106/200
+2024-08-25 16:10:50,963 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:32.5; gamma:0.3500000238418579
+2024-08-25 16:10:52,183 - DEBUG - Iter 65/500 - Loss: -0.359
+2024-08-25 16:10:53,407 - DEBUG - Iter 130/500 - Loss: -0.654
+2024-08-25 16:10:54,639 - DEBUG - Iter 195/500 - Loss: -0.822
+2024-08-25 16:10:55,863 - DEBUG - Iter 260/500 - Loss: -0.867
+2024-08-25 16:10:57,087 - DEBUG - Iter 325/500 - Loss: -0.874
+2024-08-25 16:10:58,319 - DEBUG - Iter 390/500 - Loss: -0.876
+2024-08-25 16:10:59,544 - DEBUG - Iter 455/500 - Loss: -0.877
+2024-08-25 16:11:00,578 - INFO - NLL: 0.8408; RMSE: 0.2765; NMSE: 1.3128
+2024-08-25 16:11:00,579 - INFO - Progress:107/200
+2024-08-25 16:11:00,579 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:55.0; gamma:0.3500000238418579
+2024-08-25 16:11:01,604 - DEBUG - Iter 55/500 - Loss: -0.107
+2024-08-25 16:11:02,647 - DEBUG - Iter 110/500 - Loss: -0.241
+2024-08-25 16:11:03,687 - DEBUG - Iter 165/500 - Loss: -0.636
+2024-08-25 16:11:04,726 - DEBUG - Iter 220/500 - Loss: -0.796
+2024-08-25 16:11:05,766 - DEBUG - Iter 275/500 - Loss: -0.845
+2024-08-25 16:11:06,799 - DEBUG - Iter 330/500 - Loss: -0.860
+2024-08-25 16:11:07,843 - DEBUG - Iter 385/500 - Loss: -0.865
+2024-08-25 16:11:08,883 - DEBUG - Iter 440/500 - Loss: -0.867
+2024-08-25 16:11:09,923 - DEBUG - Iter 495/500 - Loss: -0.868
+2024-08-25 16:11:09,923 - INFO - Early cut off at epoch 494 with loss of -0.8679683804512024
+2024-08-25 16:11:10,111 - INFO - NLL: 0.8818; RMSE: 0.2764; NMSE: 1.3122
+2024-08-25 16:11:10,111 - INFO - Progress:108/200
+2024-08-25 16:11:10,111 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:77.5; gamma:0.3500000238418579
+2024-08-25 16:11:13,086 - DEBUG - Iter 155/500 - Loss: -0.577
+2024-08-25 16:11:16,026 - DEBUG - Iter 310/500 - Loss: -1.177
+2024-08-25 16:11:18,972 - DEBUG - Iter 465/500 - Loss: -1.211
+2024-08-25 16:11:19,822 - INFO - NLL: -0.0068; RMSE: 0.2955; NMSE: 1.4030
+2024-08-25 16:11:19,822 - INFO - Progress:109/200
+2024-08-25 16:11:19,822 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:100.0; gamma:0.3500000238418579
+2024-08-25 16:11:21,712 - DEBUG - Iter 100/500 - Loss: -0.576
+2024-08-25 16:11:23,615 - DEBUG - Iter 200/500 - Loss: -1.178
+2024-08-25 16:11:25,507 - DEBUG - Iter 300/500 - Loss: -1.206
+2024-08-25 16:11:27,403 - DEBUG - Iter 400/500 - Loss: -1.208
+2024-08-25 16:11:27,403 - INFO - Early cut off at epoch 399 with loss of -1.2083995342254639
+2024-08-25 16:11:27,590 - INFO - NLL: -0.2080; RMSE: 0.2885; NMSE: 1.3700
+2024-08-25 16:11:27,590 - INFO - Progress:110/200
+2024-08-25 16:11:27,591 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:10.0; gamma:0.5
+2024-08-25 16:11:27,771 - DEBUG - Iter 10/500 - Loss: 1.079
+2024-08-25 16:11:27,957 - DEBUG - Iter 20/500 - Loss: 0.481
+2024-08-25 16:11:28,145 - DEBUG - Iter 30/500 - Loss: 0.165
+2024-08-25 16:11:28,334 - DEBUG - Iter 40/500 - Loss: 0.036
+2024-08-25 16:11:28,524 - DEBUG - Iter 50/500 - Loss: -0.022
+2024-08-25 16:11:28,715 - DEBUG - Iter 60/500 - Loss: -0.050
+2024-08-25 16:11:28,906 - DEBUG - Iter 70/500 - Loss: -0.063
+2024-08-25 16:11:29,097 - DEBUG - Iter 80/500 - Loss: -0.070
+2024-08-25 16:11:29,289 - DEBUG - Iter 90/500 - Loss: -0.073
+2024-08-25 16:11:29,483 - DEBUG - Iter 100/500 - Loss: -0.075
+2024-08-25 16:11:29,674 - DEBUG - Iter 110/500 - Loss: -0.075
+2024-08-25 16:11:29,864 - DEBUG - Iter 120/500 - Loss: -0.076
+2024-08-25 16:11:30,055 - DEBUG - Iter 130/500 - Loss: -0.076
+2024-08-25 16:11:30,247 - DEBUG - Iter 140/500 - Loss: -0.076
+2024-08-25 16:11:30,247 - INFO - Early cut off at epoch 139 with loss of -0.07604873180389404
+2024-08-25 16:11:30,433 - INFO - NLL: -0.0237; RMSE: 0.1948; NMSE: 0.9252
+2024-08-25 16:11:30,433 - INFO - Progress:111/200
+2024-08-25 16:11:30,434 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:32.5; gamma:0.5
+2024-08-25 16:11:31,662 - DEBUG - Iter 65/500 - Loss: -0.735
+2024-08-25 16:11:32,894 - DEBUG - Iter 130/500 - Loss: -1.159
+2024-08-25 16:11:34,124 - DEBUG - Iter 195/500 - Loss: -1.210
+2024-08-25 16:11:35,352 - DEBUG - Iter 260/500 - Loss: -1.213
+2024-08-25 16:11:36,578 - DEBUG - Iter 325/500 - Loss: -1.215
+2024-08-25 16:11:37,811 - DEBUG - Iter 390/500 - Loss: -1.215
+2024-08-25 16:11:39,039 - DEBUG - Iter 455/500 - Loss: -1.216
+2024-08-25 16:11:40,068 - INFO - NLL: -0.4172; RMSE: 0.2781; NMSE: 1.3202
+2024-08-25 16:11:40,069 - INFO - Progress:112/200
+2024-08-25 16:11:40,069 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:55.0; gamma:0.5
+2024-08-25 16:11:41,089 - DEBUG - Iter 55/500 - Loss: -0.627
+2024-08-25 16:11:42,128 - DEBUG - Iter 110/500 - Loss: -1.168
+2024-08-25 16:11:43,169 - DEBUG - Iter 165/500 - Loss: -1.206
+2024-08-25 16:11:44,210 - DEBUG - Iter 220/500 - Loss: -1.211
+2024-08-25 16:11:45,252 - DEBUG - Iter 275/500 - Loss: -1.213
+2024-08-25 16:11:45,252 - INFO - Early cut off at epoch 274 with loss of -1.2126480340957642
+2024-08-25 16:11:45,437 - INFO - NLL: -0.4912; RMSE: 0.2732; NMSE: 1.2972
+2024-08-25 16:11:45,438 - INFO - Progress:113/200
+2024-08-25 16:11:45,438 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:77.5; gamma:0.5
+2024-08-25 16:11:48,350 - DEBUG - Iter 155/500 - Loss: -0.796
+2024-08-25 16:11:51,270 - DEBUG - Iter 310/500 - Loss: -0.825
+2024-08-25 16:11:54,206 - DEBUG - Iter 465/500 - Loss: -0.841
+2024-08-25 16:11:55,050 - INFO - NLL: 43416.6172; RMSE: 0.2947; NMSE: 1.3992
+2024-08-25 16:11:55,051 - INFO - Progress:114/200
+2024-08-25 16:11:55,051 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:100.0; gamma:0.5
+2024-08-25 16:11:56,937 - DEBUG - Iter 100/500 - Loss: -0.754
+2024-08-25 16:11:58,821 - DEBUG - Iter 200/500 - Loss: -0.932
+2024-08-25 16:12:00,711 - DEBUG - Iter 300/500 - Loss: -0.818
+2024-08-25 16:12:02,607 - DEBUG - Iter 400/500 - Loss: -1.082
+2024-08-25 16:12:04,496 - DEBUG - Iter 500/500 - Loss: -1.202
+2024-08-25 16:12:04,682 - INFO - NLL: -0.1588; RMSE: 0.2926; NMSE: 1.3895
+2024-08-25 16:12:04,682 - INFO - Progress:115/200
+2024-08-25 16:12:04,682 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:10.0; gamma:0.6499999761581421
+2024-08-25 16:12:04,865 - DEBUG - Iter 10/500 - Loss: 0.991
+2024-08-25 16:12:05,052 - DEBUG - Iter 20/500 - Loss: 0.281
+2024-08-25 16:12:05,242 - DEBUG - Iter 30/500 - Loss: -0.094
+2024-08-25 16:12:05,434 - DEBUG - Iter 40/500 - Loss: -0.298
+2024-08-25 16:12:05,625 - DEBUG - Iter 50/500 - Loss: -0.409
+2024-08-25 16:12:05,817 - DEBUG - Iter 60/500 - Loss: -0.466
+2024-08-25 16:12:06,009 - DEBUG - Iter 70/500 - Loss: -0.500
+2024-08-25 16:12:06,200 - DEBUG - Iter 80/500 - Loss: -0.521
+2024-08-25 16:12:06,390 - DEBUG - Iter 90/500 - Loss: -0.535
+2024-08-25 16:12:06,579 - DEBUG - Iter 100/500 - Loss: -0.543
+2024-08-25 16:12:06,769 - DEBUG - Iter 110/500 - Loss: -0.548
+2024-08-25 16:12:06,960 - DEBUG - Iter 120/500 - Loss: -0.552
+2024-08-25 16:12:07,151 - DEBUG - Iter 130/500 - Loss: -0.554
+2024-08-25 16:12:07,342 - DEBUG - Iter 140/500 - Loss: -0.556
+2024-08-25 16:12:07,534 - DEBUG - Iter 150/500 - Loss: -0.557
+2024-08-25 16:12:07,535 - INFO - Early cut off at epoch 149 with loss of -0.5566493272781372
+2024-08-25 16:12:07,720 - INFO - NLL: -0.3684; RMSE: 0.2059; NMSE: 0.9777
+2024-08-25 16:12:07,720 - INFO - Progress:116/200
+2024-08-25 16:12:07,720 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:32.5; gamma:0.6499999761581421
+2024-08-25 16:12:08,943 - DEBUG - Iter 65/500 - Loss: -0.773
+2024-08-25 16:12:10,178 - DEBUG - Iter 130/500 - Loss: -1.158
+2024-08-25 16:12:11,406 - DEBUG - Iter 195/500 - Loss: -1.212
+2024-08-25 16:12:12,635 - DEBUG - Iter 260/500 - Loss: -1.216
+2024-08-25 16:12:13,864 - DEBUG - Iter 325/500 - Loss: -1.218
+2024-08-25 16:12:15,091 - DEBUG - Iter 390/500 - Loss: -1.219
+2024-08-25 16:12:16,318 - DEBUG - Iter 455/500 - Loss: -1.219
+2024-08-25 16:12:17,352 - INFO - NLL: -0.3922; RMSE: 0.2799; NMSE: 1.3291
+2024-08-25 16:12:17,352 - INFO - Progress:117/200
+2024-08-25 16:12:17,353 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:55.0; gamma:0.6499999761581421
+2024-08-25 16:12:18,385 - DEBUG - Iter 55/500 - Loss: -0.620
+2024-08-25 16:12:19,429 - DEBUG - Iter 110/500 - Loss: -1.177
+2024-08-25 16:12:20,472 - DEBUG - Iter 165/500 - Loss: -1.210
+2024-08-25 16:12:21,507 - DEBUG - Iter 220/500 - Loss: -0.638
+2024-08-25 16:12:22,551 - DEBUG - Iter 275/500 - Loss: -0.706
+2024-08-25 16:12:23,587 - DEBUG - Iter 330/500 - Loss: -0.902
+2024-08-25 16:12:24,628 - DEBUG - Iter 385/500 - Loss: -1.024
+2024-08-25 16:12:25,668 - DEBUG - Iter 440/500 - Loss: -1.078
+2024-08-25 16:12:26,714 - DEBUG - Iter 495/500 - Loss: -1.139
+2024-08-25 16:12:26,993 - INFO - NLL: 0.0358; RMSE: 0.2843; NMSE: 1.3498
+2024-08-25 16:12:26,994 - INFO - Progress:118/200
+2024-08-25 16:12:26,994 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:77.5; gamma:0.6499999761581421
+2024-08-25 16:12:29,915 - DEBUG - Iter 155/500 - Loss: -0.738
+2024-08-25 16:12:32,841 - DEBUG - Iter 310/500 - Loss: -0.939
+2024-08-25 16:12:35,773 - DEBUG - Iter 465/500 - Loss: -1.171
+2024-08-25 16:12:36,619 - INFO - NLL: 0.6619; RMSE: 0.2979; NMSE: 1.4146
+2024-08-25 16:12:36,620 - INFO - Progress:119/200
+2024-08-25 16:12:36,620 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:100.0; gamma:0.6499999761581421
+2024-08-25 16:12:38,494 - DEBUG - Iter 100/500 - Loss: -0.510
+2024-08-25 16:12:40,368 - DEBUG - Iter 200/500 - Loss: -1.005
+2024-08-25 16:12:42,244 - DEBUG - Iter 300/500 - Loss: -0.817
+2024-08-25 16:12:44,126 - DEBUG - Iter 400/500 - Loss: -1.024
+2024-08-25 16:12:46,011 - DEBUG - Iter 500/500 - Loss: -1.180
+2024-08-25 16:12:46,199 - INFO - NLL: 0.0866; RMSE: 0.2965; NMSE: 1.4078
+2024-08-25 16:12:46,200 - INFO - Progress:120/200
+2024-08-25 16:12:46,200 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:10.0; gamma:0.800000011920929
+2024-08-25 16:12:46,424 - DEBUG - Iter 10/500 - Loss: 0.825
+2024-08-25 16:12:46,613 - DEBUG - Iter 20/500 - Loss: 0.117
+2024-08-25 16:12:46,805 - DEBUG - Iter 30/500 - Loss: -0.347
+2024-08-25 16:12:46,998 - DEBUG - Iter 40/500 - Loss: -0.593
+2024-08-25 16:12:47,190 - DEBUG - Iter 50/500 - Loss: -0.739
+2024-08-25 16:12:47,382 - DEBUG - Iter 60/500 - Loss: -0.838
+2024-08-25 16:12:47,571 - DEBUG - Iter 70/500 - Loss: -0.916
+2024-08-25 16:12:47,760 - DEBUG - Iter 80/500 - Loss: -0.972
+2024-08-25 16:12:47,952 - DEBUG - Iter 90/500 - Loss: -1.013
+2024-08-25 16:12:48,144 - DEBUG - Iter 100/500 - Loss: -1.041
+2024-08-25 16:12:48,335 - DEBUG - Iter 110/500 - Loss: -1.060
+2024-08-25 16:12:48,526 - DEBUG - Iter 120/500 - Loss: -1.075
+2024-08-25 16:12:48,718 - DEBUG - Iter 130/500 - Loss: -1.085
+2024-08-25 16:12:48,908 - DEBUG - Iter 140/500 - Loss: -1.093
+2024-08-25 16:12:49,099 - DEBUG - Iter 150/500 - Loss: -1.099
+2024-08-25 16:12:49,289 - DEBUG - Iter 160/500 - Loss: -1.104
+2024-08-25 16:12:49,479 - DEBUG - Iter 170/500 - Loss: -1.108
+2024-08-25 16:12:49,669 - DEBUG - Iter 180/500 - Loss: -1.111
+2024-08-25 16:12:49,860 - DEBUG - Iter 190/500 - Loss: -1.113
+2024-08-25 16:12:49,860 - INFO - Early cut off at epoch 189 with loss of -1.1129589080810547
+2024-08-25 16:12:50,048 - INFO - NLL: -0.9052; RMSE: 0.2131; NMSE: 1.0120
+2024-08-25 16:12:50,048 - INFO - Progress:121/200
+2024-08-25 16:12:50,048 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:32.5; gamma:0.800000011920929
+2024-08-25 16:12:51,272 - DEBUG - Iter 65/500 - Loss: -0.840
+2024-08-25 16:12:52,501 - DEBUG - Iter 130/500 - Loss: -0.994
+2024-08-25 16:12:53,727 - DEBUG - Iter 195/500 - Loss: -1.206
+2024-08-25 16:12:54,960 - DEBUG - Iter 260/500 - Loss: -1.061
+2024-08-25 16:12:56,189 - DEBUG - Iter 325/500 - Loss: -0.841
+2024-08-25 16:12:57,419 - DEBUG - Iter 390/500 - Loss: -0.856
+2024-08-25 16:12:58,643 - DEBUG - Iter 455/500 - Loss: -0.868
+2024-08-25 16:12:59,685 - INFO - NLL: 26217.2559; RMSE: 0.2942; NMSE: 1.3967
+2024-08-25 16:12:59,686 - INFO - Progress:122/200
+2024-08-25 16:12:59,686 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:55.0; gamma:0.800000011920929
+2024-08-25 16:13:00,716 - DEBUG - Iter 55/500 - Loss: -0.644
+2024-08-25 16:13:01,758 - DEBUG - Iter 110/500 - Loss: -0.769
+2024-08-25 16:13:02,790 - DEBUG - Iter 165/500 - Loss: -0.636
+2024-08-25 16:13:03,831 - DEBUG - Iter 220/500 - Loss: -0.853
+2024-08-25 16:13:04,872 - DEBUG - Iter 275/500 - Loss: -1.088
+2024-08-25 16:13:05,907 - DEBUG - Iter 330/500 - Loss: -0.890
+2024-08-25 16:13:06,947 - DEBUG - Iter 385/500 - Loss: -1.161
+2024-08-25 16:13:07,992 - DEBUG - Iter 440/500 - Loss: -1.212
+2024-08-25 16:13:09,035 - DEBUG - Iter 495/500 - Loss: -1.213
+2024-08-25 16:13:09,036 - INFO - Early cut off at epoch 494 with loss of -1.21340811252594
+2024-08-25 16:13:09,222 - INFO - NLL: -0.0690; RMSE: 0.2954; NMSE: 1.4027
+2024-08-25 16:13:09,222 - INFO - Progress:123/200
+2024-08-25 16:13:09,222 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:77.5; gamma:0.800000011920929
+2024-08-25 16:13:12,149 - DEBUG - Iter 155/500 - Loss: -0.868
+2024-08-25 16:13:15,076 - DEBUG - Iter 310/500 - Loss: -0.680
+2024-08-25 16:13:17,986 - DEBUG - Iter 465/500 - Loss: -0.751
+2024-08-25 16:13:18,827 - INFO - NLL: 10866.1162; RMSE: 0.2966; NMSE: 1.4081
+2024-08-25 16:13:18,827 - INFO - Progress:124/200
+2024-08-25 16:13:18,827 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.17787475883960724; step_size:100.0; gamma:0.800000011920929
+2024-08-25 16:13:20,708 - DEBUG - Iter 100/500 - Loss: -0.527
+2024-08-25 16:13:22,597 - DEBUG - Iter 200/500 - Loss: -0.404
+2024-08-25 16:13:24,481 - DEBUG - Iter 300/500 - Loss: -0.522
+2024-08-25 16:13:26,363 - DEBUG - Iter 400/500 - Loss: -0.584
+2024-08-25 16:13:28,240 - DEBUG - Iter 500/500 - Loss: -0.644
+2024-08-25 16:13:28,425 - INFO - NLL: 38855.8438; RMSE: 0.2981; NMSE: 1.4155
+2024-08-25 16:13:28,425 - INFO - Progress:125/200
+2024-08-25 16:13:28,425 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.20000000298023224
+2024-08-25 16:13:28,610 - DEBUG - Iter 10/500 - Loss: 0.438
+2024-08-25 16:13:28,800 - DEBUG - Iter 20/500 - Loss: -0.205
+2024-08-25 16:13:28,990 - DEBUG - Iter 30/500 - Loss: -0.336
+2024-08-25 16:13:29,184 - DEBUG - Iter 40/500 - Loss: -0.355
+2024-08-25 16:13:29,373 - DEBUG - Iter 50/500 - Loss: -0.360
+2024-08-25 16:13:29,562 - DEBUG - Iter 60/500 - Loss: -0.360
+2024-08-25 16:13:29,562 - INFO - Early cut off at epoch 59 with loss of -0.3604777455329895
+2024-08-25 16:13:29,749 - INFO - NLL: -0.2602; RMSE: 0.1957; NMSE: 0.9294
+2024-08-25 16:13:29,750 - INFO - Progress:126/200
+2024-08-25 16:13:29,750 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.20000000298023224
+2024-08-25 16:13:30,972 - DEBUG - Iter 65/500 - Loss: -0.228
+2024-08-25 16:13:32,194 - DEBUG - Iter 130/500 - Loss: -0.750
+2024-08-25 16:13:33,416 - DEBUG - Iter 195/500 - Loss: -0.770
+2024-08-25 16:13:34,636 - DEBUG - Iter 260/500 - Loss: -0.772
+2024-08-25 16:13:35,867 - DEBUG - Iter 325/500 - Loss: -0.772
+2024-08-25 16:13:37,095 - DEBUG - Iter 390/500 - Loss: -0.772
+2024-08-25 16:13:38,316 - DEBUG - Iter 455/500 - Loss: -0.772
+2024-08-25 16:13:39,348 - INFO - NLL: 27271.6445; RMSE: 0.2931; NMSE: 1.3914
+2024-08-25 16:13:39,349 - INFO - Progress:127/200
+2024-08-25 16:13:39,349 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.20000000298023224
+2024-08-25 16:13:40,384 - DEBUG - Iter 55/500 - Loss: 0.202
+2024-08-25 16:13:41,422 - DEBUG - Iter 110/500 - Loss: -0.104
+2024-08-25 16:13:42,453 - DEBUG - Iter 165/500 - Loss: -0.194
+2024-08-25 16:13:43,486 - DEBUG - Iter 220/500 - Loss: -0.227
+2024-08-25 16:13:44,525 - DEBUG - Iter 275/500 - Loss: -0.235
+2024-08-25 16:13:45,562 - DEBUG - Iter 330/500 - Loss: -0.237
+2024-08-25 16:13:46,595 - DEBUG - Iter 385/500 - Loss: -0.237
+2024-08-25 16:13:46,595 - INFO - Early cut off at epoch 384 with loss of -0.2372046262025833
+2024-08-25 16:13:46,781 - INFO - NLL: 2.2558; RMSE: 0.2932; NMSE: 1.3922
+2024-08-25 16:13:46,781 - INFO - Progress:128/200
+2024-08-25 16:13:46,781 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.20000000298023224
+2024-08-25 16:13:49,694 - DEBUG - Iter 155/500 - Loss: -0.663
+2024-08-25 16:13:52,598 - DEBUG - Iter 310/500 - Loss: -0.862
+2024-08-25 16:13:55,500 - DEBUG - Iter 465/500 - Loss: -0.881
+2024-08-25 16:13:56,336 - INFO - NLL: 35536.1367; RMSE: 0.2998; NMSE: 1.4236
+2024-08-25 16:13:56,337 - INFO - Progress:129/200
+2024-08-25 16:13:56,337 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.20000000298023224
+2024-08-25 16:13:58,211 - DEBUG - Iter 100/500 - Loss: -0.267
+2024-08-25 16:14:00,099 - DEBUG - Iter 200/500 - Loss: -0.895
+2024-08-25 16:14:01,983 - DEBUG - Iter 300/500 - Loss: -0.962
+2024-08-25 16:14:03,864 - DEBUG - Iter 400/500 - Loss: -0.990
+2024-08-25 16:14:05,749 - DEBUG - Iter 500/500 - Loss: -0.997
+2024-08-25 16:14:05,934 - INFO - NLL: 1.0481; RMSE: 0.2989; NMSE: 1.4190
+2024-08-25 16:14:05,934 - INFO - Progress:130/200
+2024-08-25 16:14:05,935 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.3500000238418579
+2024-08-25 16:14:06,120 - DEBUG - Iter 10/500 - Loss: 0.383
+2024-08-25 16:14:06,311 - DEBUG - Iter 20/500 - Loss: -0.326
+2024-08-25 16:14:06,502 - DEBUG - Iter 30/500 - Loss: -0.518
+2024-08-25 16:14:06,692 - DEBUG - Iter 40/500 - Loss: -0.577
+2024-08-25 16:14:06,887 - DEBUG - Iter 50/500 - Loss: -0.596
+2024-08-25 16:14:07,080 - DEBUG - Iter 60/500 - Loss: -0.601
+2024-08-25 16:14:07,272 - DEBUG - Iter 70/500 - Loss: -0.603
+2024-08-25 16:14:07,464 - DEBUG - Iter 80/500 - Loss: -0.604
+2024-08-25 16:14:07,464 - INFO - Early cut off at epoch 79 with loss of -0.6039137244224548
+2024-08-25 16:14:07,648 - INFO - NLL: -0.4437; RMSE: 0.2024; NMSE: 0.9610
+2024-08-25 16:14:07,649 - INFO - Progress:131/200
+2024-08-25 16:14:07,649 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.3500000238418579
+2024-08-25 16:14:08,914 - DEBUG - Iter 65/500 - Loss: 0.103
+2024-08-25 16:14:10,136 - DEBUG - Iter 130/500 - Loss: -0.464
+2024-08-25 16:14:11,357 - DEBUG - Iter 195/500 - Loss: -0.667
+2024-08-25 16:14:12,580 - DEBUG - Iter 260/500 - Loss: -0.704
+2024-08-25 16:14:13,802 - DEBUG - Iter 325/500 - Loss: -0.717
+2024-08-25 16:14:15,031 - DEBUG - Iter 390/500 - Loss: -0.722
+2024-08-25 16:14:16,251 - DEBUG - Iter 455/500 - Loss: -0.724
+2024-08-25 16:14:17,288 - INFO - NLL: 1.9896; RMSE: 0.2974; NMSE: 1.4120
+2024-08-25 16:14:17,288 - INFO - Progress:132/200
+2024-08-25 16:14:17,288 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.3500000238418579
+2024-08-25 16:14:18,323 - DEBUG - Iter 55/500 - Loss: 0.076
+2024-08-25 16:14:19,362 - DEBUG - Iter 110/500 - Loss: -0.377
+2024-08-25 16:14:20,399 - DEBUG - Iter 165/500 - Loss: -0.540
+2024-08-25 16:14:21,436 - DEBUG - Iter 220/500 - Loss: -0.651
+2024-08-25 16:14:22,470 - DEBUG - Iter 275/500 - Loss: -0.677
+2024-08-25 16:14:23,513 - DEBUG - Iter 330/500 - Loss: -0.682
+2024-08-25 16:14:24,551 - DEBUG - Iter 385/500 - Loss: -0.684
+2024-08-25 16:14:25,588 - DEBUG - Iter 440/500 - Loss: -0.685
+2024-08-25 16:14:25,588 - INFO - Early cut off at epoch 439 with loss of -0.6845890283584595
+2024-08-25 16:14:25,773 - INFO - NLL: 37251.9570; RMSE: 0.2926; NMSE: 1.3891
+2024-08-25 16:14:25,774 - INFO - Progress:133/200
+2024-08-25 16:14:25,774 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.3500000238418579
+2024-08-25 16:14:28,688 - DEBUG - Iter 155/500 - Loss: -0.496
+2024-08-25 16:14:31,603 - DEBUG - Iter 310/500 - Loss: -1.177
+2024-08-25 16:14:34,524 - DEBUG - Iter 465/500 - Loss: -1.209
+2024-08-25 16:14:35,367 - INFO - NLL: 0.2987; RMSE: 0.3012; NMSE: 1.4299
+2024-08-25 16:14:35,368 - INFO - Progress:134/200
+2024-08-25 16:14:35,368 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.3500000238418579
+2024-08-25 16:14:37,254 - DEBUG - Iter 100/500 - Loss: -0.145
+2024-08-25 16:14:39,138 - DEBUG - Iter 200/500 - Loss: -0.886
+2024-08-25 16:14:41,026 - DEBUG - Iter 300/500 - Loss: -1.127
+2024-08-25 16:14:42,910 - DEBUG - Iter 400/500 - Loss: -1.200
+2024-08-25 16:14:44,792 - DEBUG - Iter 500/500 - Loss: -1.203
+2024-08-25 16:14:44,977 - INFO - NLL: 0.1179; RMSE: 0.3030; NMSE: 1.4385
+2024-08-25 16:14:44,977 - INFO - Progress:135/200
+2024-08-25 16:14:44,978 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.5
+2024-08-25 16:14:45,163 - DEBUG - Iter 10/500 - Loss: 0.448
+2024-08-25 16:14:45,353 - DEBUG - Iter 20/500 - Loss: -0.403
+2024-08-25 16:14:45,542 - DEBUG - Iter 30/500 - Loss: -0.692
+2024-08-25 16:14:45,730 - DEBUG - Iter 40/500 - Loss: -0.812
+2024-08-25 16:14:45,921 - DEBUG - Iter 50/500 - Loss: -0.862
+2024-08-25 16:14:46,113 - DEBUG - Iter 60/500 - Loss: -0.886
+2024-08-25 16:14:46,304 - DEBUG - Iter 70/500 - Loss: -0.898
+2024-08-25 16:14:46,495 - DEBUG - Iter 80/500 - Loss: -0.903
+2024-08-25 16:14:46,686 - DEBUG - Iter 90/500 - Loss: -0.906
+2024-08-25 16:14:46,876 - DEBUG - Iter 100/500 - Loss: -0.907
+2024-08-25 16:14:46,876 - INFO - Early cut off at epoch 99 with loss of -0.9072515368461609
+2024-08-25 16:14:47,061 - INFO - NLL: -0.6768; RMSE: 0.2141; NMSE: 1.0166
+2024-08-25 16:14:47,061 - INFO - Progress:136/200
+2024-08-25 16:14:47,062 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.5
+2024-08-25 16:14:48,286 - DEBUG - Iter 65/500 - Loss: -0.283
+2024-08-25 16:14:49,513 - DEBUG - Iter 130/500 - Loss: -0.504
+2024-08-25 16:14:50,739 - DEBUG - Iter 195/500 - Loss: -0.845
+2024-08-25 16:14:51,973 - DEBUG - Iter 260/500 - Loss: -0.889
+2024-08-25 16:14:53,203 - DEBUG - Iter 325/500 - Loss: -0.910
+2024-08-25 16:14:54,435 - DEBUG - Iter 390/500 - Loss: -0.923
+2024-08-25 16:14:55,666 - DEBUG - Iter 455/500 - Loss: -0.931
+2024-08-25 16:14:56,705 - INFO - NLL: 42616.0156; RMSE: 0.2920; NMSE: 1.3863
+2024-08-25 16:14:56,705 - INFO - Progress:137/200
+2024-08-25 16:14:56,705 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.5
+2024-08-25 16:14:57,756 - DEBUG - Iter 55/500 - Loss: 0.218
+2024-08-25 16:14:58,802 - DEBUG - Iter 110/500 - Loss: -0.044
+2024-08-25 16:14:59,846 - DEBUG - Iter 165/500 - Loss: -0.514
+2024-08-25 16:15:00,886 - DEBUG - Iter 220/500 - Loss: -0.614
+2024-08-25 16:15:01,928 - DEBUG - Iter 275/500 - Loss: -0.642
+2024-08-25 16:15:02,971 - DEBUG - Iter 330/500 - Loss: -0.659
+2024-08-25 16:15:04,015 - DEBUG - Iter 385/500 - Loss: -0.667
+2024-08-25 16:15:05,055 - DEBUG - Iter 440/500 - Loss: -0.672
+2024-08-25 16:15:06,096 - DEBUG - Iter 495/500 - Loss: -0.674
+2024-08-25 16:15:06,380 - INFO - NLL: 41448.2344; RMSE: 0.2879; NMSE: 1.3672
+2024-08-25 16:15:06,381 - INFO - Progress:138/200
+2024-08-25 16:15:06,381 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.5
+2024-08-25 16:15:09,315 - DEBUG - Iter 155/500 - Loss: -0.616
+2024-08-25 16:15:12,243 - DEBUG - Iter 310/500 - Loss: -0.138
+2024-08-25 16:15:15,167 - DEBUG - Iter 465/500 - Loss: -0.441
+2024-08-25 16:15:16,014 - INFO - NLL: 42243.4883; RMSE: 0.2957; NMSE: 1.4040
+2024-08-25 16:15:16,014 - INFO - Progress:139/200
+2024-08-25 16:15:16,014 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.5
+2024-08-25 16:15:17,902 - DEBUG - Iter 100/500 - Loss: -0.187
+2024-08-25 16:15:19,793 - DEBUG - Iter 200/500 - Loss: -0.230
+2024-08-25 16:15:21,682 - DEBUG - Iter 300/500 - Loss: -0.662
+2024-08-25 16:15:23,581 - DEBUG - Iter 400/500 - Loss: -0.823
+2024-08-25 16:15:25,469 - DEBUG - Iter 500/500 - Loss: -0.909
+2024-08-25 16:15:25,654 - INFO - NLL: 10513.0605; RMSE: 0.3003; NMSE: 1.4261
+2024-08-25 16:15:25,655 - INFO - Progress:140/200
+2024-08-25 16:15:25,655 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.6499999761581421
+2024-08-25 16:15:25,841 - DEBUG - Iter 10/500 - Loss: 0.336
+2024-08-25 16:15:26,032 - DEBUG - Iter 20/500 - Loss: -0.489
+2024-08-25 16:15:26,223 - DEBUG - Iter 30/500 - Loss: -0.808
+2024-08-25 16:15:26,414 - DEBUG - Iter 40/500 - Loss: -0.981
+2024-08-25 16:15:26,603 - DEBUG - Iter 50/500 - Loss: -1.071
+2024-08-25 16:15:26,793 - DEBUG - Iter 60/500 - Loss: -1.122
+2024-08-25 16:15:26,983 - DEBUG - Iter 70/500 - Loss: -1.145
+2024-08-25 16:15:27,174 - DEBUG - Iter 80/500 - Loss: -1.155
+2024-08-25 16:15:27,365 - DEBUG - Iter 90/500 - Loss: -1.161
+2024-08-25 16:15:27,555 - DEBUG - Iter 100/500 - Loss: -1.164
+2024-08-25 16:15:27,744 - DEBUG - Iter 110/500 - Loss: -1.166
+2024-08-25 16:15:27,744 - INFO - Early cut off at epoch 109 with loss of -1.165794849395752
+2024-08-25 16:15:27,929 - INFO - NLL: -0.8612; RMSE: 0.2291; NMSE: 1.0880
+2024-08-25 16:15:27,929 - INFO - Progress:141/200
+2024-08-25 16:15:27,929 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.6499999761581421
+2024-08-25 16:15:29,160 - DEBUG - Iter 65/500 - Loss: 0.008
+2024-08-25 16:15:30,389 - DEBUG - Iter 130/500 - Loss: -0.424
+2024-08-25 16:15:31,616 - DEBUG - Iter 195/500 - Loss: -0.543
+2024-08-25 16:15:32,849 - DEBUG - Iter 260/500 - Loss: -0.445
+2024-08-25 16:15:34,078 - DEBUG - Iter 325/500 - Loss: -0.465
+2024-08-25 16:15:35,306 - DEBUG - Iter 390/500 - Loss: -0.740
+2024-08-25 16:15:36,536 - DEBUG - Iter 455/500 - Loss: -0.787
+2024-08-25 16:15:37,571 - INFO - NLL: 44541.3203; RMSE: 0.2985; NMSE: 1.4172
+2024-08-25 16:15:37,572 - INFO - Progress:142/200
+2024-08-25 16:15:37,572 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.6499999761581421
+2024-08-25 16:15:38,606 - DEBUG - Iter 55/500 - Loss: -0.118
+2024-08-25 16:15:39,640 - DEBUG - Iter 110/500 - Loss: -0.722
+2024-08-25 16:15:40,676 - DEBUG - Iter 165/500 - Loss: -0.851
+2024-08-25 16:15:41,713 - DEBUG - Iter 220/500 - Loss: -0.308
+2024-08-25 16:15:42,753 - DEBUG - Iter 275/500 - Loss: -0.501
+2024-08-25 16:15:43,795 - DEBUG - Iter 330/500 - Loss: -0.230
+2024-08-25 16:15:44,831 - DEBUG - Iter 385/500 - Loss: -0.470
+2024-08-25 16:15:45,862 - DEBUG - Iter 440/500 - Loss: -0.574
+2024-08-25 16:15:46,898 - DEBUG - Iter 495/500 - Loss: -0.668
+2024-08-25 16:15:47,178 - INFO - NLL: 43733.0703; RMSE: 0.2958; NMSE: 1.4043
+2024-08-25 16:15:47,178 - INFO - Progress:143/200
+2024-08-25 16:15:47,178 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.6499999761581421
+2024-08-25 16:15:50,147 - DEBUG - Iter 155/500 - Loss: -0.885
+2024-08-25 16:15:53,077 - DEBUG - Iter 310/500 - Loss: -0.227
+2024-08-25 16:15:55,996 - DEBUG - Iter 465/500 - Loss: -0.765
+2024-08-25 16:15:56,842 - INFO - NLL: 17249.0703; RMSE: 0.3003; NMSE: 1.4257
+2024-08-25 16:15:56,843 - INFO - Progress:144/200
+2024-08-25 16:15:56,843 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.6499999761581421
+2024-08-25 16:15:58,733 - DEBUG - Iter 100/500 - Loss: -0.378
+2024-08-25 16:16:00,628 - DEBUG - Iter 200/500 - Loss: -0.775
+2024-08-25 16:16:02,520 - DEBUG - Iter 300/500 - Loss: -0.557
+2024-08-25 16:16:04,422 - DEBUG - Iter 400/500 - Loss: -0.686
+2024-08-25 16:16:06,328 - DEBUG - Iter 500/500 - Loss: -0.506
+2024-08-25 16:16:06,514 - INFO - NLL: 40508.0977; RMSE: 0.3046; NMSE: 1.4462
+2024-08-25 16:16:06,515 - INFO - Progress:145/200
+2024-08-25 16:16:06,515 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:10.0; gamma:0.800000011920929
+2024-08-25 16:16:06,703 - DEBUG - Iter 10/500 - Loss: 0.412
+2024-08-25 16:16:06,896 - DEBUG - Iter 20/500 - Loss: -0.464
+2024-08-25 16:16:07,091 - DEBUG - Iter 30/500 - Loss: -0.656
+2024-08-25 16:16:07,286 - DEBUG - Iter 40/500 - Loss: -0.795
+2024-08-25 16:16:07,476 - DEBUG - Iter 50/500 - Loss: -0.989
+2024-08-25 16:16:07,670 - DEBUG - Iter 60/500 - Loss: -1.078
+2024-08-25 16:16:07,864 - DEBUG - Iter 70/500 - Loss: -1.146
+2024-08-25 16:16:08,058 - DEBUG - Iter 80/500 - Loss: -1.180
+2024-08-25 16:16:08,252 - DEBUG - Iter 90/500 - Loss: -1.196
+2024-08-25 16:16:08,447 - DEBUG - Iter 100/500 - Loss: -1.205
+2024-08-25 16:16:08,642 - DEBUG - Iter 110/500 - Loss: -1.209
+2024-08-25 16:16:08,837 - DEBUG - Iter 120/500 - Loss: -1.211
+2024-08-25 16:16:08,837 - INFO - Early cut off at epoch 119 with loss of -1.2106318473815918
+2024-08-25 16:16:09,022 - INFO - NLL: -0.5880; RMSE: 0.2646; NMSE: 1.2564
+2024-08-25 16:16:09,023 - INFO - Progress:146/200
+2024-08-25 16:16:09,023 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:32.5; gamma:0.800000011920929
+2024-08-25 16:16:10,265 - DEBUG - Iter 65/500 - Loss: 0.151
+2024-08-25 16:16:11,518 - DEBUG - Iter 130/500 - Loss: -0.557
+2024-08-25 16:16:12,762 - DEBUG - Iter 195/500 - Loss: -1.152
+2024-08-25 16:16:13,993 - DEBUG - Iter 260/500 - Loss: -0.857
+2024-08-25 16:16:15,240 - DEBUG - Iter 325/500 - Loss: -0.711
+2024-08-25 16:16:16,560 - DEBUG - Iter 390/500 - Loss: -0.892
+2024-08-25 16:16:17,877 - DEBUG - Iter 455/500 - Loss: -0.936
+2024-08-25 16:16:18,983 - INFO - NLL: 13111.6377; RMSE: 0.2992; NMSE: 1.4208
+2024-08-25 16:16:18,983 - INFO - Progress:147/200
+2024-08-25 16:16:18,983 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:55.0; gamma:0.800000011920929
+2024-08-25 16:16:20,106 - DEBUG - Iter 55/500 - Loss: -0.166
+2024-08-25 16:16:21,227 - DEBUG - Iter 110/500 - Loss: -0.203
+2024-08-25 16:16:22,347 - DEBUG - Iter 165/500 - Loss: -0.493
+2024-08-25 16:16:23,466 - DEBUG - Iter 220/500 - Loss: -0.170
+2024-08-25 16:16:24,582 - DEBUG - Iter 275/500 - Loss: -0.566
+2024-08-25 16:16:25,700 - DEBUG - Iter 330/500 - Loss: -0.660
+2024-08-25 16:16:26,818 - DEBUG - Iter 385/500 - Loss: -0.705
+2024-08-25 16:16:27,936 - DEBUG - Iter 440/500 - Loss: -0.740
+2024-08-25 16:16:29,052 - DEBUG - Iter 495/500 - Loss: -0.483
+2024-08-25 16:16:29,346 - INFO - NLL: 2.2987; RMSE: 0.2991; NMSE: 1.4201
+2024-08-25 16:16:29,346 - INFO - Progress:148/200
+2024-08-25 16:16:29,347 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:77.5; gamma:0.800000011920929
+2024-08-25 16:16:32,489 - DEBUG - Iter 155/500 - Loss: -0.668
+2024-08-25 16:16:35,644 - DEBUG - Iter 310/500 - Loss: -0.455
+2024-08-25 16:16:38,783 - DEBUG - Iter 465/500 - Loss: -0.521
+2024-08-25 16:16:39,679 - INFO - NLL: 2.6064; RMSE: 0.3012; NMSE: 1.4302
+2024-08-25 16:16:39,679 - INFO - Progress:149/200
+2024-08-25 16:16:39,680 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.3488416075706482; step_size:100.0; gamma:0.800000011920929
+2024-08-25 16:16:41,691 - DEBUG - Iter 100/500 - Loss: -0.516
+2024-08-25 16:16:43,712 - DEBUG - Iter 200/500 - Loss: -0.615
+2024-08-25 16:16:45,731 - DEBUG - Iter 300/500 - Loss: -0.191
+2024-08-25 16:16:47,742 - DEBUG - Iter 400/500 - Loss: -0.619
+2024-08-25 16:16:49,761 - DEBUG - Iter 500/500 - Loss: -0.553
+2024-08-25 16:16:49,953 - INFO - NLL: 23411.6387; RMSE: 0.2986; NMSE: 1.4176
+2024-08-25 16:16:49,953 - INFO - Progress:150/200
+2024-08-25 16:16:49,954 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.20000000298023224
+2024-08-25 16:16:50,154 - DEBUG - Iter 10/500 - Loss: 0.376
+2024-08-25 16:16:50,359 - DEBUG - Iter 20/500 - Loss: -0.422
+2024-08-25 16:16:50,564 - DEBUG - Iter 30/500 - Loss: -0.683
+2024-08-25 16:16:50,770 - DEBUG - Iter 40/500 - Loss: -0.739
+2024-08-25 16:16:50,978 - DEBUG - Iter 50/500 - Loss: -0.747
+2024-08-25 16:16:51,186 - DEBUG - Iter 60/500 - Loss: -0.749
+2024-08-25 16:16:51,186 - INFO - Early cut off at epoch 59 with loss of -0.7486057281494141
+2024-08-25 16:16:51,378 - INFO - NLL: -0.5025; RMSE: 0.2127; NMSE: 1.0097
+2024-08-25 16:16:51,378 - INFO - Progress:151/200
+2024-08-25 16:16:51,378 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.20000000298023224
+2024-08-25 16:16:52,696 - DEBUG - Iter 65/500 - Loss: -0.294
+2024-08-25 16:16:54,011 - DEBUG - Iter 130/500 - Loss: -0.318
+2024-08-25 16:16:55,334 - DEBUG - Iter 195/500 - Loss: -0.399
+2024-08-25 16:16:56,660 - DEBUG - Iter 260/500 - Loss: -0.415
+2024-08-25 16:16:57,977 - DEBUG - Iter 325/500 - Loss: -0.419
+2024-08-25 16:16:59,298 - DEBUG - Iter 390/500 - Loss: -0.419
+2024-08-25 16:17:00,587 - DEBUG - Iter 455/500 - Loss: -0.420
+2024-08-25 16:17:01,627 - INFO - NLL: 17.2534; RMSE: 0.2962; NMSE: 1.4064
+2024-08-25 16:17:01,627 - INFO - Progress:152/200
+2024-08-25 16:17:01,627 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.20000000298023224
+2024-08-25 16:17:02,672 - DEBUG - Iter 55/500 - Loss: 0.546
+2024-08-25 16:17:03,716 - DEBUG - Iter 110/500 - Loss: -0.067
+2024-08-25 16:17:04,763 - DEBUG - Iter 165/500 - Loss: -0.245
+2024-08-25 16:17:05,814 - DEBUG - Iter 220/500 - Loss: -0.267
+2024-08-25 16:17:06,862 - DEBUG - Iter 275/500 - Loss: -0.272
+2024-08-25 16:17:07,908 - DEBUG - Iter 330/500 - Loss: -0.273
+2024-08-25 16:17:08,950 - DEBUG - Iter 385/500 - Loss: -0.273
+2024-08-25 16:17:08,950 - INFO - Early cut off at epoch 384 with loss of -0.2731216251850128
+2024-08-25 16:17:09,136 - INFO - NLL: 32421.1777; RMSE: 0.3024; NMSE: 1.4357
+2024-08-25 16:17:09,136 - INFO - Progress:153/200
+2024-08-25 16:17:09,136 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.20000000298023224
+2024-08-25 16:17:12,048 - DEBUG - Iter 155/500 - Loss: -0.699
+2024-08-25 16:17:14,962 - DEBUG - Iter 310/500 - Loss: -0.841
+2024-08-25 16:17:17,870 - DEBUG - Iter 465/500 - Loss: -0.860
+2024-08-25 16:17:18,712 - INFO - NLL: 45638.1641; RMSE: 0.3021; NMSE: 1.4346
+2024-08-25 16:17:18,712 - INFO - Progress:154/200
+2024-08-25 16:17:18,712 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.20000000298023224
+2024-08-25 16:17:20,594 - DEBUG - Iter 100/500 - Loss: -0.377
+2024-08-25 16:17:22,474 - DEBUG - Iter 200/500 - Loss: -1.114
+2024-08-25 16:17:24,339 - DEBUG - Iter 300/500 - Loss: -1.196
+2024-08-25 16:17:26,207 - DEBUG - Iter 400/500 - Loss: -1.200
+2024-08-25 16:17:28,081 - DEBUG - Iter 500/500 - Loss: -1.200
+2024-08-25 16:17:28,081 - INFO - Early cut off at epoch 499 with loss of -1.2002427577972412
+2024-08-25 16:17:28,266 - INFO - NLL: 0.2395; RMSE: 0.3010; NMSE: 1.4291
+2024-08-25 16:17:28,266 - INFO - Progress:155/200
+2024-08-25 16:17:28,266 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.3500000238418579
+2024-08-25 16:17:28,490 - DEBUG - Iter 10/500 - Loss: 0.261
+2024-08-25 16:17:28,684 - DEBUG - Iter 20/500 - Loss: -0.456
+2024-08-25 16:17:28,874 - DEBUG - Iter 30/500 - Loss: -0.767
+2024-08-25 16:17:29,062 - DEBUG - Iter 40/500 - Loss: -0.891
+2024-08-25 16:17:29,249 - DEBUG - Iter 50/500 - Loss: -0.928
+2024-08-25 16:17:29,438 - DEBUG - Iter 60/500 - Loss: -0.942
+2024-08-25 16:17:29,628 - DEBUG - Iter 70/500 - Loss: -0.945
+2024-08-25 16:17:29,817 - DEBUG - Iter 80/500 - Loss: -0.946
+2024-08-25 16:17:29,818 - INFO - Early cut off at epoch 79 with loss of -0.9457093477249146
+2024-08-25 16:17:30,005 - INFO - NLL: -0.6085; RMSE: 0.2304; NMSE: 1.0940
+2024-08-25 16:17:30,006 - INFO - Progress:156/200
+2024-08-25 16:17:30,006 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.3500000238418579
+2024-08-25 16:17:31,231 - DEBUG - Iter 65/500 - Loss: 0.344
+2024-08-25 16:17:32,458 - DEBUG - Iter 130/500 - Loss: -0.307
+2024-08-25 16:17:33,681 - DEBUG - Iter 195/500 - Loss: -0.579
+2024-08-25 16:17:34,902 - DEBUG - Iter 260/500 - Loss: -0.648
+2024-08-25 16:17:36,118 - DEBUG - Iter 325/500 - Loss: -0.666
+2024-08-25 16:17:37,348 - DEBUG - Iter 390/500 - Loss: -0.670
+2024-08-25 16:17:38,572 - DEBUG - Iter 455/500 - Loss: -0.671
+2024-08-25 16:17:39,601 - INFO - NLL: 43711.5391; RMSE: 0.2957; NMSE: 1.4040
+2024-08-25 16:17:39,602 - INFO - Progress:157/200
+2024-08-25 16:17:39,602 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.3500000238418579
+2024-08-25 16:17:40,635 - DEBUG - Iter 55/500 - Loss: 0.025
+2024-08-25 16:17:41,670 - DEBUG - Iter 110/500 - Loss: -0.052
+2024-08-25 16:17:42,701 - DEBUG - Iter 165/500 - Loss: -0.358
+2024-08-25 16:17:43,734 - DEBUG - Iter 220/500 - Loss: -0.433
+2024-08-25 16:17:44,773 - DEBUG - Iter 275/500 - Loss: -0.461
+2024-08-25 16:17:45,811 - DEBUG - Iter 330/500 - Loss: -0.471
+2024-08-25 16:17:46,846 - DEBUG - Iter 385/500 - Loss: -0.475
+2024-08-25 16:17:47,879 - DEBUG - Iter 440/500 - Loss: -0.476
+2024-08-25 16:17:48,914 - DEBUG - Iter 495/500 - Loss: -0.477
+2024-08-25 16:17:48,914 - INFO - Early cut off at epoch 494 with loss of -0.4768981635570526
+2024-08-25 16:17:49,099 - INFO - NLL: 29859.9062; RMSE: 0.3014; NMSE: 1.4311
+2024-08-25 16:17:49,099 - INFO - Progress:158/200
+2024-08-25 16:17:49,100 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.3500000238418579
+2024-08-25 16:17:52,017 - DEBUG - Iter 155/500 - Loss: -0.139
+2024-08-25 16:17:54,931 - DEBUG - Iter 310/500 - Loss: -0.409
+2024-08-25 16:17:57,841 - DEBUG - Iter 465/500 - Loss: -0.508
+2024-08-25 16:17:58,684 - INFO - NLL: 45673.0508; RMSE: 0.3023; NMSE: 1.4351
+2024-08-25 16:17:58,685 - INFO - Progress:159/200
+2024-08-25 16:17:58,685 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.3500000238418579
+2024-08-25 16:18:00,567 - DEBUG - Iter 100/500 - Loss: 0.056
+2024-08-25 16:18:02,447 - DEBUG - Iter 200/500 - Loss: -0.101
+2024-08-25 16:18:04,328 - DEBUG - Iter 300/500 - Loss: -0.317
+2024-08-25 16:18:06,211 - DEBUG - Iter 400/500 - Loss: -0.368
+2024-08-25 16:18:08,090 - DEBUG - Iter 500/500 - Loss: -0.381
+2024-08-25 16:18:08,274 - INFO - NLL: 45759.8203; RMSE: 0.3025; NMSE: 1.4365
+2024-08-25 16:18:08,274 - INFO - Progress:160/200
+2024-08-25 16:18:08,275 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.5
+2024-08-25 16:18:08,463 - DEBUG - Iter 10/500 - Loss: 0.337
+2024-08-25 16:18:08,654 - DEBUG - Iter 20/500 - Loss: -0.298
+2024-08-25 16:18:08,844 - DEBUG - Iter 30/500 - Loss: -0.592
+2024-08-25 16:18:09,033 - DEBUG - Iter 40/500 - Loss: -0.898
+2024-08-25 16:18:09,220 - DEBUG - Iter 50/500 - Loss: -1.045
+2024-08-25 16:18:09,410 - DEBUG - Iter 60/500 - Loss: -1.086
+2024-08-25 16:18:09,599 - DEBUG - Iter 70/500 - Loss: -1.103
+2024-08-25 16:18:09,789 - DEBUG - Iter 80/500 - Loss: -1.111
+2024-08-25 16:18:09,977 - DEBUG - Iter 90/500 - Loss: -1.114
+2024-08-25 16:18:10,165 - DEBUG - Iter 100/500 - Loss: -1.116
+2024-08-25 16:18:10,165 - INFO - Early cut off at epoch 99 with loss of -1.1156524419784546
+2024-08-25 16:18:10,350 - INFO - NLL: -0.6327; RMSE: 0.2483; NMSE: 1.1791
+2024-08-25 16:18:10,350 - INFO - Progress:161/200
+2024-08-25 16:18:10,350 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.5
+2024-08-25 16:18:11,582 - DEBUG - Iter 65/500 - Loss: 0.175
+2024-08-25 16:18:12,813 - DEBUG - Iter 130/500 - Loss: -0.628
+2024-08-25 16:18:14,038 - DEBUG - Iter 195/500 - Loss: -0.960
+2024-08-25 16:18:15,264 - DEBUG - Iter 260/500 - Loss: -1.206
+2024-08-25 16:18:16,493 - DEBUG - Iter 325/500 - Loss: -1.211
+2024-08-25 16:18:17,715 - DEBUG - Iter 390/500 - Loss: -1.212
+2024-08-25 16:18:18,939 - DEBUG - Iter 455/500 - Loss: -1.212
+2024-08-25 16:18:19,971 - INFO - NLL: 0.1247; RMSE: 0.2998; NMSE: 1.4234
+2024-08-25 16:18:19,971 - INFO - Progress:162/200
+2024-08-25 16:18:19,971 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.5
+2024-08-25 16:18:21,022 - DEBUG - Iter 55/500 - Loss: 0.733
+2024-08-25 16:18:22,065 - DEBUG - Iter 110/500 - Loss: 0.234
+2024-08-25 16:18:23,101 - DEBUG - Iter 165/500 - Loss: 0.068
+2024-08-25 16:18:24,138 - DEBUG - Iter 220/500 - Loss: -0.057
+2024-08-25 16:18:25,178 - DEBUG - Iter 275/500 - Loss: -0.105
+2024-08-25 16:18:26,215 - DEBUG - Iter 330/500 - Loss: -0.131
+2024-08-25 16:18:27,252 - DEBUG - Iter 385/500 - Loss: -0.145
+2024-08-25 16:18:28,291 - DEBUG - Iter 440/500 - Loss: -0.154
+2024-08-25 16:18:29,330 - DEBUG - Iter 495/500 - Loss: -0.158
+2024-08-25 16:18:29,612 - INFO - NLL: 40224.6797; RMSE: 0.3040; NMSE: 1.4436
+2024-08-25 16:18:29,612 - INFO - Progress:163/200
+2024-08-25 16:18:29,612 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.5
+2024-08-25 16:18:32,538 - DEBUG - Iter 155/500 - Loss: -0.398
+2024-08-25 16:18:35,472 - DEBUG - Iter 310/500 - Loss: -0.656
+2024-08-25 16:18:38,401 - DEBUG - Iter 465/500 - Loss: -0.442
+2024-08-25 16:18:39,245 - INFO - NLL: 26898.5898; RMSE: 0.3020; NMSE: 1.4340
+2024-08-25 16:18:39,246 - INFO - Progress:164/200
+2024-08-25 16:18:39,246 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.5
+2024-08-25 16:18:41,122 - DEBUG - Iter 100/500 - Loss: -0.346
+2024-08-25 16:18:42,998 - DEBUG - Iter 200/500 - Loss: -1.162
+2024-08-25 16:18:44,874 - DEBUG - Iter 300/500 - Loss: -0.875
+2024-08-25 16:18:46,748 - DEBUG - Iter 400/500 - Loss: -0.942
+2024-08-25 16:18:48,624 - DEBUG - Iter 500/500 - Loss: -0.986
+2024-08-25 16:18:48,809 - INFO - NLL: 32880.7578; RMSE: 0.3017; NMSE: 1.4327
+2024-08-25 16:18:48,809 - INFO - Progress:165/200
+2024-08-25 16:18:48,809 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.6499999761581421
+2024-08-25 16:18:48,994 - DEBUG - Iter 10/500 - Loss: 0.438
+2024-08-25 16:18:49,181 - DEBUG - Iter 20/500 - Loss: 0.345
+2024-08-25 16:18:49,368 - DEBUG - Iter 30/500 - Loss: 0.016
+2024-08-25 16:18:49,558 - DEBUG - Iter 40/500 - Loss: -0.267
+2024-08-25 16:18:49,747 - DEBUG - Iter 50/500 - Loss: -0.435
+2024-08-25 16:18:49,936 - DEBUG - Iter 60/500 - Loss: -0.775
+2024-08-25 16:18:50,125 - DEBUG - Iter 70/500 - Loss: -0.959
+2024-08-25 16:18:50,313 - DEBUG - Iter 80/500 - Loss: -1.034
+2024-08-25 16:18:50,505 - DEBUG - Iter 90/500 - Loss: -1.080
+2024-08-25 16:18:50,694 - DEBUG - Iter 100/500 - Loss: -1.108
+2024-08-25 16:18:50,880 - DEBUG - Iter 110/500 - Loss: -1.123
+2024-08-25 16:18:51,068 - DEBUG - Iter 120/500 - Loss: -1.131
+2024-08-25 16:18:51,256 - DEBUG - Iter 130/500 - Loss: -1.136
+2024-08-25 16:18:51,446 - DEBUG - Iter 140/500 - Loss: -1.138
+2024-08-25 16:18:51,446 - INFO - Early cut off at epoch 139 with loss of -1.1383785009384155
+2024-08-25 16:18:51,631 - INFO - NLL: -0.3212; RMSE: 0.2708; NMSE: 1.2858
+2024-08-25 16:18:51,632 - INFO - Progress:166/200
+2024-08-25 16:18:51,632 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.6499999761581421
+2024-08-25 16:18:52,858 - DEBUG - Iter 65/500 - Loss: -0.305
+2024-08-25 16:18:54,085 - DEBUG - Iter 130/500 - Loss: -0.643
+2024-08-25 16:18:55,306 - DEBUG - Iter 195/500 - Loss: -0.563
+2024-08-25 16:18:56,527 - DEBUG - Iter 260/500 - Loss: -0.698
+2024-08-25 16:18:57,751 - DEBUG - Iter 325/500 - Loss: -0.848
+2024-08-25 16:18:58,978 - DEBUG - Iter 390/500 - Loss: -0.932
+2024-08-25 16:19:00,201 - DEBUG - Iter 455/500 - Loss: -0.888
+2024-08-25 16:19:01,234 - INFO - NLL: 1.3375; RMSE: 0.3055; NMSE: 1.4505
+2024-08-25 16:19:01,234 - INFO - Progress:167/200
+2024-08-25 16:19:01,234 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.6499999761581421
+2024-08-25 16:19:02,308 - DEBUG - Iter 55/500 - Loss: 0.249
+2024-08-25 16:19:03,348 - DEBUG - Iter 110/500 - Loss: -0.390
+2024-08-25 16:19:04,387 - DEBUG - Iter 165/500 - Loss: -0.492
+2024-08-25 16:19:05,428 - DEBUG - Iter 220/500 - Loss: -0.645
+2024-08-25 16:19:06,469 - DEBUG - Iter 275/500 - Loss: -0.718
+2024-08-25 16:19:07,507 - DEBUG - Iter 330/500 - Loss: -0.763
+2024-08-25 16:19:08,548 - DEBUG - Iter 385/500 - Loss: -0.807
+2024-08-25 16:19:09,584 - DEBUG - Iter 440/500 - Loss: -0.824
+2024-08-25 16:19:10,621 - DEBUG - Iter 495/500 - Loss: -0.839
+2024-08-25 16:19:10,903 - INFO - NLL: 36490.9141; RMSE: 0.3005; NMSE: 1.4270
+2024-08-25 16:19:10,903 - INFO - Progress:168/200
+2024-08-25 16:19:10,904 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.6499999761581421
+2024-08-25 16:19:13,835 - DEBUG - Iter 155/500 - Loss: -0.517
+2024-08-25 16:19:16,768 - DEBUG - Iter 310/500 - Loss: -0.305
+2024-08-25 16:19:19,689 - DEBUG - Iter 465/500 - Loss: -0.572
+2024-08-25 16:19:20,536 - INFO - NLL: 2.0345; RMSE: 0.3071; NMSE: 1.4583
+2024-08-25 16:19:20,536 - INFO - Progress:169/200
+2024-08-25 16:19:20,536 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.6499999761581421
+2024-08-25 16:19:22,428 - DEBUG - Iter 100/500 - Loss: -0.403
+2024-08-25 16:19:24,311 - DEBUG - Iter 200/500 - Loss: -0.376
+2024-08-25 16:19:26,201 - DEBUG - Iter 300/500 - Loss: -0.447
+2024-08-25 16:19:28,086 - DEBUG - Iter 400/500 - Loss: -0.581
+2024-08-25 16:19:29,962 - DEBUG - Iter 500/500 - Loss: -0.497
+2024-08-25 16:19:30,147 - INFO - NLL: 2.5183; RMSE: 0.3035; NMSE: 1.4410
+2024-08-25 16:19:30,147 - INFO - Progress:170/200
+2024-08-25 16:19:30,148 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:10.0; gamma:0.800000011920929
+2024-08-25 16:19:30,334 - DEBUG - Iter 10/500 - Loss: 0.310
+2024-08-25 16:19:30,524 - DEBUG - Iter 20/500 - Loss: 0.263
+2024-08-25 16:19:30,714 - DEBUG - Iter 30/500 - Loss: -0.060
+2024-08-25 16:19:30,905 - DEBUG - Iter 40/500 - Loss: -0.400
+2024-08-25 16:19:31,094 - DEBUG - Iter 50/500 - Loss: -0.735
+2024-08-25 16:19:31,282 - DEBUG - Iter 60/500 - Loss: -0.973
+2024-08-25 16:19:31,474 - DEBUG - Iter 70/500 - Loss: -1.081
+2024-08-25 16:19:31,665 - DEBUG - Iter 80/500 - Loss: -1.143
+2024-08-25 16:19:31,854 - DEBUG - Iter 90/500 - Loss: -1.183
+2024-08-25 16:19:32,044 - DEBUG - Iter 100/500 - Loss: -1.195
+2024-08-25 16:19:32,234 - DEBUG - Iter 110/500 - Loss: -1.205
+2024-08-25 16:19:32,422 - DEBUG - Iter 120/500 - Loss: -1.210
+2024-08-25 16:19:32,609 - DEBUG - Iter 130/500 - Loss: -1.213
+2024-08-25 16:19:32,609 - INFO - Early cut off at epoch 129 with loss of -1.2127526998519897
+2024-08-25 16:19:32,793 - INFO - NLL: -0.3757; RMSE: 0.2818; NMSE: 1.3379
+2024-08-25 16:19:32,794 - INFO - Progress:171/200
+2024-08-25 16:19:32,794 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:32.5; gamma:0.800000011920929
+2024-08-25 16:19:34,025 - DEBUG - Iter 65/500 - Loss: 0.042
+2024-08-25 16:19:35,256 - DEBUG - Iter 130/500 - Loss: -0.004
+2024-08-25 16:19:36,490 - DEBUG - Iter 195/500 - Loss: -0.499
+2024-08-25 16:19:37,719 - DEBUG - Iter 260/500 - Loss: -0.246
+2024-08-25 16:19:38,950 - DEBUG - Iter 325/500 - Loss: -0.639
+2024-08-25 16:19:40,185 - DEBUG - Iter 390/500 - Loss: -0.801
+2024-08-25 16:19:41,416 - DEBUG - Iter 455/500 - Loss: -0.870
+2024-08-25 16:19:42,451 - INFO - NLL: 45800.3711; RMSE: 0.3027; NMSE: 1.4371
+2024-08-25 16:19:42,452 - INFO - Progress:172/200
+2024-08-25 16:19:42,452 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:55.0; gamma:0.800000011920929
+2024-08-25 16:19:43,492 - DEBUG - Iter 55/500 - Loss: -0.045
+2024-08-25 16:19:44,538 - DEBUG - Iter 110/500 - Loss: -0.411
+2024-08-25 16:19:45,577 - DEBUG - Iter 165/500 - Loss: -0.199
+2024-08-25 16:19:46,615 - DEBUG - Iter 220/500 - Loss: -0.509
+2024-08-25 16:19:47,656 - DEBUG - Iter 275/500 - Loss: -0.593
+2024-08-25 16:19:48,699 - DEBUG - Iter 330/500 - Loss: -0.077
+2024-08-25 16:19:49,733 - DEBUG - Iter 385/500 - Loss: -0.156
+2024-08-25 16:19:50,765 - DEBUG - Iter 440/500 - Loss: -0.267
+2024-08-25 16:19:51,798 - DEBUG - Iter 495/500 - Loss: -0.390
+2024-08-25 16:19:52,078 - INFO - NLL: 25740.3086; RMSE: 0.2942; NMSE: 1.3969
+2024-08-25 16:19:52,079 - INFO - Progress:173/200
+2024-08-25 16:19:52,079 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:77.5; gamma:0.800000011920929
+2024-08-25 16:19:55,004 - DEBUG - Iter 155/500 - Loss: 0.183
+2024-08-25 16:19:57,932 - DEBUG - Iter 310/500 - Loss: -0.744
+2024-08-25 16:20:00,845 - DEBUG - Iter 465/500 - Loss: -0.812
+2024-08-25 16:20:01,690 - INFO - NLL: 37236.2188; RMSE: 0.3038; NMSE: 1.4425
+2024-08-25 16:20:01,691 - INFO - Progress:174/200
+2024-08-25 16:20:01,691 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.5198085904121399; step_size:100.0; gamma:0.800000011920929
+2024-08-25 16:20:03,569 - DEBUG - Iter 100/500 - Loss: -0.418
+2024-08-25 16:20:05,448 - DEBUG - Iter 200/500 - Loss: -0.212
+2024-08-25 16:20:07,325 - DEBUG - Iter 300/500 - Loss: -0.710
+2024-08-25 16:20:09,199 - DEBUG - Iter 400/500 - Loss: -0.809
+2024-08-25 16:20:11,069 - DEBUG - Iter 500/500 - Loss: -0.480
+2024-08-25 16:20:11,254 - INFO - NLL: 18265.0840; RMSE: 0.3034; NMSE: 1.4406
+2024-08-25 16:20:11,255 - INFO - Progress:175/200
+2024-08-25 16:20:11,255 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.20000000298023224
+2024-08-25 16:20:11,445 - DEBUG - Iter 10/500 - Loss: 0.823
+2024-08-25 16:20:11,635 - DEBUG - Iter 20/500 - Loss: 0.464
+2024-08-25 16:20:11,824 - DEBUG - Iter 30/500 - Loss: 0.192
+2024-08-25 16:20:12,013 - DEBUG - Iter 40/500 - Loss: 0.128
+2024-08-25 16:20:12,202 - DEBUG - Iter 50/500 - Loss: 0.114
+2024-08-25 16:20:12,391 - DEBUG - Iter 60/500 - Loss: 0.111
+2024-08-25 16:20:12,581 - DEBUG - Iter 70/500 - Loss: 0.110
+2024-08-25 16:20:12,769 - DEBUG - Iter 80/500 - Loss: 0.110
+2024-08-25 16:20:12,769 - INFO - Early cut off at epoch 79 with loss of 0.1100035309791565
+2024-08-25 16:20:12,954 - INFO - NLL: 1.7194; RMSE: 0.2341; NMSE: 1.1115
+2024-08-25 16:20:12,954 - INFO - Progress:176/200
+2024-08-25 16:20:12,954 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.20000000298023224
+2024-08-25 16:20:14,172 - DEBUG - Iter 65/500 - Loss: 0.064
+2024-08-25 16:20:15,392 - DEBUG - Iter 130/500 - Loss: -0.046
+2024-08-25 16:20:16,607 - DEBUG - Iter 195/500 - Loss: -0.071
+2024-08-25 16:20:17,819 - DEBUG - Iter 260/500 - Loss: -0.077
+2024-08-25 16:20:19,035 - DEBUG - Iter 325/500 - Loss: -0.078
+2024-08-25 16:20:20,251 - DEBUG - Iter 390/500 - Loss: -0.079
+2024-08-25 16:20:21,466 - DEBUG - Iter 455/500 - Loss: -0.079
+2024-08-25 16:20:22,495 - INFO - NLL: 44781.6523; RMSE: 0.2993; NMSE: 1.4211
+2024-08-25 16:20:22,496 - INFO - Progress:177/200
+2024-08-25 16:20:22,496 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.20000000298023224
+2024-08-25 16:20:23,529 - DEBUG - Iter 55/500 - Loss: -0.287
+2024-08-25 16:20:24,563 - DEBUG - Iter 110/500 - Loss: -0.693
+2024-08-25 16:20:25,595 - DEBUG - Iter 165/500 - Loss: -0.715
+2024-08-25 16:20:26,633 - DEBUG - Iter 220/500 - Loss: -0.716
+2024-08-25 16:20:26,633 - INFO - Early cut off at epoch 219 with loss of -0.716028094291687
+2024-08-25 16:20:26,817 - INFO - NLL: 44148.4141; RMSE: 0.2972; NMSE: 1.4110
+2024-08-25 16:20:26,818 - INFO - Progress:178/200
+2024-08-25 16:20:26,818 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.20000000298023224
+2024-08-25 16:20:29,709 - DEBUG - Iter 155/500 - Loss: -0.202
+2024-08-25 16:20:32,604 - DEBUG - Iter 310/500 - Loss: -0.812
+2024-08-25 16:20:35,491 - DEBUG - Iter 465/500 - Loss: -1.008
+2024-08-25 16:20:36,329 - INFO - NLL: 18869.5508; RMSE: 0.3083; NMSE: 1.4640
+2024-08-25 16:20:36,329 - INFO - Progress:179/200
+2024-08-25 16:20:36,329 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.20000000298023224
+2024-08-25 16:20:38,238 - DEBUG - Iter 100/500 - Loss: 0.092
+2024-08-25 16:20:40,116 - DEBUG - Iter 200/500 - Loss: -0.324
+2024-08-25 16:20:41,996 - DEBUG - Iter 300/500 - Loss: -0.477
+2024-08-25 16:20:43,873 - DEBUG - Iter 400/500 - Loss: -0.497
+2024-08-25 16:20:45,744 - DEBUG - Iter 500/500 - Loss: -0.502
+2024-08-25 16:20:45,932 - INFO - NLL: 48298.2578; RMSE: 0.3108; NMSE: 1.4758
+2024-08-25 16:20:45,932 - INFO - Progress:180/200
+2024-08-25 16:20:45,932 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.3500000238418579
+2024-08-25 16:20:46,122 - DEBUG - Iter 10/500 - Loss: 0.883
+2024-08-25 16:20:46,310 - DEBUG - Iter 20/500 - Loss: 0.523
+2024-08-25 16:20:46,497 - DEBUG - Iter 30/500 - Loss: 0.104
+2024-08-25 16:20:46,686 - DEBUG - Iter 40/500 - Loss: -0.150
+2024-08-25 16:20:46,875 - DEBUG - Iter 50/500 - Loss: -0.243
+2024-08-25 16:20:47,064 - DEBUG - Iter 60/500 - Loss: -0.275
+2024-08-25 16:20:47,252 - DEBUG - Iter 70/500 - Loss: -0.286
+2024-08-25 16:20:47,440 - DEBUG - Iter 80/500 - Loss: -0.290
+2024-08-25 16:20:47,628 - DEBUG - Iter 90/500 - Loss: -0.291
+2024-08-25 16:20:47,816 - DEBUG - Iter 100/500 - Loss: -0.292
+2024-08-25 16:20:47,816 - INFO - Early cut off at epoch 99 with loss of -0.291801780462265
+2024-08-25 16:20:48,000 - INFO - NLL: 1.3620; RMSE: 0.2536; NMSE: 1.2041
+2024-08-25 16:20:48,000 - INFO - Progress:181/200
+2024-08-25 16:20:48,000 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.3500000238418579
+2024-08-25 16:20:49,220 - DEBUG - Iter 65/500 - Loss: 0.076
+2024-08-25 16:20:50,443 - DEBUG - Iter 130/500 - Loss: -0.704
+2024-08-25 16:20:51,664 - DEBUG - Iter 195/500 - Loss: -0.583
+2024-08-25 16:20:52,881 - DEBUG - Iter 260/500 - Loss: -0.649
+2024-08-25 16:20:54,098 - DEBUG - Iter 325/500 - Loss: -0.680
+2024-08-25 16:20:55,308 - DEBUG - Iter 390/500 - Loss: -0.695
+2024-08-25 16:20:56,525 - DEBUG - Iter 455/500 - Loss: -0.702
+2024-08-25 16:20:57,550 - INFO - NLL: 1160.3180; RMSE: 0.3004; NMSE: 1.4264
+2024-08-25 16:20:57,550 - INFO - Progress:182/200
+2024-08-25 16:20:57,550 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.3500000238418579
+2024-08-25 16:20:58,584 - DEBUG - Iter 55/500 - Loss: 0.123
+2024-08-25 16:20:59,614 - DEBUG - Iter 110/500 - Loss: -0.378
+2024-08-25 16:21:00,649 - DEBUG - Iter 165/500 - Loss: -0.449
+2024-08-25 16:21:01,678 - DEBUG - Iter 220/500 - Loss: -0.483
+2024-08-25 16:21:02,707 - DEBUG - Iter 275/500 - Loss: -0.500
+2024-08-25 16:21:03,739 - DEBUG - Iter 330/500 - Loss: -0.507
+2024-08-25 16:21:04,768 - DEBUG - Iter 385/500 - Loss: -0.510
+2024-08-25 16:21:05,857 - DEBUG - Iter 440/500 - Loss: -0.511
+2024-08-25 16:21:06,876 - DEBUG - Iter 495/500 - Loss: -0.511
+2024-08-25 16:21:06,876 - INFO - Early cut off at epoch 494 with loss of -0.5114501714706421
+2024-08-25 16:21:07,059 - INFO - NLL: 44296.5938; RMSE: 0.2977; NMSE: 1.4133
+2024-08-25 16:21:07,059 - INFO - Progress:183/200
+2024-08-25 16:21:07,060 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.3500000238418579
+2024-08-25 16:21:09,954 - DEBUG - Iter 155/500 - Loss: -0.206
+2024-08-25 16:21:12,848 - DEBUG - Iter 310/500 - Loss: -0.415
+2024-08-25 16:21:15,725 - DEBUG - Iter 465/500 - Loss: -0.444
+2024-08-25 16:21:16,567 - INFO - NLL: 46468.0703; RMSE: 0.3049; NMSE: 1.4476
+2024-08-25 16:21:16,567 - INFO - Progress:184/200
+2024-08-25 16:21:16,567 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.3500000238418579
+2024-08-25 16:21:18,438 - DEBUG - Iter 100/500 - Loss: -0.118
+2024-08-25 16:21:20,300 - DEBUG - Iter 200/500 - Loss: -0.719
+2024-08-25 16:21:22,168 - DEBUG - Iter 300/500 - Loss: -1.064
+2024-08-25 16:21:24,039 - DEBUG - Iter 400/500 - Loss: -1.111
+2024-08-25 16:21:25,909 - DEBUG - Iter 500/500 - Loss: -1.126
+2024-08-25 16:21:26,095 - INFO - NLL: 0.6314; RMSE: 0.3073; NMSE: 1.4589
+2024-08-25 16:21:26,095 - INFO - Progress:185/200
+2024-08-25 16:21:26,095 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.5
+2024-08-25 16:21:26,283 - DEBUG - Iter 10/500 - Loss: 0.930
+2024-08-25 16:21:26,470 - DEBUG - Iter 20/500 - Loss: 0.451
+2024-08-25 16:21:26,658 - DEBUG - Iter 30/500 - Loss: -0.023
+2024-08-25 16:21:26,846 - DEBUG - Iter 40/500 - Loss: -0.262
+2024-08-25 16:21:27,035 - DEBUG - Iter 50/500 - Loss: -0.390
+2024-08-25 16:21:27,223 - DEBUG - Iter 60/500 - Loss: -0.448
+2024-08-25 16:21:27,410 - DEBUG - Iter 70/500 - Loss: -0.483
+2024-08-25 16:21:27,597 - DEBUG - Iter 80/500 - Loss: -0.501
+2024-08-25 16:21:27,786 - DEBUG - Iter 90/500 - Loss: -0.511
+2024-08-25 16:21:27,974 - DEBUG - Iter 100/500 - Loss: -0.516
+2024-08-25 16:21:28,162 - DEBUG - Iter 110/500 - Loss: -0.518
+2024-08-25 16:21:28,350 - DEBUG - Iter 120/500 - Loss: -0.519
+2024-08-25 16:21:28,351 - INFO - Early cut off at epoch 119 with loss of -0.5192410349845886
+2024-08-25 16:21:28,535 - INFO - NLL: 1.7876; RMSE: 0.2622; NMSE: 1.2451
+2024-08-25 16:21:28,535 - INFO - Progress:186/200
+2024-08-25 16:21:28,535 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.5
+2024-08-25 16:21:29,750 - DEBUG - Iter 65/500 - Loss: -0.019
+2024-08-25 16:21:30,961 - DEBUG - Iter 130/500 - Loss: -0.126
+2024-08-25 16:21:32,167 - DEBUG - Iter 195/500 - Loss: -0.538
+2024-08-25 16:21:33,371 - DEBUG - Iter 260/500 - Loss: -0.790
+2024-08-25 16:21:34,576 - DEBUG - Iter 325/500 - Loss: -0.939
+2024-08-25 16:21:35,784 - DEBUG - Iter 390/500 - Loss: -0.966
+2024-08-25 16:21:36,992 - DEBUG - Iter 455/500 - Loss: -0.979
+2024-08-25 16:21:38,014 - INFO - NLL: 36843.2695; RMSE: 0.3020; NMSE: 1.4341
+2024-08-25 16:21:38,015 - INFO - Progress:187/200
+2024-08-25 16:21:38,015 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.5
+2024-08-25 16:21:39,044 - DEBUG - Iter 55/500 - Loss: -0.149
+2024-08-25 16:21:40,081 - DEBUG - Iter 110/500 - Loss: -0.209
+2024-08-25 16:21:41,112 - DEBUG - Iter 165/500 - Loss: -0.585
+2024-08-25 16:21:42,139 - DEBUG - Iter 220/500 - Loss: -0.749
+2024-08-25 16:21:43,160 - DEBUG - Iter 275/500 - Loss: -0.836
+2024-08-25 16:21:44,188 - DEBUG - Iter 330/500 - Loss: -0.850
+2024-08-25 16:21:45,220 - DEBUG - Iter 385/500 - Loss: -0.857
+2024-08-25 16:21:46,249 - DEBUG - Iter 440/500 - Loss: -0.860
+2024-08-25 16:21:47,284 - DEBUG - Iter 495/500 - Loss: -0.863
+2024-08-25 16:21:47,564 - INFO - NLL: 14815.7246; RMSE: 0.2990; NMSE: 1.4199
+2024-08-25 16:21:47,564 - INFO - Progress:188/200
+2024-08-25 16:21:47,564 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.5
+2024-08-25 16:21:50,460 - DEBUG - Iter 155/500 - Loss: -0.139
+2024-08-25 16:21:53,363 - DEBUG - Iter 310/500 - Loss: -0.382
+2024-08-25 16:21:56,265 - DEBUG - Iter 465/500 - Loss: -0.198
+2024-08-25 16:21:57,107 - INFO - NLL: 46332.1133; RMSE: 0.3044; NMSE: 1.4454
+2024-08-25 16:21:57,107 - INFO - Progress:189/200
+2024-08-25 16:21:57,107 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.5
+2024-08-25 16:21:58,977 - DEBUG - Iter 100/500 - Loss: -0.274
+2024-08-25 16:22:00,845 - DEBUG - Iter 200/500 - Loss: -0.245
+2024-08-25 16:22:02,733 - DEBUG - Iter 300/500 - Loss: -0.739
+2024-08-25 16:22:04,601 - DEBUG - Iter 400/500 - Loss: -0.776
+2024-08-25 16:22:06,467 - DEBUG - Iter 500/500 - Loss: -0.805
+2024-08-25 16:22:06,652 - INFO - NLL: 46064.7930; RMSE: 0.3035; NMSE: 1.4413
+2024-08-25 16:22:06,652 - INFO - Progress:190/200
+2024-08-25 16:22:06,652 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.6499999761581421
+2024-08-25 16:22:06,851 - DEBUG - Iter 10/500 - Loss: 0.686
+2024-08-25 16:22:07,045 - DEBUG - Iter 20/500 - Loss: 0.610
+2024-08-25 16:22:07,233 - DEBUG - Iter 30/500 - Loss: 0.109
+2024-08-25 16:22:07,421 - DEBUG - Iter 40/500 - Loss: -0.213
+2024-08-25 16:22:07,610 - DEBUG - Iter 50/500 - Loss: -0.451
+2024-08-25 16:22:07,799 - DEBUG - Iter 60/500 - Loss: -0.573
+2024-08-25 16:22:07,988 - DEBUG - Iter 70/500 - Loss: -0.641
+2024-08-25 16:22:08,176 - DEBUG - Iter 80/500 - Loss: -0.686
+2024-08-25 16:22:08,365 - DEBUG - Iter 90/500 - Loss: -0.709
+2024-08-25 16:22:08,552 - DEBUG - Iter 100/500 - Loss: -0.720
+2024-08-25 16:22:08,739 - DEBUG - Iter 110/500 - Loss: -0.725
+2024-08-25 16:22:08,926 - DEBUG - Iter 120/500 - Loss: -0.728
+2024-08-25 16:22:09,113 - DEBUG - Iter 130/500 - Loss: -0.730
+2024-08-25 16:22:09,114 - INFO - Early cut off at epoch 129 with loss of -0.7301592230796814
+2024-08-25 16:22:09,301 - INFO - NLL: 39931.6641; RMSE: 0.2826; NMSE: 1.3419
+2024-08-25 16:22:09,301 - INFO - Progress:191/200
+2024-08-25 16:22:09,301 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.6499999761581421
+2024-08-25 16:22:10,565 - DEBUG - Iter 65/500 - Loss: 0.494
+2024-08-25 16:22:11,782 - DEBUG - Iter 130/500 - Loss: 0.168
+2024-08-25 16:22:12,998 - DEBUG - Iter 195/500 - Loss: 0.010
+2024-08-25 16:22:14,220 - DEBUG - Iter 260/500 - Loss: -0.105
+2024-08-25 16:22:15,433 - DEBUG - Iter 325/500 - Loss: -0.230
+2024-08-25 16:22:16,649 - DEBUG - Iter 390/500 - Loss: -0.326
+2024-08-25 16:22:17,871 - DEBUG - Iter 455/500 - Loss: -0.374
+2024-08-25 16:22:18,904 - INFO - NLL: 44811.0664; RMSE: 0.2994; NMSE: 1.4216
+2024-08-25 16:22:18,905 - INFO - Progress:192/200
+2024-08-25 16:22:18,905 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.6499999761581421
+2024-08-25 16:22:19,938 - DEBUG - Iter 55/500 - Loss: 0.198
+2024-08-25 16:22:20,972 - DEBUG - Iter 110/500 - Loss: -0.041
+2024-08-25 16:22:22,005 - DEBUG - Iter 165/500 - Loss: -0.044
+2024-08-25 16:22:23,032 - DEBUG - Iter 220/500 - Loss: -0.125
+2024-08-25 16:22:24,071 - DEBUG - Iter 275/500 - Loss: -0.191
+2024-08-25 16:22:25,101 - DEBUG - Iter 330/500 - Loss: -0.240
+2024-08-25 16:22:26,130 - DEBUG - Iter 385/500 - Loss: -0.277
+2024-08-25 16:22:27,162 - DEBUG - Iter 440/500 - Loss: -0.306
+2024-08-25 16:22:28,196 - DEBUG - Iter 495/500 - Loss: -0.328
+2024-08-25 16:22:28,477 - INFO - NLL: 45254.1367; RMSE: 0.3009; NMSE: 1.4286
+2024-08-25 16:22:28,478 - INFO - Progress:193/200
+2024-08-25 16:22:28,478 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.6499999761581421
+2024-08-25 16:22:31,386 - DEBUG - Iter 155/500 - Loss: -0.241
+2024-08-25 16:22:34,290 - DEBUG - Iter 310/500 - Loss: -0.035
+2024-08-25 16:22:37,191 - DEBUG - Iter 465/500 - Loss: -0.309
+2024-08-25 16:22:38,035 - INFO - NLL: 3.0875; RMSE: 0.2973; NMSE: 1.4114
+2024-08-25 16:22:38,036 - INFO - Progress:194/200
+2024-08-25 16:22:38,036 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.6499999761581421
+2024-08-25 16:22:39,911 - DEBUG - Iter 100/500 - Loss: -0.071
+2024-08-25 16:22:41,792 - DEBUG - Iter 200/500 - Loss: -0.177
+2024-08-25 16:22:43,667 - DEBUG - Iter 300/500 - Loss: -0.722
+2024-08-25 16:22:45,548 - DEBUG - Iter 400/500 - Loss: -1.042
+2024-08-25 16:22:47,423 - DEBUG - Iter 500/500 - Loss: -1.131
+2024-08-25 16:22:47,610 - INFO - NLL: 0.9507; RMSE: 0.3043; NMSE: 1.4446
+2024-08-25 16:22:47,610 - INFO - Progress:195/200
+2024-08-25 16:22:47,610 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:10.0; gamma:0.800000011920929
+2024-08-25 16:22:47,800 - DEBUG - Iter 10/500 - Loss: 0.812
+2024-08-25 16:22:47,988 - DEBUG - Iter 20/500 - Loss: 0.699
+2024-08-25 16:22:48,177 - DEBUG - Iter 30/500 - Loss: 0.393
+2024-08-25 16:22:48,367 - DEBUG - Iter 40/500 - Loss: 0.158
+2024-08-25 16:22:48,557 - DEBUG - Iter 50/500 - Loss: 0.091
+2024-08-25 16:22:48,745 - DEBUG - Iter 60/500 - Loss: -0.167
+2024-08-25 16:22:48,934 - DEBUG - Iter 70/500 - Loss: -0.278
+2024-08-25 16:22:49,124 - DEBUG - Iter 80/500 - Loss: -0.539
+2024-08-25 16:22:49,313 - DEBUG - Iter 90/500 - Loss: -0.700
+2024-08-25 16:22:49,503 - DEBUG - Iter 100/500 - Loss: -0.908
+2024-08-25 16:22:49,692 - DEBUG - Iter 110/500 - Loss: -0.983
+2024-08-25 16:22:49,881 - DEBUG - Iter 120/500 - Loss: -0.915
+2024-08-25 16:22:50,070 - DEBUG - Iter 130/500 - Loss: -1.038
+2024-08-25 16:22:50,257 - DEBUG - Iter 140/500 - Loss: -1.084
+2024-08-25 16:22:50,446 - DEBUG - Iter 150/500 - Loss: -1.112
+2024-08-25 16:22:50,633 - DEBUG - Iter 160/500 - Loss: -1.126
+2024-08-25 16:22:50,821 - DEBUG - Iter 170/500 - Loss: -1.138
+2024-08-25 16:22:51,011 - DEBUG - Iter 180/500 - Loss: -1.148
+2024-08-25 16:22:51,198 - DEBUG - Iter 190/500 - Loss: -1.156
+2024-08-25 16:22:51,387 - DEBUG - Iter 200/500 - Loss: -1.163
+2024-08-25 16:22:51,574 - DEBUG - Iter 210/500 - Loss: -1.168
+2024-08-25 16:22:51,761 - DEBUG - Iter 220/500 - Loss: -1.173
+2024-08-25 16:22:51,951 - DEBUG - Iter 230/500 - Loss: -1.176
+2024-08-25 16:22:52,140 - DEBUG - Iter 240/500 - Loss: -1.179
+2024-08-25 16:22:52,329 - DEBUG - Iter 250/500 - Loss: -1.181
+2024-08-25 16:22:52,329 - INFO - Early cut off at epoch 249 with loss of -1.1813781261444092
+2024-08-25 16:22:52,515 - INFO - NLL: -0.0028; RMSE: 0.3001; NMSE: 1.4248
+2024-08-25 16:22:52,515 - INFO - Progress:196/200
+2024-08-25 16:22:52,516 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:32.5; gamma:0.800000011920929
+2024-08-25 16:22:53,739 - DEBUG - Iter 65/500 - Loss: 0.175
+2024-08-25 16:22:54,958 - DEBUG - Iter 130/500 - Loss: -0.084
+2024-08-25 16:22:56,183 - DEBUG - Iter 195/500 - Loss: -0.372
+2024-08-25 16:22:57,400 - DEBUG - Iter 260/500 - Loss: -0.511
+2024-08-25 16:22:58,622 - DEBUG - Iter 325/500 - Loss: -0.512
+2024-08-25 16:22:59,839 - DEBUG - Iter 390/500 - Loss: -0.305
+2024-08-25 16:23:01,050 - DEBUG - Iter 455/500 - Loss: -0.616
+2024-08-25 16:23:02,081 - INFO - NLL: 46248.4453; RMSE: 0.3042; NMSE: 1.4441
+2024-08-25 16:23:02,081 - INFO - Progress:197/200
+2024-08-25 16:23:02,082 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:55.0; gamma:0.800000011920929
+2024-08-25 16:23:03,112 - DEBUG - Iter 55/500 - Loss: -0.267
+2024-08-25 16:23:04,134 - DEBUG - Iter 110/500 - Loss: -0.508
+2024-08-25 16:23:05,162 - DEBUG - Iter 165/500 - Loss: -0.537
+2024-08-25 16:23:06,191 - DEBUG - Iter 220/500 - Loss: -0.819
+2024-08-25 16:23:07,225 - DEBUG - Iter 275/500 - Loss: -0.304
+2024-08-25 16:23:08,257 - DEBUG - Iter 330/500 - Loss: -0.346
+2024-08-25 16:23:09,283 - DEBUG - Iter 385/500 - Loss: -0.286
+2024-08-25 16:23:10,313 - DEBUG - Iter 440/500 - Loss: -0.648
+2024-08-25 16:23:11,347 - DEBUG - Iter 495/500 - Loss: -0.868
+2024-08-25 16:23:11,627 - INFO - NLL: 1.9793; RMSE: 0.3030; NMSE: 1.4388
+2024-08-25 16:23:11,627 - INFO - Progress:198/200
+2024-08-25 16:23:11,627 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:77.5; gamma:0.800000011920929
+2024-08-25 16:23:14,532 - DEBUG - Iter 155/500 - Loss: -0.627
+2024-08-25 16:23:17,430 - DEBUG - Iter 310/500 - Loss: -0.648
+2024-08-25 16:23:20,326 - DEBUG - Iter 465/500 - Loss: -0.857
+2024-08-25 16:23:21,172 - INFO - NLL: 1.6806; RMSE: 0.3069; NMSE: 1.4572
+2024-08-25 16:23:21,173 - INFO - Progress:199/200
+2024-08-25 16:23:21,173 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.6907755732536316; step_size:100.0; gamma:0.800000011920929
+2024-08-25 16:23:23,043 - DEBUG - Iter 100/500 - Loss: 0.184
+2024-08-25 16:23:24,919 - DEBUG - Iter 200/500 - Loss: -0.239
+2024-08-25 16:23:26,791 - DEBUG - Iter 300/500 - Loss: -0.162
+2024-08-25 16:23:28,661 - DEBUG - Iter 400/500 - Loss: -0.275
+2024-08-25 16:23:30,528 - DEBUG - Iter 500/500 - Loss: -0.533
+2024-08-25 16:23:30,713 - INFO - NLL: 2.7065; RMSE: 0.3033; NMSE: 1.4403
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.

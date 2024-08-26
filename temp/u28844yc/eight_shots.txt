@@ -1,0 +1,12 @@
+#!/bin/bash --login
+
+# SGE options (whose lines must begin with #$)
+#$ -cwd               # Run the job in the current directory
+
+module load apps/binapps/anaconda3/2023.09
+
+source activate test_env
+
+python mogp_transferable_gpytorch.py
+
+source deactivate test_env
