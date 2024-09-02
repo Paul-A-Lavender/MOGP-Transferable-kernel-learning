@@ -1,0 +1,887 @@
+2024-09-02 00:13:33,189 - INFO - FOLD 1
+2024-09-02 00:13:33,213 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:13:35,567 - DEBUG - Iter 10/500 - Loss: 1.069
+2024-09-02 00:13:35,981 - DEBUG - Iter 20/500 - Loss: 0.253
+2024-09-02 00:13:36,377 - DEBUG - Iter 30/500 - Loss: -0.313
+2024-09-02 00:13:36,866 - DEBUG - Iter 40/500 - Loss: -0.598
+2024-09-02 00:13:37,258 - DEBUG - Iter 50/500 - Loss: -0.760
+2024-09-02 00:13:37,836 - DEBUG - Iter 60/500 - Loss: -0.872
+2024-09-02 00:13:38,619 - DEBUG - Iter 70/500 - Loss: -0.954
+2024-09-02 00:13:39,473 - DEBUG - Iter 80/500 - Loss: -1.014
+2024-09-02 00:13:40,382 - DEBUG - Iter 90/500 - Loss: -1.054
+2024-09-02 00:13:41,034 - DEBUG - Iter 100/500 - Loss: -1.079
+2024-09-02 00:13:41,059 - INFO - Early cut off at epoch 99 with loss of -1.0789599418640137
+2024-09-02 00:13:41,946 - INFO - NLL: -0.7837; RMSE: 0.2788; NMSE: 1.4097
+2024-09-02 00:13:41,962 - INFO - FOLD 2
+2024-09-02 00:13:42,003 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:13:42,932 - DEBUG - Iter 10/500 - Loss: 0.944
+2024-09-02 00:13:43,367 - DEBUG - Iter 20/500 - Loss: 0.223
+2024-09-02 00:13:43,866 - DEBUG - Iter 30/500 - Loss: -0.275
+2024-09-02 00:13:44,292 - DEBUG - Iter 40/500 - Loss: -0.547
+2024-09-02 00:13:44,738 - DEBUG - Iter 50/500 - Loss: -0.704
+2024-09-02 00:13:45,118 - DEBUG - Iter 60/500 - Loss: -0.812
+2024-09-02 00:13:45,510 - DEBUG - Iter 70/500 - Loss: -0.897
+2024-09-02 00:13:46,090 - DEBUG - Iter 80/500 - Loss: -0.960
+2024-09-02 00:13:46,485 - DEBUG - Iter 90/500 - Loss: -1.002
+2024-09-02 00:13:46,870 - DEBUG - Iter 100/500 - Loss: -1.031
+2024-09-02 00:13:47,283 - DEBUG - Iter 110/500 - Loss: -1.052
+2024-09-02 00:13:47,292 - INFO - Early cut off at epoch 109 with loss of -1.052012324333191
+2024-09-02 00:13:47,718 - INFO - NLL: -0.7167; RMSE: 0.2328; NMSE: 1.1102
+2024-09-02 00:13:47,741 - INFO - FOLD 3
+2024-09-02 00:13:47,760 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:13:48,140 - DEBUG - Iter 10/500 - Loss: 1.098
+2024-09-02 00:13:48,761 - DEBUG - Iter 20/500 - Loss: 0.305
+2024-09-02 00:13:49,322 - DEBUG - Iter 30/500 - Loss: -0.307
+2024-09-02 00:13:49,776 - DEBUG - Iter 40/500 - Loss: -0.613
+2024-09-02 00:13:50,436 - DEBUG - Iter 50/500 - Loss: -0.779
+2024-09-02 00:13:51,068 - DEBUG - Iter 60/500 - Loss: -0.891
+2024-09-02 00:13:51,503 - DEBUG - Iter 70/500 - Loss: -0.971
+2024-09-02 00:13:52,036 - DEBUG - Iter 80/500 - Loss: -1.029
+2024-09-02 00:13:52,615 - DEBUG - Iter 90/500 - Loss: -1.067
+2024-09-02 00:13:53,292 - DEBUG - Iter 100/500 - Loss: -1.091
+2024-09-02 00:13:53,295 - INFO - Early cut off at epoch 99 with loss of -1.0913567543029785
+2024-09-02 00:13:54,230 - INFO - NLL: -0.7679; RMSE: 0.2560; NMSE: 1.2300
+2024-09-02 00:13:54,239 - INFO - FOLD 4
+2024-09-02 00:13:54,260 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:13:54,932 - DEBUG - Iter 10/500 - Loss: 1.074
+2024-09-02 00:13:55,805 - DEBUG - Iter 20/500 - Loss: 0.235
+2024-09-02 00:13:56,831 - DEBUG - Iter 30/500 - Loss: -0.298
+2024-09-02 00:13:57,494 - DEBUG - Iter 40/500 - Loss: -0.596
+2024-09-02 00:13:57,896 - DEBUG - Iter 50/500 - Loss: -0.763
+2024-09-02 00:13:58,363 - DEBUG - Iter 60/500 - Loss: -0.877
+2024-09-02 00:13:58,816 - DEBUG - Iter 70/500 - Loss: -0.959
+2024-09-02 00:13:59,180 - DEBUG - Iter 80/500 - Loss: -1.017
+2024-09-02 00:13:59,583 - DEBUG - Iter 90/500 - Loss: -1.056
+2024-09-02 00:14:00,123 - DEBUG - Iter 100/500 - Loss: -1.082
+2024-09-02 00:14:00,596 - DEBUG - Iter 110/500 - Loss: -1.100
+2024-09-02 00:14:00,611 - INFO - Early cut off at epoch 109 with loss of -1.0999560356140137
+2024-09-02 00:14:01,088 - INFO - NLL: -0.7587; RMSE: 0.2383; NMSE: 1.1428
+2024-09-02 00:14:01,096 - INFO - FOLD 5
+2024-09-02 00:14:01,106 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:14:01,547 - DEBUG - Iter 10/500 - Loss: 1.025
+2024-09-02 00:14:01,768 - DEBUG - Iter 20/500 - Loss: 0.276
+2024-09-02 00:14:01,978 - DEBUG - Iter 30/500 - Loss: -0.315
+2024-09-02 00:14:02,190 - DEBUG - Iter 40/500 - Loss: -0.587
+2024-09-02 00:14:02,398 - DEBUG - Iter 50/500 - Loss: -0.740
+2024-09-02 00:14:02,616 - DEBUG - Iter 60/500 - Loss: -0.849
+2024-09-02 00:14:02,834 - DEBUG - Iter 70/500 - Loss: -0.929
+2024-09-02 00:14:03,042 - DEBUG - Iter 80/500 - Loss: -0.991
+2024-09-02 00:14:03,241 - DEBUG - Iter 90/500 - Loss: -1.030
+2024-09-02 00:14:03,457 - DEBUG - Iter 100/500 - Loss: -1.056
+2024-09-02 00:14:03,673 - DEBUG - Iter 110/500 - Loss: -1.075
+2024-09-02 00:14:03,677 - INFO - Early cut off at epoch 109 with loss of -1.0751091241836548
+2024-09-02 00:14:03,946 - INFO - NLL: -0.7613; RMSE: 0.2534; NMSE: 1.3003
+2024-09-02 00:14:03,951 - INFO - FOLD 6
+2024-09-02 00:14:03,964 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:14:04,177 - DEBUG - Iter 10/500 - Loss: 1.073
+2024-09-02 00:14:04,387 - DEBUG - Iter 20/500 - Loss: 0.173
+2024-09-02 00:14:04,616 - DEBUG - Iter 30/500 - Loss: -0.324
+2024-09-02 00:14:04,841 - DEBUG - Iter 40/500 - Loss: -0.608
+2024-09-02 00:14:05,051 - DEBUG - Iter 50/500 - Loss: -0.764
+2024-09-02 00:14:05,260 - DEBUG - Iter 60/500 - Loss: -0.872
+2024-09-02 00:14:05,477 - DEBUG - Iter 70/500 - Loss: -0.954
+2024-09-02 00:14:05,692 - DEBUG - Iter 80/500 - Loss: -1.012
+2024-09-02 00:14:05,920 - DEBUG - Iter 90/500 - Loss: -1.049
+2024-09-02 00:14:06,131 - DEBUG - Iter 100/500 - Loss: -1.074
+2024-09-02 00:14:06,135 - INFO - Early cut off at epoch 99 with loss of -1.0740371942520142
+2024-09-02 00:14:06,377 - INFO - NLL: -0.9009; RMSE: 0.1965; NMSE: 1.0178
+2024-09-02 00:14:06,381 - INFO - FOLD 7
+2024-09-02 00:14:06,394 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:14:06,627 - DEBUG - Iter 10/500 - Loss: 0.948
+2024-09-02 00:14:06,843 - DEBUG - Iter 20/500 - Loss: 0.182
+2024-09-02 00:14:07,064 - DEBUG - Iter 30/500 - Loss: -0.334
+2024-09-02 00:14:07,309 - DEBUG - Iter 40/500 - Loss: -0.623
+2024-09-02 00:14:07,641 - DEBUG - Iter 50/500 - Loss: -0.783
+2024-09-02 00:14:07,965 - DEBUG - Iter 60/500 - Loss: -0.894
+2024-09-02 00:14:08,271 - DEBUG - Iter 70/500 - Loss: -0.967
+2024-09-02 00:14:08,586 - DEBUG - Iter 80/500 - Loss: -1.021
+2024-09-02 00:14:08,902 - DEBUG - Iter 90/500 - Loss: -1.058
+2024-09-02 00:14:09,245 - DEBUG - Iter 100/500 - Loss: -1.084
+2024-09-02 00:14:09,572 - DEBUG - Iter 110/500 - Loss: -1.102
+2024-09-02 00:14:09,577 - INFO - Early cut off at epoch 109 with loss of -1.1020869016647339
+2024-09-02 00:14:09,960 - INFO - NLL: -0.8798; RMSE: 0.1973; NMSE: 0.9494
+2024-09-02 00:14:09,965 - INFO - FOLD 8
+2024-09-02 00:14:09,973 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:14:10,313 - DEBUG - Iter 10/500 - Loss: 1.118
+2024-09-02 00:14:10,613 - DEBUG - Iter 20/500 - Loss: 0.211
+2024-09-02 00:14:10,933 - DEBUG - Iter 30/500 - Loss: -0.340
+2024-09-02 00:14:11,221 - DEBUG - Iter 40/500 - Loss: -0.631
+2024-09-02 00:14:11,438 - DEBUG - Iter 50/500 - Loss: -0.781
+2024-09-02 00:14:11,649 - DEBUG - Iter 60/500 - Loss: -0.891
+2024-09-02 00:14:11,865 - DEBUG - Iter 70/500 - Loss: -0.967
+2024-09-02 00:14:12,081 - DEBUG - Iter 80/500 - Loss: -1.026
+2024-09-02 00:14:12,307 - DEBUG - Iter 90/500 - Loss: -1.063
+2024-09-02 00:14:12,535 - DEBUG - Iter 100/500 - Loss: -1.088
+2024-09-02 00:14:12,540 - INFO - Early cut off at epoch 99 with loss of -1.0879898071289062
+2024-09-02 00:14:12,793 - INFO - NLL: -0.8482; RMSE: 0.2196; NMSE: 1.1056
+2024-09-02 00:14:12,799 - INFO - FOLD 9
+2024-09-02 00:14:12,808 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:14:13,031 - DEBUG - Iter 10/500 - Loss: 1.039
+2024-09-02 00:14:13,253 - DEBUG - Iter 20/500 - Loss: 0.251
+2024-09-02 00:14:13,489 - DEBUG - Iter 30/500 - Loss: -0.313
+2024-09-02 00:14:13,694 - DEBUG - Iter 40/500 - Loss: -0.607
+2024-09-02 00:14:13,902 - DEBUG - Iter 50/500 - Loss: -0.764
+2024-09-02 00:14:14,115 - DEBUG - Iter 60/500 - Loss: -0.875
+2024-09-02 00:14:14,329 - DEBUG - Iter 70/500 - Loss: -0.960
+2024-09-02 00:14:14,549 - DEBUG - Iter 80/500 - Loss: -1.020
+2024-09-02 00:14:14,752 - DEBUG - Iter 90/500 - Loss: -1.059
+2024-09-02 00:14:14,964 - DEBUG - Iter 100/500 - Loss: -1.085
+2024-09-02 00:14:15,167 - DEBUG - Iter 110/500 - Loss: -1.104
+2024-09-02 00:14:15,172 - INFO - Early cut off at epoch 109 with loss of -1.1039273738861084
+2024-09-02 00:14:15,432 - INFO - NLL: -0.7924; RMSE: 0.2293; NMSE: 1.1152
+2024-09-02 00:14:15,439 - INFO - FOLD 10
+2024-09-02 00:14:15,452 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:14:15,663 - DEBUG - Iter 10/500 - Loss: 0.967
+2024-09-02 00:14:15,873 - DEBUG - Iter 20/500 - Loss: 0.178
+2024-09-02 00:14:16,073 - DEBUG - Iter 30/500 - Loss: -0.357
+2024-09-02 00:14:16,292 - DEBUG - Iter 40/500 - Loss: -0.636
+2024-09-02 00:14:16,513 - DEBUG - Iter 50/500 - Loss: -0.786
+2024-09-02 00:14:16,722 - DEBUG - Iter 60/500 - Loss: -0.885
+2024-09-02 00:14:16,941 - DEBUG - Iter 70/500 - Loss: -0.959
+2024-09-02 00:14:17,153 - DEBUG - Iter 80/500 - Loss: -1.013
+2024-09-02 00:14:17,373 - DEBUG - Iter 90/500 - Loss: -1.052
+2024-09-02 00:14:17,592 - DEBUG - Iter 100/500 - Loss: -1.079
+2024-09-02 00:14:17,802 - DEBUG - Iter 110/500 - Loss: -1.097
+2024-09-02 00:14:17,806 - INFO - Early cut off at epoch 109 with loss of -1.0971012115478516
+2024-09-02 00:14:18,085 - INFO - NLL: -0.7312; RMSE: 0.2523; NMSE: 1.1682
+2024-09-02 00:14:18,090 - INFO - FOLD 1
+2024-09-02 00:14:18,099 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:14:18,124 - DEBUG - Completed
+2024-09-02 00:14:23,200 - DEBUG - Iter 10/500 - Loss: 2.041
+2024-09-02 00:14:26,331 - DEBUG - Iter 20/500 - Loss: 1.069
+2024-09-02 00:14:28,506 - DEBUG - Iter 30/500 - Loss: 0.353
+2024-09-02 00:14:30,708 - DEBUG - Iter 40/500 - Loss: -0.148
+2024-09-02 00:14:32,856 - DEBUG - Iter 50/500 - Loss: -0.435
+2024-09-02 00:14:35,247 - DEBUG - Iter 60/500 - Loss: -0.590
+2024-09-02 00:14:38,208 - DEBUG - Iter 70/500 - Loss: -0.701
+2024-09-02 00:14:40,279 - DEBUG - Iter 80/500 - Loss: -0.775
+2024-09-02 00:14:42,362 - DEBUG - Iter 90/500 - Loss: -0.848
+2024-09-02 00:14:44,530 - DEBUG - Iter 100/500 - Loss: -0.903
+2024-09-02 00:14:46,660 - DEBUG - Iter 110/500 - Loss: -0.945
+2024-09-02 00:14:49,283 - DEBUG - Iter 120/500 - Loss: -0.959
+2024-09-02 00:14:49,287 - INFO - Early cut off at epoch 119 with loss of -0.9585632681846619
+2024-09-02 00:14:50,206 - INFO - NLL: -0.7537; RMSE: 0.2408; NMSE: 1.2177
+2024-09-02 00:14:50,211 - INFO - FOLD 2
+2024-09-02 00:14:50,228 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:14:50,250 - DEBUG - Completed
+2024-09-02 00:14:55,994 - DEBUG - Iter 10/500 - Loss: 1.967
+2024-09-02 00:14:59,392 - DEBUG - Iter 20/500 - Loss: 1.066
+2024-09-02 00:15:02,889 - DEBUG - Iter 30/500 - Loss: 0.375
+2024-09-02 00:15:06,276 - DEBUG - Iter 40/500 - Loss: -0.105
+2024-09-02 00:15:09,026 - DEBUG - Iter 50/500 - Loss: -0.371
+2024-09-02 00:15:11,803 - DEBUG - Iter 60/500 - Loss: -0.505
+2024-09-02 00:15:14,610 - DEBUG - Iter 70/500 - Loss: -0.624
+2024-09-02 00:15:18,472 - DEBUG - Iter 80/500 - Loss: -0.722
+2024-09-02 00:15:21,280 - DEBUG - Iter 90/500 - Loss: -0.771
+2024-09-02 00:15:24,026 - DEBUG - Iter 100/500 - Loss: -0.817
+2024-09-02 00:15:26,780 - DEBUG - Iter 110/500 - Loss: -0.884
+2024-09-02 00:15:30,123 - DEBUG - Iter 120/500 - Loss: -0.918
+2024-09-02 00:15:34,887 - DEBUG - Iter 130/500 - Loss: -0.940
+2024-09-02 00:15:37,631 - DEBUG - Iter 140/500 - Loss: -0.933
+2024-09-02 00:15:37,638 - INFO - Early cut off at epoch 139 with loss of -0.9327686429023743
+2024-09-02 00:15:37,882 - INFO - NLL: -0.8142; RMSE: 0.2046; NMSE: 0.9760
+2024-09-02 00:15:37,888 - INFO - FOLD 3
+2024-09-02 00:15:37,899 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:15:37,912 - DEBUG - Completed
+2024-09-02 00:15:44,027 - DEBUG - Iter 10/500 - Loss: 1.982
+2024-09-02 00:15:47,032 - DEBUG - Iter 20/500 - Loss: 1.008
+2024-09-02 00:15:49,348 - DEBUG - Iter 30/500 - Loss: 0.312
+2024-09-02 00:15:51,615 - DEBUG - Iter 40/500 - Loss: -0.148
+2024-09-02 00:15:54,010 - DEBUG - Iter 50/500 - Loss: -0.429
+2024-09-02 00:15:57,226 - DEBUG - Iter 60/500 - Loss: -0.601
+2024-09-02 00:16:00,179 - DEBUG - Iter 70/500 - Loss: -0.688
+2024-09-02 00:16:02,755 - DEBUG - Iter 80/500 - Loss: -0.781
+2024-09-02 00:16:05,703 - DEBUG - Iter 90/500 - Loss: -0.847
+2024-09-02 00:16:08,845 - DEBUG - Iter 100/500 - Loss: -0.877
+2024-09-02 00:16:14,195 - DEBUG - Iter 110/500 - Loss: -0.904
+2024-09-02 00:16:16,812 - DEBUG - Iter 120/500 - Loss: -0.935
+2024-09-02 00:16:19,388 - DEBUG - Iter 130/500 - Loss: -0.980
+2024-09-02 00:16:22,030 - DEBUG - Iter 140/500 - Loss: -1.011
+2024-09-02 00:16:25,130 - DEBUG - Iter 150/500 - Loss: -1.018
+2024-09-02 00:16:25,135 - INFO - Early cut off at epoch 149 with loss of -1.0184102058410645
+2024-09-02 00:16:25,911 - INFO - NLL: -0.7654; RMSE: 0.2331; NMSE: 1.1201
+2024-09-02 00:16:25,918 - INFO - FOLD 4
+2024-09-02 00:16:25,933 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:16:25,953 - DEBUG - Completed
+2024-09-02 00:16:31,278 - DEBUG - Iter 10/500 - Loss: 2.021
+2024-09-02 00:16:35,323 - DEBUG - Iter 20/500 - Loss: 1.045
+2024-09-02 00:16:40,616 - DEBUG - Iter 30/500 - Loss: 0.332
+2024-09-02 00:16:46,446 - DEBUG - Iter 40/500 - Loss: -0.152
+2024-09-02 00:16:53,661 - DEBUG - Iter 50/500 - Loss: -0.448
+2024-09-02 00:17:00,088 - DEBUG - Iter 60/500 - Loss: -0.568
+2024-09-02 00:17:07,009 - DEBUG - Iter 70/500 - Loss: -0.682
+2024-09-02 00:17:13,312 - DEBUG - Iter 80/500 - Loss: -0.761
+2024-09-02 00:17:20,065 - DEBUG - Iter 90/500 - Loss: -0.829
+2024-09-02 00:17:26,405 - DEBUG - Iter 100/500 - Loss: -0.870
+2024-09-02 00:17:32,945 - DEBUG - Iter 110/500 - Loss: -0.914
+2024-09-02 00:17:32,954 - INFO - Early cut off at epoch 109 with loss of -0.9138748645782471
+2024-09-02 00:17:34,069 - INFO - NLL: -0.6948; RMSE: 0.2286; NMSE: 1.0964
+2024-09-02 00:17:34,078 - INFO - FOLD 5
+2024-09-02 00:17:34,091 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:17:34,109 - DEBUG - Completed
+2024-09-02 00:17:40,242 - DEBUG - Iter 10/500 - Loss: 2.024
+2024-09-02 00:17:46,033 - DEBUG - Iter 20/500 - Loss: 1.077
+2024-09-02 00:17:51,045 - DEBUG - Iter 30/500 - Loss: 0.369
+2024-09-02 00:17:55,225 - DEBUG - Iter 40/500 - Loss: -0.104
+2024-09-02 00:17:59,803 - DEBUG - Iter 50/500 - Loss: -0.382
+2024-09-02 00:18:04,334 - DEBUG - Iter 60/500 - Loss: -0.537
+2024-09-02 00:18:08,643 - DEBUG - Iter 70/500 - Loss: -0.653
+2024-09-02 00:18:13,208 - DEBUG - Iter 80/500 - Loss: -0.740
+2024-09-02 00:18:17,740 - DEBUG - Iter 90/500 - Loss: -0.810
+2024-09-02 00:18:21,763 - DEBUG - Iter 100/500 - Loss: -0.839
+2024-09-02 00:18:21,767 - INFO - Early cut off at epoch 99 with loss of -0.8385939598083496
+2024-09-02 00:18:22,368 - INFO - NLL: -0.6935; RMSE: 0.2127; NMSE: 1.0915
+2024-09-02 00:18:22,373 - INFO - FOLD 6
+2024-09-02 00:18:22,386 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:18:22,401 - DEBUG - Completed
+2024-09-02 00:18:28,949 - DEBUG - Iter 10/500 - Loss: 2.019
+2024-09-02 00:18:34,111 - DEBUG - Iter 20/500 - Loss: 1.018
+2024-09-02 00:18:38,751 - DEBUG - Iter 30/500 - Loss: 0.301
+2024-09-02 00:18:44,018 - DEBUG - Iter 40/500 - Loss: -0.158
+2024-09-02 00:18:48,443 - DEBUG - Iter 50/500 - Loss: -0.419
+2024-09-02 00:18:52,849 - DEBUG - Iter 60/500 - Loss: -0.565
+2024-09-02 00:18:57,757 - DEBUG - Iter 70/500 - Loss: -0.690
+2024-09-02 00:19:01,975 - DEBUG - Iter 80/500 - Loss: -0.744
+2024-09-02 00:19:06,370 - DEBUG - Iter 90/500 - Loss: -0.830
+2024-09-02 00:19:11,195 - DEBUG - Iter 100/500 - Loss: -0.842
+2024-09-02 00:19:11,200 - INFO - Early cut off at epoch 99 with loss of -0.8421667218208313
+2024-09-02 00:19:11,898 - INFO - NLL: -0.8069; RMSE: 0.1761; NMSE: 0.9121
+2024-09-02 00:19:11,903 - INFO - FOLD 7
+2024-09-02 00:19:11,915 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:19:11,929 - DEBUG - Completed
+2024-09-02 00:19:17,774 - DEBUG - Iter 10/500 - Loss: 2.020
+2024-09-02 00:19:22,334 - DEBUG - Iter 20/500 - Loss: 1.006
+2024-09-02 00:19:25,538 - DEBUG - Iter 30/500 - Loss: 0.292
+2024-09-02 00:19:28,578 - DEBUG - Iter 40/500 - Loss: -0.184
+2024-09-02 00:19:31,547 - DEBUG - Iter 50/500 - Loss: -0.434
+2024-09-02 00:19:35,458 - DEBUG - Iter 60/500 - Loss: -0.601
+2024-09-02 00:19:38,314 - DEBUG - Iter 70/500 - Loss: -0.707
+2024-09-02 00:19:41,167 - DEBUG - Iter 80/500 - Loss: -0.751
+2024-09-02 00:19:44,071 - DEBUG - Iter 90/500 - Loss: -0.835
+2024-09-02 00:19:47,631 - DEBUG - Iter 100/500 - Loss: -0.900
+2024-09-02 00:19:50,774 - DEBUG - Iter 110/500 - Loss: -0.935
+2024-09-02 00:19:53,690 - DEBUG - Iter 120/500 - Loss: -0.947
+2024-09-02 00:19:53,695 - INFO - Early cut off at epoch 119 with loss of -0.9468947052955627
+2024-09-02 00:19:54,240 - INFO - NLL: -0.8276; RMSE: 0.1965; NMSE: 0.9453
+2024-09-02 00:19:54,245 - INFO - FOLD 8
+2024-09-02 00:19:54,257 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:19:54,272 - DEBUG - Completed
+2024-09-02 00:20:00,724 - DEBUG - Iter 10/500 - Loss: 1.964
+2024-09-02 00:20:06,167 - DEBUG - Iter 20/500 - Loss: 0.948
+2024-09-02 00:20:11,024 - DEBUG - Iter 30/500 - Loss: 0.261
+2024-09-02 00:20:16,223 - DEBUG - Iter 40/500 - Loss: -0.190
+2024-09-02 00:20:20,533 - DEBUG - Iter 50/500 - Loss: -0.416
+2024-09-02 00:20:24,448 - DEBUG - Iter 60/500 - Loss: -0.585
+2024-09-02 00:20:28,985 - DEBUG - Iter 70/500 - Loss: -0.667
+2024-09-02 00:20:32,864 - DEBUG - Iter 80/500 - Loss: -0.771
+2024-09-02 00:20:36,815 - DEBUG - Iter 90/500 - Loss: -0.808
+2024-09-02 00:20:36,822 - INFO - Early cut off at epoch 89 with loss of -0.808326005935669
+2024-09-02 00:20:37,562 - INFO - NLL: -0.6827; RMSE: 0.2013; NMSE: 1.0135
+2024-09-02 00:20:37,567 - INFO - FOLD 9
+2024-09-02 00:20:37,579 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:20:37,593 - DEBUG - Completed
+2024-09-02 00:20:43,588 - DEBUG - Iter 10/500 - Loss: 2.022
+2024-09-02 00:20:46,523 - DEBUG - Iter 20/500 - Loss: 1.101
+2024-09-02 00:20:49,108 - DEBUG - Iter 30/500 - Loss: 0.425
+2024-09-02 00:20:51,789 - DEBUG - Iter 40/500 - Loss: -0.050
+2024-09-02 00:20:55,348 - DEBUG - Iter 50/500 - Loss: -0.350
+2024-09-02 00:20:57,798 - DEBUG - Iter 60/500 - Loss: -0.522
+2024-09-02 00:21:00,267 - DEBUG - Iter 70/500 - Loss: -0.654
+2024-09-02 00:21:02,724 - DEBUG - Iter 80/500 - Loss: -0.727
+2024-09-02 00:21:05,761 - DEBUG - Iter 90/500 - Loss: -0.788
+2024-09-02 00:21:09,410 - DEBUG - Iter 100/500 - Loss: -0.825
+2024-09-02 00:21:09,420 - INFO - Early cut off at epoch 99 with loss of -0.8254538774490356
+2024-09-02 00:21:10,038 - INFO - NLL: -0.5428; RMSE: 0.2387; NMSE: 1.1612
+2024-09-02 00:21:10,043 - INFO - FOLD 10
+2024-09-02 00:21:10,057 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:10; gamma:0.8
+2024-09-02 00:21:10,073 - DEBUG - Completed
+2024-09-02 00:21:15,515 - DEBUG - Iter 10/500 - Loss: 1.976
+2024-09-02 00:21:18,146 - DEBUG - Iter 20/500 - Loss: 1.008
+2024-09-02 00:21:21,358 - DEBUG - Iter 30/500 - Loss: 0.286
+2024-09-02 00:21:23,476 - DEBUG - Iter 40/500 - Loss: -0.191
+2024-09-02 00:21:25,619 - DEBUG - Iter 50/500 - Loss: -0.468
+2024-09-02 00:21:27,721 - DEBUG - Iter 60/500 - Loss: -0.620
+2024-09-02 00:21:29,813 - DEBUG - Iter 70/500 - Loss: -0.729
+2024-09-02 00:21:32,182 - DEBUG - Iter 80/500 - Loss: -0.809
+2024-09-02 00:21:35,055 - DEBUG - Iter 90/500 - Loss: -0.859
+2024-09-02 00:21:37,190 - DEBUG - Iter 100/500 - Loss: -0.898
+2024-09-02 00:21:39,287 - DEBUG - Iter 110/500 - Loss: -0.936
+2024-09-02 00:21:41,383 - DEBUG - Iter 120/500 - Loss: -0.969
+2024-09-02 00:21:43,489 - DEBUG - Iter 130/500 - Loss: -0.993
+2024-09-02 00:21:43,495 - INFO - Early cut off at epoch 129 with loss of -0.9930703639984131
+2024-09-02 00:21:43,953 - INFO - NLL: -0.6176; RMSE: 0.2454; NMSE: 1.1361
+2024-09-02 00:21:43,961 - INFO - FOLD 1
+2024-09-02 00:21:43,972 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:55; gamma:0.65
+2024-09-02 00:21:45,590 - DEBUG - Iter 55/500 - Loss: -0.798
+2024-09-02 00:21:47,471 - DEBUG - Iter 110/500 - Loss: -1.079
+2024-09-02 00:21:48,883 - DEBUG - Iter 165/500 - Loss: -1.232
+2024-09-02 00:21:50,127 - DEBUG - Iter 220/500 - Loss: -1.257
+2024-09-02 00:21:50,131 - INFO - Early cut off at epoch 219 with loss of -1.2565547227859497
+2024-09-02 00:21:50,357 - INFO - NLL: -0.9207; RMSE: 0.2724; NMSE: 1.3774
+2024-09-02 00:21:50,363 - INFO - FOLD 2
+2024-09-02 00:21:50,375 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:55; gamma:0.65
+2024-09-02 00:21:51,661 - DEBUG - Iter 55/500 - Loss: -0.608
+2024-09-02 00:21:52,915 - DEBUG - Iter 110/500 - Loss: -1.047
+2024-09-02 00:21:54,185 - DEBUG - Iter 165/500 - Loss: -1.240
+2024-09-02 00:21:55,444 - DEBUG - Iter 220/500 - Loss: -1.280
+2024-09-02 00:21:55,450 - INFO - Early cut off at epoch 219 with loss of -1.2803457975387573
+2024-09-02 00:21:55,661 - INFO - NLL: -1.0834; RMSE: 0.2059; NMSE: 0.9819
+2024-09-02 00:21:55,665 - INFO - FOLD 3
+2024-09-02 00:21:55,676 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:55; gamma:0.65
+2024-09-02 00:21:56,924 - DEBUG - Iter 55/500 - Loss: -0.391
+2024-09-02 00:21:58,245 - DEBUG - Iter 110/500 - Loss: -1.187
+2024-09-02 00:22:00,097 - DEBUG - Iter 165/500 - Loss: -1.274
+2024-09-02 00:22:01,831 - DEBUG - Iter 220/500 - Loss: -1.283
+2024-09-02 00:22:01,835 - INFO - Early cut off at epoch 219 with loss of -1.282711148262024
+2024-09-02 00:22:02,070 - INFO - NLL: -0.8923; RMSE: 0.2395; NMSE: 1.1509
+2024-09-02 00:22:02,074 - INFO - FOLD 4
+2024-09-02 00:22:02,087 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:55; gamma:0.65
+2024-09-02 00:22:03,365 - DEBUG - Iter 55/500 - Loss: -0.555
+2024-09-02 00:22:04,617 - DEBUG - Iter 110/500 - Loss: -1.236
+2024-09-02 00:22:05,890 - DEBUG - Iter 165/500 - Loss: -1.261
+2024-09-02 00:22:05,895 - INFO - Early cut off at epoch 164 with loss of -1.2612985372543335
+2024-09-02 00:22:06,118 - INFO - NLL: -0.8756; RMSE: 0.2430; NMSE: 1.1653
+2024-09-02 00:22:06,126 - INFO - FOLD 5
+2024-09-02 00:22:06,136 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:55; gamma:0.65
+2024-09-02 00:22:07,398 - DEBUG - Iter 55/500 - Loss: -0.416
+2024-09-02 00:22:08,631 - DEBUG - Iter 110/500 - Loss: -1.190
+2024-09-02 00:22:09,858 - DEBUG - Iter 165/500 - Loss: -1.237
+2024-09-02 00:22:09,863 - INFO - Early cut off at epoch 164 with loss of -1.2366827726364136
+2024-09-02 00:22:10,138 - INFO - NLL: -0.9066; RMSE: 0.2548; NMSE: 1.3080
+2024-09-02 00:22:10,142 - INFO - FOLD 6
+2024-09-02 00:22:10,154 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:55; gamma:0.65
+2024-09-02 00:22:11,433 - DEBUG - Iter 55/500 - Loss: -0.497
+2024-09-02 00:22:13,228 - DEBUG - Iter 110/500 - Loss: -1.123
+2024-09-02 00:22:15,104 - DEBUG - Iter 165/500 - Loss: -1.239
+2024-09-02 00:22:16,352 - DEBUG - Iter 220/500 - Loss: -1.262
+2024-09-02 00:22:16,360 - INFO - Early cut off at epoch 219 with loss of -1.2615971565246582
+2024-09-02 00:22:16,644 - INFO - NLL: -1.0668; RMSE: 0.2014; NMSE: 1.0434
+2024-09-02 00:22:16,648 - INFO - FOLD 7
+2024-09-02 00:22:16,661 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:55; gamma:0.65
+2024-09-02 00:22:17,952 - DEBUG - Iter 55/500 - Loss: -0.557
+2024-09-02 00:22:19,214 - DEBUG - Iter 110/500 - Loss: -1.230
+2024-09-02 00:22:20,467 - DEBUG - Iter 165/500 - Loss: -1.280
+2024-09-02 00:22:21,744 - DEBUG - Iter 220/500 - Loss: -1.299
+2024-09-02 00:22:21,749 - INFO - Early cut off at epoch 219 with loss of -1.2985104322433472
+2024-09-02 00:22:21,997 - INFO - NLL: -1.0937; RMSE: 0.2011; NMSE: 0.9675
+2024-09-02 00:22:22,002 - INFO - FOLD 8
+2024-09-02 00:22:22,018 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:55; gamma:0.65
+2024-09-02 00:22:23,323 - DEBUG - Iter 55/500 - Loss: -0.757
+2024-09-02 00:22:24,567 - DEBUG - Iter 110/500 - Loss: -1.149
+2024-09-02 00:22:26,176 - DEBUG - Iter 165/500 - Loss: -1.183
+2024-09-02 00:22:28,064 - DEBUG - Iter 220/500 - Loss: -1.267
+2024-09-02 00:22:29,360 - DEBUG - Iter 275/500 - Loss: -1.276
+2024-09-02 00:22:29,366 - INFO - Early cut off at epoch 274 with loss of -1.276377558708191
+2024-09-02 00:22:29,628 - INFO - NLL: -1.0437; RMSE: 0.2093; NMSE: 1.0538
+2024-09-02 00:22:29,632 - INFO - FOLD 9
+2024-09-02 00:22:29,644 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:55; gamma:0.65
+2024-09-02 00:22:30,907 - DEBUG - Iter 55/500 - Loss: -0.667
+2024-09-02 00:22:32,139 - DEBUG - Iter 110/500 - Loss: -1.197
+2024-09-02 00:22:33,396 - DEBUG - Iter 165/500 - Loss: -1.281
+2024-09-02 00:22:34,687 - DEBUG - Iter 220/500 - Loss: -1.287
+2024-09-02 00:22:34,691 - INFO - Early cut off at epoch 219 with loss of -1.2872666120529175
+2024-09-02 00:22:34,953 - INFO - NLL: -0.8158; RMSE: 0.2364; NMSE: 1.1498
+2024-09-02 00:22:34,957 - INFO - FOLD 10
+2024-09-02 00:22:34,965 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:55; gamma:0.65
+2024-09-02 00:22:36,240 - DEBUG - Iter 55/500 - Loss: -0.724
+2024-09-02 00:22:37,499 - DEBUG - Iter 110/500 - Loss: -1.075
+2024-09-02 00:22:39,056 - DEBUG - Iter 165/500 - Loss: -1.222
+2024-09-02 00:22:40,896 - DEBUG - Iter 220/500 - Loss: -1.288
+2024-09-02 00:22:42,406 - DEBUG - Iter 275/500 - Loss: -1.294
+2024-09-02 00:22:42,411 - INFO - Early cut off at epoch 274 with loss of -1.2940568923950195
+2024-09-02 00:22:42,683 - INFO - NLL: -0.8052; RMSE: 0.2518; NMSE: 1.1658
+2024-09-02 00:22:42,688 - INFO - FOLD 1
+2024-09-02 00:22:42,699 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.35; step_size:10; gamma:0.5
+2024-09-02 00:22:42,719 - DEBUG - Completed
+2024-09-02 00:22:45,721 - DEBUG - Iter 10/500 - Loss: 0.418
+2024-09-02 00:22:48,517 - DEBUG - Iter 20/500 - Loss: -0.471
+2024-09-02 00:22:51,055 - DEBUG - Iter 30/500 - Loss: -0.763
+2024-09-02 00:23:01,140 - DEBUG - Iter 40/500 - Loss: -0.299
+2024-09-02 00:23:03,391 - DEBUG - Iter 50/500 - Loss: 0.240
+2024-09-02 00:23:05,877 - DEBUG - Iter 60/500 - Loss: 0.343
+2024-09-02 00:23:08,985 - DEBUG - Iter 70/500 - Loss: 0.360
+2024-09-02 00:23:11,206 - DEBUG - Iter 80/500 - Loss: 0.352
+2024-09-02 00:23:11,211 - INFO - Early cut off at epoch 79 with loss of 0.3523923456668854
+2024-09-02 00:23:14,537 - INFO - NLL: 39603.3359; RMSE: 292.9123; NMSE: 1481.0445
+2024-09-02 00:23:14,544 - INFO - FOLD 2
+2024-09-02 00:23:14,556 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.35; step_size:10; gamma:0.5
+2024-09-02 00:23:14,573 - DEBUG - Completed
+2024-09-02 00:23:17,614 - DEBUG - Iter 10/500 - Loss: 0.393
+2024-09-02 00:23:21,345 - DEBUG - Iter 20/500 - Loss: -0.461
+2024-09-02 00:23:24,014 - DEBUG - Iter 30/500 - Loss: -0.761
+2024-09-02 00:23:26,556 - DEBUG - Iter 40/500 - Loss: -0.875
+2024-09-02 00:23:37,378 - DEBUG - Iter 50/500 - Loss: -0.814
+2024-09-02 00:23:40,079 - DEBUG - Iter 60/500 - Loss: -0.417
+2024-09-02 00:23:42,662 - DEBUG - Iter 70/500 - Loss: -0.342
+2024-09-02 00:23:45,215 - DEBUG - Iter 80/500 - Loss: -0.311
+2024-09-02 00:23:48,986 - DEBUG - Iter 90/500 - Loss: -0.328
+2024-09-02 00:23:51,626 - DEBUG - Iter 100/500 - Loss: -0.309
+2024-09-02 00:23:54,218 - DEBUG - Iter 110/500 - Loss: -0.346
+2024-09-02 00:23:56,783 - DEBUG - Iter 120/500 - Loss: -0.319
+2024-09-02 00:23:56,788 - INFO - Early cut off at epoch 119 with loss of -0.3186470866203308
+2024-09-02 00:23:57,511 - INFO - NLL: -0.0911; RMSE: 0.2321; NMSE: 1.1073
+2024-09-02 00:23:57,518 - INFO - FOLD 3
+2024-09-02 00:23:57,532 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.35; step_size:10; gamma:0.5
+2024-09-02 00:23:57,551 - DEBUG - Completed
+2024-09-02 00:24:00,386 - DEBUG - Iter 10/500 - Loss: 0.390
+2024-09-02 00:24:03,297 - DEBUG - Iter 20/500 - Loss: -0.440
+2024-09-02 00:24:05,263 - DEBUG - Iter 30/500 - Loss: -0.747
+2024-09-02 00:24:07,262 - DEBUG - Iter 40/500 - Loss: -0.874
+2024-09-02 00:24:09,275 - DEBUG - Iter 50/500 - Loss: -0.926
+2024-09-02 00:24:11,339 - DEBUG - Iter 60/500 - Loss: -0.970
+2024-09-02 00:24:13,731 - DEBUG - Iter 70/500 - Loss: -0.980
+2024-09-02 00:24:13,735 - INFO - Early cut off at epoch 69 with loss of -0.9798229336738586
+2024-09-02 00:24:14,554 - INFO - NLL: -0.2363; RMSE: 0.2365; NMSE: 1.1366
+2024-09-02 00:24:14,564 - INFO - FOLD 4
+2024-09-02 00:24:14,576 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.35; step_size:10; gamma:0.5
+2024-09-02 00:24:14,597 - DEBUG - Completed
+2024-09-02 00:24:17,613 - DEBUG - Iter 10/500 - Loss: 0.398
+2024-09-02 00:24:19,899 - DEBUG - Iter 20/500 - Loss: -0.468
+2024-09-02 00:24:22,102 - DEBUG - Iter 30/500 - Loss: -0.751
+2024-09-02 00:24:24,247 - DEBUG - Iter 40/500 - Loss: -0.887
+2024-09-02 00:24:26,537 - DEBUG - Iter 50/500 - Loss: -0.961
+2024-09-02 00:24:29,587 - DEBUG - Iter 60/500 - Loss: -0.985
+2024-09-02 00:24:31,694 - DEBUG - Iter 70/500 - Loss: -1.010
+2024-09-02 00:24:33,832 - DEBUG - Iter 80/500 - Loss: -1.000
+2024-09-02 00:24:33,837 - INFO - Early cut off at epoch 79 with loss of -0.9996952414512634
+2024-09-02 00:24:34,390 - INFO - NLL: -0.5318; RMSE: 0.2271; NMSE: 1.0891
+2024-09-02 00:24:34,395 - INFO - FOLD 5
+2024-09-02 00:24:34,409 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.35; step_size:10; gamma:0.5
+2024-09-02 00:24:34,433 - DEBUG - Completed
+2024-09-02 00:24:37,805 - DEBUG - Iter 10/500 - Loss: 0.383
+2024-09-02 00:24:41,977 - DEBUG - Iter 20/500 - Loss: -0.484
+2024-09-02 00:24:45,071 - DEBUG - Iter 30/500 - Loss: -0.754
+2024-09-02 00:24:48,033 - DEBUG - Iter 40/500 - Loss: -0.856
+2024-09-02 00:24:50,813 - DEBUG - Iter 50/500 - Loss: -0.949
+2024-09-02 00:24:53,897 - DEBUG - Iter 60/500 - Loss: -0.968
+2024-09-02 00:24:57,421 - DEBUG - Iter 70/500 - Loss: -1.003
+2024-09-02 00:25:00,253 - DEBUG - Iter 80/500 - Loss: -1.007
+2024-09-02 00:25:03,041 - DEBUG - Iter 90/500 - Loss: -1.013
+2024-09-02 00:25:05,865 - DEBUG - Iter 100/500 - Loss: -1.009
+2024-09-02 00:25:05,871 - INFO - Early cut off at epoch 99 with loss of -1.0091801881790161
+2024-09-02 00:25:06,510 - INFO - NLL: -0.5380; RMSE: 0.2167; NMSE: 1.1125
+2024-09-02 00:25:06,516 - INFO - FOLD 6
+2024-09-02 00:25:06,528 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.35; step_size:10; gamma:0.5
+2024-09-02 00:25:06,552 - DEBUG - Completed
+2024-09-02 00:25:10,394 - DEBUG - Iter 10/500 - Loss: 0.390
+2024-09-02 00:25:13,254 - DEBUG - Iter 20/500 - Loss: -0.475
+2024-09-02 00:25:15,639 - DEBUG - Iter 30/500 - Loss: -0.724
+2024-09-02 00:25:17,894 - DEBUG - Iter 40/500 - Loss: -0.848
+2024-09-02 00:25:20,305 - DEBUG - Iter 50/500 - Loss: -0.915
+2024-09-02 00:25:23,566 - DEBUG - Iter 60/500 - Loss: -0.941
+2024-09-02 00:25:25,785 - DEBUG - Iter 70/500 - Loss: -0.957
+2024-09-02 00:25:25,790 - INFO - Early cut off at epoch 69 with loss of -0.9574899077415466
+2024-09-02 00:25:26,344 - INFO - NLL: -0.9083; RMSE: 0.1809; NMSE: 0.9370
+2024-09-02 00:25:26,352 - INFO - FOLD 7
+2024-09-02 00:25:26,366 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.35; step_size:10; gamma:0.5
+2024-09-02 00:25:26,383 - DEBUG - Completed
+2024-09-02 00:25:29,180 - DEBUG - Iter 10/500 - Loss: 0.384
+2024-09-02 00:25:31,749 - DEBUG - Iter 20/500 - Loss: -0.490
+2024-09-02 00:25:34,290 - DEBUG - Iter 30/500 - Loss: -0.764
+2024-09-02 00:25:37,375 - DEBUG - Iter 40/500 - Loss: -0.885
+2024-09-02 00:25:46,043 - DEBUG - Iter 50/500 - Loss: -0.805
+2024-09-02 00:25:49,058 - DEBUG - Iter 60/500 - Loss: -0.483
+2024-09-02 00:25:51,777 - DEBUG - Iter 70/500 - Loss: -0.383
+2024-09-02 00:25:54,146 - DEBUG - Iter 80/500 - Loss: -0.392
+2024-09-02 00:25:54,152 - INFO - Early cut off at epoch 79 with loss of -0.39215734601020813
+2024-09-02 00:25:54,815 - INFO - NLL: -0.1190; RMSE: 0.2064; NMSE: 0.9931
+2024-09-02 00:25:54,821 - INFO - FOLD 8
+2024-09-02 00:25:54,833 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.35; step_size:10; gamma:0.5
+2024-09-02 00:25:54,857 - DEBUG - Completed
+2024-09-02 00:25:57,948 - DEBUG - Iter 10/500 - Loss: 0.397
+2024-09-02 00:26:01,065 - DEBUG - Iter 20/500 - Loss: -0.468
+2024-09-02 00:26:04,572 - DEBUG - Iter 30/500 - Loss: -0.752
+2024-09-02 00:26:07,257 - DEBUG - Iter 40/500 - Loss: -0.885
+2024-09-02 00:26:09,957 - DEBUG - Iter 50/500 - Loss: -0.935
+2024-09-02 00:26:12,581 - DEBUG - Iter 60/500 - Loss: -0.982
+2024-09-02 00:26:15,923 - DEBUG - Iter 70/500 - Loss: -0.989
+2024-09-02 00:26:15,929 - INFO - Early cut off at epoch 69 with loss of -0.9893074631690979
+2024-09-02 00:26:16,807 - INFO - NLL: -0.7489; RMSE: 0.2015; NMSE: 1.0146
+2024-09-02 00:26:16,812 - INFO - FOLD 9
+2024-09-02 00:26:16,821 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.35; step_size:10; gamma:0.5
+2024-09-02 00:26:16,844 - DEBUG - Completed
+2024-09-02 00:26:19,777 - DEBUG - Iter 10/500 - Loss: 0.425
+2024-09-02 00:26:22,180 - DEBUG - Iter 20/500 - Loss: -0.479
+2024-09-02 00:26:24,402 - DEBUG - Iter 30/500 - Loss: -0.774
+2024-09-02 00:26:33,177 - DEBUG - Iter 40/500 - Loss: -0.244
+2024-09-02 00:26:35,663 - DEBUG - Iter 50/500 - Loss: 0.155
+2024-09-02 00:26:38,043 - DEBUG - Iter 60/500 - Loss: 0.211
+2024-09-02 00:26:40,645 - DEBUG - Iter 70/500 - Loss: 0.251
+2024-09-02 00:26:44,128 - DEBUG - Iter 80/500 - Loss: 0.243
+2024-09-02 00:26:46,617 - DEBUG - Iter 90/500 - Loss: 0.227
+2024-09-02 00:26:49,151 - DEBUG - Iter 100/500 - Loss: 0.239
+2024-09-02 00:26:51,599 - DEBUG - Iter 110/500 - Loss: 0.226
+2024-09-02 00:26:54,434 - DEBUG - Iter 120/500 - Loss: 0.237
+2024-09-02 00:26:54,438 - INFO - Early cut off at epoch 119 with loss of 0.2365894317626953
+2024-09-02 00:26:58,563 - INFO - NLL: 557644.2500; RMSE: 1027.7300; NMSE: 4999.2905
+2024-09-02 00:26:58,570 - INFO - FOLD 10
+2024-09-02 00:26:58,584 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.35; step_size:10; gamma:0.5
+2024-09-02 00:26:58,600 - DEBUG - Completed
+2024-09-02 00:27:01,330 - DEBUG - Iter 10/500 - Loss: 0.369
+2024-09-02 00:27:03,604 - DEBUG - Iter 20/500 - Loss: -0.478
+2024-09-02 00:27:05,771 - DEBUG - Iter 30/500 - Loss: -0.766
+2024-09-02 00:27:08,553 - DEBUG - Iter 40/500 - Loss: -0.901
+2024-09-02 00:27:11,381 - DEBUG - Iter 50/500 - Loss: -0.945
+2024-09-02 00:27:13,622 - DEBUG - Iter 60/500 - Loss: -0.990
+2024-09-02 00:27:15,886 - DEBUG - Iter 70/500 - Loss: -1.003
+2024-09-02 00:27:18,102 - DEBUG - Iter 80/500 - Loss: -1.010
+2024-09-02 00:27:18,106 - INFO - Early cut off at epoch 79 with loss of -1.0100795030593872
+2024-09-02 00:27:18,631 - INFO - NLL: -0.4507; RMSE: 0.2478; NMSE: 1.1473
+2024-09-02 00:27:18,637 - INFO - FOLD 1
+2024-09-02 00:27:18,649 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:100; gamma:0.5
+2024-09-02 00:27:27,085 - DEBUG - Iter 100/500 - Loss: 1.666
+2024-09-02 00:27:34,584 - DEBUG - Iter 200/500 - Loss: 0.890
+2024-09-02 00:27:42,424 - DEBUG - Iter 300/500 - Loss: 0.200
+2024-09-02 00:27:50,740 - DEBUG - Iter 400/500 - Loss: -0.524
+2024-09-02 00:27:58,056 - DEBUG - Iter 500/500 - Loss: -0.733
+2024-09-02 00:27:58,377 - INFO - NLL: 1.7419; RMSE: 0.5049; NMSE: 2.5528
+2024-09-02 00:27:58,384 - INFO - FOLD 2
+2024-09-02 00:27:58,397 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:100; gamma:0.5
+2024-09-02 00:28:06,827 - DEBUG - Iter 100/500 - Loss: 1.901
+2024-09-02 00:28:14,729 - DEBUG - Iter 200/500 - Loss: 1.535
+2024-09-02 00:28:22,734 - DEBUG - Iter 300/500 - Loss: 0.655
+2024-09-02 00:28:31,232 - DEBUG - Iter 400/500 - Loss: -0.141
+2024-09-02 00:28:38,629 - DEBUG - Iter 500/500 - Loss: -0.517
+2024-09-02 00:28:38,931 - INFO - NLL: 1.6406; RMSE: 0.2735; NMSE: 1.3047
+2024-09-02 00:28:38,938 - INFO - FOLD 3
+2024-09-02 00:28:38,950 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:100; gamma:0.5
+2024-09-02 00:28:47,188 - DEBUG - Iter 100/500 - Loss: 1.659
+2024-09-02 00:28:55,105 - DEBUG - Iter 200/500 - Loss: 0.517
+2024-09-02 00:29:02,565 - DEBUG - Iter 300/500 - Loss: -0.622
+2024-09-02 00:29:13,423 - DEBUG - Iter 400/500 - Loss: -0.285
+2024-09-02 00:29:21,386 - DEBUG - Iter 500/500 - Loss: -0.640
+2024-09-02 00:29:21,960 - INFO - NLL: 1.5893; RMSE: 0.2637; NMSE: 1.2670
+2024-09-02 00:29:21,966 - INFO - FOLD 4
+2024-09-02 00:29:21,977 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:100; gamma:0.5
+2024-09-02 00:29:29,995 - DEBUG - Iter 100/500 - Loss: 1.142
+2024-09-02 00:29:38,385 - DEBUG - Iter 200/500 - Loss: 0.613
+2024-09-02 00:29:45,774 - DEBUG - Iter 300/500 - Loss: 0.608
+2024-09-02 00:29:54,049 - DEBUG - Iter 400/500 - Loss: -0.012
+2024-09-02 00:30:01,904 - DEBUG - Iter 500/500 - Loss: -0.660
+2024-09-02 00:30:02,482 - INFO - NLL: 1.1362; RMSE: 0.2373; NMSE: 1.1382
+2024-09-02 00:30:02,489 - INFO - FOLD 5
+2024-09-02 00:30:02,500 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:100; gamma:0.5
+2024-09-02 00:30:10,141 - DEBUG - Iter 100/500 - Loss: 1.135
+2024-09-02 00:30:18,589 - DEBUG - Iter 200/500 - Loss: 0.870
+2024-09-02 00:30:26,030 - DEBUG - Iter 300/500 - Loss: -0.001
+2024-09-02 00:30:34,556 - DEBUG - Iter 400/500 - Loss: -0.464
+2024-09-02 00:30:42,699 - DEBUG - Iter 500/500 - Loss: -0.593
+2024-09-02 00:30:43,294 - INFO - NLL: 2.8690; RMSE: 0.2279; NMSE: 1.1698
+2024-09-02 00:30:43,300 - INFO - FOLD 6
+2024-09-02 00:30:43,316 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:100; gamma:0.5
+2024-09-02 00:30:50,915 - DEBUG - Iter 100/500 - Loss: 1.925
+2024-09-02 00:30:59,466 - DEBUG - Iter 200/500 - Loss: 0.587
+2024-09-02 00:31:07,016 - DEBUG - Iter 300/500 - Loss: -0.487
+2024-09-02 00:31:15,597 - DEBUG - Iter 400/500 - Loss: -1.242
+2024-09-02 00:31:24,299 - DEBUG - Iter 500/500 - Loss: -1.260
+2024-09-02 00:31:24,304 - INFO - Early cut off at epoch 499 with loss of -1.260317325592041
+2024-09-02 00:31:24,691 - INFO - NLL: -1.1963; RMSE: 0.1746; NMSE: 0.9043
+2024-09-02 00:31:24,696 - INFO - FOLD 7
+2024-09-02 00:31:24,713 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:100; gamma:0.5
+2024-09-02 00:31:32,330 - DEBUG - Iter 100/500 - Loss: 1.031
+2024-09-02 00:31:40,994 - DEBUG - Iter 200/500 - Loss: 1.066
+2024-09-02 00:31:48,919 - DEBUG - Iter 300/500 - Loss: -0.285
+2024-09-02 00:31:57,277 - DEBUG - Iter 400/500 - Loss: -1.096
+2024-09-02 00:32:05,852 - DEBUG - Iter 500/500 - Loss: -1.270
+2024-09-02 00:32:06,165 - INFO - NLL: -1.1253; RMSE: 0.1965; NMSE: 0.9454
+2024-09-02 00:32:06,170 - INFO - FOLD 8
+2024-09-02 00:32:06,179 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:100; gamma:0.5
+2024-09-02 00:32:13,689 - DEBUG - Iter 100/500 - Loss: 1.457
+2024-09-02 00:32:22,197 - DEBUG - Iter 200/500 - Loss: 0.671
+2024-09-02 00:32:30,652 - DEBUG - Iter 300/500 - Loss: 0.013
+2024-09-02 00:32:38,430 - DEBUG - Iter 400/500 - Loss: -0.433
+2024-09-02 00:32:47,054 - DEBUG - Iter 500/500 - Loss: -0.534
+2024-09-02 00:32:47,378 - INFO - NLL: 1.4533; RMSE: 0.3432; NMSE: 1.7282
+2024-09-02 00:32:47,382 - INFO - FOLD 9
+2024-09-02 00:32:47,395 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:100; gamma:0.5
+2024-09-02 00:32:55,068 - DEBUG - Iter 100/500 - Loss: 1.236
+2024-09-02 00:33:03,630 - DEBUG - Iter 200/500 - Loss: 1.406
+2024-09-02 00:33:12,124 - DEBUG - Iter 300/500 - Loss: 0.962
+2024-09-02 00:33:19,663 - DEBUG - Iter 400/500 - Loss: 0.700
+2024-09-02 00:33:28,279 - DEBUG - Iter 500/500 - Loss: 0.252
+2024-09-02 00:33:28,642 - INFO - NLL: 2.7687; RMSE: 0.7325; NMSE: 3.5633
+2024-09-02 00:33:28,646 - INFO - FOLD 10
+2024-09-02 00:33:28,657 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:100; gamma:0.5
+2024-09-02 00:33:36,796 - DEBUG - Iter 100/500 - Loss: 1.796
+2024-09-02 00:33:44,701 - DEBUG - Iter 200/500 - Loss: 0.761
+2024-09-02 00:33:53,271 - DEBUG - Iter 300/500 - Loss: -0.078
+2024-09-02 00:34:00,710 - DEBUG - Iter 400/500 - Loss: -0.339
+2024-09-02 00:34:09,287 - DEBUG - Iter 500/500 - Loss: -0.574
+2024-09-02 00:34:09,663 - INFO - NLL: 1.2798; RMSE: 0.5832; NMSE: 2.7004
+2024-09-02 00:34:09,669 - INFO - FOLD 1
+2024-09-02 00:34:09,677 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:33; gamma:0.2
+2024-09-02 00:34:09,713 - DEBUG - Completed
+2024-09-02 00:34:47,921 - DEBUG - Iter 33/500 - Loss: 1.204
+2024-09-02 00:35:25,629 - DEBUG - Iter 66/500 - Loss: -0.401
+2024-09-02 00:36:02,547 - DEBUG - Iter 99/500 - Loss: -0.632
+2024-09-02 00:36:39,520 - DEBUG - Iter 132/500 - Loss: -1.112
+2024-09-02 00:37:16,361 - DEBUG - Iter 165/500 - Loss: -1.275
+2024-09-02 00:37:53,842 - DEBUG - Iter 198/500 - Loss: -1.272
+2024-09-02 00:37:53,846 - INFO - Early cut off at epoch 197 with loss of -1.2717053890228271
+2024-09-02 00:37:55,340 - INFO - NLL: -1.0744; RMSE: 0.2335; NMSE: 1.1804
+2024-09-02 00:37:55,348 - INFO - FOLD 2
+2024-09-02 00:37:55,362 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:33; gamma:0.2
+2024-09-02 00:37:55,389 - DEBUG - Completed
+2024-09-02 00:38:35,637 - DEBUG - Iter 33/500 - Loss: 1.445
+2024-09-02 00:39:14,784 - DEBUG - Iter 66/500 - Loss: -0.415
+2024-09-02 00:39:54,284 - DEBUG - Iter 99/500 - Loss: -1.069
+2024-09-02 00:40:33,663 - DEBUG - Iter 132/500 - Loss: -1.246
+2024-09-02 00:41:13,022 - DEBUG - Iter 165/500 - Loss: -1.280
+2024-09-02 00:41:13,027 - INFO - Early cut off at epoch 164 with loss of -1.2796742916107178
+2024-09-02 00:41:14,515 - INFO - NLL: -1.1479; RMSE: 0.2041; NMSE: 0.9735
+2024-09-02 00:41:14,525 - INFO - FOLD 3
+2024-09-02 00:41:14,538 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:33; gamma:0.2
+2024-09-02 00:41:14,565 - DEBUG - Completed
+2024-09-02 00:41:53,027 - DEBUG - Iter 33/500 - Loss: 1.375
+2024-09-02 00:42:30,668 - DEBUG - Iter 66/500 - Loss: -0.250
+2024-09-02 00:43:07,592 - DEBUG - Iter 99/500 - Loss: -0.889
+2024-09-02 00:43:44,335 - DEBUG - Iter 132/500 - Loss: -1.250
+2024-09-02 00:44:22,024 - DEBUG - Iter 165/500 - Loss: -1.273
+2024-09-02 00:44:22,029 - INFO - Early cut off at epoch 164 with loss of -1.2731029987335205
+2024-09-02 00:44:23,529 - INFO - NLL: -1.0269; RMSE: 0.2335; NMSE: 1.1218
+2024-09-02 00:44:23,536 - INFO - FOLD 4
+2024-09-02 00:44:23,551 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:33; gamma:0.2
+2024-09-02 00:44:23,579 - DEBUG - Completed
+2024-09-02 00:45:03,642 - DEBUG - Iter 33/500 - Loss: 1.251
+2024-09-02 00:45:42,549 - DEBUG - Iter 66/500 - Loss: -0.247
+2024-09-02 00:46:21,271 - DEBUG - Iter 99/500 - Loss: -1.044
+2024-09-02 00:46:59,371 - DEBUG - Iter 132/500 - Loss: -1.280
+2024-09-02 00:47:37,850 - DEBUG - Iter 165/500 - Loss: -1.271
+2024-09-02 00:48:16,396 - DEBUG - Iter 198/500 - Loss: -1.282
+2024-09-02 00:48:16,401 - INFO - Early cut off at epoch 197 with loss of -1.2820223569869995
+2024-09-02 00:48:17,881 - INFO - NLL: -1.0289; RMSE: 0.2286; NMSE: 1.0962
+2024-09-02 00:48:17,889 - INFO - FOLD 5
+2024-09-02 00:48:17,902 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:33; gamma:0.2
+2024-09-02 00:48:17,931 - DEBUG - Completed
+2024-09-02 00:48:57,042 - DEBUG - Iter 33/500 - Loss: 1.364
+2024-09-02 00:49:36,443 - DEBUG - Iter 66/500 - Loss: -0.039
+2024-09-02 00:50:16,032 - DEBUG - Iter 99/500 - Loss: -0.832
+2024-09-02 00:50:55,662 - DEBUG - Iter 132/500 - Loss: -1.232
+2024-09-02 00:51:35,307 - DEBUG - Iter 165/500 - Loss: -1.290
+2024-09-02 00:52:14,962 - DEBUG - Iter 198/500 - Loss: -1.291
+2024-09-02 00:52:54,903 - DEBUG - Iter 231/500 - Loss: -1.305
+2024-09-02 00:53:35,627 - DEBUG - Iter 264/500 - Loss: -1.276
+2024-09-02 00:53:35,631 - INFO - Early cut off at epoch 263 with loss of -1.276042103767395
+2024-09-02 00:53:37,235 - INFO - NLL: -1.0803; RMSE: 0.2127; NMSE: 1.0916
+2024-09-02 00:53:37,247 - INFO - FOLD 6
+2024-09-02 00:53:37,260 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:33; gamma:0.2
+2024-09-02 00:53:37,290 - DEBUG - Completed
+2024-09-02 00:54:18,488 - DEBUG - Iter 33/500 - Loss: 1.503
+2024-09-02 00:54:59,247 - DEBUG - Iter 66/500 - Loss: -0.266
+2024-09-02 00:55:40,001 - DEBUG - Iter 99/500 - Loss: -1.065
+2024-09-02 00:56:20,398 - DEBUG - Iter 132/500 - Loss: -1.226
+2024-09-02 00:56:20,402 - INFO - Early cut off at epoch 131 with loss of -1.2258656024932861
+2024-09-02 00:56:22,037 - INFO - NLL: -1.1740; RMSE: 0.1741; NMSE: 0.9020
+2024-09-02 00:56:22,044 - INFO - FOLD 7
+2024-09-02 00:56:22,057 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:33; gamma:0.2
+2024-09-02 00:56:22,090 - DEBUG - Completed
+2024-09-02 00:57:04,271 - DEBUG - Iter 33/500 - Loss: 1.681
+2024-09-02 00:57:46,200 - DEBUG - Iter 66/500 - Loss: -0.252
+2024-09-02 00:58:26,470 - DEBUG - Iter 99/500 - Loss: -1.014
+2024-09-02 00:59:06,467 - DEBUG - Iter 132/500 - Loss: -1.209
+2024-09-02 00:59:06,471 - INFO - Early cut off at epoch 131 with loss of -1.2092115879058838
+2024-09-02 00:59:07,977 - INFO - NLL: -1.0922; RMSE: 0.1966; NMSE: 0.9457
+2024-09-02 00:59:07,985 - INFO - FOLD 8
+2024-09-02 00:59:08,000 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:33; gamma:0.2
+2024-09-02 00:59:08,027 - DEBUG - Completed
+2024-09-02 00:59:48,538 - DEBUG - Iter 33/500 - Loss: 1.286
+2024-09-02 01:00:28,838 - DEBUG - Iter 66/500 - Loss: -0.426
+2024-09-02 01:01:08,533 - DEBUG - Iter 99/500 - Loss: -0.965
+2024-09-02 01:01:48,870 - DEBUG - Iter 132/500 - Loss: -1.232
+2024-09-02 01:02:28,395 - DEBUG - Iter 165/500 - Loss: -1.300
+2024-09-02 01:03:07,307 - DEBUG - Iter 198/500 - Loss: -1.283
+2024-09-02 01:03:07,312 - INFO - Early cut off at epoch 197 with loss of -1.2833688259124756
+2024-09-02 01:03:08,791 - INFO - NLL: -1.0707; RMSE: 0.1975; NMSE: 0.9945
+2024-09-02 01:03:08,799 - INFO - FOLD 9
+2024-09-02 01:03:08,810 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:33; gamma:0.2
+2024-09-02 01:03:08,842 - DEBUG - Completed
+2024-09-02 01:03:49,227 - DEBUG - Iter 33/500 - Loss: 1.621
+2024-09-02 01:04:29,205 - DEBUG - Iter 66/500 - Loss: -0.284
+2024-09-02 01:05:08,570 - DEBUG - Iter 99/500 - Loss: -0.773
+2024-09-02 01:05:48,031 - DEBUG - Iter 132/500 - Loss: -1.024
+2024-09-02 01:06:27,210 - DEBUG - Iter 165/500 - Loss: -1.111
+2024-09-02 01:07:06,777 - DEBUG - Iter 198/500 - Loss: -1.144
+2024-09-02 01:07:06,784 - INFO - Early cut off at epoch 197 with loss of -1.1438286304473877
+2024-09-02 01:07:08,343 - INFO - NLL: -0.6936; RMSE: 0.2417; NMSE: 1.1758
+2024-09-02 01:07:08,351 - INFO - FOLD 10
+2024-09-02 01:07:08,365 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:33; gamma:0.2
+2024-09-02 01:07:08,398 - DEBUG - Completed
+2024-09-02 01:07:48,494 - DEBUG - Iter 33/500 - Loss: 1.574
+2024-09-02 01:08:28,688 - DEBUG - Iter 66/500 - Loss: -0.439
+2024-09-02 01:09:08,883 - DEBUG - Iter 99/500 - Loss: -0.877
+2024-09-02 01:09:08,887 - INFO - Early cut off at epoch 98 with loss of -0.8769523501396179
+2024-09-02 01:09:10,624 - INFO - NLL: -0.5477; RMSE: 0.2479; NMSE: 1.1479
+2024-09-02 01:09:10,645 - INFO - FOLD 1
+2024-09-02 01:09:10,670 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77; gamma:0.35
+2024-09-02 01:09:15,862 - DEBUG - Iter 77/500 - Loss: -0.962
+2024-09-02 01:09:21,468 - DEBUG - Iter 154/500 - Loss: -1.278
+2024-09-02 01:09:27,812 - DEBUG - Iter 231/500 - Loss: -1.286
+2024-09-02 01:09:27,816 - INFO - Early cut off at epoch 230 with loss of -1.2856621742248535
+2024-09-02 01:09:28,098 - INFO - NLL: -0.9229; RMSE: 0.2399; NMSE: 1.2129
+2024-09-02 01:09:28,102 - INFO - FOLD 2
+2024-09-02 01:09:28,116 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77; gamma:0.35
+2024-09-02 01:09:32,446 - DEBUG - Iter 77/500 - Loss: -0.863
+2024-09-02 01:09:38,193 - DEBUG - Iter 154/500 - Loss: -1.274
+2024-09-02 01:09:44,060 - DEBUG - Iter 231/500 - Loss: -1.284
+2024-09-02 01:09:44,064 - INFO - Early cut off at epoch 230 with loss of -1.2838808298110962
+2024-09-02 01:09:44,369 - INFO - NLL: -1.1459; RMSE: 0.2034; NMSE: 0.9699
+2024-09-02 01:09:44,373 - INFO - FOLD 3
+2024-09-02 01:09:44,395 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77; gamma:0.35
+2024-09-02 01:09:48,852 - DEBUG - Iter 77/500 - Loss: -0.920
+2024-09-02 01:09:55,158 - DEBUG - Iter 154/500 - Loss: -1.293
+2024-09-02 01:10:00,694 - DEBUG - Iter 231/500 - Loss: -1.303
+2024-09-02 01:10:00,699 - INFO - Early cut off at epoch 230 with loss of -1.3030314445495605
+2024-09-02 01:10:00,985 - INFO - NLL: -0.8036; RMSE: 0.2352; NMSE: 1.1302
+2024-09-02 01:10:00,989 - INFO - FOLD 4
+2024-09-02 01:10:01,000 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77; gamma:0.35
+2024-09-02 01:10:05,684 - DEBUG - Iter 77/500 - Loss: -0.529
+2024-09-02 01:10:09,830 - DEBUG - Iter 154/500 - Loss: -1.256
+2024-09-02 01:10:13,061 - DEBUG - Iter 231/500 - Loss: -1.325
+2024-09-02 01:10:15,888 - DEBUG - Iter 308/500 - Loss: -1.335
+2024-09-02 01:10:15,892 - INFO - Early cut off at epoch 307 with loss of -1.3345415592193604
+2024-09-02 01:10:16,126 - INFO - NLL: -0.8626; RMSE: 0.2257; NMSE: 1.0821
+2024-09-02 01:10:16,130 - INFO - FOLD 5
+2024-09-02 01:10:16,142 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77; gamma:0.35
+2024-09-02 01:10:21,130 - DEBUG - Iter 77/500 - Loss: -0.901
+2024-09-02 01:10:26,233 - DEBUG - Iter 154/500 - Loss: -1.272
+2024-09-02 01:10:32,099 - DEBUG - Iter 231/500 - Loss: -1.281
+2024-09-02 01:10:32,107 - INFO - Early cut off at epoch 230 with loss of -1.2806248664855957
+2024-09-02 01:10:32,490 - INFO - NLL: -1.0744; RMSE: 0.2131; NMSE: 1.0938
+2024-09-02 01:10:32,500 - INFO - FOLD 6
+2024-09-02 01:10:32,513 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77; gamma:0.35
+2024-09-02 01:10:35,777 - DEBUG - Iter 77/500 - Loss: -0.731
+2024-09-02 01:10:39,687 - DEBUG - Iter 154/500 - Loss: -1.259
+2024-09-02 01:10:44,133 - DEBUG - Iter 231/500 - Loss: -1.271
+2024-09-02 01:10:44,140 - INFO - Early cut off at epoch 230 with loss of -1.270889163017273
+2024-09-02 01:10:44,543 - INFO - NLL: -1.2080; RMSE: 0.1746; NMSE: 0.9046
+2024-09-02 01:10:44,548 - INFO - FOLD 7
+2024-09-02 01:10:44,560 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77; gamma:0.35
+2024-09-02 01:10:48,678 - DEBUG - Iter 77/500 - Loss: -0.591
+2024-09-02 01:10:53,538 - DEBUG - Iter 154/500 - Loss: -1.284
+2024-09-02 01:10:59,035 - DEBUG - Iter 231/500 - Loss: -1.309
+2024-09-02 01:11:03,590 - DEBUG - Iter 308/500 - Loss: -1.317
+2024-09-02 01:11:03,593 - INFO - Early cut off at epoch 307 with loss of -1.3174582719802856
+2024-09-02 01:11:03,832 - INFO - NLL: -1.1189; RMSE: 0.2039; NMSE: 0.9812
+2024-09-02 01:11:03,836 - INFO - FOLD 8
+2024-09-02 01:11:03,848 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77; gamma:0.35
+2024-09-02 01:11:07,489 - DEBUG - Iter 77/500 - Loss: -0.745
+2024-09-02 01:11:12,818 - DEBUG - Iter 154/500 - Loss: -1.267
+2024-09-02 01:11:16,887 - DEBUG - Iter 231/500 - Loss: -1.295
+2024-09-02 01:11:16,891 - INFO - Early cut off at epoch 230 with loss of -1.2950931787490845
+2024-09-02 01:11:17,161 - INFO - NLL: -1.1033; RMSE: 0.1923; NMSE: 0.9683
+2024-09-02 01:11:17,168 - INFO - FOLD 9
+2024-09-02 01:11:17,180 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77; gamma:0.35
+2024-09-02 01:11:21,232 - DEBUG - Iter 77/500 - Loss: -0.963
+2024-09-02 01:11:26,967 - DEBUG - Iter 154/500 - Loss: -1.295
+2024-09-02 01:11:32,021 - DEBUG - Iter 231/500 - Loss: -1.303
+2024-09-02 01:11:32,027 - INFO - Early cut off at epoch 230 with loss of -1.3026090860366821
+2024-09-02 01:11:32,340 - INFO - NLL: -0.8196; RMSE: 0.2396; NMSE: 1.1657
+2024-09-02 01:11:32,346 - INFO - FOLD 10
+2024-09-02 01:11:32,354 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77; gamma:0.35
+2024-09-02 01:11:35,862 - DEBUG - Iter 77/500 - Loss: -0.751
+2024-09-02 01:11:40,773 - DEBUG - Iter 154/500 - Loss: -1.286
+2024-09-02 01:11:45,037 - DEBUG - Iter 231/500 - Loss: -1.299
+2024-09-02 01:11:45,042 - INFO - Early cut off at epoch 230 with loss of -1.2990210056304932
+2024-09-02 01:11:45,331 - INFO - NLL: -0.8248; RMSE: 0.2458; NMSE: 1.1382
+2024-09-02 01:11:45,340 - INFO - FOLD 1
+2024-09-02 01:11:45,356 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-02 01:11:45,374 - DEBUG - Completed
+2024-09-02 01:12:00,283 - DEBUG - Iter 33/500 - Loss: -0.735
+2024-09-02 01:12:23,588 - DEBUG - Iter 66/500 - Loss: -1.143
+2024-09-02 01:12:47,245 - DEBUG - Iter 99/500 - Loss: -1.272
+2024-09-02 01:13:10,626 - DEBUG - Iter 132/500 - Loss: -1.304
+2024-09-02 01:13:33,280 - DEBUG - Iter 165/500 - Loss: -1.307
+2024-09-02 01:13:33,284 - INFO - Early cut off at epoch 164 with loss of -1.3073745965957642
+2024-09-02 01:13:34,039 - INFO - NLL: -0.0193; RMSE: 0.2439; NMSE: 1.2331
+2024-09-02 01:13:34,050 - INFO - FOLD 2
+2024-09-02 01:13:34,061 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-02 01:13:34,081 - DEBUG - Completed
+2024-09-02 01:13:47,970 - DEBUG - Iter 33/500 - Loss: -0.682
+2024-09-02 01:14:09,352 - DEBUG - Iter 66/500 - Loss: -1.134
+2024-09-02 01:14:31,166 - DEBUG - Iter 99/500 - Loss: -1.236
+2024-09-02 01:14:52,086 - DEBUG - Iter 132/500 - Loss: -1.287
+2024-09-02 01:15:13,294 - DEBUG - Iter 165/500 - Loss: -1.266
+2024-09-02 01:15:33,065 - DEBUG - Iter 198/500 - Loss: -1.311
+2024-09-02 01:15:53,305 - DEBUG - Iter 231/500 - Loss: -1.298
+2024-09-02 01:15:53,309 - INFO - Early cut off at epoch 230 with loss of -1.2983545064926147
+2024-09-02 01:15:53,996 - INFO - NLL: -1.0634; RMSE: 0.2011; NMSE: 0.9594
+2024-09-02 01:15:54,002 - INFO - FOLD 3
+2024-09-02 01:15:54,014 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-02 01:15:54,039 - DEBUG - Completed
+2024-09-02 01:16:08,367 - DEBUG - Iter 33/500 - Loss: -0.708
+2024-09-02 01:16:30,568 - DEBUG - Iter 66/500 - Loss: -1.163
+2024-09-02 01:16:52,568 - DEBUG - Iter 99/500 - Loss: -1.262
+2024-09-02 01:17:15,400 - DEBUG - Iter 132/500 - Loss: -1.318
+2024-09-02 01:17:37,506 - DEBUG - Iter 165/500 - Loss: -1.323
+2024-09-02 01:17:58,573 - DEBUG - Iter 198/500 - Loss: -1.303
+2024-09-02 01:17:58,577 - INFO - Early cut off at epoch 197 with loss of -1.3027260303497314
+2024-09-02 01:17:59,522 - INFO - NLL: -0.5743; RMSE: 0.2411; NMSE: 1.1583
+2024-09-02 01:17:59,539 - INFO - FOLD 4
+2024-09-02 01:17:59,554 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-02 01:17:59,580 - DEBUG - Completed
+2024-09-02 01:18:15,195 - DEBUG - Iter 33/500 - Loss: -0.737
+2024-09-02 01:18:38,935 - DEBUG - Iter 66/500 - Loss: -1.126
+2024-09-02 01:19:04,009 - DEBUG - Iter 99/500 - Loss: -1.260
+2024-09-02 01:19:28,787 - DEBUG - Iter 132/500 - Loss: -1.285
+2024-09-02 01:19:53,225 - DEBUG - Iter 165/500 - Loss: -1.293
+2024-09-02 01:19:53,229 - INFO - Early cut off at epoch 164 with loss of -1.2929929494857788
+2024-09-02 01:19:54,027 - INFO - NLL: -0.7754; RMSE: 0.2303; NMSE: 1.1042
+2024-09-02 01:19:54,034 - INFO - FOLD 5
+2024-09-02 01:19:54,046 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-02 01:19:54,067 - DEBUG - Completed
+2024-09-02 01:20:09,061 - DEBUG - Iter 33/500 - Loss: -0.692
+2024-09-02 01:20:32,044 - DEBUG - Iter 66/500 - Loss: -1.117
+2024-09-02 01:20:55,512 - DEBUG - Iter 99/500 - Loss: -1.244
+2024-09-02 01:21:17,826 - DEBUG - Iter 132/500 - Loss: -1.289
+2024-09-02 01:21:40,380 - DEBUG - Iter 165/500 - Loss: -1.291
+2024-09-02 01:21:40,386 - INFO - Early cut off at epoch 164 with loss of -1.2909470796585083
+2024-09-02 01:21:41,124 - INFO - NLL: -0.0637; RMSE: 0.2189; NMSE: 1.1237
+2024-09-02 01:21:41,130 - INFO - FOLD 6
+2024-09-02 01:21:41,139 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-02 01:21:41,163 - DEBUG - Completed
+2024-09-02 01:22:00,359 - DEBUG - Iter 33/500 - Loss: -0.714
+2024-09-02 01:22:25,478 - DEBUG - Iter 66/500 - Loss: -1.122
+2024-09-02 01:22:51,219 - DEBUG - Iter 99/500 - Loss: -1.234
+2024-09-02 01:23:16,723 - DEBUG - Iter 132/500 - Loss: -1.278
+2024-09-02 01:23:41,808 - DEBUG - Iter 165/500 - Loss: -1.291
+2024-09-02 01:24:06,160 - DEBUG - Iter 198/500 - Loss: -1.274
+2024-09-02 01:24:06,164 - INFO - Early cut off at epoch 197 with loss of -1.273644208908081
+2024-09-02 01:24:06,953 - INFO - NLL: -1.1706; RMSE: 0.1676; NMSE: 0.8680
+2024-09-02 01:24:06,960 - INFO - FOLD 7
+2024-09-02 01:24:06,973 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-02 01:24:06,996 - DEBUG - Completed
+2024-09-02 01:24:22,812 - DEBUG - Iter 33/500 - Loss: -0.709
+2024-09-02 01:24:48,249 - DEBUG - Iter 66/500 - Loss: -1.138
+2024-09-02 01:25:14,380 - DEBUG - Iter 99/500 - Loss: -1.249
+2024-09-02 01:25:40,628 - DEBUG - Iter 132/500 - Loss: -1.285
+2024-09-02 01:25:40,633 - INFO - Early cut off at epoch 131 with loss of -1.2849762439727783
+2024-09-02 01:25:41,445 - INFO - NLL: -1.0750; RMSE: 0.1934; NMSE: 0.9306
+2024-09-02 01:25:41,455 - INFO - FOLD 8
+2024-09-02 01:25:41,468 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-02 01:25:41,489 - DEBUG - Completed
+2024-09-02 01:26:00,577 - DEBUG - Iter 33/500 - Loss: -0.689
+2024-09-02 01:26:20,395 - DEBUG - Iter 66/500 - Loss: -1.120
+2024-09-02 01:26:41,456 - DEBUG - Iter 99/500 - Loss: -1.240
+2024-09-02 01:27:01,326 - DEBUG - Iter 132/500 - Loss: -1.291
+2024-09-02 01:27:21,277 - DEBUG - Iter 165/500 - Loss: -1.290
+2024-09-02 01:27:21,281 - INFO - Early cut off at epoch 164 with loss of -1.2895352840423584
+2024-09-02 01:27:22,018 - INFO - NLL: -0.9696; RMSE: 0.2030; NMSE: 1.0223
+2024-09-02 01:27:22,024 - INFO - FOLD 9
+2024-09-02 01:27:22,037 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-02 01:27:22,059 - DEBUG - Completed
+2024-09-02 01:27:37,534 - DEBUG - Iter 33/500 - Loss: -0.678
+2024-09-02 01:28:03,980 - DEBUG - Iter 66/500 - Loss: -1.130
+2024-09-02 01:28:30,816 - DEBUG - Iter 99/500 - Loss: -1.250
+2024-09-02 01:28:57,365 - DEBUG - Iter 132/500 - Loss: -1.288
+2024-09-02 01:29:23,186 - DEBUG - Iter 165/500 - Loss: -1.299
+2024-09-02 01:29:23,190 - INFO - Early cut off at epoch 164 with loss of -1.2989916801452637
+2024-09-02 01:29:23,983 - INFO - NLL: -0.7341; RMSE: 0.2434; NMSE: 1.1839
+2024-09-02 01:29:23,993 - INFO - FOLD 10
+2024-09-02 01:29:24,005 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-02 01:29:24,025 - DEBUG - Completed
+2024-09-02 01:29:39,423 - DEBUG - Iter 33/500 - Loss: -0.729
+2024-09-02 01:30:04,664 - DEBUG - Iter 66/500 - Loss: -1.164
+2024-09-02 01:30:30,496 - DEBUG - Iter 99/500 - Loss: -1.265
+2024-09-02 01:30:55,722 - DEBUG - Iter 132/500 - Loss: -1.291
+2024-09-02 01:30:55,728 - INFO - Early cut off at epoch 131 with loss of -1.2908122539520264
+2024-09-02 01:30:56,534 - INFO - NLL: -0.5941; RMSE: 0.2499; NMSE: 1.1573

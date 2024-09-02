@@ -1,0 +1,1662 @@
+2024-09-01 18:00:13,444 - INFO - FOLD 1
+INFO:my_logger:FOLD 1
+2024-09-01 18:00:13,456 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+2024-09-01 18:00:16,357 - DEBUG - Iter 55/500 - Loss: -0.812
+DEBUG:my_logger:Iter 55/500 - Loss: -0.812
+2024-09-01 18:00:20,247 - DEBUG - Iter 110/500 - Loss: -0.868
+DEBUG:my_logger:Iter 110/500 - Loss: -0.868
+2024-09-01 18:00:22,768 - DEBUG - Iter 165/500 - Loss: -1.076
+DEBUG:my_logger:Iter 165/500 - Loss: -1.076
+2024-09-01 18:00:25,372 - DEBUG - Iter 220/500 - Loss: -0.423
+DEBUG:my_logger:Iter 220/500 - Loss: -0.423
+2024-09-01 18:00:28,072 - DEBUG - Iter 275/500 - Loss: -0.846
+DEBUG:my_logger:Iter 275/500 - Loss: -0.846
+2024-09-01 18:00:30,943 - DEBUG - Iter 330/500 - Loss: -0.955
+DEBUG:my_logger:Iter 330/500 - Loss: -0.955
+2024-09-01 18:00:34,617 - DEBUG - Iter 385/500 - Loss: -1.048
+DEBUG:my_logger:Iter 385/500 - Loss: -1.048
+2024-09-01 18:00:37,015 - DEBUG - Iter 440/500 - Loss: -0.947
+DEBUG:my_logger:Iter 440/500 - Loss: -0.947
+2024-09-01 18:00:39,561 - DEBUG - Iter 495/500 - Loss: -1.045
+DEBUG:my_logger:Iter 495/500 - Loss: -1.045
+2024-09-01 18:00:39,822 - INFO - NLL: -0.6855; RMSE: 0.2071; NMSE: 1.0579
+INFO:my_logger:NLL: -0.6855; RMSE: 0.2071; NMSE: 1.0579
+2024-09-01 18:00:39,827 - INFO - FOLD 2
+INFO:my_logger:FOLD 2
+2024-09-01 18:00:39,836 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+2024-09-01 18:00:42,781 - DEBUG - Iter 55/500 - Loss: -0.478
+DEBUG:my_logger:Iter 55/500 - Loss: -0.478
+2024-09-01 18:00:45,949 - DEBUG - Iter 110/500 - Loss: -0.293
+DEBUG:my_logger:Iter 110/500 - Loss: -0.293
+2024-09-01 18:00:49,179 - DEBUG - Iter 165/500 - Loss: -0.796
+DEBUG:my_logger:Iter 165/500 - Loss: -0.796
+2024-09-01 18:00:51,746 - DEBUG - Iter 220/500 - Loss: -1.137
+DEBUG:my_logger:Iter 220/500 - Loss: -1.137
+2024-09-01 18:00:54,428 - DEBUG - Iter 275/500 - Loss: -0.787
+DEBUG:my_logger:Iter 275/500 - Loss: -0.787
+2024-09-01 18:00:56,988 - DEBUG - Iter 330/500 - Loss: -1.163
+DEBUG:my_logger:Iter 330/500 - Loss: -1.163
+2024-09-01 18:01:00,566 - DEBUG - Iter 385/500 - Loss: -1.216
+DEBUG:my_logger:Iter 385/500 - Loss: -1.216
+2024-09-01 18:01:03,331 - DEBUG - Iter 440/500 - Loss: -1.221
+DEBUG:my_logger:Iter 440/500 - Loss: -1.221
+2024-09-01 18:01:03,335 - INFO - Early cut off at epoch 439 with loss of -1.2206017971038818
+INFO:my_logger:Early cut off at epoch 439 with loss of -1.2206017971038818
+2024-09-01 18:01:03,384 - INFO - NLL: -0.8384; RMSE: 0.2712; NMSE: 1.3333
+INFO:my_logger:NLL: -0.8384; RMSE: 0.2712; NMSE: 1.3333
+2024-09-01 18:01:03,390 - INFO - FOLD 3
+INFO:my_logger:FOLD 3
+2024-09-01 18:01:03,403 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:01:06,432 - DEBUG - Iter 55/500 - Loss: -0.662
+DEBUG:my_logger:Iter 55/500 - Loss: -0.662
+2024-09-01 18:01:08,998 - DEBUG - Iter 110/500 - Loss: -0.617
+DEBUG:my_logger:Iter 110/500 - Loss: -0.617
+2024-09-01 18:01:11,550 - DEBUG - Iter 165/500 - Loss: -0.369
+DEBUG:my_logger:Iter 165/500 - Loss: -0.369
+2024-09-01 18:01:15,333 - DEBUG - Iter 220/500 - Loss: -1.116
+DEBUG:my_logger:Iter 220/500 - Loss: -1.116
+2024-09-01 18:01:17,916 - DEBUG - Iter 275/500 - Loss: -1.206
+DEBUG:my_logger:Iter 275/500 - Loss: -1.206
+2024-09-01 18:01:20,362 - DEBUG - Iter 330/500 - Loss: -1.212
+DEBUG:my_logger:Iter 330/500 - Loss: -1.212
+2024-09-01 18:01:20,367 - INFO - Early cut off at epoch 329 with loss of -1.2124067544937134
+INFO:my_logger:Early cut off at epoch 329 with loss of -1.2124067544937134
+2024-09-01 18:01:20,416 - INFO - NLL: -0.6558; RMSE: 0.2807; NMSE: 1.4375
+INFO:my_logger:NLL: -0.6558; RMSE: 0.2807; NMSE: 1.4375
+2024-09-01 18:01:20,423 - INFO - FOLD 4
+INFO:my_logger:FOLD 4
+2024-09-01 18:01:20,437 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:01:23,428 - DEBUG - Iter 55/500 - Loss: -0.435
+DEBUG:my_logger:Iter 55/500 - Loss: -0.435
+2024-09-01 18:01:26,280 - DEBUG - Iter 110/500 - Loss: -0.768
+DEBUG:my_logger:Iter 110/500 - Loss: -0.768
+2024-09-01 18:01:29,522 - DEBUG - Iter 165/500 - Loss: -1.033
+DEBUG:my_logger:Iter 165/500 - Loss: -1.033
+2024-09-01 18:01:32,003 - DEBUG - Iter 220/500 - Loss: -0.925
+DEBUG:my_logger:Iter 220/500 - Loss: -0.925
+2024-09-01 18:01:34,542 - DEBUG - Iter 275/500 - Loss: -0.983
+DEBUG:my_logger:Iter 275/500 - Loss: -0.983
+2024-09-01 18:01:37,005 - DEBUG - Iter 330/500 - Loss: -1.152
+DEBUG:my_logger:Iter 330/500 - Loss: -1.152
+2024-09-01 18:01:40,336 - DEBUG - Iter 385/500 - Loss: -1.201
+DEBUG:my_logger:Iter 385/500 - Loss: -1.201
+2024-09-01 18:01:40,344 - INFO - Early cut off at epoch 384 with loss of -1.2005294561386108
+INFO:my_logger:Early cut off at epoch 384 with loss of -1.2005294561386108
+2024-09-01 18:01:40,412 - INFO - NLL: -1.2128; RMSE: 0.1630; NMSE: 0.7686
+INFO:my_logger:NLL: -1.2128; RMSE: 0.1630; NMSE: 0.7686
+2024-09-01 18:01:40,421 - INFO - FOLD 5
+INFO:my_logger:FOLD 5
+2024-09-01 18:01:40,437 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:01:43,822 - DEBUG - Iter 55/500 - Loss: -0.125
+DEBUG:my_logger:Iter 55/500 - Loss: -0.125
+2024-09-01 18:01:46,410 - DEBUG - Iter 110/500 - Loss: -0.834
+DEBUG:my_logger:Iter 110/500 - Loss: -0.834
+2024-09-01 18:01:49,001 - DEBUG - Iter 165/500 - Loss: -1.159
+DEBUG:my_logger:Iter 165/500 - Loss: -1.159
+2024-09-01 18:01:51,556 - DEBUG - Iter 220/500 - Loss: -1.201
+DEBUG:my_logger:Iter 220/500 - Loss: -1.201
+2024-09-01 18:01:51,562 - INFO - Early cut off at epoch 219 with loss of -1.2007898092269897
+INFO:my_logger:Early cut off at epoch 219 with loss of -1.2007898092269897
+2024-09-01 18:01:51,604 - INFO - NLL: -1.1088; RMSE: 0.2077; NMSE: 0.9724
+INFO:my_logger:NLL: -1.1088; RMSE: 0.2077; NMSE: 0.9724
+2024-09-01 18:01:51,609 - INFO - FOLD 6
+INFO:my_logger:FOLD 6
+2024-09-01 18:01:51,618 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:01:56,013 - DEBUG - Iter 55/500 - Loss: -0.420
+DEBUG:my_logger:Iter 55/500 - Loss: -0.420
+2024-09-01 18:01:58,877 - DEBUG - Iter 110/500 - Loss: -0.747
+DEBUG:my_logger:Iter 110/500 - Loss: -0.747
+2024-09-01 18:02:01,721 - DEBUG - Iter 165/500 - Loss: -1.200
+DEBUG:my_logger:Iter 165/500 - Loss: -1.200
+2024-09-01 18:02:04,489 - DEBUG - Iter 220/500 - Loss: -0.468
+DEBUG:my_logger:Iter 220/500 - Loss: -0.468
+2024-09-01 18:02:08,066 - DEBUG - Iter 275/500 - Loss: -0.875
+DEBUG:my_logger:Iter 275/500 - Loss: -0.875
+2024-09-01 18:02:10,957 - DEBUG - Iter 330/500 - Loss: -0.977
+DEBUG:my_logger:Iter 330/500 - Loss: -0.977
+2024-09-01 18:02:13,712 - DEBUG - Iter 385/500 - Loss: -0.763
+DEBUG:my_logger:Iter 385/500 - Loss: -0.763
+2024-09-01 18:02:16,541 - DEBUG - Iter 440/500 - Loss: -0.931
+DEBUG:my_logger:Iter 440/500 - Loss: -0.931
+2024-09-01 18:02:19,506 - DEBUG - Iter 495/500 - Loss: -1.138
+DEBUG:my_logger:Iter 495/500 - Loss: -1.138
+2024-09-01 18:02:19,960 - INFO - NLL: -0.8713; RMSE: 0.2608; NMSE: 1.2947
+INFO:my_logger:NLL: -0.8713; RMSE: 0.2608; NMSE: 1.2947
+2024-09-01 18:02:19,972 - INFO - FOLD 7
+INFO:my_logger:FOLD 7
+2024-09-01 18:02:19,990 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:02:23,957 - DEBUG - Iter 55/500 - Loss: -0.627
+DEBUG:my_logger:Iter 55/500 - Loss: -0.627
+2024-09-01 18:02:26,652 - DEBUG - Iter 110/500 - Loss: -0.561
+DEBUG:my_logger:Iter 110/500 - Loss: -0.561
+2024-09-01 18:02:29,378 - DEBUG - Iter 165/500 - Loss: -0.669
+DEBUG:my_logger:Iter 165/500 - Loss: -0.669
+2024-09-01 18:02:29,381 - INFO - Early cut off at epoch 164 with loss of -0.6692776083946228
+INFO:my_logger:Early cut off at epoch 164 with loss of -0.6692776083946228
+2024-09-01 18:02:29,425 - INFO - NLL: -0.6856; RMSE: 0.2179; NMSE: 1.0562
+INFO:my_logger:NLL: -0.6856; RMSE: 0.2179; NMSE: 1.0562
+2024-09-01 18:02:29,429 - INFO - FOLD 8
+INFO:my_logger:FOLD 8
+2024-09-01 18:02:29,437 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:02:32,579 - DEBUG - Iter 55/500 - Loss: -0.620
+DEBUG:my_logger:Iter 55/500 - Loss: -0.620
+2024-09-01 18:02:36,386 - DEBUG - Iter 110/500 - Loss: -0.454
+DEBUG:my_logger:Iter 110/500 - Loss: -0.454
+2024-09-01 18:02:39,223 - DEBUG - Iter 165/500 - Loss: -0.559
+DEBUG:my_logger:Iter 165/500 - Loss: -0.559
+2024-09-01 18:02:41,932 - DEBUG - Iter 220/500 - Loss: -0.686
+DEBUG:my_logger:Iter 220/500 - Loss: -0.686
+2024-09-01 18:02:44,638 - DEBUG - Iter 275/500 - Loss: -0.912
+DEBUG:my_logger:Iter 275/500 - Loss: -0.912
+2024-09-01 18:02:47,719 - DEBUG - Iter 330/500 - Loss: -0.967
+DEBUG:my_logger:Iter 330/500 - Loss: -0.967
+2024-09-01 18:02:51,285 - DEBUG - Iter 385/500 - Loss: -1.071
+DEBUG:my_logger:Iter 385/500 - Loss: -1.071
+2024-09-01 18:02:53,939 - DEBUG - Iter 440/500 - Loss: -1.131
+DEBUG:my_logger:Iter 440/500 - Loss: -1.131
+2024-09-01 18:02:56,543 - DEBUG - Iter 495/500 - Loss: -1.186
+DEBUG:my_logger:Iter 495/500 - Loss: -1.186
+2024-09-01 18:02:56,811 - INFO - NLL: -1.1779; RMSE: 0.2497; NMSE: 1.2358
+INFO:my_logger:NLL: -1.1779; RMSE: 0.2497; NMSE: 1.2358
+2024-09-01 18:02:56,816 - INFO - FOLD 9
+INFO:my_logger:FOLD 9
+2024-09-01 18:02:56,826 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:02:59,656 - DEBUG - Iter 55/500 - Loss: 0.038
+DEBUG:my_logger:Iter 55/500 - Loss: 0.038
+2024-09-01 18:03:03,630 - DEBUG - Iter 110/500 - Loss: -0.465
+DEBUG:my_logger:Iter 110/500 - Loss: -0.465
+2024-09-01 18:03:06,277 - DEBUG - Iter 165/500 - Loss: -0.981
+DEBUG:my_logger:Iter 165/500 - Loss: -0.981
+2024-09-01 18:03:09,100 - DEBUG - Iter 220/500 - Loss: -0.908
+DEBUG:my_logger:Iter 220/500 - Loss: -0.908
+2024-09-01 18:03:12,032 - DEBUG - Iter 275/500 - Loss: -1.199
+DEBUG:my_logger:Iter 275/500 - Loss: -1.199
+2024-09-01 18:03:15,267 - DEBUG - Iter 330/500 - Loss: -1.217
+DEBUG:my_logger:Iter 330/500 - Loss: -1.217
+2024-09-01 18:03:15,272 - INFO - Early cut off at epoch 329 with loss of -1.2174434661865234
+INFO:my_logger:Early cut off at epoch 329 with loss of -1.2174434661865234
+2024-09-01 18:03:15,333 - INFO - NLL: -0.9192; RMSE: 0.2531; NMSE: 1.3532
+INFO:my_logger:NLL: -0.9192; RMSE: 0.2531; NMSE: 1.3532
+2024-09-01 18:03:15,338 - INFO - FOLD 10
+INFO:my_logger:FOLD 10
+2024-09-01 18:03:15,347 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.18; step_size:55; gamma:0.8
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:03:18,892 - DEBUG - Iter 55/500 - Loss: -0.516
+DEBUG:my_logger:Iter 55/500 - Loss: -0.516
+2024-09-01 18:03:21,591 - DEBUG - Iter 110/500 - Loss: -0.897
+DEBUG:my_logger:Iter 110/500 - Loss: -0.897
+2024-09-01 18:03:24,248 - DEBUG - Iter 165/500 - Loss: -1.239
+DEBUG:my_logger:Iter 165/500 - Loss: -1.239
+2024-09-01 18:03:26,899 - DEBUG - Iter 220/500 - Loss: -0.882
+DEBUG:my_logger:Iter 220/500 - Loss: -0.882
+2024-09-01 18:03:30,594 - DEBUG - Iter 275/500 - Loss: -0.728
+DEBUG:my_logger:Iter 275/500 - Loss: -0.728
+2024-09-01 18:03:33,406 - DEBUG - Iter 330/500 - Loss: -0.909
+DEBUG:my_logger:Iter 330/500 - Loss: -0.909
+2024-09-01 18:03:35,890 - DEBUG - Iter 385/500 - Loss: -0.937
+DEBUG:my_logger:Iter 385/500 - Loss: -0.937
+2024-09-01 18:03:38,564 - DEBUG - Iter 440/500 - Loss: -0.951
+DEBUG:my_logger:Iter 440/500 - Loss: -0.951
+2024-09-01 18:03:38,569 - INFO - Early cut off at epoch 439 with loss of -0.9506397843360901
+INFO:my_logger:Early cut off at epoch 439 with loss of -0.9506397843360901
+2024-09-01 18:03:38,620 - INFO - NLL: 0.4528; RMSE: 0.2811; NMSE: 1.3657
+INFO:my_logger:NLL: 0.4528; RMSE: 0.2811; NMSE: 1.3657
+2024-09-01 18:03:38,626 - INFO - FOLD 1
+INFO:my_logger:FOLD 1
+2024-09-01 18:03:38,637 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+2024-09-01 18:03:38,654 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+2024-09-01 18:03:47,275 - DEBUG - Iter 32/500 - Loss: -0.117
+DEBUG:my_logger:Iter 32/500 - Loss: -0.117
+2024-09-01 18:03:53,715 - DEBUG - Iter 64/500 - Loss: -0.584
+DEBUG:my_logger:Iter 64/500 - Loss: -0.584
+2024-09-01 18:04:01,919 - DEBUG - Iter 96/500 - Loss: -0.972
+DEBUG:my_logger:Iter 96/500 - Loss: -0.972
+2024-09-01 18:04:09,215 - DEBUG - Iter 128/500 - Loss: -1.097
+DEBUG:my_logger:Iter 128/500 - Loss: -1.097
+2024-09-01 18:04:16,656 - DEBUG - Iter 160/500 - Loss: -1.151
+DEBUG:my_logger:Iter 160/500 - Loss: -1.151
+2024-09-01 18:04:16,661 - INFO - Early cut off at epoch 159 with loss of -1.1506457328796387
+INFO:my_logger:Early cut off at epoch 159 with loss of -1.1506457328796387
+2024-09-01 18:04:16,841 - INFO - NLL: -0.8407; RMSE: 0.2243; NMSE: 1.1458
+INFO:my_logger:NLL: -0.8407; RMSE: 0.2243; NMSE: 1.1458
+2024-09-01 18:04:16,848 - INFO - FOLD 2
+INFO:my_logger:FOLD 2
+2024-09-01 18:04:16,862 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+2024-09-01 18:04:16,879 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+2024-09-01 18:04:25,156 - DEBUG - Iter 32/500 - Loss: -0.259
+DEBUG:my_logger:Iter 32/500 - Loss: -0.259
+2024-09-01 18:04:31,536 - DEBUG - Iter 64/500 - Loss: -0.472
+DEBUG:my_logger:Iter 64/500 - Loss: -0.472
+2024-09-01 18:04:39,510 - DEBUG - Iter 96/500 - Loss: -0.862
+DEBUG:my_logger:Iter 96/500 - Loss: -0.862
+2024-09-01 18:04:46,176 - DEBUG - Iter 128/500 - Loss: -1.094
+DEBUG:my_logger:Iter 128/500 - Loss: -1.094
+2024-09-01 18:04:53,990 - DEBUG - Iter 160/500 - Loss: -1.132
+DEBUG:my_logger:Iter 160/500 - Loss: -1.132
+2024-09-01 18:04:53,995 - INFO - Early cut off at epoch 159 with loss of -1.1321907043457031
+INFO:my_logger:Early cut off at epoch 159 with loss of -1.1321907043457031
+2024-09-01 18:04:54,168 - INFO - NLL: -0.8061; RMSE: 0.2887; NMSE: 1.4196
+INFO:my_logger:NLL: -0.8061; RMSE: 0.2887; NMSE: 1.4196
+2024-09-01 18:04:54,179 - INFO - FOLD 3
+INFO:my_logger:FOLD 3
+2024-09-01 18:04:54,192 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+2024-09-01 18:04:54,208 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:05:01,482 - DEBUG - Iter 32/500 - Loss: -0.198
+DEBUG:my_logger:Iter 32/500 - Loss: -0.198
+2024-09-01 18:05:08,930 - DEBUG - Iter 64/500 - Loss: -0.428
+DEBUG:my_logger:Iter 64/500 - Loss: -0.428
+2024-09-01 18:05:15,833 - DEBUG - Iter 96/500 - Loss: -0.945
+DEBUG:my_logger:Iter 96/500 - Loss: -0.945
+2024-09-01 18:05:23,027 - DEBUG - Iter 128/500 - Loss: -1.070
+DEBUG:my_logger:Iter 128/500 - Loss: -1.070
+2024-09-01 18:05:30,545 - DEBUG - Iter 160/500 - Loss: -1.121
+DEBUG:my_logger:Iter 160/500 - Loss: -1.121
+2024-09-01 18:05:30,558 - INFO - Early cut off at epoch 159 with loss of -1.1212326288223267
+INFO:my_logger:Early cut off at epoch 159 with loss of -1.1212326288223267
+2024-09-01 18:05:30,889 - INFO - NLL: -0.5712; RMSE: 0.2935; NMSE: 1.5033
+INFO:my_logger:NLL: -0.5712; RMSE: 0.2935; NMSE: 1.5033
+2024-09-01 18:05:30,904 - INFO - FOLD 4
+INFO:my_logger:FOLD 4
+2024-09-01 18:05:30,922 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+2024-09-01 18:05:30,945 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:05:38,388 - DEBUG - Iter 32/500 - Loss: -0.028
+DEBUG:my_logger:Iter 32/500 - Loss: -0.028
+2024-09-01 18:05:46,596 - DEBUG - Iter 64/500 - Loss: -0.486
+DEBUG:my_logger:Iter 64/500 - Loss: -0.486
+2024-09-01 18:05:53,710 - DEBUG - Iter 96/500 - Loss: -0.896
+DEBUG:my_logger:Iter 96/500 - Loss: -0.896
+2024-09-01 18:06:01,033 - DEBUG - Iter 128/500 - Loss: -1.057
+DEBUG:my_logger:Iter 128/500 - Loss: -1.057
+2024-09-01 18:06:07,914 - DEBUG - Iter 160/500 - Loss: -1.099
+DEBUG:my_logger:Iter 160/500 - Loss: -1.099
+2024-09-01 18:06:07,919 - INFO - Early cut off at epoch 159 with loss of -1.0987707376480103
+INFO:my_logger:Early cut off at epoch 159 with loss of -1.0987707376480103
+2024-09-01 18:06:08,092 - INFO - NLL: -1.1894; RMSE: 0.1745; NMSE: 0.8230
+INFO:my_logger:NLL: -1.1894; RMSE: 0.1745; NMSE: 0.8230
+2024-09-01 18:06:08,104 - INFO - FOLD 5
+INFO:my_logger:FOLD 5
+2024-09-01 18:06:08,117 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+2024-09-01 18:06:08,134 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:06:16,863 - DEBUG - Iter 32/500 - Loss: -0.149
+DEBUG:my_logger:Iter 32/500 - Loss: -0.149
+2024-09-01 18:06:24,933 - DEBUG - Iter 64/500 - Loss: -0.540
+DEBUG:my_logger:Iter 64/500 - Loss: -0.540
+2024-09-01 18:06:31,539 - DEBUG - Iter 96/500 - Loss: -0.900
+DEBUG:my_logger:Iter 96/500 - Loss: -0.900
+2024-09-01 18:06:39,162 - DEBUG - Iter 128/500 - Loss: -1.070
+DEBUG:my_logger:Iter 128/500 - Loss: -1.070
+2024-09-01 18:06:46,066 - DEBUG - Iter 160/500 - Loss: -1.111
+DEBUG:my_logger:Iter 160/500 - Loss: -1.111
+2024-09-01 18:06:46,072 - INFO - Early cut off at epoch 159 with loss of -1.1111705303192139
+INFO:my_logger:Early cut off at epoch 159 with loss of -1.1111705303192139
+2024-09-01 18:06:46,254 - INFO - NLL: -0.9978; RMSE: 0.2096; NMSE: 0.9815
+INFO:my_logger:NLL: -0.9978; RMSE: 0.2096; NMSE: 0.9815
+2024-09-01 18:06:46,267 - INFO - FOLD 6
+INFO:my_logger:FOLD 6
+2024-09-01 18:06:46,281 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+2024-09-01 18:06:46,296 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:06:54,432 - DEBUG - Iter 32/500 - Loss: -0.044
+DEBUG:my_logger:Iter 32/500 - Loss: -0.044
+2024-09-01 18:07:01,667 - DEBUG - Iter 64/500 - Loss: -0.623
+DEBUG:my_logger:Iter 64/500 - Loss: -0.623
+2024-09-01 18:07:09,187 - DEBUG - Iter 96/500 - Loss: -0.939
+DEBUG:my_logger:Iter 96/500 - Loss: -0.939
+2024-09-01 18:07:16,747 - DEBUG - Iter 128/500 - Loss: -1.098
+DEBUG:my_logger:Iter 128/500 - Loss: -1.098
+2024-09-01 18:07:24,854 - DEBUG - Iter 160/500 - Loss: -1.138
+DEBUG:my_logger:Iter 160/500 - Loss: -1.138
+2024-09-01 18:07:24,858 - INFO - Early cut off at epoch 159 with loss of -1.1375879049301147
+INFO:my_logger:Early cut off at epoch 159 with loss of -1.1375879049301147
+2024-09-01 18:07:25,033 - INFO - NLL: -0.6564; RMSE: 0.2826; NMSE: 1.4031
+INFO:my_logger:NLL: -0.6564; RMSE: 0.2826; NMSE: 1.4031
+2024-09-01 18:07:25,043 - INFO - FOLD 7
+INFO:my_logger:FOLD 7
+2024-09-01 18:07:25,054 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+2024-09-01 18:07:25,069 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:07:33,186 - DEBUG - Iter 32/500 - Loss: 0.006
+DEBUG:my_logger:Iter 32/500 - Loss: 0.006
+2024-09-01 18:07:40,119 - DEBUG - Iter 64/500 - Loss: -0.399
+DEBUG:my_logger:Iter 64/500 - Loss: -0.399
+2024-09-01 18:07:48,275 - DEBUG - Iter 96/500 - Loss: -0.882
+DEBUG:my_logger:Iter 96/500 - Loss: -0.882
+2024-09-01 18:07:55,523 - DEBUG - Iter 128/500 - Loss: -1.058
+DEBUG:my_logger:Iter 128/500 - Loss: -1.058
+2024-09-01 18:08:03,503 - DEBUG - Iter 160/500 - Loss: -1.093
+DEBUG:my_logger:Iter 160/500 - Loss: -1.093
+2024-09-01 18:08:10,746 - DEBUG - Iter 192/500 - Loss: -1.098
+DEBUG:my_logger:Iter 192/500 - Loss: -1.098
+2024-09-01 18:08:10,756 - INFO - Early cut off at epoch 191 with loss of -1.0976226329803467
+INFO:my_logger:Early cut off at epoch 191 with loss of -1.0976226329803467
+2024-09-01 18:08:11,042 - INFO - NLL: -1.0769; RMSE: 0.2297; NMSE: 1.1132
+INFO:my_logger:NLL: -1.0769; RMSE: 0.2297; NMSE: 1.1132
+2024-09-01 18:08:11,054 - INFO - FOLD 8
+INFO:my_logger:FOLD 8
+2024-09-01 18:08:11,070 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+2024-09-01 18:08:11,093 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:08:19,251 - DEBUG - Iter 32/500 - Loss: 0.007
+DEBUG:my_logger:Iter 32/500 - Loss: 0.007
+2024-09-01 18:08:26,983 - DEBUG - Iter 64/500 - Loss: -0.621
+DEBUG:my_logger:Iter 64/500 - Loss: -0.621
+2024-09-01 18:08:33,921 - DEBUG - Iter 96/500 - Loss: -0.863
+DEBUG:my_logger:Iter 96/500 - Loss: -0.863
+2024-09-01 18:08:41,900 - DEBUG - Iter 128/500 - Loss: -1.050
+DEBUG:my_logger:Iter 128/500 - Loss: -1.050
+2024-09-01 18:08:48,993 - DEBUG - Iter 160/500 - Loss: -1.093
+DEBUG:my_logger:Iter 160/500 - Loss: -1.093
+2024-09-01 18:08:48,998 - INFO - Early cut off at epoch 159 with loss of -1.092771291732788
+INFO:my_logger:Early cut off at epoch 159 with loss of -1.092771291732788
+2024-09-01 18:08:49,165 - INFO - NLL: -1.1727; RMSE: 0.2669; NMSE: 1.3209
+INFO:my_logger:NLL: -1.1727; RMSE: 0.2669; NMSE: 1.3209
+2024-09-01 18:08:49,171 - INFO - FOLD 9
+INFO:my_logger:FOLD 9
+2024-09-01 18:08:49,186 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+2024-09-01 18:08:49,201 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:08:57,737 - DEBUG - Iter 32/500 - Loss: 0.015
+DEBUG:my_logger:Iter 32/500 - Loss: 0.015
+2024-09-01 18:09:04,942 - DEBUG - Iter 64/500 - Loss: -0.391
+DEBUG:my_logger:Iter 64/500 - Loss: -0.391
+2024-09-01 18:09:13,395 - DEBUG - Iter 96/500 - Loss: -0.917
+DEBUG:my_logger:Iter 96/500 - Loss: -0.917
+2024-09-01 18:09:21,648 - DEBUG - Iter 128/500 - Loss: -1.087
+DEBUG:my_logger:Iter 128/500 - Loss: -1.087
+2024-09-01 18:09:29,299 - DEBUG - Iter 160/500 - Loss: -1.127
+DEBUG:my_logger:Iter 160/500 - Loss: -1.127
+2024-09-01 18:09:29,304 - INFO - Early cut off at epoch 159 with loss of -1.1265432834625244
+INFO:my_logger:Early cut off at epoch 159 with loss of -1.1265432834625244
+2024-09-01 18:09:29,482 - INFO - NLL: -0.8964; RMSE: 0.2588; NMSE: 1.3835
+INFO:my_logger:NLL: -0.8964; RMSE: 0.2588; NMSE: 1.3835
+2024-09-01 18:09:29,491 - INFO - FOLD 10
+INFO:my_logger:FOLD 10
+2024-09-01 18:09:29,504 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class 'gpytorch.kernels.rbf_kernel.RBFKernel'>; lr: 0.69; step_size:32; gamma:0.5
+2024-09-01 18:09:29,520 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:09:38,184 - DEBUG - Iter 32/500 - Loss: -0.004
+DEBUG:my_logger:Iter 32/500 - Loss: -0.004
+2024-09-01 18:09:45,940 - DEBUG - Iter 64/500 - Loss: -0.603
+DEBUG:my_logger:Iter 64/500 - Loss: -0.603
+2024-09-01 18:09:54,329 - DEBUG - Iter 96/500 - Loss: -0.951
+DEBUG:my_logger:Iter 96/500 - Loss: -0.951
+2024-09-01 18:10:02,386 - DEBUG - Iter 128/500 - Loss: -1.096
+DEBUG:my_logger:Iter 128/500 - Loss: -1.096
+2024-09-01 18:10:10,121 - DEBUG - Iter 160/500 - Loss: -1.145
+DEBUG:my_logger:Iter 160/500 - Loss: -1.145
+2024-09-01 18:10:10,128 - INFO - Early cut off at epoch 159 with loss of -1.1453123092651367
+INFO:my_logger:Early cut off at epoch 159 with loss of -1.1453123092651367
+2024-09-01 18:10:10,326 - INFO - NLL: -0.5420; RMSE: 0.2984; NMSE: 1.4497
+INFO:my_logger:NLL: -0.5420; RMSE: 0.2984; NMSE: 1.4497
+2024-09-01 18:10:10,342 - INFO - FOLD 1
+INFO:my_logger:FOLD 1
+2024-09-01 18:10:10,357 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-06 to the diagonal
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-05 to the diagonal
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-04 to the diagonal
+  warnings.warn(
+2024-09-01 18:10:12,314 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:10:12,322 - INFO - FOLD 2
+INFO:my_logger:FOLD 2
+2024-09-01 18:10:12,334 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+2024-09-01 18:10:18,811 - DEBUG - Iter 100/500 - Loss: 0.659
+DEBUG:my_logger:Iter 100/500 - Loss: 0.659
+2024-09-01 18:10:24,174 - DEBUG - Iter 200/500 - Loss: -0.148
+DEBUG:my_logger:Iter 200/500 - Loss: -0.148
+2024-09-01 18:10:25,053 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:10:25,061 - INFO - FOLD 3
+INFO:my_logger:FOLD 3
+2024-09-01 18:10:25,069 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:10:31,113 - DEBUG - Iter 100/500 - Loss: 0.578
+DEBUG:my_logger:Iter 100/500 - Loss: 0.578
+2024-09-01 18:10:31,146 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:10:31,154 - INFO - FOLD 4
+INFO:my_logger:FOLD 4
+2024-09-01 18:10:31,174 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:10:37,443 - DEBUG - Iter 100/500 - Loss: 0.985
+DEBUG:my_logger:Iter 100/500 - Loss: 0.985
+2024-09-01 18:10:44,354 - DEBUG - Iter 200/500 - Loss: 0.256
+DEBUG:my_logger:Iter 200/500 - Loss: 0.256
+2024-09-01 18:10:49,990 - DEBUG - Iter 300/500 - Loss: 0.865
+DEBUG:my_logger:Iter 300/500 - Loss: 0.865
+2024-09-01 18:10:55,292 - DEBUG - Iter 400/500 - Loss: 0.339
+DEBUG:my_logger:Iter 400/500 - Loss: 0.339
+2024-09-01 18:11:01,523 - DEBUG - Iter 500/500 - Loss: 0.095
+DEBUG:my_logger:Iter 500/500 - Loss: 0.095
+2024-09-01 18:11:01,590 - INFO - NLL: 1.0039; RMSE: 0.2002; NMSE: 0.9445
+INFO:my_logger:NLL: 1.0039; RMSE: 0.2002; NMSE: 0.9445
+2024-09-01 18:11:01,598 - INFO - FOLD 5
+INFO:my_logger:FOLD 5
+2024-09-01 18:11:01,611 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:11:07,067 - DEBUG - Iter 100/500 - Loss: -0.139
+DEBUG:my_logger:Iter 100/500 - Loss: -0.139
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-06 to the diagonal
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-05 to the diagonal
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-04 to the diagonal
+  warnings.warn(
+2024-09-01 18:11:12,427 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:11:12,434 - INFO - FOLD 6
+INFO:my_logger:FOLD 6
+2024-09-01 18:11:12,444 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:11:18,262 - DEBUG - Iter 100/500 - Loss: 0.406
+DEBUG:my_logger:Iter 100/500 - Loss: 0.406
+2024-09-01 18:11:24,220 - DEBUG - Iter 200/500 - Loss: 0.813
+DEBUG:my_logger:Iter 200/500 - Loss: 0.813
+2024-09-01 18:11:29,328 - DEBUG - Iter 300/500 - Loss: -0.027
+DEBUG:my_logger:Iter 300/500 - Loss: -0.027
+2024-09-01 18:11:34,058 - DEBUG - Iter 400/500 - Loss: -0.629
+DEBUG:my_logger:Iter 400/500 - Loss: -0.629
+2024-09-01 18:11:39,960 - DEBUG - Iter 500/500 - Loss: -0.848
+DEBUG:my_logger:Iter 500/500 - Loss: -0.848
+2024-09-01 18:11:40,008 - INFO - NLL: 0.4954; RMSE: 0.2576; NMSE: 1.2787
+INFO:my_logger:NLL: 0.4954; RMSE: 0.2576; NMSE: 1.2787
+2024-09-01 18:11:40,013 - INFO - FOLD 7
+INFO:my_logger:FOLD 7
+2024-09-01 18:11:40,022 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:11:45,258 - DEBUG - Iter 100/500 - Loss: 0.161
+DEBUG:my_logger:Iter 100/500 - Loss: 0.161
+2024-09-01 18:11:51,031 - DEBUG - Iter 200/500 - Loss: -0.533
+DEBUG:my_logger:Iter 200/500 - Loss: -0.533
+2024-09-01 18:11:56,603 - DEBUG - Iter 300/500 - Loss: -0.531
+DEBUG:my_logger:Iter 300/500 - Loss: -0.531
+2024-09-01 18:12:02,536 - DEBUG - Iter 400/500 - Loss: -0.691
+DEBUG:my_logger:Iter 400/500 - Loss: -0.691
+2024-09-01 18:12:08,911 - DEBUG - Iter 500/500 - Loss: -0.877
+DEBUG:my_logger:Iter 500/500 - Loss: -0.877
+2024-09-01 18:12:08,971 - INFO - NLL: -0.8730; RMSE: 0.2275; NMSE: 1.1026
+INFO:my_logger:NLL: -0.8730; RMSE: 0.2275; NMSE: 1.1026
+2024-09-01 18:12:08,980 - INFO - FOLD 8
+INFO:my_logger:FOLD 8
+2024-09-01 18:12:08,996 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:12:15,044 - DEBUG - Iter 100/500 - Loss: 1.123
+DEBUG:my_logger:Iter 100/500 - Loss: 1.123
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-06 to the diagonal
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-05 to the diagonal
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-04 to the diagonal
+  warnings.warn(
+2024-09-01 18:12:19,061 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:12:19,070 - INFO - FOLD 9
+INFO:my_logger:FOLD 9
+2024-09-01 18:12:19,082 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:12:24,094 - DEBUG - Iter 100/500 - Loss: 1.119
+DEBUG:my_logger:Iter 100/500 - Loss: 1.119
+2024-09-01 18:12:24,447 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:12:24,453 - INFO - FOLD 10
+INFO:my_logger:FOLD 10
+2024-09-01 18:12:24,464 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS'>; lr: 0.52; step_size:100; gamma:0.5
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:12:29,522 - DEBUG - Iter 100/500 - Loss: 2.091
+DEBUG:my_logger:Iter 100/500 - Loss: 2.091
+2024-09-01 18:12:34,914 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:12:34,922 - INFO - FOLD 1
+INFO:my_logger:FOLD 1
+2024-09-01 18:12:34,934 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+2024-09-01 18:12:34,951 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+2024-09-01 18:12:49,701 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:12:49,711 - INFO - FOLD 2
+INFO:my_logger:FOLD 2
+2024-09-01 18:12:49,725 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+2024-09-01 18:12:49,745 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+2024-09-01 18:12:58,770 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:12:58,784 - INFO - FOLD 3
+INFO:my_logger:FOLD 3
+2024-09-01 18:12:58,806 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+2024-09-01 18:12:58,834 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:13:11,215 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:13:11,227 - INFO - FOLD 4
+INFO:my_logger:FOLD 4
+2024-09-01 18:13:11,242 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+2024-09-01 18:13:11,269 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:13:36,030 - DEBUG - Iter 100/500 - Loss: -1.046
+DEBUG:my_logger:Iter 100/500 - Loss: -1.046
+2024-09-01 18:14:03,018 - DEBUG - Iter 200/500 - Loss: -1.111
+DEBUG:my_logger:Iter 200/500 - Loss: -1.111
+2024-09-01 18:14:27,942 - DEBUG - Iter 300/500 - Loss: -1.142
+DEBUG:my_logger:Iter 300/500 - Loss: -1.142
+2024-09-01 18:14:27,947 - INFO - Early cut off at epoch 299 with loss of -1.1415647268295288
+INFO:my_logger:Early cut off at epoch 299 with loss of -1.1415647268295288
+2024-09-01 18:14:28,157 - INFO - NLL: -1.1920; RMSE: 0.1448; NMSE: 0.6831
+INFO:my_logger:NLL: -1.1920; RMSE: 0.1448; NMSE: 0.6831
+2024-09-01 18:14:28,170 - INFO - FOLD 5
+INFO:my_logger:FOLD 5
+2024-09-01 18:14:28,184 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+2024-09-01 18:14:28,204 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-06 to the diagonal
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-05 to the diagonal
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-04 to the diagonal
+  warnings.warn(
+2024-09-01 18:14:38,752 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:14:38,763 - INFO - FOLD 6
+INFO:my_logger:FOLD 6
+2024-09-01 18:14:38,774 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+2024-09-01 18:14:38,791 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:14:49,310 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:14:49,325 - INFO - FOLD 7
+INFO:my_logger:FOLD 7
+2024-09-01 18:14:49,338 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+2024-09-01 18:14:49,357 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:15:02,452 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:15:02,460 - INFO - FOLD 8
+INFO:my_logger:FOLD 8
+2024-09-01 18:15:02,470 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+2024-09-01 18:15:02,485 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:15:12,328 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:15:12,345 - INFO - FOLD 9
+INFO:my_logger:FOLD 9
+2024-09-01 18:15:12,360 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+2024-09-01 18:15:12,384 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:15:22,563 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:15:22,572 - INFO - FOLD 10
+INFO:my_logger:FOLD 10
+2024-09-01 18:15:22,584 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS'>; lr: 0.18; step_size:100; gamma:0.8
+2024-09-01 18:15:22,601 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:15:34,074 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 18:15:34,086 - INFO - FOLD 1
+INFO:my_logger:FOLD 1
+2024-09-01 18:15:34,096 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+2024-09-01 18:15:43,600 - DEBUG - Iter 32/500 - Loss: -0.489
+DEBUG:my_logger:Iter 32/500 - Loss: -0.489
+2024-09-01 18:15:52,772 - DEBUG - Iter 64/500 - Loss: -0.846
+DEBUG:my_logger:Iter 64/500 - Loss: -0.846
+2024-09-01 18:16:02,967 - DEBUG - Iter 96/500 - Loss: -0.911
+DEBUG:my_logger:Iter 96/500 - Loss: -0.911
+2024-09-01 18:16:13,062 - DEBUG - Iter 128/500 - Loss: -0.922
+DEBUG:my_logger:Iter 128/500 - Loss: -0.922
+2024-09-01 18:16:13,067 - INFO - Early cut off at epoch 127 with loss of -0.9215220808982849
+INFO:my_logger:Early cut off at epoch 127 with loss of -0.9215220808982849
+2024-09-01 18:16:13,352 - INFO - NLL: -0.7841; RMSE: 0.2159; NMSE: 1.1027
+INFO:my_logger:NLL: -0.7841; RMSE: 0.2159; NMSE: 1.1027
+2024-09-01 18:16:13,360 - INFO - FOLD 2
+INFO:my_logger:FOLD 2
+2024-09-01 18:16:13,369 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+2024-09-01 18:16:21,338 - DEBUG - Iter 32/500 - Loss: -0.465
+DEBUG:my_logger:Iter 32/500 - Loss: -0.465
+2024-09-01 18:16:29,181 - DEBUG - Iter 64/500 - Loss: -0.954
+DEBUG:my_logger:Iter 64/500 - Loss: -0.954
+2024-09-01 18:16:37,813 - DEBUG - Iter 96/500 - Loss: -1.001
+DEBUG:my_logger:Iter 96/500 - Loss: -1.001
+2024-09-01 18:16:46,380 - DEBUG - Iter 128/500 - Loss: -1.009
+DEBUG:my_logger:Iter 128/500 - Loss: -1.009
+2024-09-01 18:16:46,389 - INFO - Early cut off at epoch 127 with loss of -1.0085792541503906
+INFO:my_logger:Early cut off at epoch 127 with loss of -1.0085792541503906
+2024-09-01 18:16:46,695 - INFO - NLL: -0.4592; RMSE: 0.2584; NMSE: 1.2703
+INFO:my_logger:NLL: -0.4592; RMSE: 0.2584; NMSE: 1.2703
+2024-09-01 18:16:46,700 - INFO - FOLD 3
+INFO:my_logger:FOLD 3
+2024-09-01 18:16:46,711 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:16:55,206 - DEBUG - Iter 32/500 - Loss: -0.409
+DEBUG:my_logger:Iter 32/500 - Loss: -0.409
+2024-09-01 18:17:04,362 - DEBUG - Iter 64/500 - Loss: -0.906
+DEBUG:my_logger:Iter 64/500 - Loss: -0.906
+2024-09-01 18:17:13,515 - DEBUG - Iter 96/500 - Loss: -0.954
+DEBUG:my_logger:Iter 96/500 - Loss: -0.954
+2024-09-01 18:17:23,027 - DEBUG - Iter 128/500 - Loss: -0.962
+DEBUG:my_logger:Iter 128/500 - Loss: -0.962
+2024-09-01 18:17:23,032 - INFO - Early cut off at epoch 127 with loss of -0.9623646140098572
+INFO:my_logger:Early cut off at epoch 127 with loss of -0.9623646140098572
+2024-09-01 18:17:23,301 - INFO - NLL: -0.7815; RMSE: 0.2217; NMSE: 1.1356
+INFO:my_logger:NLL: -0.7815; RMSE: 0.2217; NMSE: 1.1356
+2024-09-01 18:17:23,306 - INFO - FOLD 4
+INFO:my_logger:FOLD 4
+2024-09-01 18:17:23,322 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:17:33,060 - DEBUG - Iter 32/500 - Loss: -0.464
+DEBUG:my_logger:Iter 32/500 - Loss: -0.464
+2024-09-01 18:17:42,822 - DEBUG - Iter 64/500 - Loss: -0.923
+DEBUG:my_logger:Iter 64/500 - Loss: -0.923
+2024-09-01 18:17:52,488 - DEBUG - Iter 96/500 - Loss: -0.968
+DEBUG:my_logger:Iter 96/500 - Loss: -0.968
+2024-09-01 18:18:02,789 - DEBUG - Iter 128/500 - Loss: -0.976
+DEBUG:my_logger:Iter 128/500 - Loss: -0.976
+2024-09-01 18:18:02,794 - INFO - Early cut off at epoch 127 with loss of -0.9759796261787415
+INFO:my_logger:Early cut off at epoch 127 with loss of -0.9759796261787415
+2024-09-01 18:18:03,049 - INFO - NLL: -0.9597; RMSE: 0.1577; NMSE: 0.7438
+INFO:my_logger:NLL: -0.9597; RMSE: 0.1577; NMSE: 0.7438
+2024-09-01 18:18:03,057 - INFO - FOLD 5
+INFO:my_logger:FOLD 5
+2024-09-01 18:18:03,068 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:18:13,237 - DEBUG - Iter 32/500 - Loss: -0.475
+DEBUG:my_logger:Iter 32/500 - Loss: -0.475
+2024-09-01 18:18:23,699 - DEBUG - Iter 64/500 - Loss: -0.930
+DEBUG:my_logger:Iter 64/500 - Loss: -0.930
+2024-09-01 18:18:34,176 - DEBUG - Iter 96/500 - Loss: -0.972
+DEBUG:my_logger:Iter 96/500 - Loss: -0.972
+2024-09-01 18:18:44,828 - DEBUG - Iter 128/500 - Loss: -0.980
+DEBUG:my_logger:Iter 128/500 - Loss: -0.980
+2024-09-01 18:18:44,833 - INFO - Early cut off at epoch 127 with loss of -0.9801899790763855
+INFO:my_logger:Early cut off at epoch 127 with loss of -0.9801899790763855
+2024-09-01 18:18:45,125 - INFO - NLL: -0.9756; RMSE: 0.1685; NMSE: 0.7891
+INFO:my_logger:NLL: -0.9756; RMSE: 0.1685; NMSE: 0.7891
+2024-09-01 18:18:45,132 - INFO - FOLD 6
+INFO:my_logger:FOLD 6
+2024-09-01 18:18:45,139 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:18:54,761 - DEBUG - Iter 32/500 - Loss: -0.323
+DEBUG:my_logger:Iter 32/500 - Loss: -0.323
+2024-09-01 18:19:04,806 - DEBUG - Iter 64/500 - Loss: -0.891
+DEBUG:my_logger:Iter 64/500 - Loss: -0.891
+2024-09-01 18:19:15,288 - DEBUG - Iter 96/500 - Loss: -0.944
+DEBUG:my_logger:Iter 96/500 - Loss: -0.944
+2024-09-01 18:19:26,016 - DEBUG - Iter 128/500 - Loss: -0.953
+DEBUG:my_logger:Iter 128/500 - Loss: -0.953
+2024-09-01 18:19:26,021 - INFO - Early cut off at epoch 127 with loss of -0.9534663558006287
+INFO:my_logger:Early cut off at epoch 127 with loss of -0.9534663558006287
+2024-09-01 18:19:26,389 - INFO - NLL: -0.7594; RMSE: 0.2295; NMSE: 1.1394
+INFO:my_logger:NLL: -0.7594; RMSE: 0.2295; NMSE: 1.1394
+2024-09-01 18:19:26,400 - INFO - FOLD 7
+INFO:my_logger:FOLD 7
+2024-09-01 18:19:26,412 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:19:36,664 - DEBUG - Iter 32/500 - Loss: -0.674
+DEBUG:my_logger:Iter 32/500 - Loss: -0.674
+2024-09-01 18:19:47,160 - DEBUG - Iter 64/500 - Loss: -0.896
+DEBUG:my_logger:Iter 64/500 - Loss: -0.896
+2024-09-01 18:19:57,964 - DEBUG - Iter 96/500 - Loss: -0.968
+DEBUG:my_logger:Iter 96/500 - Loss: -0.968
+2024-09-01 18:20:09,454 - DEBUG - Iter 128/500 - Loss: -0.976
+DEBUG:my_logger:Iter 128/500 - Loss: -0.976
+2024-09-01 18:20:09,463 - INFO - Early cut off at epoch 127 with loss of -0.9760144948959351
+INFO:my_logger:Early cut off at epoch 127 with loss of -0.9760144948959351
+2024-09-01 18:20:09,792 - INFO - NLL: -0.9337; RMSE: 0.1924; NMSE: 0.9322
+INFO:my_logger:NLL: -0.9337; RMSE: 0.1924; NMSE: 0.9322
+2024-09-01 18:20:09,802 - INFO - FOLD 8
+INFO:my_logger:FOLD 8
+2024-09-01 18:20:09,808 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:20:19,238 - DEBUG - Iter 32/500 - Loss: -0.231
+DEBUG:my_logger:Iter 32/500 - Loss: -0.231
+2024-09-01 18:20:29,040 - DEBUG - Iter 64/500 - Loss: -0.784
+DEBUG:my_logger:Iter 64/500 - Loss: -0.784
+2024-09-01 18:20:39,419 - DEBUG - Iter 96/500 - Loss: -0.871
+DEBUG:my_logger:Iter 96/500 - Loss: -0.871
+2024-09-01 18:20:50,343 - DEBUG - Iter 128/500 - Loss: -0.890
+DEBUG:my_logger:Iter 128/500 - Loss: -0.890
+2024-09-01 18:20:50,347 - INFO - Early cut off at epoch 127 with loss of -0.8899915218353271
+INFO:my_logger:Early cut off at epoch 127 with loss of -0.8899915218353271
+2024-09-01 18:20:50,624 - INFO - NLL: -0.7196; RMSE: 0.2227; NMSE: 1.1023
+INFO:my_logger:NLL: -0.7196; RMSE: 0.2227; NMSE: 1.1023
+2024-09-01 18:20:50,630 - INFO - FOLD 9
+INFO:my_logger:FOLD 9
+2024-09-01 18:20:50,644 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:20:58,351 - DEBUG - Iter 32/500 - Loss: -0.428
+DEBUG:my_logger:Iter 32/500 - Loss: -0.428
+2024-09-01 18:21:06,798 - DEBUG - Iter 64/500 - Loss: -0.947
+DEBUG:my_logger:Iter 64/500 - Loss: -0.947
+2024-09-01 18:21:15,602 - DEBUG - Iter 96/500 - Loss: -0.995
+DEBUG:my_logger:Iter 96/500 - Loss: -0.995
+2024-09-01 18:21:23,843 - DEBUG - Iter 128/500 - Loss: -1.003
+DEBUG:my_logger:Iter 128/500 - Loss: -1.003
+2024-09-01 18:21:23,849 - INFO - Early cut off at epoch 127 with loss of -1.002841591835022
+INFO:my_logger:Early cut off at epoch 127 with loss of -1.002841591835022
+2024-09-01 18:21:24,138 - INFO - NLL: -0.6460; RMSE: 0.2522; NMSE: 1.3482
+INFO:my_logger:NLL: -0.6460; RMSE: 0.2522; NMSE: 1.3482
+2024-09-01 18:21:24,147 - INFO - FOLD 10
+INFO:my_logger:FOLD 10
+2024-09-01 18:21:24,160 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.18; step_size:32; gamma:0.2
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:21:32,307 - DEBUG - Iter 32/500 - Loss: -0.221
+DEBUG:my_logger:Iter 32/500 - Loss: -0.221
+2024-09-01 18:21:41,030 - DEBUG - Iter 64/500 - Loss: -0.807
+DEBUG:my_logger:Iter 64/500 - Loss: -0.807
+2024-09-01 18:21:49,809 - DEBUG - Iter 96/500 - Loss: -0.907
+DEBUG:my_logger:Iter 96/500 - Loss: -0.907
+2024-09-01 18:21:59,353 - DEBUG - Iter 128/500 - Loss: -0.919
+DEBUG:my_logger:Iter 128/500 - Loss: -0.919
+2024-09-01 18:21:59,358 - INFO - Early cut off at epoch 127 with loss of -0.9188483357429504
+INFO:my_logger:Early cut off at epoch 127 with loss of -0.9188483357429504
+2024-09-01 18:21:59,650 - INFO - NLL: -0.1102; RMSE: 0.2720; NMSE: 1.3213
+INFO:my_logger:NLL: -0.1102; RMSE: 0.2720; NMSE: 1.3213
+2024-09-01 18:21:59,657 - INFO - FOLD 1
+INFO:my_logger:FOLD 1
+2024-09-01 18:21:59,666 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+2024-09-01 18:21:59,693 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+2024-09-01 18:22:54,198 - DEBUG - Iter 77/500 - Loss: 0.705
+DEBUG:my_logger:Iter 77/500 - Loss: 0.705
+2024-09-01 18:23:47,318 - DEBUG - Iter 154/500 - Loss: -0.263
+DEBUG:my_logger:Iter 154/500 - Loss: -0.263
+2024-09-01 18:24:40,048 - DEBUG - Iter 231/500 - Loss: -1.238
+DEBUG:my_logger:Iter 231/500 - Loss: -1.238
+2024-09-01 18:25:34,327 - DEBUG - Iter 308/500 - Loss: -1.288
+DEBUG:my_logger:Iter 308/500 - Loss: -1.288
+2024-09-01 18:25:34,332 - INFO - Early cut off at epoch 307 with loss of -1.287846326828003
+INFO:my_logger:Early cut off at epoch 307 with loss of -1.287846326828003
+2024-09-01 18:25:34,996 - INFO - NLL: -1.1369; RMSE: 0.2072; NMSE: 1.0588
+INFO:my_logger:NLL: -1.1369; RMSE: 0.2072; NMSE: 1.0588
+2024-09-01 18:25:35,004 - INFO - FOLD 2
+INFO:my_logger:FOLD 2
+2024-09-01 18:25:35,015 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+2024-09-01 18:25:35,036 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+2024-09-01 18:26:24,242 - DEBUG - Iter 77/500 - Loss: 0.696
+DEBUG:my_logger:Iter 77/500 - Loss: 0.696
+2024-09-01 18:27:13,026 - DEBUG - Iter 154/500 - Loss: -0.438
+DEBUG:my_logger:Iter 154/500 - Loss: -0.438
+2024-09-01 18:28:02,728 - DEBUG - Iter 231/500 - Loss: -1.307
+DEBUG:my_logger:Iter 231/500 - Loss: -1.307
+2024-09-01 18:28:54,884 - DEBUG - Iter 308/500 - Loss: -1.309
+DEBUG:my_logger:Iter 308/500 - Loss: -1.309
+2024-09-01 18:28:54,889 - INFO - Early cut off at epoch 307 with loss of -1.3093793392181396
+INFO:my_logger:Early cut off at epoch 307 with loss of -1.3093793392181396
+2024-09-01 18:28:55,535 - INFO - NLL: -0.6978; RMSE: 0.2584; NMSE: 1.2704
+INFO:my_logger:NLL: -0.6978; RMSE: 0.2584; NMSE: 1.2704
+2024-09-01 18:28:55,545 - INFO - FOLD 3
+INFO:my_logger:FOLD 3
+2024-09-01 18:28:55,560 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+2024-09-01 18:28:55,579 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:29:46,476 - DEBUG - Iter 77/500 - Loss: 0.427
+DEBUG:my_logger:Iter 77/500 - Loss: 0.427
+2024-09-01 18:30:37,297 - DEBUG - Iter 154/500 - Loss: -0.264
+DEBUG:my_logger:Iter 154/500 - Loss: -0.264
+2024-09-01 18:31:27,458 - DEBUG - Iter 231/500 - Loss: -1.217
+DEBUG:my_logger:Iter 231/500 - Loss: -1.217
+2024-09-01 18:32:22,563 - DEBUG - Iter 308/500 - Loss: -1.274
+DEBUG:my_logger:Iter 308/500 - Loss: -1.274
+2024-09-01 18:33:19,676 - DEBUG - Iter 385/500 - Loss: -1.274
+DEBUG:my_logger:Iter 385/500 - Loss: -1.274
+2024-09-01 18:33:19,685 - INFO - Early cut off at epoch 384 with loss of -1.2737418413162231
+INFO:my_logger:Early cut off at epoch 384 with loss of -1.2737418413162231
+2024-09-01 18:33:20,347 - INFO - NLL: -1.0529; RMSE: 0.2218; NMSE: 1.1363
+INFO:my_logger:NLL: -1.0529; RMSE: 0.2218; NMSE: 1.1363
+2024-09-01 18:33:20,358 - INFO - FOLD 4
+INFO:my_logger:FOLD 4
+2024-09-01 18:33:20,366 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+2024-09-01 18:33:20,388 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:34:16,309 - DEBUG - Iter 77/500 - Loss: 0.701
+DEBUG:my_logger:Iter 77/500 - Loss: 0.701
+2024-09-01 18:35:12,249 - DEBUG - Iter 154/500 - Loss: -0.359
+DEBUG:my_logger:Iter 154/500 - Loss: -0.359
+2024-09-01 18:36:09,863 - DEBUG - Iter 231/500 - Loss: -1.264
+DEBUG:my_logger:Iter 231/500 - Loss: -1.264
+2024-09-01 18:37:09,269 - DEBUG - Iter 308/500 - Loss: -1.271
+DEBUG:my_logger:Iter 308/500 - Loss: -1.271
+2024-09-01 18:37:09,274 - INFO - Early cut off at epoch 307 with loss of -1.2711963653564453
+INFO:my_logger:Early cut off at epoch 307 with loss of -1.2711963653564453
+2024-09-01 18:37:10,048 - INFO - NLL: -1.2275; RMSE: 0.1576; NMSE: 0.7433
+INFO:my_logger:NLL: -1.2275; RMSE: 0.1576; NMSE: 0.7433
+2024-09-01 18:37:10,065 - INFO - FOLD 5
+INFO:my_logger:FOLD 5
+2024-09-01 18:37:10,080 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+2024-09-01 18:37:10,102 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:38:06,229 - DEBUG - Iter 77/500 - Loss: 0.793
+DEBUG:my_logger:Iter 77/500 - Loss: 0.793
+2024-09-01 18:39:01,791 - DEBUG - Iter 154/500 - Loss: -0.665
+DEBUG:my_logger:Iter 154/500 - Loss: -0.665
+2024-09-01 18:39:58,525 - DEBUG - Iter 231/500 - Loss: -1.275
+DEBUG:my_logger:Iter 231/500 - Loss: -1.275
+2024-09-01 18:40:57,240 - DEBUG - Iter 308/500 - Loss: -1.277
+DEBUG:my_logger:Iter 308/500 - Loss: -1.277
+2024-09-01 18:40:57,245 - INFO - Early cut off at epoch 307 with loss of -1.2771440744400024
+INFO:my_logger:Early cut off at epoch 307 with loss of -1.2771440744400024
+2024-09-01 18:40:57,994 - INFO - NLL: -1.2142; RMSE: 0.1685; NMSE: 0.7891
+INFO:my_logger:NLL: -1.2142; RMSE: 0.1685; NMSE: 0.7891
+2024-09-01 18:40:58,012 - INFO - FOLD 6
+INFO:my_logger:FOLD 6
+2024-09-01 18:40:58,026 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+2024-09-01 18:40:58,056 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:41:52,447 - DEBUG - Iter 77/500 - Loss: 1.189
+DEBUG:my_logger:Iter 77/500 - Loss: 1.189
+2024-09-01 18:42:46,532 - DEBUG - Iter 154/500 - Loss: -0.654
+DEBUG:my_logger:Iter 154/500 - Loss: -0.654
+2024-09-01 18:43:41,284 - DEBUG - Iter 231/500 - Loss: -1.278
+DEBUG:my_logger:Iter 231/500 - Loss: -1.278
+2024-09-01 18:44:37,823 - DEBUG - Iter 308/500 - Loss: -1.281
+DEBUG:my_logger:Iter 308/500 - Loss: -1.281
+2024-09-01 18:44:37,828 - INFO - Early cut off at epoch 307 with loss of -1.2812347412109375
+INFO:my_logger:Early cut off at epoch 307 with loss of -1.2812347412109375
+2024-09-01 18:44:38,456 - INFO - NLL: -1.0836; RMSE: 0.2292; NMSE: 1.1380
+INFO:my_logger:NLL: -1.0836; RMSE: 0.2292; NMSE: 1.1380
+2024-09-01 18:44:38,464 - INFO - FOLD 7
+INFO:my_logger:FOLD 7
+2024-09-01 18:44:38,476 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+2024-09-01 18:44:38,500 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:45:35,386 - DEBUG - Iter 77/500 - Loss: 0.626
+DEBUG:my_logger:Iter 77/500 - Loss: 0.626
+2024-09-01 18:46:30,356 - DEBUG - Iter 154/500 - Loss: -0.470
+DEBUG:my_logger:Iter 154/500 - Loss: -0.470
+2024-09-01 18:47:28,853 - DEBUG - Iter 231/500 - Loss: -1.261
+DEBUG:my_logger:Iter 231/500 - Loss: -1.261
+2024-09-01 18:48:30,794 - DEBUG - Iter 308/500 - Loss: -1.265
+DEBUG:my_logger:Iter 308/500 - Loss: -1.265
+2024-09-01 18:48:30,800 - INFO - Early cut off at epoch 307 with loss of -1.2645457983016968
+INFO:my_logger:Early cut off at epoch 307 with loss of -1.2645457983016968
+2024-09-01 18:48:31,568 - INFO - NLL: -1.1945; RMSE: 0.1925; NMSE: 0.9327
+INFO:my_logger:NLL: -1.1945; RMSE: 0.1925; NMSE: 0.9327
+2024-09-01 18:48:31,585 - INFO - FOLD 8
+INFO:my_logger:FOLD 8
+2024-09-01 18:48:31,597 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+2024-09-01 18:48:31,625 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:49:28,909 - DEBUG - Iter 77/500 - Loss: 0.559
+DEBUG:my_logger:Iter 77/500 - Loss: 0.559
+2024-09-01 18:50:24,540 - DEBUG - Iter 154/500 - Loss: -0.675
+DEBUG:my_logger:Iter 154/500 - Loss: -0.675
+2024-09-01 18:51:20,253 - DEBUG - Iter 231/500 - Loss: -1.254
+DEBUG:my_logger:Iter 231/500 - Loss: -1.254
+2024-09-01 18:52:17,948 - DEBUG - Iter 308/500 - Loss: -1.267
+DEBUG:my_logger:Iter 308/500 - Loss: -1.267
+2024-09-01 18:52:17,952 - INFO - Early cut off at epoch 307 with loss of -1.266502857208252
+INFO:my_logger:Early cut off at epoch 307 with loss of -1.266502857208252
+2024-09-01 18:52:18,646 - INFO - NLL: -1.1656; RMSE: 0.2187; NMSE: 1.0821
+INFO:my_logger:NLL: -1.1656; RMSE: 0.2187; NMSE: 1.0821
+2024-09-01 18:52:18,657 - INFO - FOLD 9
+INFO:my_logger:FOLD 9
+2024-09-01 18:52:18,672 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+2024-09-01 18:52:18,699 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:53:05,348 - DEBUG - Iter 77/500 - Loss: 0.685
+DEBUG:my_logger:Iter 77/500 - Loss: 0.685
+2024-09-01 18:53:52,107 - DEBUG - Iter 154/500 - Loss: -0.375
+DEBUG:my_logger:Iter 154/500 - Loss: -0.375
+2024-09-01 18:54:40,114 - DEBUG - Iter 231/500 - Loss: -1.286
+DEBUG:my_logger:Iter 231/500 - Loss: -1.286
+2024-09-01 18:55:31,802 - DEBUG - Iter 308/500 - Loss: -1.292
+DEBUG:my_logger:Iter 308/500 - Loss: -1.292
+2024-09-01 18:55:31,810 - INFO - Early cut off at epoch 307 with loss of -1.291683316230774
+INFO:my_logger:Early cut off at epoch 307 with loss of -1.291683316230774
+2024-09-01 18:55:32,555 - INFO - NLL: -0.8574; RMSE: 0.2524; NMSE: 1.3493
+INFO:my_logger:NLL: -0.8574; RMSE: 0.2524; NMSE: 1.3493
+2024-09-01 18:55:32,567 - INFO - FOLD 10
+INFO:my_logger:FOLD 10
+2024-09-01 18:55:32,582 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_Alpha_Beta'>; lr: 0.69; step_size:77; gamma:0.2
+2024-09-01 18:55:32,613 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 18:56:19,382 - DEBUG - Iter 77/500 - Loss: 1.123
+DEBUG:my_logger:Iter 77/500 - Loss: 1.123
+2024-09-01 18:57:08,104 - DEBUG - Iter 154/500 - Loss: -0.431
+DEBUG:my_logger:Iter 154/500 - Loss: -0.431
+2024-09-01 18:57:55,796 - DEBUG - Iter 231/500 - Loss: -1.313
+DEBUG:my_logger:Iter 231/500 - Loss: -1.313
+2024-09-01 18:58:45,457 - DEBUG - Iter 308/500 - Loss: -1.317
+DEBUG:my_logger:Iter 308/500 - Loss: -1.317
+2024-09-01 18:58:45,463 - INFO - Early cut off at epoch 307 with loss of -1.3165372610092163
+INFO:my_logger:Early cut off at epoch 307 with loss of -1.3165372610092163
+2024-09-01 18:58:46,123 - INFO - NLL: -0.4385; RMSE: 0.2688; NMSE: 1.3057
+INFO:my_logger:NLL: -0.4385; RMSE: 0.2688; NMSE: 1.3057
+2024-09-01 18:58:46,133 - INFO - FOLD 1
+INFO:my_logger:FOLD 1
+2024-09-01 18:58:46,145 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+2024-09-01 18:59:47,581 - DEBUG - Iter 155/500 - Loss: -0.789
+DEBUG:my_logger:Iter 155/500 - Loss: -0.789
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-06 to the diagonal
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-05 to the diagonal
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-04 to the diagonal
+  warnings.warn(
+2024-09-01 19:00:27,114 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 19:00:27,121 - INFO - FOLD 2
+INFO:my_logger:FOLD 2
+2024-09-01 19:00:27,134 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+2024-09-01 19:00:52,371 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 19:00:52,380 - INFO - FOLD 3
+INFO:my_logger:FOLD 3
+2024-09-01 19:00:52,393 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 19:01:40,201 - DEBUG - Iter 155/500 - Loss: -0.522
+DEBUG:my_logger:Iter 155/500 - Loss: -0.522
+2024-09-01 19:01:49,139 - DEBUG - Iter 310/500 - Loss: -1.223
+DEBUG:my_logger:Iter 310/500 - Loss: -1.223
+2024-09-01 19:01:55,157 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 19:01:55,163 - INFO - FOLD 4
+INFO:my_logger:FOLD 4
+2024-09-01 19:01:55,171 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 19:02:28,585 - DEBUG - Iter 155/500 - Loss: -0.931
+DEBUG:my_logger:Iter 155/500 - Loss: -0.931
+2024-09-01 19:03:01,989 - DEBUG - Iter 310/500 - Loss: -1.274
+DEBUG:my_logger:Iter 310/500 - Loss: -1.274
+2024-09-01 19:03:36,149 - DEBUG - Iter 465/500 - Loss: -1.276
+DEBUG:my_logger:Iter 465/500 - Loss: -1.276
+2024-09-01 19:03:43,419 - INFO - NLL: -1.2569; RMSE: 0.1559; NMSE: 0.7352
+INFO:my_logger:NLL: -1.2569; RMSE: 0.1559; NMSE: 0.7352
+2024-09-01 19:03:43,430 - INFO - FOLD 5
+INFO:my_logger:FOLD 5
+2024-09-01 19:03:43,448 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 19:04:36,570 - DEBUG - Iter 155/500 - Loss: -0.909
+DEBUG:my_logger:Iter 155/500 - Loss: -0.909
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-06 to the diagonal
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-05 to the diagonal
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-04 to the diagonal
+  warnings.warn(
+2024-09-01 19:04:47,823 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 19:04:47,834 - INFO - FOLD 6
+INFO:my_logger:FOLD 6
+2024-09-01 19:04:47,844 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 19:05:48,833 - DEBUG - Iter 155/500 - Loss: -0.983
+DEBUG:my_logger:Iter 155/500 - Loss: -0.983
+2024-09-01 19:06:31,822 - DEBUG - Iter 310/500 - Loss: -1.347
+DEBUG:my_logger:Iter 310/500 - Loss: -1.347
+2024-09-01 19:06:41,801 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 19:06:41,807 - INFO - FOLD 7
+INFO:my_logger:FOLD 7
+2024-09-01 19:06:41,818 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 19:06:52,840 - DEBUG - Iter 155/500 - Loss: -0.352
+DEBUG:my_logger:Iter 155/500 - Loss: -0.352
+2024-09-01 19:07:01,942 - DEBUG - Iter 310/500 - Loss: -0.562
+DEBUG:my_logger:Iter 310/500 - Loss: -0.562
+2024-09-01 19:07:11,409 - DEBUG - Iter 465/500 - Loss: -0.791
+DEBUG:my_logger:Iter 465/500 - Loss: -0.791
+2024-09-01 19:07:13,446 - INFO - NLL: 0.0146; RMSE: 0.3437; NMSE: 1.6654
+INFO:my_logger:NLL: 0.0146; RMSE: 0.3437; NMSE: 1.6654
+2024-09-01 19:07:13,451 - INFO - FOLD 8
+INFO:my_logger:FOLD 8
+2024-09-01 19:07:13,463 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 19:07:24,736 - DEBUG - Iter 155/500 - Loss: -1.157
+DEBUG:my_logger:Iter 155/500 - Loss: -1.157
+2024-09-01 19:07:34,081 - DEBUG - Iter 310/500 - Loss: -1.311
+DEBUG:my_logger:Iter 310/500 - Loss: -1.311
+2024-09-01 19:07:42,087 - DEBUG - Iter 465/500 - Loss: -1.343
+DEBUG:my_logger:Iter 465/500 - Loss: -1.343
+2024-09-01 19:07:44,171 - INFO - NLL: -1.1046; RMSE: 0.3231; NMSE: 1.5989
+INFO:my_logger:NLL: -1.1046; RMSE: 0.3231; NMSE: 1.5989
+2024-09-01 19:07:44,177 - INFO - FOLD 9
+INFO:my_logger:FOLD 9
+2024-09-01 19:07:44,188 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-06 to the diagonal
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-05 to the diagonal
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/linear_operator/utils/cholesky.py:40: NumericalWarning: A not p.d., added jitter of 1.0e-04 to the diagonal
+  warnings.warn(
+2024-09-01 19:07:48,422 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 19:07:48,427 - INFO - FOLD 10
+INFO:my_logger:FOLD 10
+2024-09-01 19:07:48,434 - INFO - training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.MultitaskGP'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:77.5; gamma:0.35
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 19:08:34,886 - DEBUG - Iter 155/500 - Loss: -1.235
+DEBUG:my_logger:Iter 155/500 - Loss: -1.235
+2024-09-01 19:08:35,613 - ERROR - 发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+ERROR:my_logger:发生了一个异常: Matrix not positive definite after repeatedly adding jitter up to 1.0e-04.
+2024-09-01 19:08:35,620 - INFO - FOLD 1
+INFO:my_logger:FOLD 1
+2024-09-01 19:08:35,630 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-01 19:08:35,658 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+2024-09-01 19:08:55,411 - DEBUG - Iter 33/500 - Loss: -0.744
+DEBUG:my_logger:Iter 33/500 - Loss: -0.744
+2024-09-01 19:09:29,930 - DEBUG - Iter 66/500 - Loss: -1.157
+DEBUG:my_logger:Iter 66/500 - Loss: -1.157
+2024-09-01 19:10:04,284 - DEBUG - Iter 99/500 - Loss: -1.233
+DEBUG:my_logger:Iter 99/500 - Loss: -1.233
+2024-09-01 19:10:38,008 - DEBUG - Iter 132/500 - Loss: -1.251
+DEBUG:my_logger:Iter 132/500 - Loss: -1.251
+2024-09-01 19:10:38,014 - INFO - Early cut off at epoch 131 with loss of -1.2514902353286743
+INFO:my_logger:Early cut off at epoch 131 with loss of -1.2514902353286743
+2024-09-01 19:10:38,758 - INFO - NLL: -1.0516; RMSE: 0.2087; NMSE: 1.0661
+INFO:my_logger:NLL: -1.0516; RMSE: 0.2087; NMSE: 1.0661
+2024-09-01 19:10:38,780 - INFO - FOLD 2
+INFO:my_logger:FOLD 2
+2024-09-01 19:10:38,800 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-01 19:10:38,830 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([55, 1085])
+y_train_tensor shape: torch.Size([55, 10])
+X_train_tensor shape: torch.Size([7, 1085])
+y_train_tensor shape: torch.Size([7, 10])
+2024-09-01 19:10:55,712 - DEBUG - Iter 33/500 - Loss: -0.706
+DEBUG:my_logger:Iter 33/500 - Loss: -0.706
+2024-09-01 19:11:23,790 - DEBUG - Iter 66/500 - Loss: -1.166
+DEBUG:my_logger:Iter 66/500 - Loss: -1.166
+2024-09-01 19:11:52,133 - DEBUG - Iter 99/500 - Loss: -1.251
+DEBUG:my_logger:Iter 99/500 - Loss: -1.251
+2024-09-01 19:12:20,890 - DEBUG - Iter 132/500 - Loss: -1.271
+DEBUG:my_logger:Iter 132/500 - Loss: -1.271
+2024-09-01 19:12:20,896 - INFO - Early cut off at epoch 131 with loss of -1.2714370489120483
+INFO:my_logger:Early cut off at epoch 131 with loss of -1.2714370489120483
+2024-09-01 19:12:21,387 - INFO - NLL: -0.3292; RMSE: 0.2635; NMSE: 1.2956
+INFO:my_logger:NLL: -0.3292; RMSE: 0.2635; NMSE: 1.2956
+2024-09-01 19:12:21,401 - INFO - FOLD 3
+INFO:my_logger:FOLD 3
+2024-09-01 19:12:21,410 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-01 19:12:21,436 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 19:12:41,165 - DEBUG - Iter 33/500 - Loss: -0.632
+DEBUG:my_logger:Iter 33/500 - Loss: -0.632
+2024-09-01 19:13:15,160 - DEBUG - Iter 66/500 - Loss: -1.134
+DEBUG:my_logger:Iter 66/500 - Loss: -1.134
+2024-09-01 19:13:49,823 - DEBUG - Iter 99/500 - Loss: -1.219
+DEBUG:my_logger:Iter 99/500 - Loss: -1.219
+2024-09-01 19:14:24,571 - DEBUG - Iter 132/500 - Loss: -1.237
+DEBUG:my_logger:Iter 132/500 - Loss: -1.237
+2024-09-01 19:14:24,579 - INFO - Early cut off at epoch 131 with loss of -1.2371678352355957
+INFO:my_logger:Early cut off at epoch 131 with loss of -1.2371678352355957
+2024-09-01 19:14:25,301 - INFO - NLL: -0.9178; RMSE: 0.2239; NMSE: 1.1468
+INFO:my_logger:NLL: -0.9178; RMSE: 0.2239; NMSE: 1.1468
+2024-09-01 19:14:25,312 - INFO - FOLD 4
+INFO:my_logger:FOLD 4
+2024-09-01 19:14:25,330 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-01 19:14:25,354 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 19:14:42,477 - DEBUG - Iter 33/500 - Loss: -0.696
+DEBUG:my_logger:Iter 33/500 - Loss: -0.696
+2024-09-01 19:15:10,287 - DEBUG - Iter 66/500 - Loss: -1.140
+DEBUG:my_logger:Iter 66/500 - Loss: -1.140
+2024-09-01 19:15:39,152 - DEBUG - Iter 99/500 - Loss: -1.214
+DEBUG:my_logger:Iter 99/500 - Loss: -1.214
+2024-09-01 19:16:08,508 - DEBUG - Iter 132/500 - Loss: -1.231
+DEBUG:my_logger:Iter 132/500 - Loss: -1.231
+2024-09-01 19:16:08,514 - INFO - Early cut off at epoch 131 with loss of -1.231415033340454
+INFO:my_logger:Early cut off at epoch 131 with loss of -1.231415033340454
+2024-09-01 19:16:09,000 - INFO - NLL: -1.1919; RMSE: 0.1484; NMSE: 0.7001
+INFO:my_logger:NLL: -1.1919; RMSE: 0.1484; NMSE: 0.7001
+2024-09-01 19:16:09,019 - INFO - FOLD 5
+INFO:my_logger:FOLD 5
+2024-09-01 19:16:09,035 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-01 19:16:09,058 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 19:16:27,678 - DEBUG - Iter 33/500 - Loss: -0.626
+DEBUG:my_logger:Iter 33/500 - Loss: -0.626
+2024-09-01 19:16:58,792 - DEBUG - Iter 66/500 - Loss: -1.124
+DEBUG:my_logger:Iter 66/500 - Loss: -1.124
+2024-09-01 19:17:30,008 - DEBUG - Iter 99/500 - Loss: -1.211
+DEBUG:my_logger:Iter 99/500 - Loss: -1.211
+2024-09-01 19:18:02,038 - DEBUG - Iter 132/500 - Loss: -1.231
+DEBUG:my_logger:Iter 132/500 - Loss: -1.231
+2024-09-01 19:18:02,043 - INFO - Early cut off at epoch 131 with loss of -1.231207013130188
+INFO:my_logger:Early cut off at epoch 131 with loss of -1.231207013130188
+2024-09-01 19:18:02,574 - INFO - NLL: -1.1804; RMSE: 0.1613; NMSE: 0.7551
+INFO:my_logger:NLL: -1.1804; RMSE: 0.1613; NMSE: 0.7551
+2024-09-01 19:18:02,584 - INFO - FOLD 6
+INFO:my_logger:FOLD 6
+2024-09-01 19:18:02,599 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-01 19:18:02,623 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 19:18:18,317 - DEBUG - Iter 33/500 - Loss: -0.687
+DEBUG:my_logger:Iter 33/500 - Loss: -0.687
+2024-09-01 19:18:45,603 - DEBUG - Iter 66/500 - Loss: -1.151
+DEBUG:my_logger:Iter 66/500 - Loss: -1.151
+2024-09-01 19:19:13,254 - DEBUG - Iter 99/500 - Loss: -1.233
+DEBUG:my_logger:Iter 99/500 - Loss: -1.233
+2024-09-01 19:19:40,457 - DEBUG - Iter 132/500 - Loss: -1.252
+DEBUG:my_logger:Iter 132/500 - Loss: -1.252
+2024-09-01 19:19:40,463 - INFO - Early cut off at epoch 131 with loss of -1.2515087127685547
+INFO:my_logger:Early cut off at epoch 131 with loss of -1.2515087127685547
+2024-09-01 19:19:40,876 - INFO - NLL: -0.9644; RMSE: 0.2293; NMSE: 1.1383
+INFO:my_logger:NLL: -0.9644; RMSE: 0.2293; NMSE: 1.1383
+2024-09-01 19:19:40,891 - INFO - FOLD 7
+INFO:my_logger:FOLD 7
+2024-09-01 19:19:40,902 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-01 19:19:40,925 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 19:19:57,292 - DEBUG - Iter 33/500 - Loss: -0.710
+DEBUG:my_logger:Iter 33/500 - Loss: -0.710
+2024-09-01 19:20:22,880 - DEBUG - Iter 66/500 - Loss: -1.136
+DEBUG:my_logger:Iter 66/500 - Loss: -1.136
+2024-09-01 19:20:48,434 - DEBUG - Iter 99/500 - Loss: -1.215
+DEBUG:my_logger:Iter 99/500 - Loss: -1.215
+2024-09-01 19:21:14,362 - DEBUG - Iter 132/500 - Loss: -1.234
+DEBUG:my_logger:Iter 132/500 - Loss: -1.234
+2024-09-01 19:21:14,366 - INFO - Early cut off at epoch 131 with loss of -1.2336878776550293
+INFO:my_logger:Early cut off at epoch 131 with loss of -1.2336878776550293
+2024-09-01 19:21:14,757 - INFO - NLL: -1.1034; RMSE: 0.1886; NMSE: 0.9139
+INFO:my_logger:NLL: -1.1034; RMSE: 0.1886; NMSE: 0.9139
+2024-09-01 19:21:14,764 - INFO - FOLD 8
+INFO:my_logger:FOLD 8
+2024-09-01 19:21:14,775 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-01 19:21:14,798 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 19:21:33,483 - DEBUG - Iter 33/500 - Loss: -0.700
+DEBUG:my_logger:Iter 33/500 - Loss: -0.700
+2024-09-01 19:22:03,385 - DEBUG - Iter 66/500 - Loss: -1.131
+DEBUG:my_logger:Iter 66/500 - Loss: -1.131
+2024-09-01 19:22:32,679 - DEBUG - Iter 99/500 - Loss: -1.208
+DEBUG:my_logger:Iter 99/500 - Loss: -1.208
+2024-09-01 19:23:02,347 - DEBUG - Iter 132/500 - Loss: -1.227
+DEBUG:my_logger:Iter 132/500 - Loss: -1.227
+2024-09-01 19:23:02,353 - INFO - Early cut off at epoch 131 with loss of -1.2270386219024658
+INFO:my_logger:Early cut off at epoch 131 with loss of -1.2270386219024658
+2024-09-01 19:23:02,851 - INFO - NLL: -1.0906; RMSE: 0.2196; NMSE: 1.0870
+INFO:my_logger:NLL: -1.0906; RMSE: 0.2196; NMSE: 1.0870
+2024-09-01 19:23:02,861 - INFO - FOLD 9
+INFO:my_logger:FOLD 9
+2024-09-01 19:23:02,873 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-01 19:23:02,899 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 19:23:19,596 - DEBUG - Iter 33/500 - Loss: -0.689
+DEBUG:my_logger:Iter 33/500 - Loss: -0.689
+2024-09-01 19:23:45,011 - DEBUG - Iter 66/500 - Loss: -1.142
+DEBUG:my_logger:Iter 66/500 - Loss: -1.142
+2024-09-01 19:24:10,402 - DEBUG - Iter 99/500 - Loss: -1.226
+DEBUG:my_logger:Iter 99/500 - Loss: -1.226
+2024-09-01 19:24:36,165 - DEBUG - Iter 132/500 - Loss: -1.245
+DEBUG:my_logger:Iter 132/500 - Loss: -1.245
+2024-09-01 19:24:36,169 - INFO - Early cut off at epoch 131 with loss of -1.2454557418823242
+INFO:my_logger:Early cut off at epoch 131 with loss of -1.2454557418823242
+2024-09-01 19:24:36,541 - INFO - NLL: -0.8050; RMSE: 0.2529; NMSE: 1.3519
+INFO:my_logger:NLL: -0.8050; RMSE: 0.2529; NMSE: 1.3519
+2024-09-01 19:24:36,555 - INFO - FOLD 10
+INFO:my_logger:FOLD 10
+2024-09-01 19:24:36,570 - INFO - training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+INFO:my_logger:training starts for model <class '__main__.Linear_Model_Of_Corregionalization'> with kernel <class '__main__.K_MS_with_Feat_Scaling'>; lr: 0.18; step_size:33; gamma:0.35
+2024-09-01 19:24:36,591 - DEBUG - Completed
+DEBUG:my_logger:Completed
+--------------------------------
+X_train_tensor shape: torch.Size([56, 1085])
+y_train_tensor shape: torch.Size([56, 10])
+X_train_tensor shape: torch.Size([6, 1085])
+y_train_tensor shape: torch.Size([6, 10])
+2024-09-01 19:24:53,893 - DEBUG - Iter 33/500 - Loss: -0.768
+DEBUG:my_logger:Iter 33/500 - Loss: -0.768
+2024-09-01 19:25:21,848 - DEBUG - Iter 66/500 - Loss: -1.176
+DEBUG:my_logger:Iter 66/500 - Loss: -1.176
+2024-09-01 19:25:49,794 - DEBUG - Iter 99/500 - Loss: -1.252
+DEBUG:my_logger:Iter 99/500 - Loss: -1.252
+2024-09-01 19:26:17,825 - DEBUG - Iter 132/500 - Loss: -1.270
+DEBUG:my_logger:Iter 132/500 - Loss: -1.270
+2024-09-01 19:26:17,830 - INFO - Early cut off at epoch 131 with loss of -1.269618034362793
+INFO:my_logger:Early cut off at epoch 131 with loss of -1.269618034362793
+2024-09-01 19:26:18,299 - INFO - NLL: -0.5673; RMSE: 0.2704; NMSE: 1.3135
+INFO:my_logger:NLL: -0.5673; RMSE: 0.2704; NMSE: 1.3135
