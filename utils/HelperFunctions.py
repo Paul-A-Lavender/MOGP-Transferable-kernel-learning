@@ -272,3 +272,25 @@ def run_test(X_train_tensor,y_train_tensor,X_test_tensor,y_test_tensor,model,ker
 
     shadowLogger(logger,"INFO",f'NLL: {nll:.4f}; RMSE: {rmse:.4f}; NMSE: {nmse:.4f}')
     return m,nll
+
+def get_dataset_path(name):
+    paths={
+        "TOY":{'X':"data/X_df_toy.pkl",'Y':"data/y_df_toy.pkl",'D':None},
+        "FULL_SHOTS":{'X':"data/full_shots_Shikonin/X_df.pkl",'Y':"data/full_shots_Shikonin/y_df.pkl",'D':"data/full_shots_Shikonin/X_domain_info.pkl"},
+        "2_SHOTS":{'X':"data/2_shots/X_df.pkl",'Y':"data/2_shots/y_df.pkl",'D':"data/2_shots/X_domain_info.pkl"},
+        "8_SHOTS":{'X':"data/8_shots/X_df.pkl",'Y':"data/8_shots/y_df.pkl",'D':"data/8_shots/X_domain_info.pkl"}   
+    }
+    
+    try:
+        return paths[name]['X'],paths[name]['Y'],paths[name]['D']
+    except:
+        print(f"Invalid Dataset Name!({name})")
+        return
+
+def grid_search(X_train_tensor,y_train_tensor,X_test_tensor,y_test_tensor,param_grid,Global): 
+    param_combinations = list(product(*param_grid.values()))
+    for each_param in param_combinations:
+        Global.lr=each_param[2]
+        Global.gamma=each_param[3]
+        Global.STEP_SIZE=each_param[4]
+        run_test(X_train_tensor,y_train_tensor,X_test_tensor,y_test_tensor,model=each_param[0],kernel=each_param[1],config=Global)

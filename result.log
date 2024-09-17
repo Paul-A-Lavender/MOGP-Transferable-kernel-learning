@@ -1,0 +1,3 @@
+2024-09-16 21:23:47,407 - INFO - --------------------------------
+2024-09-16 21:23:47,408 - INFO - FOLD 1
+2024-09-16 21:23:47,420 - INFO - training starts for model <class 'utils.Models.Linear_Model_Of_Corregionalization'> with kernel <class 'utils.Kernels.K_Alpha_Beta'>; lr: 0.69; step_size:33; gamma:0.2
