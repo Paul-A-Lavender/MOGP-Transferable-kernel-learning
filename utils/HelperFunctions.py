@@ -213,8 +213,8 @@ def shadowLogger(logger,level,msg):
         logger.debug(msg)
 
 
-def run_test(X_train_tensor,y_train_tensor,X_test_tensor,y_test_tensor,model,kernel,config,logger=None):
-    shadowLogger(logger,"INFO",f'training starts for model {str(model)} with kernel {str(kernel)}; lr: {config.lr}; step_size:{config.STEP_SIZE}; gamma:{config.gamma}')
+def run_test(X_train_tensor,y_train_tensor,X_test_tensor,y_test_tensor,model,kernel,config,result=None):
+    shadowLogger(result,"INFO",f'training starts for model {str(model)} with kernel {str(kernel)}; lr: {config.lr}; step_size:{config.STEP_SIZE}; gamma:{config.gamma}')
     likelihood = gpytorch.likelihoods.MultitaskGaussianLikelihood(num_tasks=config.NUM_CONC)
 
     m = model(X_train_tensor, y_train_tensor, likelihood,kernel,config)
@@ -234,7 +234,6 @@ def run_test(X_train_tensor,y_train_tensor,X_test_tensor,y_test_tensor,model,ker
     avg_loss=0
     this_loss=0
     for i in range(training_iterations):
-        # try:
             optimizer.zero_grad()
             output = m(X_train_tensor)
             loss = -mll(output, y_train_tensor)
@@ -246,17 +245,14 @@ def run_test(X_train_tensor,y_train_tensor,X_test_tensor,y_test_tensor,model,ker
             scheduler.step()  # 更新学习率
             
             if i%STEP_SIZE==STEP_SIZE-1:
-                shadowLogger(logger,"DEBUG"'Iter %d/%d - Loss: %.3f' % (i + 1, training_iterations, loss.item()))
+                shadowLogger(result,"DEBUG"'Iter %d/%d - Loss: %.3f' % (i + 1, training_iterations, loss.item()))
                 avg_loss=avg_loss/STEP_SIZE
                 if abs((this_loss-avg_loss)/avg_loss)<0.01 or ((this_loss-avg_loss)/avg_loss>0.30 and i>250):
-                    shadowLogger(logger,"INFO",f'Early cut off at epoch {i} with loss of {this_loss }')
+                    shadowLogger(result,"INFO",f'Early cut off at epoch {i} with loss of {this_loss }')
                     break
                         
                 avg_loss=0
-                    
-        # except Exception as e:
-        #     logger.error(f"发生了一个异常: {e}")
-        #     continue
+
         
     m.eval()
     likelihood.eval()
@@ -287,10 +283,14 @@ def get_dataset_path(name):
         print(f"Invalid Dataset Name!({name})")
         return
 
-def grid_search(X_train_tensor,y_train_tensor,X_test_tensor,y_test_tensor,param_grid,Global): 
+def grid_search(X_train_tensor,y_train_tensor,X_test_tensor,y_test_tensor,param_grid,Global,result=None,error=None): 
     param_combinations = list(product(*param_grid.values()))
     for each_param in param_combinations:
         Global.lr=each_param[2]
         Global.gamma=each_param[3]
         Global.STEP_SIZE=each_param[4]
-        run_test(X_train_tensor,y_train_tensor,X_test_tensor,y_test_tensor,model=each_param[0],kernel=each_param[1],config=Global)
+        try:
+            run_test(X_train_tensor,y_train_tensor,X_test_tensor,y_test_tensor,model=each_param[0],kernel=each_param[1],config=Global,result=result)             
+        except Exception as e:
+            shadowLogger(error,"ERROR",f'Error Occured at parameters combination lr={Global.lr}; gamma={Global.gamma}; STEP_SIZE={Global.STEP_SIZE} with error:{e}')
+            continue    
